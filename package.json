@@ -5,11 +5,12 @@
   "description": "ConteXtube core: five-layer context for AI agents and readers",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "node scripts/migrate.mjs && next build",
     "start": "next start",
     "migrate": "node scripts/migrate.mjs",
     "seed": "node scripts/seed.mjs",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "build:app": "next build"
   },
   "engines": {
     "node": ">=20"

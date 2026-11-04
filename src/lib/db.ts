@@ -4,7 +4,7 @@ import pg from "pg";
 const globalForPg = globalThis as unknown as { pgPool?: pg.Pool };
 
 function makePool() {
-  const url = process.env.DATABASE_URL;
+  const url = process.env.DATABASE_URL ?? process.env.POSTGRES_URL;
   if (!url) throw new Error("DATABASE_URL is not set");
   const local = /localhost|127\.0\.0\.1/.test(url);
   return new pg.Pool({
