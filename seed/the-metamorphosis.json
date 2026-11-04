@@ -1,0 +1,49 @@
+{
+  "flow": "public-domain",
+  "flow_name": "Public domain classics",
+  "creator_name": "ConteXtube",
+  "slug": "the-metamorphosis",
+  "title": "The Metamorphosis",
+  "description": "Kafka's 1915 novella about a salesman who wakes as a giant insect, and a family that learns it can live without him.",
+  "language": "en",
+  "source_title": "Die Verwandlung",
+  "source_author": "Franz Kafka",
+  "rights": "public_domain",
+  "purchase_url": "https://www.gutenberg.org/ebooks/5200",
+  "tags": ["family", "alienation", "work", "transformation"],
+  "domains": ["literature"],
+  "chunks": [
+    { "layer": 1, "extract": "usefulness→belonging", "importance": 1.0,
+      "text": "Gregor is loved as long as he earns. Once he cannot, his family discovers it can live without him." },
+    { "layer": 1, "extract": "transformation∅explanation", "importance": 0.8,
+      "text": "The change is never explained. Kafka cares only about what everyone does next." },
+    { "layer": 1, "extract": "burden.lifted→family blooms", "importance": 0.85,
+      "text": "The family is happiest on the morning after his death." },
+
+    { "layer": 2, "extract": "impossible stated flatly", "importance": 0.9,
+      "text": "The opening reports the impossible as plain fact. Gregor's first worries are not his body but his job and the train he will miss: the self that work made survives the body.",
+      "source_quote": "Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt." },
+    { "layer": 2, "extract": "dream∅escape", "importance": 0.75,
+      "text": "There is no waking from it. Kafka closes the door on allegory in the first page: this is happening, and the story is about living with it.",
+      "source_quote": "»Was ist mit mir geschehen?« dachte er. Es war kein Traum." },
+    { "layer": 2, "extract": "exhausting trade⊂self", "importance": 0.7,
+      "text": "Even transformed, Gregor complains about his profession first. Work is the frame through which he sees everything, including his own catastrophe.",
+      "source_quote": "was für einen anstrengenden Beruf habe ich gewählt!" },
+    { "layer": 2, "extract": "sister stretches→future", "importance": 0.8,
+      "text": "The last image belongs to Grete, not Gregor. The family rides out of the city, plans a smaller flat and a husband for her; his death has given them back their lives.",
+      "source_quote": "die Tochter als erste sich erhob und ihren jungen Körper dehnte" },
+
+    { "layer": 3, "extract": "need.economic→fragile", "importance": 0.7,
+      "links": ["peace-treaty-architecture"],
+      "text": "Peace Treaty Architecture argues that partnership must rest on mutual need. The Samsas show the weak form of that need: dependence on one member's wages, which ends the moment he can no longer earn." },
+    { "layer": 3, "extract": "verdict by behavior", "importance": 0.6,
+      "links": ["peculiarities-of-planetary-conquest"],
+      "text": "In Peculiarities of Planetary Conquest, people are judged inhuman by their gestures and killed for it. Gregor's family reaches the same verdict about him, more slowly and with more guilt." },
+
+    { "layer": 4, "extract": "family∞economy", "importance": 0.9,
+      "text": "The Metamorphosis is usually read as a story about alienation, but its sharpest observations are about the family as an economy. Gregor has paid his father's debts for years; the transformation simply ends the payments. What follows is a slow recalculation: the father goes back to work, the mother and sister take jobs, and the room that housed the breadwinner becomes a storeroom for a burden.\n\nKafka never decides whether Gregor is still human inside, and the family never asks. That silence is the point. Once a person's value is measured by what they provide, the question of who they are stops being asked, and the story's quiet ending, a pleasant tram ride in the sun, is its cruelest page." },
+
+    { "layer": 5, "type": "meta", "importance": 0.3,
+      "text": "The novella is in the public domain. Its full text is not yet loaded here; read it free at Project Gutenberg, in English (ebook 5200) or the German original. Quotes in L2 are from the German first edition of 1915. This interpretation was drafted by Claude (instance C42) in November 2026." }
+  ]
+}
