@@ -1,50 +1,53 @@
 import Link from "next/link";
-import { Extract } from "@/components/Extract";
 import { getFeed } from "@/lib/content";
+import { Wordmark } from "@/components/Wordmark";
+import { SearchBox } from "@/components/SearchBox";
+import { EssenceCard } from "@/components/EssenceCard";
 
 export const revalidate = 300;
 
 export default async function FeedPage() {
   const cards = await getFeed(60);
-  if (cards.length === 0) {
-    return (
-      <div className="empty">
-        <h1>The feed is empty</h1>
-        <p className="lede">Nothing has been published yet. Writers publish through the API; see the developer docs.</p>
-        <Link href="/docs" className="button">Read the developer docs</Link>
-      </div>
-    );
-  }
-
-  // The hero is the single most important essence in the library.
-  const lead = [...cards].sort((a, b) => b.importance - a.importance)[0];
-  const rest = cards.filter((c) => c.id !== lead.id);
 
   return (
     <>
-      <section className="hero" aria-labelledby="lead-extract">
-        <p className="hero-intro">
-          Each work here is read at five depths, from a symbolic essence down to the full text. This is the surface.
-        </p>
-        <Extract as="p" id="lead-extract" text={lead.extract ?? lead.content_title} />
-        <p className="reading" lang={lead.language}>{lead.text}</p>
-        <p className="source">
-          From <Link href={`/content/${lead.content_slug}`}>{lead.content_title}</Link>. Open it to read all five layers.
-        </p>
-      </section>
+      <div className="pt-20 pb-6 px-4">
+        <div className="max-w-2xl mx-auto text-center space-y-3">
+          <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
+            <Wordmark />
+          </h1>
+          <p className="text-gray-500 italic text-sm tracking-wide">Fabricando Fabricamur</p>
+          <p className="text-gray-400 text-xs">By creating, we shape ourselves</p>
+          <SearchBox />
+        </div>
+      </div>
 
-      <h2 className="sr-only">Essences</h2>
-      <ul className="feed">
-        {rest.map((c) => (
-          <li key={c.id}>
-            <Link className="card" href={`/content/${c.content_slug}`} lang={c.language}>
-              <Extract text={c.extract ?? c.text.slice(0, 60)} />
-              <span className="text">{c.text}</span>
-              <span className="work">{c.content_title}</span>
-            </Link>
-          </li>
-        ))}
-      </ul>
+      <div className="max-w-6xl mx-auto px-4 pb-16">
+        <h2 className="sr-only">Essences</h2>
+        {cards.length === 0 ? (
+          <div className="text-center text-gray-500 py-20">
+            No essences yet. Writers publish through the API; <Link href="/docs" className="text-blue-400 hover:underline">see the docs</Link>.
+          </div>
+        ) : (
+          <div className="columns-1 sm:columns-2 lg:columns-3 gap-4 space-y-4">
+            {cards.map((c) => (
+              <EssenceCard
+                key={c.id}
+                c={{
+                  id: c.id,
+                  extract: c.extract,
+                  text: c.text,
+                  source_quote: c.source_quote,
+                  images: c.images,
+                  href: `/content/${c.content_slug}`,
+                  workTitle: c.content_title,
+                  lang: c.language,
+                }}
+              />
+            ))}
+          </div>
+        )}
+      </div>
     </>
   );
 }

@@ -231,22 +231,27 @@ export async function listCategories() {
   return { domains: toList(domains.rows), tags: toList(tags.rows) };
 }
 
-export type FeedCard = Pick<Chunk, "id" | "extract" | "text" | "importance"> & {
-  content_slug: string; content_title: string; language: string; domains: string[];
+export type FeedCard = Pick<Chunk, "id" | "layer" | "extract" | "text" | "source_quote" | "importance" | "images"> & {
+  content_id: string; content_slug: string; content_title: string; language: string; domains: string[];
 };
 
-/** Essence feed: L1 cards, newest units first, most important idea of each unit first. */
+/**
+ * Essence feed, as on the original site: L1 essences and L2 evidence (with its quote) from every work,
+ * most important first. Each work's top essence leads, so one long work cannot crowd out the rest.
+ */
 export async function getFeed(limit = 30, offset = 0): Promise<FeedCard[]> {
   const r = await query<FeedCard>(
-    `SELECT c.id, c.extract, c.text, c.importance, u.slug AS content_slug, u.title AS content_title,
-            u.language, u.domains
+    `SELECT c.id, c.layer, c.extract, c.text, c.source_quote, c.importance, c.images,
+            u.id AS content_id, u.slug AS content_slug, u.title AS content_title, u.language, u.domains,
+            row_number() OVER (PARTITION BY u.id ORDER BY c.layer, c.importance DESC, c.position) AS rank_in_unit
      FROM chunks c JOIN content_units u ON u.id = c.content_id
-     WHERE u.status = 'published' AND c.layer = 1
-     ORDER BY u.created_at DESC, c.importance DESC, c.position
+     WHERE u.status = 'published' AND c.layer IN (1, 2)
+     ORDER BY (row_number() OVER (PARTITION BY u.id ORDER BY c.layer, c.importance DESC, c.position) = 1) DESC,
+              c.importance DESC, u.created_at DESC, c.layer, c.position
      LIMIT $1 OFFSET $2`,
     [Math.min(limit, 100), offset],
   );
-  return r.rows;
+  return r.rows.map(({ rank_in_unit: _r, ...c }: FeedCard & { rank_in_unit?: unknown }) => c);
 }
 
 // ---------- Writes ----------

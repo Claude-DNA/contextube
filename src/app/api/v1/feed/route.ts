@@ -3,5 +3,17 @@ import { getFeed } from "@/lib/content";
 
 export const GET = handle(async (req) => {
   const p = req.nextUrl.searchParams;
-  return json({ cards: await getFeed(intParam(p.get("limit"), 30), intParam(p.get("offset"), 0)) });
+  const cards = await getFeed(intParam(p.get("limit"), 30), intParam(p.get("offset"), 0));
+  // `essences` keeps the February response shape; `cards` is the flat v1 shape.
+  const essences = cards.map((c) => ({
+    id: c.id,
+    layer: c.layer,
+    extract: c.extract,
+    text: c.text,
+    sourceQuote: c.source_quote,
+    importance: c.importance,
+    image: Array.isArray(c.images) && typeof c.images[0] === "string" ? c.images[0] : null,
+    content: { id: c.content_id, slug: c.content_slug, title: c.content_title },
+  }));
+  return json({ essences, cards });
 });
