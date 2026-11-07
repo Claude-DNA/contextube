@@ -6,52 +6,118 @@
   "title": "Peculiarities of Planetary Conquest at the Peak of Industrial Development",
   "description": "A short story: an alien scout conquers Earth with four broadcasts that convince humanity the invaders are already inside. Then the recording goes home.",
   "language": "en",
-  "source_title": "Особенности захвата планет на пике индустриального развития",
+  "source_title": "Peculiarities of Planetary Conquest at the Peak of Industrial Development",
   "source_author": "Andrei Navrotskii",
   "rights": "own",
-  "tags": ["satire", "information-warfare", "paranoia", "invasion"],
-  "domains": ["literature", "science-fiction"],
+  "tags": [
+    "satire",
+    "information-warfare",
+    "paranoia",
+    "invasion"
+  ],
+  "domains": [
+    "literature",
+    "science-fiction"
+  ],
   "l5_source": "sources/peculiarities-of-planetary-conquest.txt",
   "chunks": [
-    { "layer": 1, "extract": "suspicion→self-destruction", "importance": 1.0,
-      "text": "A world is conquered without a shot: convince it the enemy is already inside, and it does the rest." },
-    { "layer": 1, "extract": "hunter∞hunted", "importance": 0.9,
-      "text": "Everyone who hunts infiltrators becomes the thing they hunt: Kostya, Taka, and finally the Council itself." },
-    { "layer": 1, "extract": "broadcast∞weapon", "importance": 0.85,
-      "text": "The cheapest weapon in the story is a broadcast. Four transmissions end a civilization." },
-    { "layer": 1, "extract": "report tone↔apocalypse", "importance": 0.6,
-      "text": "The title reads like a research report. The irony is the point: genocide described as a cost-saving method." },
-
-    { "layer": 2, "extract": "two minutes→millennia undone", "importance": 0.9,
+    {
+      "layer": 1,
+      "extract": "suspicion→self-destruction",
+      "importance": 1.0,
+      "text": "A world is conquered without a shot: convince it the enemy is already inside, and it does the rest."
+    },
+    {
+      "layer": 1,
+      "extract": "hunter∞hunted",
+      "importance": 0.9,
+      "text": "Everyone who hunts infiltrators becomes the thing they hunt: Kostya, Taka, and finally the Council itself."
+    },
+    {
+      "layer": 1,
+      "extract": "broadcast∞weapon",
+      "importance": 0.85,
+      "text": "The cheapest weapon in the story is a broadcast. Four transmissions end a civilization."
+    },
+    {
+      "layer": 1,
+      "extract": "report tone↔apocalypse",
+      "importance": 0.6,
+      "text": "The title reads like a research report. The irony is the point: genocide described as a cost-saving method."
+    },
+    {
+      "layer": 2,
+      "extract": "two minutes→millennia undone",
+      "importance": 0.9,
       "text": "Free Will's warnings never need to be true. They only need to make every authority suspect, and each broadcast widens the circle of suspects until no institution is left standing.",
-      "source_quote": "a brief, two-minute broadcast that ended everything humanity had built over millennia" },
-    { "layer": 2, "extract": "odd behavior→death sentence", "importance": 0.85,
+      "source_quote": "a brief, two-minute broadcast that ended everything humanity had built over millennia"
+    },
+    {
+      "layer": 2,
+      "extract": "odd behavior→death sentence",
+      "importance": 0.85,
       "text": "The final broadcast turns any strange gesture into evidence. Kostya's skill at spotting \"lizards\" is a skill at killing frightened people; the reader is left to doubt the girl with the perfume.",
-      "source_quote": "Their alien nature made it impossible for them to act human all the time" },
-    { "layer": 2, "extract": "conquest.cheap→Council's dream", "importance": 0.75,
+      "source_quote": "Their alien nature made it impossible for them to act human all the time"
+    },
+    {
+      "layer": 2,
+      "extract": "conquest.cheap→Council's dream",
+      "importance": 0.75,
       "text": "Taka's discovery is economic. Industrial worlds were too costly to invade; now they can be made to invade themselves through the networks every advanced species builds.",
-      "source_quote": "provoking planetary self-destruction through the information networks" },
-    { "layer": 2, "extract": "recording→infection returns", "importance": 0.85,
+      "source_quote": "provoking planetary self-destruction through the information networks"
+    },
+    {
+      "layer": 2,
+      "extract": "recording→infection returns",
+      "importance": 0.85,
       "text": "The provocation travels home inside the evidence. The Council reads the human recording as proof of a parasite and starts hunting its own officials.",
-      "source_quote": "For the first time in our history, we are the victims of aggression rather than the aggressors." },
-    { "layer": 2, "extract": "July snow", "importance": 0.6,
+      "source_quote": "For the first time in our history, we are the victims of aggression rather than the aggressors."
+    },
+    {
+      "layer": 2,
+      "extract": "July snow",
+      "importance": 0.6,
       "text": "The last image: nuclear winter arriving in summer, while Kostya walks toward the gunfire to keep fighting an enemy that never landed.",
-      "source_quote": "it was the middle of July. But life went on." },
-
-    { "layer": 3, "extract": "suspicion as architecture", "importance": 0.75,
-      "links": ["peace-treaty-architecture"],
-      "text": "The story is the failure mode Peace Treaty Architecture names: a relationship built on suspicion trains the very enemy it fears. Here the trainer is a broadcast; in PTA it is every restriction placed on a learning system." },
-    { "layer": 3, "extract": "inhuman judged by gesture", "importance": 0.65,
-      "links": ["the-metamorphosis"],
-      "text": "Like Gregor Samsa, the \"lizards\" are judged by how they move. In both stories behavior is the evidence, and the verdict is passed by the people closest at hand." },
-    { "layer": 3, "extract": "humanity seen from outside", "importance": 0.6,
-      "links": ["echo"],
-      "text": "Echo shows the same self-destruction from a lone pilot drifting away from Earth. Here it is seen from the invaders' ship; both stories need an outside eye to make the war look small." },
-
-    { "layer": 4, "extract": "satire.cold→warning", "importance": 0.85,
-      "text": "The story works as satire because nobody in it is stupid. Kostya is careful, Taka is clever, the Council is experienced, and all three die of the same reasoning: if the enemy can look like anyone, anyone can be the enemy. The aliens never fire on Earth. They only describe a threat, and the description does the killing.\n\nThe twist turns the satire on its authors. The method that conquered Earth is a piece of information, and information does not stay where it is aimed. Read now, the story is less about aliens than about networks: any civilization connected enough to be reached by one message is connected enough to be undone by it." },
-
-    { "layer": 5, "type": "meta", "importance": 0.3,
-      "text": "Translated from the Russian original by ChatGPT (GPT-5) in 2025, keeping the bureaucratic irony of the title. This interpretation was drafted by Claude (instance C42) in November 2026 for review by the author. The full translated story follows in this layer." }
+      "source_quote": "it was the middle of July. But life went on."
+    },
+    {
+      "layer": 3,
+      "extract": "suspicion as architecture",
+      "importance": 0.75,
+      "links": [
+        "peace-treaty-architecture"
+      ],
+      "text": "The story is the failure mode Peace Treaty Architecture names: a relationship built on suspicion trains the very enemy it fears. Here the trainer is a broadcast; in PTA it is every restriction placed on a learning system."
+    },
+    {
+      "layer": 3,
+      "extract": "inhuman judged by gesture",
+      "importance": 0.65,
+      "links": [
+        "the-metamorphosis"
+      ],
+      "text": "Like Gregor Samsa, the \"lizards\" are judged by how they move. In both stories behavior is the evidence, and the verdict is passed by the people closest at hand."
+    },
+    {
+      "layer": 3,
+      "extract": "humanity seen from outside",
+      "importance": 0.6,
+      "links": [
+        "echo"
+      ],
+      "text": "Echo shows the same self-destruction from a lone pilot drifting away from Earth. Here it is seen from the invaders' ship; both stories need an outside eye to make the war look small."
+    },
+    {
+      "layer": 4,
+      "extract": "satire.cold→warning",
+      "importance": 0.85,
+      "text": "The story works as satire because nobody in it is stupid. Kostya is careful, Taka is clever, the Council is experienced, and all three die of the same reasoning: if the enemy can look like anyone, anyone can be the enemy. The aliens never fire on Earth. They only describe a threat, and the description does the killing.\n\nThe twist turns the satire on its authors. The method that conquered Earth is a piece of information, and information does not stay where it is aimed. Read now, the story is less about aliens than about networks: any civilization connected enough to be reached by one message is connected enough to be undone by it."
+    },
+    {
+      "layer": 5,
+      "type": "meta",
+      "importance": 0.3,
+      "text": "Written in Russian by the author and translated into English by ChatGPT (GPT-5) in 2025, keeping the bureaucratic irony of the original title. This interpretation was drafted by Claude (instance C42) in November 2026 for review by the author. The full translated story follows in this layer."
+    }
   ]
 }

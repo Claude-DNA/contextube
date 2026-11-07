@@ -66,8 +66,8 @@ curl "${site}/api/v1/content/peace-treaty-architecture/layer/1"`}</code></pre>
       <pre><code>{`{
   "flow": "andrei-navrotskii",
   "slug": "echo",
-  "title": "Echo",
-  "language": "ru",
+  "title": "Shards: Echo",
+  "language": "en",
   "rights": "own",
   "tags": ["space", "war"],
   "domains": ["literature"],
