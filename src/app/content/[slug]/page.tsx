@@ -5,6 +5,8 @@ import { getContent, getAllChunks, type Chunk } from "@/lib/content";
 import { LAYERS } from "@/lib/layers";
 import { Extract } from "@/components/Extract";
 import { EssenceCard } from "@/components/EssenceCard";
+import { Picture } from "@/components/Picture";
+import { firstImage, type Img } from "@/lib/images";
 
 export const revalidate = 300;
 
@@ -14,7 +16,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const unit = await getContent(slug);
   if (!unit) return { title: "Not found" };
-  return { title: unit.title, description: unit.essence[0]?.text ?? unit.description };
+  return {
+    title: unit.title,
+    description: unit.essence[0]?.text ?? unit.description,
+    openGraph: unit.cover ? { images: [{ url: unit.cover.url, alt: unit.cover.alt }] } : undefined,
+  };
 }
 
 const RIGHTS: Record<string, string> = {
@@ -25,8 +31,11 @@ const RIGHTS: Record<string, string> = {
 
 function Connection({ c }: { c: Chunk }) {
   const links = Array.isArray(c.metadata?.links) ? (c.metadata.links as string[]) : [];
+  const img = firstImage(c.images, c.extract ?? "");
   return (
-    <article className="bg-gray-900/60 border border-gray-800 rounded-2xl p-5 space-y-3">
+    <article className="bg-gray-900/60 border border-gray-800 rounded-2xl overflow-hidden">
+      {img && <Picture img={img} className="w-full aspect-[16/9] object-cover" />}
+      <div className="p-5 space-y-3">
       {c.extract && <Extract text={c.extract} className="extract block text-xs font-semibold text-blue-400 uppercase tracking-wide" />}
       <p className="text-gray-100 leading-relaxed">{c.text}</p>
       {links.length > 0 && (
@@ -42,6 +51,7 @@ function Connection({ c }: { c: Chunk }) {
           ))}
         </p>
       )}
+      </div>
     </article>
   );
 }
@@ -53,6 +63,10 @@ export default async function ContentPage({ params }: Props) {
   const chunks = await getAllChunks(unit.id);
   const byLayer = (n: number) => chunks.filter((c) => c.layer === n);
   const tokensOf = (list: Chunk[]) => list.reduce((s, c) => s + c.tokens, 0);
+  const credits = new Map<string, Img>();
+  for (const img of [unit.cover, ...chunks.map((c) => firstImage(c.images))]) {
+    if (img?.credit && !credits.has(img.url)) credits.set(img.url, img);
+  }
   const card = (c: Chunk) => ({ id: c.id, extract: c.extract, text: c.text, source_quote: c.source_quote, images: c.images, href: `#${c.id}` });
 
   return (
@@ -62,7 +76,8 @@ export default async function ContentPage({ params }: Props) {
           ← Back to Explore
         </Link>
 
-        <header className="mt-6 mb-10 space-y-4">
+        <div className={`mt-6 mb-10 ${unit.cover ? "flex flex-col-reverse gap-6 md:grid md:grid-cols-[3fr_2fr] md:gap-10 md:items-center" : ""}`}>
+        <header className="space-y-4">
           <h1 className="text-3xl md:text-5xl font-bold tracking-tight leading-tight">{unit.title}</h1>
           {unit.description && <p className="text-lg text-gray-400 max-w-3xl leading-relaxed">{unit.description}</p>}
           <p className="flex flex-wrap gap-x-4 gap-y-1 text-sm text-gray-500" lang="en">
@@ -92,6 +107,11 @@ export default async function ContentPage({ params }: Props) {
             </ul>
           )}
         </header>
+        {unit.cover && (
+          <Picture img={unit.cover} eager
+            className="block max-w-full w-auto max-h-72 md:max-h-[26rem] mx-auto md:mr-0 rounded-2xl border border-gray-800" />
+        )}
+        </div>
 
         <nav aria-label="Layers" lang="en" className="mb-14">
           <div className="grid grid-cols-2 sm:grid-cols-5 gap-2">
@@ -135,20 +155,32 @@ export default async function ContentPage({ params }: Props) {
                 <div className="grid gap-4 md:grid-cols-2">{list.map((c) => <div key={c.id} id={c.id}><Connection c={c} /></div>)}</div>
               ) : l.n === 4 ? (
                 <div className="space-y-4">
-                  {list.map((c) => (
-                    <article key={c.id} id={c.id} className="bg-gray-900/60 border border-gray-800 rounded-2xl p-6 md:p-8 space-y-4">
-                      {c.extract && <Extract text={c.extract} className="extract block text-xs font-semibold text-amber-400 uppercase tracking-wide" />}
-                      {c.text.split(/\n\s*\n/).map((p, i) => (
-                        <p key={i} className="text-gray-200 text-lg leading-relaxed max-w-3xl">{p}</p>
-                      ))}
-                    </article>
-                  ))}
+                  {list.map((c) => {
+                    const img = firstImage(c.images, c.extract ?? "");
+                    return (
+                      <article key={c.id} id={c.id} className={`bg-gray-900/60 border border-gray-800 rounded-2xl overflow-hidden ${img ? "md:grid md:grid-cols-[2fr_3fr]" : ""}`}>
+                        {img && <Picture img={img} className="w-full h-full max-h-96 md:max-h-none aspect-[4/3] md:aspect-auto object-cover" />}
+                        <div className="p-6 md:p-8 space-y-4">
+                          {c.extract && <Extract text={c.extract} className="extract block text-xs font-semibold text-amber-400 uppercase tracking-wide" />}
+                          {c.text.split(/\n\s*\n/).map((p, i) => (
+                            <p key={i} className="text-gray-200 text-lg leading-relaxed max-w-3xl">{p}</p>
+                          ))}
+                        </div>
+                      </article>
+                    );
+                  })}
                 </div>
               ) : l.n === 5 ? (
                 <div className="space-y-6">
-                  {notes.map((c) => (
-                    <p key={c.id} id={c.id} className="text-sm text-gray-400 bg-gray-900/60 border border-gray-800 rounded-xl p-4 leading-relaxed" lang="en">{c.text}</p>
-                  ))}
+                  {notes.map((c) => {
+                    const img = firstImage(c.images, c.extract ?? "");
+                    return (
+                      <div key={c.id} id={c.id} className="bg-gray-900/60 border border-gray-800 rounded-xl overflow-hidden sm:flex" lang="en">
+                        {img && <Picture img={img} className="w-full sm:w-56 aspect-[16/9] sm:aspect-auto object-cover shrink-0" />}
+                        <p className="text-sm text-gray-400 p-4 leading-relaxed">{c.text}</p>
+                      </div>
+                    );
+                  })}
                   {narrative.length > 0 && (
                     <div className="bg-gray-900/30 border border-gray-800 rounded-2xl px-6 py-8 md:px-12">
                       <div className="max-w-3xl mx-auto space-y-5">
@@ -178,6 +210,19 @@ export default async function ContentPage({ params }: Props) {
           <p className="mb-12 text-gray-300" lang="en">
             <a href={unit.purchase_url} rel="noopener" className="text-amber-400 hover:text-amber-300 font-medium">Buy {unit.source_title ?? "the work"} →</a> to read the full text.
           </p>
+        )}
+
+        {credits.size > 0 && (
+          <details className="mb-8 text-xs text-gray-500" lang="en">
+            <summary className="cursor-pointer hover:text-gray-300">Image credits ({credits.size})</summary>
+            <ul className="mt-3 space-y-1 columns-1 md:columns-2">
+              {[...credits.values()].map((img) => (
+                <li key={img.url} className="break-inside-avoid">
+                  {img.source ? <a href={img.source} rel="noopener" className="hover:text-blue-400">{img.credit}</a> : img.credit}
+                </li>
+              ))}
+            </ul>
+          </details>
         )}
 
         <div className="bg-gray-900 border border-gray-800 rounded-lg p-5 text-sm text-gray-400" lang="en">

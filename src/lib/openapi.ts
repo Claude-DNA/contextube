@@ -1,4 +1,20 @@
 /** OpenAPI 3.1 for ConteXtube v1. Paths and fields from February 2026 are kept; additions are optional. */
+const imageSchema = {
+  oneOf: [
+    { type: "string", description: "Image URL" },
+    {
+      type: "object",
+      required: ["url"],
+      properties: {
+        url: { type: "string" },
+        alt: { type: "string", description: "What the image shows" },
+        credit: { type: "string", description: "Title, maker, date and collection" },
+        source: { type: "string", description: "Page the image came from" },
+      },
+    },
+  ],
+};
+
 export function openapi(site: string) {
   const unitRef = { $ref: "#/components/schemas/ContentUnit" };
   const chunkRef = { $ref: "#/components/schemas/Chunk" };
@@ -156,6 +172,7 @@ export function openapi(site: string) {
             source_author: { type: ["string", "null"] },
             rights: { type: "string", enum: ["own", "public_domain", "copyrighted"] },
             purchase_url: { type: ["string", "null"] },
+            cover: { oneOf: [imageSchema, { type: "null" }] },
           },
         },
         Chunk: {
@@ -181,6 +198,8 @@ export function openapi(site: string) {
             flow: { type: "string", description: "Flow slug; created if new" },
             flow_name: { type: "string" },
             creator_name: { type: "string" },
+            flow_cover: imageSchema,
+            cover: imageSchema,
             title: { type: "string" },
             description: { type: "string" },
             language: { type: "string", default: "en" },
@@ -205,7 +224,7 @@ export function openapi(site: string) {
                   importance: { type: "number", minimum: 0, maximum: 1, default: 0.5 },
                   tags: { type: "array", items: { type: "string" } },
                   links: { type: "array", items: { type: "string" }, description: "Slugs of connected works (L3)" },
-                  images: { type: "array" },
+                  images: { type: "array", maxItems: 5, items: imageSchema },
                   metadata: { type: "object" },
                 },
               },

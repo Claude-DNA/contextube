@@ -1,4 +1,5 @@
 import { z } from "zod";
+import { imageInput } from "./images";
 
 /** Words in an extract, not counting a trailing quote or location tag. */
 export function extractWordCount(extract: string): number {
@@ -25,7 +26,7 @@ const chunkSchema = z
     source_quote: z.string().trim().optional().nullable(),
     importance: z.number().min(0).max(1).optional(),
     tags: z.array(z.string()).optional(),
-    images: z.array(z.unknown()).optional(),
+    images: z.array(imageInput).max(5).optional(),
     metadata: z.record(z.string(), z.unknown()).optional(),
     standalone: z.boolean().optional(),
     links: z.array(z.string()).optional(),
@@ -43,6 +44,8 @@ export const publishSchema = z.object({
   flow: z.string().trim().optional(),
   flow_name: z.string().trim().optional(),
   creator_name: z.string().trim().optional(),
+  flow_cover: imageInput.optional(),
+  cover: imageInput.optional(),
   slug: z.string().trim().regex(/^[a-z0-9-]+$/, "slug may hold only a-z, 0-9 and -").optional(),
   title: z.string().trim().min(1, "title is required"),
   description: z.string().optional().default(""),

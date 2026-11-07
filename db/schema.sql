@@ -32,6 +32,10 @@ CREATE TABLE IF NOT EXISTS content_units (
   updated_at    timestamptz NOT NULL DEFAULT now()
 );
 
+-- Covers: one image per flow and per work, as {url, alt, credit, source}.
+ALTER TABLE flows ADD COLUMN IF NOT EXISTS cover jsonb;
+ALTER TABLE content_units ADD COLUMN IF NOT EXISTS cover jsonb;
+
 CREATE TABLE IF NOT EXISTS chunks (
   id           uuid PRIMARY KEY DEFAULT gen_random_uuid(),
   content_id   uuid NOT NULL REFERENCES content_units(id) ON DELETE CASCADE,

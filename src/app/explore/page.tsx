@@ -1,6 +1,8 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { listContent, listCategories, searchContent } from "@/lib/content";
+import { listContent, listCategories, searchContent, listFlows } from "@/lib/content";
+import { WorkCard } from "@/components/WorkCard";
+import { Picture } from "@/components/Picture";
 import { SearchBox } from "@/components/SearchBox";
 import { Extract } from "@/components/Extract";
 
@@ -20,10 +22,12 @@ const pill = (active: boolean, kind: "domain" | "tag") =>
 
 export default async function ExplorePage({ searchParams }: Props) {
   const { q, tag, domain } = await searchParams;
-  const [categories, hits, list] = await Promise.all([
+  const filtered = Boolean(q || tag || domain);
+  const [categories, hits, list, flows] = await Promise.all([
     listCategories(),
     q ? searchContent(q, 25) : Promise.resolve(null),
     q ? Promise.resolve(null) : listContent({ tag, domain, limit: 100 }),
+    filtered ? Promise.resolve([]) : listFlows(),
   ]);
 
   const heading = q ? `Results for “${q}”` : domain ? `Domain: ${domain}` : tag ? `Tag: ${tag}` : "All works";
@@ -61,9 +65,27 @@ export default async function ExplorePage({ searchParams }: Props) {
         )}
       </div>
 
+      {flows.length > 0 && (
+        <section aria-labelledby="h-flows" className="mb-12">
+          <h2 id="h-flows" className="text-xl font-bold mb-4 border-b border-gray-800 pb-3">Flows</h2>
+          <div className="grid gap-4 sm:grid-cols-2">
+            {flows.map((f) => (
+              <Link key={f.id} href={`/flow/${f.slug}`}
+                className="group relative block overflow-hidden rounded-2xl border border-gray-800 hover:border-gray-600 transition-colors bg-gray-900">
+                {f.cover && <Picture img={f.cover} className="w-full aspect-[16/9] object-cover opacity-70 group-hover:opacity-85 transition-opacity" />}
+                <div className={f.cover ? "absolute inset-x-0 bottom-0 p-5 bg-gradient-to-t from-black/90 via-black/60 to-transparent" : "p-5"}>
+                  <h3 className="font-bold text-lg text-white">{f.name}</h3>
+                  <p className="text-sm text-gray-300">{f.content_count} {f.content_count === 1 ? "work" : "works"}{f.description ? ` · ${f.description}` : ""}</p>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
+
       <div className="flex items-baseline justify-between gap-4 mb-4 border-b border-gray-800 pb-3">
         <h2 className="text-xl font-bold">{heading}</h2>
-        {(q || tag || domain) && <Link href="/explore" className="text-sm text-blue-400 hover:text-blue-300">Show all works</Link>}
+        {filtered && <Link href="/explore" className="text-sm text-blue-400 hover:text-blue-300">Show all works</Link>}
       </div>
 
       {hits && (hits.length === 0 ? (
@@ -91,17 +113,7 @@ export default async function ExplorePage({ searchParams }: Props) {
         <p className="text-center text-gray-500 py-20">No works here yet.</p>
       ) : (
         <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-          {list.content.map((u) => (
-            <Link key={u.id} href={`/content/${u.slug}`} lang={u.language}
-              className="flex flex-col bg-gray-900/60 border border-gray-800 rounded-2xl p-5 space-y-3 hover:border-gray-600 transition-all">
-              <h3 className="font-bold text-lg text-white">{u.title}</h3>
-              <p className="text-sm text-gray-400 line-clamp-3 flex-1">{u.description}</p>
-              <div className="flex items-center justify-between pt-2 border-t border-gray-800/50 text-xs" lang="en">
-                <span className="text-gray-500">{u.source_author ?? u.flow_name} · <span className="text-amber-400">{u.total_tokens.toLocaleString("en")}</span> tokens</span>
-                <span className="text-blue-400">Explore →</span>
-              </div>
-            </Link>
-          ))}
+          {list.content.map((u) => <WorkCard key={u.id} u={u} />)}
         </div>
       ))}
     </div>

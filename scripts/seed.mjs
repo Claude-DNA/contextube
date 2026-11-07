@@ -1,6 +1,7 @@
 // Publishes every unit in seed/*.json through the public publish API.
 // Usage: BASE_URL=https://contextube.ai PUBLISH_KEY=... npm run seed
 // A unit with "l5_source" gets its source text split into L5 narrative passages in reading order.
+// seed/images.json supplies covers and one image per idea or meta chunk; its /images/... paths become absolute URLs.
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
 
@@ -30,11 +31,22 @@ function passages(text) {
   return out;
 }
 
-const files = (await readdir(seedDir)).filter((f) => f.endsWith(".json")).sort();
+const files = (await readdir(seedDir)).filter((f) => f.endsWith(".json") && f !== "images.json").sort();
+const images = JSON.parse(await readFile(join(seedDir, "images.json"), "utf8"));
+const absolute = (img) => (img ? { ...img, url: img.url.startsWith("/") ? `${base}${img.url}` : img.url } : undefined);
 let failed = 0;
 
 for (const file of files) {
   const unit = JSON.parse(await readFile(join(seedDir, file), "utf8"));
+  const art = images.works[unit.slug];
+  if (art) {
+    unit.cover = absolute(art.cover);
+    unit.chunks.forEach((c, i) => {
+      if (art.chunks[i]) c.images = [absolute(art.chunks[i])];
+    });
+  }
+  if (unit.flow && images.flows[unit.flow]) unit.flow_cover = absolute(images.flows[unit.flow]);
+
   if (unit.l5_source) {
     const text = await readFile(join(seedDir, unit.l5_source), "utf8");
     for (const p of passages(text)) unit.chunks.push({ layer: 5, type: "narrative", text: p, importance: 0.2 });

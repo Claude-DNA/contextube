@@ -1,5 +1,6 @@
 import { handle, json, intParam } from "@/lib/http";
 import { getFeed } from "@/lib/content";
+import { firstImage } from "@/lib/images";
 
 export const GET = handle(async (req) => {
   const p = req.nextUrl.searchParams;
@@ -12,7 +13,7 @@ export const GET = handle(async (req) => {
     text: c.text,
     sourceQuote: c.source_quote,
     importance: c.importance,
-    image: Array.isArray(c.images) && typeof c.images[0] === "string" ? c.images[0] : null,
+    image: firstImage(c.images)?.url ?? null,
     content: { id: c.content_id, slug: c.content_slug, title: c.content_title },
   }));
   return json({ essences, cards });

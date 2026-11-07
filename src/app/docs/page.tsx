@@ -62,6 +62,8 @@ curl "${site}/api/v1/content/peace-treaty-architecture/layer/1"`}</Pre>
           Writers send the whole unit as JSON with <Code>Authorization: Bearer &lt;publish key&gt;</Code>. Sending the same slug again replaces every chunk.
           The server counts tokens. Validation rejects the whole unit if a layer is outside 1 to 5, an extract runs past 8 words,
           an L2 chunk has no <Code>source_quote</Code>, or a copyrighted work carries L5 source text. All content is published in English.
+          Images are optional: <Code>cover</Code> for the work, <Code>flow_cover</Code> for its flow, and up to five <Code>images</Code> per chunk,
+          each a URL or an object with <Code>url</Code>, <Code>alt</Code>, <Code>credit</Code> and <Code>source</Code>.
         </p>
         <Pre>{`{
   "flow": "andrei-navrotskii",
@@ -71,8 +73,10 @@ curl "${site}/api/v1/content/peace-treaty-architecture/layer/1"`}</Pre>
   "rights": "own",
   "tags": ["space", "war"],
   "domains": ["literature"],
+  "cover": { "url": "https://…/cover.webp", "alt": "…", "credit": "…" },
   "chunks": [
-    { "layer": 1, "extract": "human cry∞silence of creation", "text": "...", "importance": 0.9 },
+    { "layer": 1, "extract": "human cry∞silence of creation", "text": "...", "importance": 0.9,
+      "images": [{ "url": "https://…/l1.webp", "alt": "…", "credit": "…", "source": "https://…" }] },
     { "layer": 2, "extract": "Universe.amazed", "text": "...", "source_quote": "..." }
   ]
 }`}</Pre>

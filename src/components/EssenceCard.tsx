@@ -1,5 +1,7 @@
 import Link from "next/link";
 import { Extract } from "./Extract";
+import { Picture } from "./Picture";
+import { firstImage } from "@/lib/images";
 
 export type CardData = {
   id: string;
@@ -14,7 +16,7 @@ export type CardData = {
 
 /** The original essence card: image, blue extract, text, quote, then the work and "Explore →". */
 export function EssenceCard({ c, showFooter = true }: { c: CardData; showFooter?: boolean }) {
-  const image = Array.isArray(c.images) && typeof c.images[0] === "string" ? (c.images[0] as string) : null;
+  const image = firstImage(c.images, c.extract ?? "");
   return (
     <article
       lang={c.lang}
@@ -22,8 +24,7 @@ export function EssenceCard({ c, showFooter = true }: { c: CardData; showFooter?
     >
       {image && (
         <Link href={c.href} tabIndex={-1}>
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={image} alt="" loading="lazy" className="w-full object-cover group-hover:opacity-90 transition-opacity" />
+          <Picture img={image} className="w-full aspect-[4/3] object-cover group-hover:opacity-90 transition-opacity" />
         </Link>
       )}
       <div className="p-5 space-y-3">

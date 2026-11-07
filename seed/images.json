@@ -1,0 +1,382 @@
+{
+ "flows": {
+  "andrei-navrotskii": {
+   "url": "/images/flows/andrei-navrotskii.webp",
+   "alt": "A small eighteenth-century French writing desk with porcelain plaques",
+   "credit": "Small writing desk (bonheur-du-jour), Martin Carlin, ca. 1768. The Metropolitan Museum of Art, public domain.",
+   "source": "https://www.metmuseum.org/art/collection/search/231856"
+  },
+  "public-domain": {
+   "url": "/images/flows/public-domain.webp",
+   "alt": "A photograph of old books stacked in an uneven pile",
+   "credit": "[Still Life with Books], William Notman, 1870s–80s. The Metropolitan Museum of Art, public domain.",
+   "source": "https://www.metmuseum.org/art/collection/search/286175"
+  }
+ },
+ "works": {
+  "echo": {
+   "cover": {
+    "url": "/images/echo/cover.webp",
+    "alt": "Earth as a single faint point of light inside a band of scattered sunlight, seen by Voyager 1 from six billion kilometres away",
+    "credit": "Pale Blue Dot Revisited, NASA / JPL, 2020. Public domain.",
+    "source": "https://images.nasa.gov/details/PIA23645"
+   },
+   "chunks": [
+    {
+     "url": "/images/echo/00.webp",
+     "alt": "Thousands of distant galaxies scattered across the black of the Hubble Deep Field",
+     "credit": "Hubble Deep Field Image Unveils Myriad Galaxies Back to the Beginning of Time, NASA / STScI (Hubble), 1996. Public domain.",
+     "source": "https://images.nasa.gov/details/PIA12110"
+    },
+    {
+     "url": "/images/echo/01.webp",
+     "alt": "The gold-plated Voyager record and its cover beside the spacecraft",
+     "credit": "Voyager Special Cargo: The Golden Record, NASA / JPL, 2011. Public domain.",
+     "source": "https://images.nasa.gov/details/PIA14113"
+    },
+    {
+     "url": "/images/echo/02.webp",
+     "alt": "A rocket waiting on its launch pad at dawn, under a violet sky",
+     "credit": "Early morning view of Pad B, KSC with ASTP Apollo/Saturn space vehicle on pad, NASA / JSC, 1975. Public domain.",
+     "source": "https://images.nasa.gov/details/S75-28386"
+    },
+    {
+     "url": "/images/echo/03.webp",
+     "alt": "A tiny Earth rising over the grey horizon of the Moon",
+     "credit": "Lunar Satellite Snaps Image of Earth, NASA / GSFC, 2017. Public domain.",
+     "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001129"
+    },
+    {
+     "url": "/images/echo/04.webp",
+     "alt": "Earth as a pale dot beneath the edge of Saturn's rings, photographed by Cassini",
+     "credit": "Cassini’s Pale Blue Dot, NASA / GSFC, 2017. Public domain.",
+     "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000381"
+    },
+    {
+     "url": "/images/echo/05.webp",
+     "alt": "Diagram of Voyager 1 looking back on the planets' orbits from far outside them",
+     "credit": "Voyager 1 Perspective for Family Portrait, NASA / JPL, 2020. Public domain.",
+     "source": "https://images.nasa.gov/details/PIA23681"
+    },
+    {
+     "url": "/images/echo/06.webp",
+     "alt": "A technician's gloved hands placing a golden phonograph record into its case",
+     "credit": "Voyager: Preparing the Golden Record, NASA / JPL, 2017. Public domain.",
+     "source": "https://images.nasa.gov/details/PIA21741"
+    },
+    {
+     "url": "/images/echo/07.webp",
+     "alt": "Half of Earth lit against black space, photographed by Galileo as it flew away",
+     "credit": "Earth - Departing Image by Galileo, NASA / JPL, 1996. Public domain.",
+     "source": "https://images.nasa.gov/details/PIA00232"
+    },
+    {
+     "url": "/images/echo/08.webp",
+     "alt": "The original Pale Blue Dot: Earth as a speck in a streak of light",
+     "credit": "Solar System Portrait - Earth as Pale Blue Dot, NASA / JPL, 1996. Public domain.",
+     "source": "https://images.nasa.gov/details/PIA00452"
+    },
+    {
+     "url": "/images/echo/09.webp",
+     "alt": "A giant dish antenna of NASA's Deep Space Network under a blue sky",
+     "credit": "Tracks of a Giant, NASA / JPL, 2010. Public domain.",
+     "source": "https://images.nasa.gov/details/PIA13277"
+    },
+    {
+     "url": "/images/echo/10.webp",
+     "alt": "A thin crescent of Earth alone in black space",
+     "credit": "Artemis Era Earthrise, NASA / JSC, 2026. Public domain.",
+     "source": "https://images.nasa.gov/details/art002e009280b"
+    },
+    {
+     "url": "/images/echo/11.webp",
+     "alt": "The Voyager golden records shown beside the spacecraft before launch",
+     "credit": "Mementos of Earth, NASA / JPL, 2013. Public domain.",
+     "source": "https://images.nasa.gov/details/PIA17035"
+    }
+   ]
+  },
+  "peace-treaty-architecture": {
+   "cover": {
+    "url": "/images/peace-treaty-architecture/cover.webp",
+    "alt": "A photograph of the Roman triumphal arch at Orange, its stones holding each other up",
+    "credit": "[Roman Arch at Orange], Edouard Baldus, 1851. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/266282"
+   },
+   "chunks": [
+    {
+     "url": "/images/peace-treaty-architecture/00.webp",
+     "alt": "A gold pocket watch with an automaton figure on its dial",
+     "credit": "Watch with automaton, Charles Clay, ca. 1720. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/187200"
+    },
+    {
+     "url": "/images/peace-treaty-architecture/01.webp",
+     "alt": "Rembrandt's etching of a family travelling through the night by the light of one lantern",
+     "credit": "The Flight into Egypt: a Night Piece, Rembrandt (Rembrandt van Rijn), 1651. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/354629"
+    },
+    {
+     "url": "/images/peace-treaty-architecture/02.webp",
+     "alt": "A child reaching up toward a bird in a hanging cage",
+     "credit": "Child Reaching for a Caged Bird, Gabriel Huquier, ca. 1742. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/391154"
+    },
+    {
+     "url": "/images/peace-treaty-architecture/03.webp",
+     "alt": "A porcelain scent bottle shaped as a face wearing a black mask",
+     "credit": "Janus-headed bottle, Chelsea Porcelain Manufactory, ca. 1760. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/203478"
+    },
+    {
+     "url": "/images/peace-treaty-architecture/04.webp",
+     "alt": "Edward Hicks's Peaceable Kingdom: a child among lions, a leopard, a lamb and an ox",
+     "credit": "Peaceable Kingdom, Edward Hicks, ca. 1830–32. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/11081"
+    },
+    {
+     "url": "/images/peace-treaty-architecture/05.webp",
+     "alt": "Odilon Redon's lithograph of an empty dark room lit by one window",
+     "credit": "Day (Le Jour), from the series, Dreams (Songes), plate VI, Odilon Redon, 1891. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/359761"
+    },
+    {
+     "url": "/images/peace-treaty-architecture/06.webp",
+     "alt": "Odilon Redon's charcoal of a head sealed inside armour",
+     "credit": "Armor, Odilon Redon, 1891. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/339671"
+    },
+    {
+     "url": "/images/peace-treaty-architecture/07.webp",
+     "alt": "Thomas Eakins's painting of two men at a chess game, a third watching",
+     "credit": "The Chess Players, Thomas Eakins, 1876. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/10813"
+    },
+    {
+     "url": "/images/peace-treaty-architecture/08.webp",
+     "alt": "A silver candle snuffer shaped like a small cone",
+     "credit": "Candle extinguisher, Charles-François Lautran, 1766–67. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/200216"
+    },
+    {
+     "url": "/images/peace-treaty-architecture/09.webp",
+     "alt": "An etching of Mercury lulling the many-eyed watchman Argus to sleep",
+     "credit": "Mercury and Argus, Simone Cantarini, ca. 1630–48. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/341517"
+    },
+    {
+     "url": "/images/peace-treaty-architecture/10.webp",
+     "alt": "A woman resting idle in a sunlit corner by a window",
+     "credit": "A Cosey Corner, Frank Millet, 1884. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/11583"
+    },
+    {
+     "url": "/images/peace-treaty-architecture/11.webp",
+     "alt": "A long stone bridge of many arches across a river near Fuzhou",
+     "credit": "Nine Arch Bridge outside Foochow, John Thomson, ca. 1869. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/289363"
+    },
+    {
+     "url": "/images/peace-treaty-architecture/12.webp",
+     "alt": "Piranesi's imaginary prison: prisoners on a platform in a vast vaulted hall",
+     "credit": "Prisoners on a Projecting Platform, from \"Carceri d'invenzione\" (Imaginary Prisons), Giovanni Battista Piranesi, ca. 1749–50. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/362671"
+    },
+    {
+     "url": "/images/peace-treaty-architecture/13.webp",
+     "alt": "An ancient Egyptian box with a rhinoceros beetle on its lid",
+     "credit": "Rhinoceros beetle box, Unknown maker, 332–30 BCE. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/545202"
+    },
+    {
+     "url": "/images/peace-treaty-architecture/14.webp",
+     "alt": "Hollar's etching of crowds in a city square at the proclamation of the Peace of Westphalia, 1648",
+     "credit": "Proclamation of the Treaty of Munster, Wenceslaus Hollar, 1648. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/361519"
+    },
+    {
+     "url": "/images/peace-treaty-architecture/15.webp",
+     "alt": "A brass balance scale with two empty pans",
+     "credit": "Balance scale, Henry N. Hooper and Company, ca. 1845–55. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/629597"
+    },
+    {
+     "url": "/images/peace-treaty-architecture/16.webp",
+     "alt": "An allegorical print of Wisdom and Truth",
+     "credit": "Allegories of Wisdom and Truth Leading the Infant Arts to America, John James Barralet, after 1796. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/396389"
+    }
+   ]
+  },
+  "peculiarities-of-planetary-conquest": {
+   "cover": {
+    "url": "/images/peculiarities-of-planetary-conquest/cover.webp",
+    "alt": "Piranesi's Drawbridge from the Imaginary Prisons: endless stairs, ropes and bridges",
+    "credit": "The Drawbridge, from \"Carceri d'invenzione\" (Imaginary Prisons), Giovanni Battista Piranesi, ca. 1749–50. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/337060"
+   },
+   "chunks": [
+    {
+     "url": "/images/peculiarities-of-planetary-conquest/00.webp",
+     "alt": "Goya's The Sleep of Reason Produces Monsters: a man asleep at a desk while owls and bats gather",
+     "credit": "Plate 43 from \"Los Caprichos\": The sleep of reason produces monsters (El sueño de la razon produce monstruos), Goya (Francisco de Goya y Lucientes), 1799. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/338473"
+    },
+    {
+     "url": "/images/peculiarities-of-planetary-conquest/01.webp",
+     "alt": "Goya's Out Hunting for Teeth: a woman reaching up to a hanged man at night",
+     "credit": "Plate 12 from \"Los Caprichos\": Out hunting for teeth (A caza de dientes), Goya (Francisco de Goya y Lucientes), 1799. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/378019"
+    },
+    {
+     "url": "/images/peculiarities-of-planetary-conquest/02.webp",
+     "alt": "A front page of the Paris newspaper Le Charivari",
+     "credit": "Will he be God, a table, or a basin?, from \"News of the day\", Honoré Daumier, April 12, 1869. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/756622"
+    },
+    {
+     "url": "/images/peculiarities-of-planetary-conquest/03.webp",
+     "alt": "Daumier's caricature of two officials in conversation",
+     "credit": "Monsieur, I am bound to advise you that they are in the process of verifying Monsieur and that this seems to be taking a curious turn, from \"News of the day\", Honoré Daumier, July 14, 1869. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/756777"
+    },
+    {
+     "url": "/images/peculiarities-of-planetary-conquest/04.webp",
+     "alt": "Hubert Robert's painting of great arches standing in ruins",
+     "credit": "Arches in Ruins, Hubert Robert, . The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/437472"
+    },
+    {
+     "url": "/images/peculiarities-of-planetary-conquest/05.webp",
+     "alt": "Goya's Even So He Cannot Make Her Out: a man peering at a veiled woman through an eyeglass",
+     "credit": "Plate 7 from \"Los Caprichos\": Even thus he cannot make her out (Ni asi la distingue), Goya (Francisco de Goya y Lucientes), 1799. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/360413"
+    },
+    {
+     "url": "/images/peculiarities-of-planetary-conquest/06.webp",
+     "alt": "Rowlandson's caricature Boney's Broken Bridge: Napoleon's plan to cross the Channel collapsing under him",
+     "credit": "Boneys Broken Bridge, Thomas Rowlandson, June 12, 1809. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/786160"
+    },
+    {
+     "url": "/images/peculiarities-of-planetary-conquest/07.webp",
+     "alt": "Goya's It Is Time: hooded figures waking in the dark",
+     "credit": "Plate 80 from \"Los Caprichos\": It is time (Ya es hora), Goya (Francisco de Goya y Lucientes), 1799. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/380711"
+    },
+    {
+     "url": "/images/peculiarities-of-planetary-conquest/08.webp",
+     "alt": "A Japanese ink painting of a bare landscape under snow",
+     "credit": "Snow Landscape, Hashimoto Gahō, ca. 1885–89. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/54646"
+    },
+    {
+     "url": "/images/peculiarities-of-planetary-conquest/09.webp",
+     "alt": "Piranesi's Round Tower from the Imaginary Prisons",
+     "credit": "The Round Tower, from \"Carceri d'invenzione\" (Imaginary Prisons), Giovanni Battista Piranesi, ca. 1749–50. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/337725"
+    },
+    {
+     "url": "/images/peculiarities-of-planetary-conquest/10.webp",
+     "alt": "A bronze sculpture of a lizard by Emmanuel Frémiet",
+     "credit": "Lizard, Emmanuel Frémiet, ca. 1887. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/212216"
+    },
+    {
+     "url": "/images/peculiarities-of-planetary-conquest/11.webp",
+     "alt": "Earth and the Moon together in black space, photographed by Galileo",
+     "credit": "The Earth & Moon, NASA / JPL, 1998. Public domain.",
+     "source": "https://images.nasa.gov/details/PIA00342"
+    },
+    {
+     "url": "/images/peculiarities-of-planetary-conquest/12.webp",
+     "alt": "Grandville's satirical drawing Mister Vulture",
+     "credit": "Mister Vulture, J. J. Grandville, 1840. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/821366"
+    },
+    {
+     "url": "/images/peculiarities-of-planetary-conquest/13.webp",
+     "alt": "A medal awarded to the Hammond Typewriter Company",
+     "credit": "Award to the Hammond Typewriter Company, Jules-Clément Chaplain, 1900. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/191106"
+    }
+   ]
+  },
+  "the-metamorphosis": {
+   "cover": {
+    "url": "/images/the-metamorphosis/cover.webp",
+    "alt": "A seventeenth-century drawing of a black beetle on bare paper",
+    "credit": "A Black Beetle, Vincent Laurensz van der Vinne, late 17th century. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/385467"
+   },
+   "chunks": [
+    {
+     "url": "/images/the-metamorphosis/00.webp",
+     "alt": "Hammershøi's dim interior: a figure reading alone at a table",
+     "credit": "Figure Reading at a Table in an Interior at Night, Vilhelm Hammershøi, ca. 1891. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/406969"
+    },
+    {
+     "url": "/images/the-metamorphosis/01.webp",
+     "alt": "Redouté's drawing of a stag beetle",
+     "credit": "A Stag Beetle, Pierre Joseph Redouté, . The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/385472"
+    },
+    {
+     "url": "/images/the-metamorphosis/02.webp",
+     "alt": "A family outing in the green country outside London",
+     "credit": "View of London with St. Paul’s in the distance: woman and children with a baby carriage, Julius Caesar Ibbetson, 1787. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/728489"
+    },
+    {
+     "url": "/images/the-metamorphosis/03.webp",
+     "alt": "Hammershøi's self-portrait: a man in a quiet room by a window",
+     "credit": "Self-Portrait at Spurveskjul, Vilhelm Hammershøi, 1911. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/698749"
+    },
+    {
+     "url": "/images/the-metamorphosis/04.webp",
+     "alt": "Hammershøi's Moonlight, Strandgade 30: an empty room with closed doors",
+     "credit": "Moonlight, Strandgade 30, Vilhelm Hammershøi, 1900–1906. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/441933"
+    },
+    {
+     "url": "/images/the-metamorphosis/05.webp",
+     "alt": "Daumier's Third-Class Carriage: tired travellers on a wooden bench",
+     "credit": "The Third-Class Carriage, Honoré Daumier, 1864. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/436095"
+    },
+    {
+     "url": "/images/the-metamorphosis/06.webp",
+     "alt": "Abbott Thayer's portrait of a young woman in white",
+     "credit": "Young Woman, Abbott H. Thayer, ca. 1898. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/12787"
+    },
+    {
+     "url": "/images/the-metamorphosis/07.webp",
+     "alt": "Petrus Christus's A Goldsmith in His Shop, weighing rings for a couple",
+     "credit": "A Goldsmith in his Shop, Petrus Christus, 1449. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/459052"
+    },
+    {
+     "url": "/images/the-metamorphosis/08.webp",
+     "alt": "Cézanne's still life of apples",
+     "credit": "Apples, Paul Cézanne, 1878–79. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/435866"
+    },
+    {
+     "url": "/images/the-metamorphosis/09.webp",
+     "alt": "An engraving of a family at work together around their house",
+     "credit": "Enoch and his family surrounding a meal table and holding their hands in a gesture of prayer; behind them is the open end of house; to the right a woman hands out bread to a child, young man, and old man, Johann Theodor de Bry, ca. 1580–1623. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/399690"
+    },
+    {
+     "url": "/images/the-metamorphosis/10.webp",
+     "alt": "Wenceslaus Hollar's panoramic view of Prague",
+     "credit": "Prague, from \"German Views\", Wenceslaus Hollar, 1652–77. The Metropolitan Museum of Art, public domain.",
+     "source": "https://www.metmuseum.org/art/collection/search/360666"
+    }
+   ]
+  }
+ }
+}

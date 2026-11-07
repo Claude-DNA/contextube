@@ -2,6 +2,7 @@ import { query, withTransaction } from "./db";
 import { chunkTokens } from "./tokens";
 import { slugify } from "./slug";
 import type { PublishInput } from "./validate";
+import { toImage, type Img } from "./images";
 
 // ---------- Shapes returned by every surface (REST, MCP, pages) ----------
 
@@ -21,6 +22,7 @@ export type ContentUnit = {
   source_author: string | null;
   rights: "own" | "public_domain" | "copyrighted";
   purchase_url: string | null;
+  cover: Img | null;
   created_at: string;
   updated_at: string;
 };
@@ -43,7 +45,7 @@ export type Chunk = {
 const UNIT_COLUMNS = `
   u.id, u.slug, u.title, u.description, f.name AS flow_name, f.slug AS flow_slug,
   u.chunk_count, u.total_tokens, u.tags, u.domains, u.language, u.source_title,
-  u.source_author, u.rights, u.purchase_url, u.created_at, u.updated_at`;
+  u.source_author, u.rights, u.purchase_url, u.cover, u.created_at, u.updated_at`;
 
 const CHUNK_COLUMNS = `
   c.id, c.layer, c.chunk_type, c.position, c.extract, c.text, c.source_quote,
@@ -199,8 +201,8 @@ export async function searchContent(q: string, limit = 10): Promise<SearchHit[]>
 }
 
 export async function listFlows() {
-  const r = await query<{ id: string; slug: string; name: string; creator_name: string | null; description: string | null; content_count: string }>(
-    `SELECT f.id, f.slug, f.name, f.creator_name, f.description,
+  const r = await query<{ id: string; slug: string; name: string; creator_name: string | null; description: string | null; cover: Img | null; content_count: string }>(
+    `SELECT f.id, f.slug, f.name, f.creator_name, f.description, f.cover,
             count(u.id) FILTER (WHERE u.status = 'published') AS content_count
      FROM flows f LEFT JOIN content_units u ON u.flow_id = f.id
      GROUP BY f.id ORDER BY f.name`,
@@ -209,8 +211,8 @@ export async function listFlows() {
 }
 
 export async function getFlow(slug: string) {
-  const r = await query<{ id: string; slug: string; name: string; creator_name: string | null; description: string | null }>(
-    `SELECT id, slug, name, creator_name, description FROM flows WHERE slug = $1`,
+  const r = await query<{ id: string; slug: string; name: string; creator_name: string | null; description: string | null; cover: Img | null }>(
+    `SELECT id, slug, name, creator_name, description, cover FROM flows WHERE slug = $1`,
     [slug],
   );
   return r.rows[0] ?? null;
@@ -270,7 +272,7 @@ export async function publishContent(input: PublishInput, writer: string) {
       source_quote: c.source_quote ?? null,
       importance: c.importance ?? 0.5,
       tags: c.tags ?? [],
-      images: c.images ?? [],
+      images: (c.images ?? []).map((x) => toImage(x, c.extract ?? "")).filter((x): x is Img => x !== null),
       metadata,
       tokens: chunkTokens({ extract: c.extract, text: c.text, source_quote: c.source_quote }),
       index: i,
@@ -290,12 +292,13 @@ export async function publishContent(input: PublishInput, writer: string) {
     let flowId: string | null = null;
     if (input.flow) {
       const flow = await db.query<{ id: string }>(
-        `INSERT INTO flows (slug, name, creator_name) VALUES ($1, $2, $3)
+        `INSERT INTO flows (slug, name, creator_name, cover) VALUES ($1, $2, $3, $5::jsonb)
          ON CONFLICT (slug) DO UPDATE SET
            name = COALESCE(NULLIF($4, ''), flows.name),
-           creator_name = COALESCE($3, flows.creator_name)
+           creator_name = COALESCE($3, flows.creator_name),
+           cover = COALESCE($5::jsonb, flows.cover)
          RETURNING id`,
-        [input.flow, input.flow_name ?? input.flow, input.creator_name ?? null, input.flow_name ?? ""],
+        [input.flow, input.flow_name ?? input.flow, input.creator_name ?? null, input.flow_name ?? "", jsonImage(input.flow_cover)],
       );
       flowId = flow.rows[0].id;
     }
@@ -303,20 +306,20 @@ export async function publishContent(input: PublishInput, writer: string) {
     const unit = await db.query<{ id: string; slug: string; created: boolean }>(
       `INSERT INTO content_units
          (flow_id, slug, title, description, language, tags, domains, source_title, source_author,
-          rights, purchase_url, status, chunk_count, total_tokens, published_by)
-       VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15)
+          rights, purchase_url, status, chunk_count, total_tokens, published_by, cover)
+       VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16::jsonb)
        ON CONFLICT (slug) DO UPDATE SET
          flow_id = EXCLUDED.flow_id, title = EXCLUDED.title, description = EXCLUDED.description,
          language = EXCLUDED.language, tags = EXCLUDED.tags, domains = EXCLUDED.domains,
          source_title = EXCLUDED.source_title, source_author = EXCLUDED.source_author,
          rights = EXCLUDED.rights, purchase_url = EXCLUDED.purchase_url, status = EXCLUDED.status,
          chunk_count = EXCLUDED.chunk_count, total_tokens = EXCLUDED.total_tokens,
-         published_by = EXCLUDED.published_by, updated_at = now()
+         published_by = EXCLUDED.published_by, cover = EXCLUDED.cover, updated_at = now()
        RETURNING id, slug, (xmax = 0) AS created`,
       [
         flowId, slug, input.title, input.description, input.language, input.tags, input.domains,
         input.source_title ?? null, input.source_author ?? null, input.rights, input.purchase_url ?? null,
-        input.status, prepared.length, totalTokens, writer,
+        input.status, prepared.length, totalTokens, writer, jsonImage(input.cover),
       ],
     );
     const { id, created } = unit.rows[0];
@@ -342,6 +345,12 @@ export async function publishContent(input: PublishInput, writer: string) {
 
     return { id, slug, created, chunk_count: prepared.length, total_tokens: totalTokens };
   });
+}
+
+/** Stores images as objects, whatever shape they arrived in. */
+function jsonImage(x: unknown): string | null {
+  const img = toImage(x);
+  return img ? JSON.stringify(img) : null;
 }
 
 export async function unpublishContent(slug: string): Promise<boolean> {
