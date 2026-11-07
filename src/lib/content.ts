@@ -258,6 +258,19 @@ export async function getFeed(limit = 30, offset = 0): Promise<FeedCard[]> {
 
 // ---------- Writes ----------
 
+/** Thrown when a writer tries to replace a work another writer published. */
+export class SlugTakenError extends Error {
+  constructor(public slug: string) {
+    super(`"${slug}" is already published by another writer.`);
+  }
+}
+
+/** Writers who may replace any work. Others may only replace their own. */
+function isEditor(writer: string): boolean {
+  const editors = (process.env.PUBLISH_EDITORS ?? "andrei,navigator,claude").split(",").map((s) => s.trim());
+  return editors.includes(writer);
+}
+
 export async function publishContent(input: PublishInput, writer: string) {
   const slug = input.slug ?? slugify(input.title);
   const prepared = input.chunks.map((c, i) => {
@@ -289,6 +302,13 @@ export async function publishContent(input: PublishInput, writer: string) {
   const totalTokens = prepared.reduce((s, c) => s + c.tokens, 0);
 
   return withTransaction(async (db) => {
+    const owner = await db.query<{ published_by: string | null }>(
+      `SELECT published_by FROM content_units WHERE slug = $1 FOR UPDATE`,
+      [slug],
+    );
+    const by = owner.rows[0]?.published_by;
+    if (owner.rows.length && by && by !== writer && !isEditor(writer)) throw new SlugTakenError(slug);
+
     let flowId: string | null = null;
     if (input.flow) {
       const flow = await db.query<{ id: string }>(

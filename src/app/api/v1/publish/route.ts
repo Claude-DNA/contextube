@@ -1,6 +1,6 @@
 import { revalidatePath } from "next/cache";
 import { handle, json, error, authorizeWriter, siteUrl } from "@/lib/http";
-import { publishContent } from "@/lib/content";
+import { publishContent, SlugTakenError } from "@/lib/content";
 import { publishSchema, formatZodError } from "@/lib/validate";
 
 export const maxDuration = 60;
@@ -21,7 +21,15 @@ export const POST = handle(async (req) => {
     return error(422, "invalid_content", "Content did not validate.", formatZodError(parsed.error));
   }
 
-  const r = await publishContent(parsed.data, writer);
+  let r;
+  try {
+    r = await publishContent(parsed.data, writer);
+  } catch (e) {
+    if (e instanceof SlugTakenError) {
+      return error(409, "slug_taken", `${e.message} Choose another title or send a different slug.`);
+    }
+    throw e;
+  }
   // Readers see the new work at once instead of after the 5-minute cache.
   revalidatePath("/");
   revalidatePath(`/content/${r.slug}`);
