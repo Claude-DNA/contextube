@@ -3,12 +3,13 @@ import { z } from "zod";
 import { rateLimit } from "@/lib/http";
 import { listContent, getContent, getLayer, searchContent, listFlows } from "@/lib/content";
 import { assemble, assembledToText } from "@/lib/assemble";
-import { layerName } from "@/lib/layers";
+import { layerName, LAYERS_INLINE } from "@/lib/layers";
 
 export const maxDuration = 60;
 
 const INSTRUCTIONS = `ConteXtube holds human-made interpretations of works (literature, essays, philosophy, film), each split into five layers of depth:
-L1 Abstract Associations (~50 tokens, symbolic extracts) · L2 Ideas + Evidence (claims with source quotes) · L3 Connections (cross-references) · L4 Summary + Commentary (editorial "so what") · L5 Full Narrative (source text or annotations).
+${LAYERS_INLINE}.
+L1 opens with a symbolic extract, L2 ideas carry source quotes, L3 links other works, L4 is the creator's interpretation, L5 is the source text or notes.
 Work in this order: search_content → get_content → get_layer with layer 1 → deeper layers, or assemble_context to fit a token budget.`;
 
 /** Every tool answers with readable text plus the same data as JSON. */

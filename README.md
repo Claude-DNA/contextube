@@ -21,10 +21,10 @@ All surfaces read through `src/lib/content.ts` and `src/lib/assemble.ts`, so an 
 | Layer | Name | Per chunk |
 | --- | --- | --- |
 | L1 | Abstract Associations | ~50 tokens, symbolic extract |
-| L2 | Ideas + Evidence | ~200 tokens, must carry `source_quote` |
-| L3 | Connections | ~150 tokens, `links` name other works |
-| L4 | Summary + Commentary | ~300 tokens |
-| L5 | Full Narrative | source text (own or public-domain works only) and meta notes |
+| L2 | Ideas & Evidence | ~200 tokens, must carry `source_quote` |
+| L3 | Connections | ~300 tokens, `links` name other works |
+| L4 | Synthesis | ~500 tokens |
+| L5 | Full Narrative & Meta | ~1000+ tokens; source text (own or public-domain works only) and meta notes |
 
 ## Run locally
 

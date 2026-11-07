@@ -1,6 +1,6 @@
 import { Fragment } from "react";
 
-const BREAK_AFTER = /([→↔∞⊂∅≠>.])/u;
+const BREAK_AFTER = /([→↔∞⊂∅≠=∴>.])/u;
 
 /** Renders an extract with line-break opportunities after its symbols, so it wraps between ideas, not inside words. */
 export function Extract({ text, className = "extract", as: Tag = "span", id }: {

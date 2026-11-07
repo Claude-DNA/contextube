@@ -21,7 +21,7 @@ export function Section({ title, children }: { title: string; children: React.Re
 }
 
 export function Code({ children }: { children: React.ReactNode }) {
-  return <code className="bg-gray-800 px-1.5 py-0.5 rounded text-sm text-blue-300">{children}</code>;
+  return <code className="bg-gray-800 px-1.5 py-0.5 rounded text-sm text-blue-300 break-words">{children}</code>;
 }
 
 export function Pre({ children }: { children: string }) {

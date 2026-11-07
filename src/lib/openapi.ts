@@ -48,7 +48,7 @@ export function openapi(site: string) {
         get: {
           operationId: "getLayer",
           summary: "Get all chunks for a specific layer",
-          description: "Layer 1: Abstract Associations. Layer 2: Ideas + Evidence. Layer 3: Connections. Layer 4: Summary + Commentary. Layer 5: Full Narrative.",
+          description: "Layer 1: Abstract Associations. Layer 2: Ideas & Evidence. Layer 3: Connections. Layer 4: Synthesis. Layer 5: Full Narrative & Meta.",
           parameters: [idParam, { name: "layer", in: "path", required: true, schema: { type: "integer", minimum: 1, maximum: 5 } }],
           responses: {
             "200": { description: "Chunks of the layer in reading order", content: { "application/json": { schema: { type: "object", properties: { chunks: { type: "array", items: chunkRef } } } } } },
@@ -199,7 +199,7 @@ export function openapi(site: string) {
                 properties: {
                   layer: { type: "integer", minimum: 1, maximum: 5 },
                   type: { type: "string", enum: ["idea", "narrative", "meta"] },
-                  extract: { type: "string", description: "2-8 words; symbols → ↔ ∞ ⊂ ∅ ." },
+                  extract: { type: "string", description: "2-8 words; symbols → ↔ = ∅ ∞ ∴ ⊂ ." },
                   text: { type: "string" },
                   source_quote: { type: "string", description: "Required for layer 2" },
                   importance: { type: "number", minimum: 0, maximum: 1, default: 0.5 },

@@ -348,3 +348,20 @@ export async function unpublishContent(slug: string): Promise<boolean> {
   const r = await query(`UPDATE content_units SET status = 'draft', updated_at = now() WHERE slug = $1`, [slug]);
   return (r.rowCount ?? 0) > 0;
 }
+
+export type TokenProfile = { slug: string; title: string; overview: number; evidence: number; source: number; total: number };
+
+/** Real token counts per work: the L1 overview, L1+L2, the L5 source, and everything. */
+export async function getTokenProfiles(): Promise<TokenProfile[]> {
+  const r = await query<{ slug: string; title: string; overview: string; evidence: string; source: string; total: string }>(
+    `SELECT u.slug, u.title,
+            coalesce(sum(c.tokens) FILTER (WHERE c.layer = 1), 0) AS overview,
+            coalesce(sum(c.tokens) FILTER (WHERE c.layer <= 2), 0) AS evidence,
+            coalesce(sum(c.tokens) FILTER (WHERE c.layer = 5 AND c.chunk_type = 'narrative'), 0) AS source,
+            coalesce(sum(c.tokens), 0) AS total
+       FROM content_units u JOIN chunks c ON c.content_id = u.id
+      WHERE u.status = 'published'
+      GROUP BY u.id ORDER BY u.title`,
+  );
+  return r.rows.map((x) => ({ slug: x.slug, title: x.title, overview: Number(x.overview), evidence: Number(x.evidence), source: Number(x.source), total: Number(x.total) }));
+}

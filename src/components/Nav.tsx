@@ -6,7 +6,7 @@ const LINKS = [
   { href: "/about", label: "About" },
   { href: "/how-it-works", label: "How It Works" },
   { href: "/docs", label: "Docs" },
-  { href: "/docs/mcp", label: "MCP" },
+  { href: "/for-agents", label: "For Agents" },
 ];
 
 export function Nav() {
@@ -56,6 +56,7 @@ export function Footer() {
         <Link href="/explore" className="text-gray-500 hover:text-white">Explore</Link>
         <Link href="/how-it-works" className="text-gray-500 hover:text-white">How It Works</Link>
         <Link href="/docs" className="text-gray-500 hover:text-white">API</Link>
+        <Link href="/for-agents" className="text-gray-500 hover:text-white">For Agents</Link>
         <Link href="/docs/mcp" className="text-gray-500 hover:text-white">MCP</Link>
         <a href="/llms.txt" className="text-gray-500 hover:text-white">llms.txt</a>
         <Link href="/about" className="text-gray-500 hover:text-white">About</Link>
