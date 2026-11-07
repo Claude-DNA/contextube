@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { listContent, listCategories, searchContent, listFlows } from "@/lib/content";
 import { WorkCard } from "@/components/WorkCard";
 import { Picture } from "@/components/Picture";
+import { NEW_FLOW_URL } from "@/lib/studio";
 import { SearchBox } from "@/components/SearchBox";
 import { Extract } from "@/components/Extract";
 
@@ -65,7 +66,7 @@ export default async function ExplorePage({ searchParams }: Props) {
         )}
       </div>
 
-      {flows.length > 0 && (
+      {!filtered && (
         <section aria-labelledby="h-flows" className="mb-12">
           <h2 id="h-flows" className="text-xl font-bold mb-4 border-b border-gray-800 pb-3">Flows</h2>
           <div className="grid gap-4 sm:grid-cols-2">
@@ -79,6 +80,13 @@ export default async function ExplorePage({ searchParams }: Props) {
                 </div>
               </Link>
             ))}
+            <a href={NEW_FLOW_URL}
+              className="group flex flex-col justify-center rounded-2xl border border-dashed border-gray-700 hover:border-amber-400/70 bg-gray-950 p-6 min-h-40 transition-colors">
+              <span className="text-lg font-bold text-white group-hover:text-amber-300 transition-colors">Create a new flow</span>
+              <span className="mt-1 text-sm text-gray-400">
+                Read a work your way and publish it here, layer by layer. You build it in Context Cloud Studio.
+              </span>
+            </a>
           </div>
         </section>
       )}

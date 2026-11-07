@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Wordmark } from "./Wordmark";
+import { NEW_FLOW_URL, STUDIO_URL } from "@/lib/studio";
 
 const LINKS = [
   { href: "/explore", label: "Explore" },
@@ -22,6 +23,9 @@ export function Nav() {
               {l.label}
             </Link>
           ))}
+          <a href={NEW_FLOW_URL} className="rounded-full border border-amber-400/60 px-3.5 py-1 text-amber-300 hover:bg-amber-400 hover:text-black transition-colors">
+            New flow
+          </a>
         </div>
         <details className="mobile-menu md:hidden">
           <summary className="p-2 text-gray-400 hover:text-white cursor-pointer" aria-label="Menu">
@@ -38,6 +42,9 @@ export function Nav() {
                 {l.label}
               </Link>
             ))}
+            <a href={NEW_FLOW_URL} className="block py-2.5 text-sm text-amber-300 hover:text-amber-200 transition-colors">
+              New flow in Context Cloud Studio
+            </a>
           </div>
         </details>
       </div>
@@ -59,6 +66,7 @@ export function Footer() {
         <Link href="/for-agents" className="text-gray-500 hover:text-white">For Agents</Link>
         <Link href="/docs/mcp" className="text-gray-500 hover:text-white">MCP</Link>
         <a href="/llms.txt" className="text-gray-500 hover:text-white">llms.txt</a>
+        <a href={STUDIO_URL} className="text-gray-500 hover:text-white">Context Cloud Studio</a>
         <Link href="/about" className="text-gray-500 hover:text-white">About</Link>
         <Link href="/privacy" className="text-gray-500 hover:text-white">Privacy</Link>
         <Link href="/terms" className="text-gray-500 hover:text-white">Terms</Link>
