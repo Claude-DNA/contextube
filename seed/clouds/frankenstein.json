@@ -1,0 +1,564 @@
+{
+ "slug": "frankenstein",
+ "title": "Frankenstein; or, The Modern Prometheus",
+ "description": "A young scientist gives life to a being he then abandons. Rejected by everyone, the creature learns to read, to reason and to hate, and demands from its maker the one thing he refuses: a companion.",
+ "genre": "Gothic science fiction",
+ "creator_name": "ConteXtube",
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "work": "frankenstein",
+ "rights": "public_domain",
+ "source_title": "Frankenstein; or, The Modern Prometheus (1831 edition)",
+ "source_author": "Mary Wollstonecraft Shelley",
+ "purchase_url": "https://www.gutenberg.org/ebooks/42324",
+ "cover": {
+  "url": "/images/frankenstein/creation.webp",
+  "alt": "The creature wakes on the floor among bones and books while Victor flees through the door",
+  "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
+  "source": "https://www.gutenberg.org/ebooks/42324"
+ },
+ "elements": [
+  {
+   "kind": "plot",
+   "title": "A ship in the ice",
+   "text": "The explorer Robert Walton, trapped in Arctic ice on his way to the Pole, takes aboard a half-frozen stranger who has been chasing a giant figure across the floes.",
+   "metadata": {
+    "act": "Walton's letters",
+    "act_number": 1,
+    "beat_number": 1,
+    "when": "main",
+    "source_quote": "He was soon borne away by the waves, and lost in darkness and distance."
+   },
+   "image": {
+    "url": "/images/frankenstein/nipped.webp",
+    "alt": "A ship crushed between towering blocks of ice",
+    "credit": "Nipped in the Ice, Currier & Ives, 1877–94. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/662043"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Lightning and the oak",
+   "text": "As a boy in Geneva, Victor watches lightning reduce an oak to ribbons, and turns from old alchemy to modern science.",
+   "metadata": {
+    "act": "Victor's story",
+    "act_number": 2,
+    "beat_number": 2,
+    "when": "main",
+    "source_quote": "on a sudden I beheld a stream of fire issue from an old and beautiful oak"
+   },
+   "image": {
+    "url": "/images/frankenstein/storm.webp",
+    "alt": "A storm darkening over a lake, a man and a boy waiting on the shore",
+    "credit": "Approaching Thunder Storm, Martin Johnson Heade, 1859. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/11050"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Departure for Ingolstadt",
+   "text": "His mother dies of scarlet fever; Victor leaves Elizabeth and his family for the university.",
+   "metadata": {
+    "act": "Victor's story",
+    "act_number": 2,
+    "beat_number": 3,
+    "when": "main",
+    "source_quote": "The day of my departure at length arrived."
+   },
+   "image": {
+    "url": "/images/frankenstein/departure.webp",
+    "alt": "Elizabeth holding Victor's hand at the door as he leaves for Ingolstadt, his face in his hand",
+    "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/42324"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The workshop of filthy creation",
+   "text": "For two years Victor builds a body from the dissecting room and the slaughter-house, in a cell at the top of his lodgings.",
+   "metadata": {
+    "act": "Victor's story",
+    "act_number": 2,
+    "beat_number": 4,
+    "when": "main",
+    "source_quote": "I kept my workshop of filthy creation"
+   },
+   "image": {
+    "url": "/images/frankenstein/galvanized.webp",
+    "alt": "A satirical print of a corpse sitting up in its coffin, jolted by galvanism",
+    "credit": "A Galvanized Corpse, Henry R. Robinson, 1836. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/389105"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "It breathed",
+   "text": "On a November night the creature opens its eyes. Victor flees, and the creature wanders out into the world alone.",
+   "metadata": {
+    "act": "Victor's story",
+    "act_number": 2,
+    "beat_number": 5,
+    "when": "main",
+    "source_quote": "I saw the dull yellow eye of the creature open; it breathed hard, and a convulsive motion agitated its limbs."
+   },
+   "image": {
+    "url": "/images/frankenstein/creation.webp",
+    "alt": "The creature wakes on the floor among bones and books while Victor flees through the door",
+    "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/42324"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "William and Justine",
+   "text": "Victor's little brother William is strangled near Geneva. The servant Justine is hanged for it; Victor knows the real killer and stays silent.",
+   "metadata": {
+    "act": "Victor's story",
+    "act_number": 2,
+    "beat_number": 6,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/frankenstein/geneva.webp",
+    "alt": "Lake Geneva with trees and boats in the foreground",
+    "credit": "View of Lake Geneva, Joseph Vernet, ca. 1750–1800. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/811924"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Meeting on the glacier",
+   "text": "On the Mer de Glace the creature confronts its maker and asks to be heard.",
+   "metadata": {
+    "act": "The creature's story",
+    "act_number": 3,
+    "beat_number": 7,
+    "when": "main",
+    "source_quote": "For some time I sat upon the rock that overlooks the sea of ice."
+   },
+   "image": {
+    "url": "/images/frankenstein/mer-de-glace.webp",
+    "alt": "The Mer de Glace glacier below the peaks of Chamonix, in mezzotint",
+    "credit": "Mêr de Glace, Valley of Chamouni-Savoy, Joseph Mallord William Turner, May 23, 1812. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/383023"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The cottagers",
+   "text": "Hidden in a hovel beside the De Lacey family's cottage, the creature learns speech and reading, and is driven away the day he shows himself.",
+   "metadata": {
+    "act": "The creature's story",
+    "act_number": 3,
+    "beat_number": 8,
+    "when": "main",
+    "source_quote": "I am malicious because I am miserable."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "A companion",
+   "text": "The creature asks for a female companion and promises to leave Europe forever. Victor agrees.",
+   "metadata": {
+    "act": "The creature's story",
+    "act_number": 3,
+    "beat_number": 9,
+    "when": "main",
+    "source_quote": "I am alone, and miserable; man will not associate with me"
+   },
+   "image": {
+    "url": "/images/frankenstein/mont-blanc.webp",
+    "alt": "The massif of Mont Blanc, its snowy peaks above a stony valley",
+    "credit": "View of the Massif of Mont Blanc, Jean-Antoine Linck, late 18th–19th century. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/373896"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The broken promise",
+   "text": "On a remote Orkney island Victor tears apart the half-finished companion while the creature watches through the window.",
+   "metadata": {
+    "act": "Destruction",
+    "act_number": 4,
+    "beat_number": 10,
+    "when": "main",
+    "source_quote": "You are my creator, but I am your master;--obey!"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The wedding-night",
+   "text": "The creature kills Victor's friend Clerval, then Elizabeth on her wedding night. Victor's father dies of grief.",
+   "metadata": {
+    "act": "Destruction",
+    "act_number": 4,
+    "beat_number": 11,
+    "when": "main",
+    "source_quote": "I shall be with you on your wedding-night."
+   },
+   "image": {
+    "url": "/images/frankenstein/storm.webp",
+    "alt": "A storm darkening over a lake, a man and a boy waiting on the shore",
+    "credit": "Approaching Thunder Storm, Martin Johnson Heade, 1859. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/11050"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Into the north",
+   "text": "Victor pursues the creature across Europe and Russia onto the Arctic ice, following the messages it leaves him.",
+   "metadata": {
+    "act": "Destruction",
+    "act_number": 4,
+    "beat_number": 12,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/frankenstein/arctic.webp",
+    "alt": "A ship among Arctic ice floes under a dark storm cloud",
+    "credit": "An Arctic Summer: Boring Through the Pack in Melville Bay, William Bradford, 1871. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/10207"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The creature at the deathbed",
+   "text": "Victor dies aboard Walton's ship. The creature comes to mourn him, then leaves on an ice raft to die.",
+   "metadata": {
+    "act": "Walton's letters",
+    "act_number": 5,
+    "beat_number": 13,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/frankenstein/nipped.webp",
+    "alt": "A ship crushed between towering blocks of ice",
+    "credit": "Nipped in the Ice, Currier & Ives, 1877–94. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/662043"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Victor Frankenstein",
+   "text": "A gifted young Genevan who masters the secret of life, then spends the rest of it fleeing the consequences.",
+   "metadata": {
+    "tags": [
+     "creator",
+     "scientist"
+    ],
+    "aliases": [],
+    "source_quote": "Life and death appeared to me ideal bounds, which I should first break through"
+   },
+   "image": {
+    "url": "/images/frankenstein/departure.webp",
+    "alt": "Elizabeth holding Victor's hand at the door as he leaves for Ingolstadt, his face in his hand",
+    "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/42324"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The creature",
+   "text": "Eight feet tall, made from the dead, gentle at first. Self-taught from Milton, Plutarch and Goethe, more eloquent than his maker, and never given a name.",
+   "metadata": {
+    "tags": [
+     "created being"
+    ],
+    "aliases": [
+     "the monster",
+     "the daemon",
+     "the fiend"
+    ],
+    "source_quote": "I ought to be thy Adam; but I am rather the fallen angel"
+   },
+   "image": {
+    "url": "/images/frankenstein/creation.webp",
+    "alt": "The creature wakes on the floor among bones and books while Victor flees through the door",
+    "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/42324"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Elizabeth Lavenza",
+   "text": "Victor's adopted sister and later his bride, kind and patient; she pays for his silence.",
+   "metadata": {
+    "tags": [
+     "family"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/frankenstein/departure.webp",
+    "alt": "Elizabeth holding Victor's hand at the door as he leaves for Ingolstadt, his face in his hand",
+    "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/42324"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Robert Walton",
+   "text": "An English explorer seeking the North Pole, whose letters to his sister frame the story. Victor's warning is meant for him.",
+   "metadata": {
+    "tags": [
+     "narrator",
+     "explorer"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/frankenstein/arctic.webp",
+    "alt": "A ship among Arctic ice floes under a dark storm cloud",
+    "credit": "An Arctic Summer: Boring Through the Pack in Melville Bay, William Bradford, 1871. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/10207"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Henry Clerval",
+   "text": "Victor's cheerful friend, who nurses him through fever and loves poetry and languages.",
+   "metadata": {
+    "tags": [
+     "friend"
+    ],
+    "aliases": []
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The De Lacey family",
+   "text": "A blind old man and his children, exiled from France, whom the creature secretly watches and learns from.",
+   "metadata": {
+    "tags": [
+     "teachers"
+    ],
+    "aliases": []
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "Geneva and its lake",
+   "text": "Victor's childhood home at Belrive on Lake Geneva, where storms sweep over the water from the Alps.",
+   "metadata": {
+    "tags": [
+     "home"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/frankenstein/geneva.webp",
+    "alt": "Lake Geneva with trees and boats in the foreground",
+    "credit": "View of Lake Geneva, Joseph Vernet, ca. 1750–1800. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/811924"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "Ingolstadt",
+   "text": "The Bavarian university town where Victor studies and builds the creature in an attic laboratory.",
+   "metadata": {
+    "tags": [
+     "laboratory"
+    ],
+    "aliases": []
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The Mer de Glace",
+   "text": "The great glacier below Mont Blanc, where creator and creature meet and argue.",
+   "metadata": {
+    "tags": [
+     "Alps"
+    ],
+    "aliases": [],
+    "source_quote": "The surface is very uneven, rising like the waves of a troubled sea"
+   },
+   "image": {
+    "url": "/images/frankenstein/mer-de-glace.webp",
+    "alt": "The Mer de Glace glacier below the peaks of Chamonix, in mezzotint",
+    "credit": "Mêr de Glace, Valley of Chamouni-Savoy, Joseph Mallord William Turner, May 23, 1812. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/383023"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The Arctic ice",
+   "text": "The frozen sea where Walton's ship is trapped and the long chase ends.",
+   "metadata": {
+    "tags": [
+     "ice"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/frankenstein/arctic.webp",
+    "alt": "A ship among Arctic ice floes under a dark storm cloud",
+    "credit": "An Arctic Summer: Boring Through the Pack in Melville Bay, William Bradford, 1871. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/10207"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Galvanism and natural philosophy",
+   "text": "The science of the day: electricity that makes dead muscles move, and chemists like Waldman who promise that the moderns have discovered how the blood circulates and command the thunders of heaven.",
+   "metadata": {
+    "tags": [
+     "science"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/frankenstein/galvanized.webp",
+    "alt": "A satirical print of a corpse sitting up in its coffin, jolted by galvanism",
+    "credit": "A Galvanized Corpse, Henry R. Robinson, 1836. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/389105"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Nested narrators",
+   "text": "The novel is a story inside a story inside letters: Walton writes down Victor's tale, which contains the creature's own.",
+   "metadata": {
+    "tags": [
+     "structure"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/frankenstein/nipped.webp",
+    "alt": "A ship crushed between towering blocks of ice",
+    "credit": "Nipped in the Ice, Currier & Ives, 1877–94. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/662043"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "The duty of a maker",
+   "text": "Victor's real failure is abandonment, not creation. He never asks what he owes the life he made.",
+   "metadata": {
+    "tags": [
+     "responsibility",
+     "AI"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/frankenstein/creation.webp",
+    "alt": "The creature wakes on the floor among bones and books while Victor flees through the door",
+    "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/42324"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Nature or nurture",
+   "text": "The creature claims he was born good and made bad by how he was treated. The novel lets him make the case without settling it.",
+   "metadata": {
+    "tags": [
+     "ethics"
+    ],
+    "aliases": [],
+    "source_quote": "I was benevolent and good; misery made me a fiend."
+   },
+   "image": {
+    "url": "/images/frankenstein/storm.webp",
+    "alt": "A storm darkening over a lake, a man and a boy waiting on the shore",
+    "credit": "Approaching Thunder Storm, Martin Johnson Heade, 1859. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/11050"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Dangerous knowledge",
+   "text": "Victor and Walton are the same ambitious man at different stages; the novel is one warning the other.",
+   "metadata": {
+    "tags": [
+     "ambition"
+    ],
+    "aliases": [],
+    "source_quote": "how dangerous is the acquirement of knowledge"
+   },
+   "image": {
+    "url": "/images/frankenstein/departure.webp",
+    "alt": "Elizabeth holding Victor's hand at the door as he leaves for Ingolstadt, his face in his hand",
+    "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/42324"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Loneliness",
+   "text": "What the creature asks for is not power but company. Its violence starts when it understands it will always be alone.",
+   "metadata": {
+    "tags": [
+     "isolation"
+    ],
+    "aliases": [],
+    "source_quote": "Every where I see bliss, from which I alone am irrevocably excluded."
+   },
+   "image": {
+    "url": "/images/frankenstein/mont-blanc.webp",
+    "alt": "The massif of Mont Blanc, its snowy peaks above a stony valley",
+    "credit": "View of the Massif of Mont Blanc, Jean-Antoine Linck, late 18th–19th century. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/373896"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Paradise Lost",
+   "text": "The creature reads Milton's epic as a true history and compares himself to Adam and to Satan; its lines were the epigraph of the first edition (1818).",
+   "metadata": {
+    "tags": [
+     "Milton"
+    ],
+    "aliases": []
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Prometheus",
+   "text": "The Titan who made humans from clay and stole fire for them, punished forever: the novel's subtitle.",
+   "metadata": {
+    "tags": [
+     "myth"
+    ],
+    "aliases": []
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Villa Diodati, 1816",
+   "text": "Mary Shelley began the story at a ghost-story contest with Byron, Percy Shelley and John Polidori on Lake Geneva.",
+   "metadata": {
+    "tags": [
+     "history"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/frankenstein/geneva.webp",
+    "alt": "Lake Geneva with trees and boats in the foreground",
+    "credit": "View of Lake Geneva, Joseph Vernet, ca. 1750–1800. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/811924"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Galvani and Aldini",
+   "text": "Luigi Galvani's twitching frog legs and Giovanni Aldini's public experiments on corpses made reanimation seem almost possible.",
+   "metadata": {
+    "tags": [
+     "science history"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/frankenstein/galvanized.webp",
+    "alt": "A satirical print of a corpse sitting up in its coffin, jolted by galvanism",
+    "credit": "A Galvanized Corpse, Henry R. Robinson, 1836. The Metropolitan Museum of Art, public domain.",
+    "source": "https://www.metmuseum.org/art/collection/search/389105"
+   }
+  }
+ ]
+}

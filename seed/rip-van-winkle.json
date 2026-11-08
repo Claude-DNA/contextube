@@ -1,0 +1,216 @@
+{
+ "slug": "rip-van-winkle",
+ "title": "Rip Van Winkle",
+ "description": "Washington Irving's 1819 tale of a good-natured, idle villager who drinks with ghostly Dutch sailors in the Catskills, sleeps twenty years, and walks home into a new country.",
+ "source_title": "Rip Van Winkle",
+ "source_author": "Washington Irving",
+ "purchase_url": "https://www.gutenberg.org/ebooks/60976",
+ "tags": [
+  "time",
+  "identity",
+  "revolution",
+  "folklore",
+  "sleep"
+ ],
+ "domains": [
+  "literature",
+  "folklore"
+ ],
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "creator_name": "ConteXtube",
+ "language": "en",
+ "rights": "public_domain",
+ "cover": {
+  "url": "/images/rip-van-winkle/ninepins.webp",
+  "alt": "A company of odd-looking men in old Dutch dress playing ninepins in a mountain hollow",
+  "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+  "source": "https://www.gutenberg.org/ebooks/60976"
+ },
+ "chunks": [
+  {
+   "layer": 1,
+   "extract": "sleep through history",
+   "importance": 1.0,
+   "text": "One afternoon in the mountains and a whole revolution is gone. Rip wakes with a grey beard to a country that has changed its name.",
+   "images": [
+    {
+     "url": "/images/rip-van-winkle/flagon.webp",
+     "alt": "Rip waking under a tree, old and bearded, his gun rusted",
+     "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/60976"
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "self=others' memory",
+   "importance": 0.95,
+   "text": "Nobody in the village knows him, so he no longer knows himself. Identity turns out to be something the neighbours hold for you.",
+   "images": [
+    {
+     "url": "/images/rip-van-winkle/crowd.webp",
+     "alt": "The crowd around Rip outside the inn, eyeing him from head to foot",
+     "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/60976"
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "idleness rewarded",
+   "importance": 0.9,
+   "text": "The laziest man in the village comes out best: his scolding wife is dead, he is free of work, and he becomes its most respected storyteller.",
+   "images": [
+    {
+     "url": "/images/rip-van-winkle/stories.webp",
+     "alt": "Old Rip telling his story by the fire to wide-eyed children",
+     "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/60976"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "aversion to useful work",
+   "importance": 0.8,
+   "text": "Irving's hero is lovable precisely because he is useless. He will do anyone's work but his own.",
+   "source_quote": "The great error in Rip’s composition was an insuperable aversion to all kinds of profitable labour.",
+   "images": [
+    {
+     "url": "/images/rip-van-winkle/kites.webp",
+     "alt": "Rip with the village children, who follow him everywhere",
+     "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/60976"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "silent ninepins",
+   "importance": 0.8,
+   "text": "The ghostly crew plays a cheerful game in total silence, and the silence is what frightens Rip.",
+   "source_quote": "On a level spot in the centre was a company of odd-looking personages playing at ninepins.",
+   "images": [
+    {
+     "url": "/images/rip-van-winkle/ninepins.webp",
+     "alt": "A company of odd-looking men in old Dutch dress playing ninepins in a mountain hollow",
+     "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/60976"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "I'm somebody else",
+   "importance": 0.85,
+   "text": "Faced with his own son, a lazy copy of himself leaning on a tree, Rip loses hold of who he is.",
+   "source_quote": "“God knows!” exclaimed he, at his wit’s end; “I’m not myself--I’m somebody else--that’s me yonder",
+   "images": [
+    {
+     "url": "/images/rip-van-winkle/chins.webp",
+     "alt": "Villagers staring at the stranger and stroking their chins",
+     "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/60976"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "King George repainted",
+   "importance": 0.75,
+   "text": "The inn sign is the same face with a new coat: King George has become General Washington. Irving's joke is that a revolution can look like a change of paint.",
+   "source_quote": "He recognised on the sign, however, the ruby face of King George, under which he had smoked so many a peaceful pipe; but even this was singularly metamorphosed.",
+   "images": [
+    {
+     "url": "/images/rip-van-winkle/settlers.webp",
+     "alt": "Houses of the original Dutch settlers in the village",
+     "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/60976"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "story settles by retelling",
+   "importance": 0.7,
+   "text": "Irving notes how Rip's tale shifts each time he tells it until it hardens into the version everyone knows: a little lesson in how legends are made.",
+   "source_quote": "He was observed, at first, to vary on some points every time he told it",
+   "images": [
+    {
+     "url": "/images/rip-van-winkle/stories.webp",
+     "alt": "Old Rip telling his story by the fire to wide-eyed children",
+     "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/60976"
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "I can't explain myself",
+   "importance": 0.6,
+   "links": [
+    "alices-adventures-in-wonderland"
+   ],
+   "text": "Alice tells the Caterpillar \"I'm not myself, you see\"; Rip tells a crowd \"I'm not myself--I'm somebody else\". Both stories put a person in front of strangers who demand to know who they are, at the moment the person has lost the answer.",
+   "images": [
+    {
+     "url": "/images/rip-van-winkle/decay.webp",
+     "alt": "Rip at his house gone to decay, a starved dog in the yard",
+     "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/60976"
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "a world moved on",
+   "importance": 0.5,
+   "links": [
+    "echo"
+   ],
+   "text": "In Shards: Echo, Denis leaves for seventy light-years rather than live in a world that talks only of war. Rip makes the same escape by accident and comes back to find the war over. Both stories ask what happens to a person when the history they belonged to goes on without them.",
+   "images": [
+    {
+     "url": "/images/rip-van-winkle/troop.webp",
+     "alt": "A troop of children running after Rip, pointing at his grey beard",
+     "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/60976"
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "Kyffhäuser and the Catskills",
+   "text": "Irving borrowed the plot from German folk tales of a goatherd who sleeps for years after watching a ghostly game of ninepins, and moved it to the Hudson Valley. The story appeared in The Sketch Book in 1819 and helped give the young United States a folklore of its own.",
+   "images": [
+    {
+     "url": "/images/rip-van-winkle/kaatsberg.webp",
+     "alt": "Strange beings in the trees of the Catskill mountains, a region full of fable",
+     "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/60976"
+    }
+   ]
+  },
+  {
+   "layer": 4,
+   "extract": "escape as a political act",
+   "importance": 0.5,
+   "text": "Rip Van Winkle is a comedy about missing everything. The American Revolution, the founding of a nation, the great political awakening of his neighbours: Rip sleeps through all of it and wakes to a man haranguing the tavern about \"rights of citizens--elections--members of congress\", which to him is \"a perfect Babylonish jargon\". Irving clearly finds the new politics a little absurd, and the old Dutch village a little dear.\n\nBut the story's emotional center is not politics. It is the terror of returning to a home where nobody recognises you, and the relief of being recognised by a daughter. Rip's twenty years are every exile's twenty years compressed into a night. That is why the tale outlived its era: anyone who has come back after a long absence, from prison, war, illness or emigration, has stood in the street like Rip, looking for a face they know.",
+   "images": [
+    {
+     "url": "/images/rip-van-winkle/mountains.webp",
+     "alt": "Good wives looking up at the Kaatskill mountains to tell the weather",
+     "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/60976"
+    }
+   ]
+  },
+  {
+   "layer": 5,
+   "type": "meta",
+   "text": "The story is in the public domain. Its text below is from Project Gutenberg ebook 60976, the Heinemann edition with Arthur Rackham's illustrations (1905), which also supplies the pictures. This interpretation was drafted by Claude in November 2026."
+  }
+ ],
+ "l5_source": "sources/rip-van-winkle.txt"
+}

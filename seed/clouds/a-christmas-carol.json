@@ -1,0 +1,597 @@
+{
+ "slug": "a-christmas-carol",
+ "title": "A Christmas Carol",
+ "description": "On Christmas Eve the miser Ebenezer Scrooge is visited by the ghost of his partner Marley and three spirits, who show him his past, his present and his future, and wakes on Christmas morning a changed man.",
+ "genre": "Ghost story",
+ "creator_name": "ConteXtube",
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "work": "a-christmas-carol",
+ "rights": "public_domain",
+ "source_title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+ "source_author": "Charles Dickens",
+ "purchase_url": "https://www.gutenberg.org/ebooks/46",
+ "cover": {
+  "url": "/images/a-christmas-carol/how-now.webp",
+  "alt": "Marley's ghost, in chains, faces Scrooge sitting by his fire in a dressing-gown",
+  "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+  "source": "https://www.gutenberg.org/ebooks/24022"
+ },
+ "elements": [
+  {
+   "kind": "plot",
+   "title": "Bah! Humbug!",
+   "text": "Scrooge refuses his nephew's dinner, his clerk's warmth and two gentlemen collecting for the poor.",
+   "metadata": {
+    "act": "Stave I: Marley's Ghost",
+    "act_number": 1,
+    "beat_number": 1,
+    "when": "main",
+    "source_quote": "\"Bah!\" said Scrooge, \"Humbug!\""
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/portly.webp",
+    "alt": "Two portly gentlemen with hats in hand, collecting for the poor",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The face in the knocker",
+   "text": "Arriving home, Scrooge sees his dead partner's face in the door-knocker.",
+   "metadata": {
+    "act": "Stave I: Marley's Ghost",
+    "act_number": 1,
+    "beat_number": 2,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/knocker.webp",
+    "alt": "Marley's face appearing in the door-knocker between two door-posts",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Marley in chains",
+   "text": "Marley's ghost appears dragging a chain of cash-boxes and ledgers, and announces three spirits.",
+   "metadata": {
+    "act": "Stave I: Marley's Ghost",
+    "act_number": 1,
+    "beat_number": 3,
+    "when": "main",
+    "source_quote": "\"I wear the chain I forged in life,\" replied the Ghost."
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/how-now.webp",
+    "alt": "Marley's ghost, in chains, faces Scrooge sitting by his fire in a dressing-gown",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Phantoms on the air",
+   "text": "From the window Scrooge sees the sky full of wailing ghosts who want to help the poor and no longer can.",
+   "metadata": {
+    "act": "Stave I: Marley's Ghost",
+    "act_number": 1,
+    "beat_number": 4,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/phantoms.webp",
+    "alt": "The air outside Scrooge's window full of moaning phantoms in chains",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Old Fezziwig's ball",
+   "text": "The Ghost of Christmas Past shows Scrooge his lonely schooldays and the party his first master threw for his apprentices.",
+   "metadata": {
+    "act": "Stave II: The First of the Three Spirits",
+    "act_number": 2,
+    "beat_number": 5,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/fezziwig.webp",
+    "alt": "Old Fezziwig and Mrs Fezziwig dancing at the Christmas party",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Belle",
+   "text": "The young Scrooge's fiancée releases him: money has taken her place.",
+   "metadata": {
+    "act": "Stave II: The First of the Three Spirits",
+    "act_number": 2,
+    "beat_number": 6,
+    "when": "main",
+    "source_quote": "Another idol has displaced me"
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/parted.webp",
+    "alt": "Belle turning away from the young Scrooge: she left him, and they parted",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The life he did not have",
+   "text": "Scrooge sees Belle years later in a happy, noisy home full of children, the family that could have been his.",
+   "metadata": {
+    "act": "Stave II: The First of the Three Spirits",
+    "act_number": 2,
+    "beat_number": 7,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/boisterous.webp",
+    "alt": "A flushed and boisterous group of children tumbling around their mother",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Christmas in the streets",
+   "text": "The Ghost of Christmas Present walks Scrooge through London on Christmas morning, through snow and shops and cheerful crowds.",
+   "metadata": {
+    "act": "Stave III: The Second of the Three Spirits",
+    "act_number": 3,
+    "beat_number": 8,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/climate.webp",
+    "alt": "Snow on the roofs and chimneys of London, St Paul's dome in the distance",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The Cratchits' dinner",
+   "text": "Bob Cratchit's family share a small goose and a pudding. Tiny Tim, ill and on a crutch, may not live.",
+   "metadata": {
+    "act": "Stave III: The Second of the Three Spirits",
+    "act_number": 3,
+    "beat_number": 9,
+    "when": "main",
+    "source_quote": "\"God bless us every one!\" said Tiny Tim, the last of all."
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/pudding.webp",
+    "alt": "Mrs Cratchit carrying in the Christmas pudding, her shadow on the wall",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Ignorance and Want",
+   "text": "Under the Spirit's robe crouch two starving children, the shadows of a society that will not look at them.",
+   "metadata": {
+    "act": "Stave III: The Second of the Three Spirits",
+    "act_number": 3,
+    "beat_number": 10,
+    "when": "main",
+    "source_quote": "This boy is Ignorance. This girl is Want."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "A death nobody mourns",
+   "text": "A silent hooded phantom shows businessmen joking about a dead man and thieves selling his bed-curtains.",
+   "metadata": {
+    "act": "Stave IV: The Last of the Spirits",
+    "act_number": 4,
+    "beat_number": 11,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/bed-curtains.webp",
+    "alt": "Old Joe's shop, where a charwoman unrolls the dead man's bed-curtains",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The gravestone",
+   "text": "In a neglected churchyard Scrooge reads his own name on a stone and begs to know if the future can change.",
+   "metadata": {
+    "act": "Stave IV: The Last of the Spirits",
+    "act_number": 4,
+    "beat_number": 12,
+    "when": "main",
+    "source_quote": "Are these the shadows of the things that Will be, or are they shadows of things that May be, only?"
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/last-spirit.webp",
+    "alt": "The Ghost of Christmas Yet to Come, a hooded phantom, pointing among the graves",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Christmas morning",
+   "text": "Scrooge wakes in his own bed, sends the biggest turkey to the Cratchits and goes to his nephew's for dinner.",
+   "metadata": {
+    "act": "Stave V: The End of It",
+    "act_number": 5,
+    "beat_number": 13,
+    "when": "main",
+    "source_quote": "I don't know what day of the month it is!"
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/fred.webp",
+    "alt": "Scrooge at his nephew's door: It's I, your uncle Scrooge. I have come to dinner",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "A second father",
+   "text": "He raises Bob's salary and becomes a second father to Tiny Tim, who does not die.",
+   "metadata": {
+    "act": "Stave V: The End of It",
+    "act_number": 5,
+    "beat_number": 14,
+    "when": "main",
+    "source_quote": "He became as good a friend, as good a master, and as good a man, as the good old city knew"
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/raise.webp",
+    "alt": "Scrooge facing Bob Cratchit in the counting-house the morning after Christmas",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Ebenezer Scrooge",
+   "text": "A rich, cold moneylender in the City of London who wants to be left alone, and finds out what that wish costs.",
+   "metadata": {
+    "tags": [
+     "protagonist",
+     "miser"
+    ],
+    "aliases": [],
+    "source_quote": "secret, and self-contained, and solitary as an oyster."
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/how-now.webp",
+    "alt": "Marley's ghost, in chains, faces Scrooge sitting by his fire in a dressing-gown",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Jacob Marley",
+   "text": "Scrooge's partner, seven years dead, who returns in chains to give him a chance he never had.",
+   "metadata": {
+    "tags": [
+     "ghost"
+    ],
+    "aliases": [],
+    "source_quote": "Mankind was my business."
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/how-now.webp",
+    "alt": "Marley's ghost, in chains, faces Scrooge sitting by his fire in a dressing-gown",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Bob Cratchit",
+   "text": "Scrooge's underpaid clerk, poor, cheerful and devoted to his family.",
+   "metadata": {
+    "tags": [
+     "clerk",
+     "father"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/slide.webp",
+    "alt": "Bob Cratchit sliding on the ice in Cornhill with a line of boys on Christmas Eve",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Tiny Tim",
+   "text": "Bob's youngest son, small and ill, carried on his father's shoulder.",
+   "metadata": {
+    "tags": [
+     "child"
+    ],
+    "aliases": [],
+    "source_quote": "\"God bless us every one!\" said Tiny Tim"
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/tim.webp",
+    "alt": "Bob Cratchit carrying Tiny Tim on his shoulder home from church",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Fred",
+   "text": "Scrooge's nephew, who keeps inviting him to Christmas dinner every year.",
+   "metadata": {
+    "tags": [
+     "family"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/forfeits.webp",
+    "alt": "Blind man's buff at Fred's Christmas party",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Ghost of Christmas Yet to Come",
+   "text": "A silent, hooded phantom who only points.",
+   "metadata": {
+    "tags": [
+     "spirit"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/last-spirit.webp",
+    "alt": "The Ghost of Christmas Yet to Come, a hooded phantom, pointing among the graves",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Mr and Mrs Fezziwig",
+   "text": "Scrooge's first employer and his wife, who show what a master's generosity costs: almost nothing.",
+   "metadata": {
+    "tags": [
+     "employer"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/fezziwig.webp",
+    "alt": "Old Fezziwig and Mrs Fezziwig dancing at the Christmas party",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The counting-house",
+   "text": "A cold office in the City where Bob Cratchit works by a fire of one coal.",
+   "metadata": {
+    "tags": [
+     "work"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/raise.webp",
+    "alt": "Scrooge facing Bob Cratchit in the counting-house the morning after Christmas",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "Scrooge's rooms",
+   "text": "Dark chambers that once belonged to Marley, where Scrooge eats gruel alone by a small fire.",
+   "metadata": {
+    "tags": [
+     "home"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/nobody.webp",
+    "alt": "Scrooge checking his room, nobody in his dressing-gown hanging against the wall",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The Cratchits' house",
+   "text": "Four rooms in Camden Town, crowded and warm on Christmas Day.",
+   "metadata": {
+    "tags": [
+     "home"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/pudding.webp",
+    "alt": "Mrs Cratchit carrying in the Christmas pudding, her shadow on the wall",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The churchyard",
+   "text": "A neglected burial ground, walled in by houses, overrun by weeds.",
+   "metadata": {
+    "tags": [
+     "future"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/last-spirit.webp",
+    "alt": "The Ghost of Christmas Yet to Come, a hooded phantom, pointing among the graves",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Three spirits and a deadline",
+   "text": "One night, three visitors, one bell at a time. The supernatural is a set of lessons with a clock.",
+   "metadata": {
+    "tags": [
+     "rule"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/phantoms.webp",
+    "alt": "The air outside Scrooge's window full of moaning phantoms in chains",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Early Victorian London",
+   "text": "Fog, workhouses, debtors' prisons and a booming City, in the hard winter of the 1840s.",
+   "metadata": {
+    "tags": [
+     "setting"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/climate.webp",
+    "alt": "Snow on the roofs and chimneys of London, St Paul's dome in the distance",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Change through memory",
+   "text": "Scrooge is not argued out of his views. He is made to remember, and memory does the work.",
+   "metadata": {
+    "tags": [
+     "redemption"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/fezziwig.webp",
+    "alt": "Old Fezziwig and Mrs Fezziwig dancing at the Christmas party",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Society's children",
+   "text": "Ignorance and Want are the products of a society that refuses responsibility for them.",
+   "metadata": {
+    "tags": [
+     "poverty"
+    ],
+    "aliases": [],
+    "source_quote": "Beware them both"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "The future is not fixed",
+   "text": "The book's question is whether the shadows Scrooge sees must happen, or only will if he keeps going the same way.",
+   "metadata": {
+    "tags": [
+     "free will"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/last-spirit.webp",
+    "alt": "The Ghost of Christmas Yet to Come, a hooded phantom, pointing among the graves",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Fellow-passengers",
+   "text": "Fred's idea of Christmas: the one time people treat those below them as fellow-passengers to the grave.",
+   "metadata": {
+    "tags": [
+     "community"
+    ],
+    "aliases": [],
+    "source_quote": "fellow-passengers to the grave"
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/forfeits.webp",
+    "alt": "Blind man's buff at Fred's Christmas party",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The New Poor Law (1834)",
+   "text": "The workhouses Scrooge defends, built to make poor relief as harsh as possible.",
+   "metadata": {
+    "tags": [
+     "history"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/portly.webp",
+    "alt": "Two portly gentlemen with hats in hand, collecting for the poor",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Malthus",
+   "text": "Thomas Malthus's population theory, behind Scrooge's phrase about the surplus population.",
+   "metadata": {
+    "tags": [
+     "economics"
+    ],
+    "aliases": []
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Hamlet's father",
+   "text": "Dickens opens by insisting Marley is dead, as Hamlet's father must be dead, or nothing wonderful can follow.",
+   "metadata": {
+    "tags": [
+     "Shakespeare"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/a-christmas-carol/knocker.webp",
+    "alt": "Marley's face appearing in the door-knocker between two door-posts",
+    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/24022"
+   }
+  }
+ ]
+}

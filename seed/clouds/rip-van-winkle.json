@@ -1,0 +1,534 @@
+{
+ "slug": "rip-van-winkle",
+ "title": "Rip Van Winkle",
+ "description": "A lazy, good-hearted Dutch villager wanders into the Catskill mountains, drinks with a silent ghostly crew playing ninepins, and wakes twenty years later to a new country that no longer knows him.",
+ "genre": "Folk tale",
+ "creator_name": "ConteXtube",
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "work": "rip-van-winkle",
+ "rights": "public_domain",
+ "source_title": "Rip Van Winkle",
+ "source_author": "Washington Irving",
+ "purchase_url": "https://www.gutenberg.org/ebooks/60976",
+ "cover": {
+  "url": "/images/rip-van-winkle/ninepins.webp",
+  "alt": "A company of odd-looking men in old Dutch dress playing ninepins in a mountain hollow",
+  "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+  "source": "https://www.gutenberg.org/ebooks/60976"
+ },
+ "elements": [
+  {
+   "kind": "plot",
+   "title": "The village at the foot of the mountains",
+   "text": "In an old Dutch village on the Hudson, under King George, lives Rip Van Winkle, loved by children and dogs and scolded by his wife.",
+   "metadata": {
+    "act": "Before the sleep",
+    "act_number": 1,
+    "beat_number": 1,
+    "when": "main",
+    "source_quote": "Every change of season, every change of weather, indeed, every hour of the day, produces some change in the magical hues and shapes of these mountains"
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/mountains.webp",
+    "alt": "Good wives looking up at the Kaatskill mountains to tell the weather",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Petticoat government",
+   "text": "Rip will help any neighbour but never works his own farm. Dame Van Winkle's tongue drives him out of the house.",
+   "metadata": {
+    "act": "Before the sleep",
+    "act_number": 1,
+    "beat_number": 2,
+    "when": "main",
+    "source_quote": "a tart temper never mellows with age, and a sharp tongue is the only edged tool that grows keener with constant use."
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/henpecked.webp",
+    "alt": "Dame Van Winkle scolding at the door, driving Rip out of the house",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The club of sages",
+   "text": "He hides on the bench outside the inn with Nicholas Vedder and the village wise men, until his wife finds him there too.",
+   "metadata": {
+    "act": "Before the sleep",
+    "act_number": 1,
+    "beat_number": 3,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/club.webp",
+    "alt": "Village sages gathered on a bench before a small inn under a tree",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "A stranger with a keg",
+   "text": "Out shooting squirrels with his dog Wolf, Rip hears his name called and helps a short old Dutchman carry a keg up a ravine.",
+   "metadata": {
+    "act": "The mountain",
+    "act_number": 2,
+    "beat_number": 4,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/kaatsberg.webp",
+    "alt": "Strange beings in the trees of the Catskill mountains, a region full of fable",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Ninepins in the hollow",
+   "text": "In a mountain amphitheatre men in antique Dutch dress play ninepins in silence; the balls sound like thunder.",
+   "metadata": {
+    "act": "The mountain",
+    "act_number": 2,
+    "beat_number": 5,
+    "when": "main",
+    "source_quote": "On a level spot in the centre was a company of odd-looking personages playing at ninepins."
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/ninepins.webp",
+    "alt": "A company of odd-looking men in old Dutch dress playing ninepins in a mountain hollow",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The flagon",
+   "text": "They stare at him with fixed eyes. He serves their drink, tastes it, then tastes again, and falls asleep.",
+   "metadata": {
+    "act": "The mountain",
+    "act_number": 2,
+    "beat_number": 6,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/hollands.webp",
+    "alt": "Rip tasting from the flagon among red-capped mushrooms",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Waking",
+   "text": "He wakes on the green knoll: his gun is rusted, Wolf is gone, and his beard is a foot long.",
+   "metadata": {
+    "act": "The return",
+    "act_number": 3,
+    "beat_number": 7,
+    "when": "main",
+    "source_quote": "“Surely,” thought he, “I have not slept here all night."
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/flagon.webp",
+    "alt": "Rip waking under a tree, old and bearded, his gun rusted",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "A strange village",
+   "text": "Children he does not know follow him hooting, dogs bark at him, his house is a ruin.",
+   "metadata": {
+    "act": "The return",
+    "act_number": 3,
+    "beat_number": 8,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/troop.webp",
+    "alt": "A troop of children running after Rip, pointing at his grey beard",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The new sign",
+   "text": "The inn is a hotel, a flagpole stands where the tree was, and King George on the sign has become General Washington. A man harangues about elections.",
+   "metadata": {
+    "act": "The return",
+    "act_number": 3,
+    "beat_number": 9,
+    "when": "main",
+    "source_quote": "the ruby face of King George, under which he had smoked so many a peaceful pipe"
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/crowd.webp",
+    "alt": "The crowd around Rip outside the inn, eyeing him from head to foot",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Who are you?",
+   "text": "Accused of being a Tory spy, asked who he is, Rip sees his own double leaning on a tree, and no longer knows.",
+   "metadata": {
+    "act": "The return",
+    "act_number": 3,
+    "beat_number": 10,
+    "when": "main",
+    "source_quote": "I’m not myself--I’m somebody else"
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/chins.webp",
+    "alt": "Villagers staring at the stranger and stroking their chins",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Judith",
+   "text": "A young woman with a baby tells him her father, Rip Van Winkle, went to the mountains twenty years ago. He knows her.",
+   "metadata": {
+    "act": "The return",
+    "act_number": 3,
+    "beat_number": 11,
+    "when": "main",
+    "source_quote": "Rip Van Winkle was his name, but it’s twenty years since he went away from home with his gun"
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/daughter.webp",
+    "alt": "Rip's daughter holding her child, a black cat at her feet",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The storyteller",
+   "text": "Old Peter Vanderdonk vouches for the legend of Hendrick Hudson's crew. Rip settles back on the inn bench and tells his tale to every traveller.",
+   "metadata": {
+    "act": "The return",
+    "act_number": 3,
+    "beat_number": 12,
+    "when": "main",
+    "source_quote": "He used to tell his story to every stranger that arrived at Mr. Doolittle’s hotel."
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/stories.webp",
+    "alt": "Old Rip telling his story by the fire to wide-eyed children",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Rip Van Winkle",
+   "text": "A kind, idle descendant of Dutch settlers, ready to help anyone but himself.",
+   "metadata": {
+    "tags": [
+     "protagonist"
+    ],
+    "aliases": [],
+    "source_quote": "The great error in Rip’s composition was an insuperable aversion to all kinds of profitable labour."
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/kites.webp",
+    "alt": "Rip with the village children, who follow him everywhere",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Dame Van Winkle",
+   "text": "Rip's wife, whose scolding rules the house; she dies while he sleeps.",
+   "metadata": {
+    "tags": [
+     "family"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/curtain-lecture.webp",
+    "alt": "Dame Van Winkle lecturing from behind the bed-curtains while a cat listens",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Wolf",
+   "text": "Rip's dog, as henpecked as his master, who comes home without him.",
+   "metadata": {
+    "tags": [
+     "animal"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/dogs.webp",
+    "alt": "Dogs barking at Rip as he walks into the village",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Hendrick Hudson's crew",
+   "text": "The ghostly sailors of the Half-moon who return to the Catskills every twenty years to play ninepins.",
+   "metadata": {
+    "tags": [
+     "ghosts"
+    ],
+    "aliases": [
+     "the ninepin players"
+    ],
+    "source_quote": "with his crew of the Half-moon"
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/grave-faces.webp",
+    "alt": "The strange bearded players, keeping the gravest faces",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Judith Gardenier",
+   "text": "Rip's grown daughter, who takes him in.",
+   "metadata": {
+    "tags": [
+     "family"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/daughter.webp",
+    "alt": "Rip's daughter holding her child, a black cat at her feet",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Nicholas Vedder",
+   "text": "The silent patriarch of the village inn, who answers by how he smokes his pipe.",
+   "metadata": {
+    "tags": [
+     "villager"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/club.webp",
+    "alt": "Village sages gathered on a bench before a small inn under a tree",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The Kaatskill mountains",
+   "text": "Blue-and-purple mountains above the Hudson, changing colour with the weather.",
+   "metadata": {
+    "tags": [
+     "landscape"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/mountains.webp",
+    "alt": "Good wives looking up at the Kaatskill mountains to tell the weather",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The village and the inn",
+   "text": "A little Dutch village of yellow-brick houses with an inn under a great tree, later a hotel under a flagpole.",
+   "metadata": {
+    "tags": [
+     "village"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/settlers.webp",
+    "alt": "Houses of the original Dutch settlers in the village",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The amphitheatre",
+   "text": "A hollow ringed by cliffs high in the mountains, where the ghosts play.",
+   "metadata": {
+    "tags": [
+     "supernatural"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/ninepins.webp",
+    "alt": "A company of odd-looking men in old Dutch dress playing ninepins in a mountain hollow",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Twenty years in a night",
+   "text": "The Catskills keep a magic of their own: a drink that stops time.",
+   "metadata": {
+    "tags": [
+     "rule"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/flagon.webp",
+    "alt": "Rip waking under a tree, old and bearded, his gun rusted",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "The American Revolution",
+   "text": "The war Rip sleeps through, which turns colonists into citizens and King George into a painted-over sign.",
+   "metadata": {
+    "tags": [
+     "history"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/crowd.webp",
+    "alt": "The crowd around Rip outside the inn, eyeing him from head to foot",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Identity is held by others",
+   "text": "When nobody remembers you, it is hard to remember yourself.",
+   "metadata": {
+    "tags": [
+     "identity"
+    ],
+    "aliases": [],
+    "source_quote": "I was myself last night"
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/chins.webp",
+    "alt": "Villagers staring at the stranger and stroking their chins",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "History happens elsewhere",
+   "text": "The great events of the nation pass Rip by, and life in the village goes on much as before.",
+   "metadata": {
+    "tags": [
+     "politics"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/crowd.webp",
+    "alt": "The crowd around Rip outside the inn, eyeing him from head to foot",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Idleness forgiven",
+   "text": "Irving's comedy is gentle: the idler is rewarded with a happy old age and a story to tell.",
+   "metadata": {
+    "tags": [
+     "comedy"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/stories.webp",
+    "alt": "Old Rip telling his story by the fire to wide-eyed children",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "How legends harden",
+   "text": "Rip's story wavers at first and then settles into the version everybody knows by heart.",
+   "metadata": {
+    "tags": [
+     "storytelling"
+    ],
+    "aliases": [],
+    "source_quote": "He was observed, at first, to vary on some points every time he told it"
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/stories.webp",
+    "alt": "Old Rip telling his story by the fire to wide-eyed children",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Peter Klaus",
+   "text": "A German folk tale of a goatherd who sleeps twenty years after watching knights play ninepins in the Kyffhäuser mountains; Irving's source.",
+   "metadata": {
+    "tags": [
+     "folklore"
+    ],
+    "aliases": []
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Diedrich Knickerbocker",
+   "text": "Irving's invented Dutch historian, to whom the tale is attributed.",
+   "metadata": {
+    "tags": [
+     "frame"
+    ],
+    "aliases": []
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Henry Hudson",
+   "text": "The explorer whose ship, the Half Moon, sailed up the Hudson in 1609.",
+   "metadata": {
+    "tags": [
+     "history"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/rip-van-winkle/grave-faces.webp",
+    "alt": "The strange bearded players, keeping the gravest faces",
+    "credit": "Arthur Rackham, illustration for Rip Van Winkle (Heinemann, 1905). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/60976"
+   }
+  }
+ ]
+}
