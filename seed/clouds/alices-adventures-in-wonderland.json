@@ -1,0 +1,613 @@
+{
+ "slug": "alices-adventures-in-wonderland",
+ "title": "Alice's Adventures in Wonderland",
+ "description": "A bored girl follows a White Rabbit underground, changes size until she no longer knows who she is, and wakes when she finally tells the court of Wonderland what it is: a pack of cards.",
+ "genre": "Fantasy",
+ "creator_name": "ConteXtube",
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "work": "alices-adventures-in-wonderland",
+ "rights": "public_domain",
+ "source_title": "Alice's Adventures in Wonderland",
+ "source_author": "Lewis Carroll",
+ "purchase_url": "https://www.gutenberg.org/ebooks/11",
+ "cover": {
+  "url": "/images/alices-adventures-in-wonderland/cards.webp",
+  "alt": "Alice shielding her face as a whole pack of playing cards flies down on her",
+  "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+  "source": "https://www.gutenberg.org/ebooks/28885"
+ },
+ "elements": [
+  {
+   "kind": "plot",
+   "title": "Down the rabbit-hole",
+   "text": "Bored on a riverbank, Alice sees a White Rabbit check a watch and runs after it, straight down a hole that turns into a long slow fall past cupboards and shelves.",
+   "metadata": {
+    "act": "Act 1: Falling",
+    "act_number": 1,
+    "beat_number": 1,
+    "when": "main",
+    "source_quote": "Oh dear! Oh dear! I shall be late!"
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/mary-ann.webp",
+    "alt": "The White Rabbit in a coat calls to Alice across a bare landscape with a dead tree",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Drink me",
+   "text": "In a hall of locked doors she drinks from a bottle and shrinks, eats a cake and grows to nine feet. Neither size fits the little door to the garden.",
+   "metadata": {
+    "act": "Act 1: Falling",
+    "act_number": 1,
+    "beat_number": 2,
+    "when": "main",
+    "source_quote": "It was all very well to say “Drink me,” but the wise little Alice was not going to do that in a hurry."
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/alice.webp",
+    "alt": "Alice standing, in a pale dress and dark stockings, drawn in soft pencil and wash",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The pool of tears",
+   "text": "Giant Alice cries, shrinks again and finds herself swimming in her own tears with a Mouse, a Duck, a Dodo and a crowd of other creatures.",
+   "metadata": {
+    "act": "Act 1: Falling",
+    "act_number": 1,
+    "beat_number": 3,
+    "when": "main",
+    "source_quote": "“Curiouser and curiouser!” cried Alice"
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/pool.webp",
+    "alt": "Alice swimming in the pool of tears among a crowd of birds and animals",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The Caucus-race",
+   "text": "To get dry, the Dodo organises a race with no start, no finish and no rules, and declares that everyone has won.",
+   "metadata": {
+    "act": "Act 1: Falling",
+    "act_number": 1,
+    "beat_number": 4,
+    "when": "main",
+    "source_quote": "“Everybody has won, and all must have prizes.”"
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/caucus.webp",
+    "alt": "The Dodo, the Duck and the dripping animals gathered on the bank around Alice",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Advice from a Caterpillar",
+   "text": "A Caterpillar on a mushroom asks Alice who she is and is unimpressed when she cannot say. He tells her one side of the mushroom makes you grow and the other shrink.",
+   "metadata": {
+    "act": "Act 2: Wandering",
+    "act_number": 2,
+    "beat_number": 5,
+    "when": "main",
+    "source_quote": "“Who are you?” said the Caterpillar."
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/caterpillar.webp",
+    "alt": "The Caterpillar smoking a hookah on top of a mushroom, with Alice looking up at him",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Pig and pepper",
+   "text": "In the Duchess's kitchen the air is full of pepper and flying saucepans. Alice rescues the howling baby, which turns into a pig in her arms and trots away.",
+   "metadata": {
+    "act": "Act 2: Wandering",
+    "act_number": 2,
+    "beat_number": 6,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/kitchen.webp",
+    "alt": "The Duchess's kitchen full of smoke, with plates and a saucepan flying through the air",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The Cheshire Cat's directions",
+   "text": "A grinning Cat in a tree tells Alice that it doesn't matter which way she goes if she doesn't know where she wants to get to, and that everyone here is mad.",
+   "metadata": {
+    "act": "Act 2: Wandering",
+    "act_number": 2,
+    "beat_number": 7,
+    "when": "main",
+    "source_quote": "“Would you tell me, please, which way I ought to go from here?”"
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/cat-tree.webp",
+    "alt": "A gnarled tree in a field with the Cheshire Cat perched in its branches and Alice small below",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "A mad tea-party",
+   "text": "The Hatter, the March Hare and a sleeping Dormouse sit at an endless tea-table, stuck at six o'clock since the Hatter quarrelled with Time.",
+   "metadata": {
+    "act": "Act 2: Wandering",
+    "act_number": 2,
+    "beat_number": 8,
+    "when": "main",
+    "source_quote": "“Take some more tea,” the March Hare said to Alice, very earnestly."
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/tea.webp",
+    "alt": "The Mad Tea-Party: the Hatter, the March Hare and the Dormouse at a long table set with cups",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The Queen's croquet-ground",
+   "text": "Gardeners paint white roses red; the Queen of Hearts sentences everyone to death; croquet is played with flamingos for mallets and hedgehogs for balls.",
+   "metadata": {
+    "act": "Act 3: The Court",
+    "act_number": 3,
+    "beat_number": 9,
+    "when": "main",
+    "source_quote": "“Off with her head!”"
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/roses.webp",
+    "alt": "The Queen of Hearts and her court beside a rose tree, with gardeners and a pot of red paint",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The Gryphon and the Mock Turtle",
+   "text": "The Gryphon takes Alice to the weeping Mock Turtle, who tells of his school under the sea and teaches her the Lobster Quadrille.",
+   "metadata": {
+    "act": "Act 3: The Court",
+    "act_number": 3,
+    "beat_number": 10,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/gryphon.webp",
+    "alt": "Alice sitting between the Gryphon and the Mock Turtle by the sea",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Who stole the tarts?",
+   "text": "At the Knave of Hearts' trial the evidence is nonsense, the jury writes everything down on slates, and Alice starts growing again in the witness box.",
+   "metadata": {
+    "act": "Act 3: The Court",
+    "act_number": 3,
+    "beat_number": 11,
+    "when": "main",
+    "source_quote": "“Begin at the beginning,” the King said gravely, “and go on till you come to the end: then stop.”"
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/trial.webp",
+    "alt": "The trial of the Knave of Hearts: the King and Queen on the bench, the White Rabbit with a scroll",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "A pack of cards",
+   "text": "When the Queen calls for Alice's head, Alice, now full size, calls the court a pack of cards. They fly at her, and she wakes on the riverbank with leaves on her face.",
+   "metadata": {
+    "act": "Act 3: The Court",
+    "act_number": 3,
+    "beat_number": 12,
+    "when": "main",
+    "source_quote": "“Who cares for you?” said Alice, (she had grown to her full size by this time.) “You’re nothing but a pack of cards!”"
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/cards.webp",
+    "alt": "Alice shielding her face as a whole pack of playing cards flies down on her",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Alice",
+   "text": "A polite, curious, well-read girl who argues with everyone she meets. She keeps losing her size and her lessons, never her nerve for long.",
+   "metadata": {
+    "tags": [
+     "protagonist",
+     "child"
+    ],
+    "aliases": [],
+    "source_quote": "I almost wish I hadn’t gone down that rabbit-hole—and yet—and yet—it’s rather curious, you know, this sort of life!"
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/alice.webp",
+    "alt": "Alice standing, in a pale dress and dark stockings, drawn in soft pencil and wash",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The White Rabbit",
+   "text": "A nervous rabbit in a waistcoat, always late, who serves the Queen as herald and mistakes Alice for his housemaid, Mary Ann.",
+   "metadata": {
+    "tags": [
+     "guide",
+     "servant"
+    ],
+    "aliases": [],
+    "source_quote": "Oh my ears and whiskers, how late it’s getting!"
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/mary-ann.webp",
+    "alt": "The White Rabbit in a coat calls to Alice across a bare landscape with a dead tree",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Caterpillar",
+   "text": "A languid, contrary caterpillar smoking a hookah on a mushroom, who answers questions with questions.",
+   "metadata": {
+    "tags": [
+     "mentor"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/caterpillar.webp",
+    "alt": "The Caterpillar smoking a hookah on top of a mushroom, with Alice looking up at him",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Cheshire Cat",
+   "text": "The Duchess's cat, which grins, vanishes at will and is the only creature in Wonderland that explains the place honestly.",
+   "metadata": {
+    "tags": [
+     "trickster"
+    ],
+    "aliases": [
+     "Cheshire Puss"
+    ],
+    "source_quote": "“Well! I’ve often seen a cat without a grin,” thought Alice; “but a grin without a cat!"
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/cheshire.webp",
+    "alt": "The Cheshire Cat's head and wide grin floating on a cloud",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Hatter",
+   "text": "Host of the mad tea-party, condemned to six o'clock for ever, fond of riddles without answers.",
+   "metadata": {
+    "tags": [
+     "mad"
+    ],
+    "aliases": [
+     "the Mad Hatter"
+    ]
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/tea.webp",
+    "alt": "The Mad Tea-Party: the Hatter, the March Hare and the Dormouse at a long table set with cups",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Queen of Hearts",
+   "text": "A furious card queen who settles every difficulty by ordering an execution. Nobody is actually executed.",
+   "metadata": {
+    "tags": [
+     "tyrant"
+    ],
+    "aliases": [],
+    "source_quote": "“Off with her head!”"
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/court-croquet.webp",
+    "alt": "The King and Queen of Hearts with the court at the croquet ground",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Gryphon and the Mock Turtle",
+   "text": "An offhand Gryphon and a sobbing Mock Turtle who remember school under the sea: Reeling, Writhing and Uglification.",
+   "metadata": {
+    "tags": [
+     "pair"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/gryphon.webp",
+    "alt": "Alice sitting between the Gryphon and the Mock Turtle by the sea",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The rabbit-hole and the hall of doors",
+   "text": "A deep well-like hole and a long low hall of locked doors, with a tiny door to the loveliest garden Alice ever saw.",
+   "metadata": {
+    "tags": [
+     "threshold"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/mary-ann.webp",
+    "alt": "The White Rabbit in a coat calls to Alice across a bare landscape with a dead tree",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The Duchess's kitchen",
+   "text": "A kitchen full of smoke and pepper, a sneezing Duchess, a grinning cat and a cook throwing everything within reach.",
+   "metadata": {
+    "tags": [
+     "chaos"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/kitchen.webp",
+    "alt": "The Duchess's kitchen full of smoke, with plates and a saucepan flying through the air",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The March Hare's house",
+   "text": "A house with ear-shaped chimneys and a fur-thatched roof, and a long table laid for tea under a tree.",
+   "metadata": {
+    "tags": [
+     "mad"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/tea.webp",
+    "alt": "The Mad Tea-Party: the Hatter, the March Hare and the Dormouse at a long table set with cups",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The Queen's garden and croquet-ground",
+   "text": "The garden Alice wanted to reach all along: rose trees painted red, card soldiers, and a croquet-ground all ridges and furrows.",
+   "metadata": {
+    "tags": [
+     "court"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/roses.webp",
+    "alt": "The Queen of Hearts and her court beside a rose tree, with gardeners and a pot of red paint",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The court of justice",
+   "text": "A courtroom with the King as judge, twelve creatures as jury and a dish of tarts on the table as evidence.",
+   "metadata": {
+    "tags": [
+     "court"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/trial.webp",
+    "alt": "The trial of the Knave of Hearts: the King and Queen on the bench, the White Rabbit with a scroll",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Size as instability",
+   "text": "Food and drink in Wonderland change your size, and the right size is never available when you need it. Alice learns to manage the mushroom.",
+   "metadata": {
+    "tags": [
+     "rule"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/pig.webp",
+    "alt": "Alice among tall grasses holding the baby that is turning into a pig",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Nonsense logic",
+   "text": "Every argument in Wonderland follows rules, just not the right ones: words are taken literally, premises are false, and questions are answered with other questions.",
+   "metadata": {
+    "tags": [
+     "rule",
+     "language"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/cat-tree.webp",
+    "alt": "A gnarled tree in a field with the Cheshire Cat perched in its branches and Alice small below",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "The court of cards",
+   "text": "Power in Wonderland belongs to playing cards: a King, a Queen, a Knave, soldiers and gardeners shaped like flat cards. It lasts only while someone takes it seriously.",
+   "metadata": {
+    "tags": [
+     "power"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/court-croquet.webp",
+    "alt": "The King and Queen of Hearts with the court at the croquet ground",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Who in the world am I?",
+   "text": "Identity is the question the book keeps returning to: Alice tests herself with multiplication tables and poems, and gets them wrong.",
+   "metadata": {
+    "tags": [
+     "identity"
+    ],
+    "aliases": [],
+    "source_quote": "Who in the world am I? Ah, that’s the great puzzle!"
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/alice.webp",
+    "alt": "Alice standing, in a pale dress and dark stockings, drawn in soft pencil and wash",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Rules without law",
+   "text": "Every creature is sure of the rules, and the rules change when it suits them. Authority in Wonderland is loud, arbitrary and empty.",
+   "metadata": {
+    "tags": [
+     "authority"
+    ],
+    "aliases": [],
+    "source_quote": "“Sentence first—verdict afterwards.”"
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/roses.webp",
+    "alt": "The Queen of Hearts and her court beside a rose tree, with gardeners and a pot of red paint",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Every moral, or none",
+   "text": "The Duchess finds a moral in everything; the book refuses to have one, and makes fun of the improving verses Victorian children learned by heart.",
+   "metadata": {
+    "tags": [
+     "satire"
+    ],
+    "aliases": [],
+    "source_quote": "Everything’s got a moral, if only you can find it."
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/kitchen.webp",
+    "alt": "The Duchess's kitchen full of smoke, with plates and a saucepan flying through the air",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Growing up as talking back",
+   "text": "Alice wakes by refusing to be frightened, and the dream collapses. Growing up is the courage to call nonsense by its name.",
+   "metadata": {
+    "tags": [
+     "childhood"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/cards.webp",
+    "alt": "Alice shielding her face as a whole pack of playing cards flies down on her",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Victorian lesson-verse",
+   "text": "Alice's mangled recitations (\"How doth the little crocodile\") parody poems every Victorian child memorised, such as Isaac Watts's \"How doth the little busy bee\".",
+   "metadata": {
+    "tags": [
+     "parody",
+     "poetry"
+    ],
+    "aliases": []
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Alice Liddell",
+   "text": "The story began as a tale told to the three Liddell sisters on a boat trip from Oxford on 4 July 1862; Alice Liddell asked Dodgson to write it down.",
+   "metadata": {
+    "tags": [
+     "history"
+    ],
+    "aliases": []
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Mad as a hatter",
+   "text": "The Hatter and the March Hare take their madness from two English sayings: \"mad as a hatter\" and \"mad as a March hare\".",
+   "metadata": {
+    "tags": [
+     "idiom"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/alices-adventures-in-wonderland/tea.webp",
+    "alt": "The Mad Tea-Party: the Hatter, the March Hare and the Dormouse at a long table set with cups",
+    "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/28885"
+   }
+  }
+ ]
+}

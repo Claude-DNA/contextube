@@ -1,0 +1,536 @@
+{
+ "slug": "the-happy-prince-and-other-tales",
+ "title": "The Happy Prince and Other Tales",
+ "description": "Five fairy tales by Oscar Wilde about gifts nobody notices: a statue and a swallow give everything to the poor, a nightingale dies for a rose, a giant learns to share his garden.",
+ "genre": "Fairy tale",
+ "creator_name": "ConteXtube",
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "work": "the-happy-prince-and-other-tales",
+ "rights": "public_domain",
+ "source_title": "The Happy Prince and Other Tales",
+ "source_author": "Oscar Wilde",
+ "purchase_url": "https://www.gutenberg.org/ebooks/902",
+ "cover": {
+  "url": "/images/the-happy-prince-and-other-tales/beggars.webp",
+  "alt": "A cloaked beggar crouching at the gates while the rich make merry in a lit palace beyond",
+  "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+  "source": "https://www.gutenberg.org/ebooks/30120"
+ },
+ "elements": [
+  {
+   "kind": "plot",
+   "title": "The statue and the swallow",
+   "text": "A swallow late for Egypt shelters at the feet of the gilded Happy Prince and is soaked by the statue's tears.",
+   "metadata": {
+    "act": "The Happy Prince",
+    "act_number": 1,
+    "beat_number": 1,
+    "when": "main",
+    "source_quote": "“When I was alive and had a human heart,” answered the statue, “I did not know what tears were"
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/sans-souci.webp",
+    "alt": "Young people lounging in a sunlit palace garden: the Palace of Sans-Souci",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The ruby, the sapphires",
+   "text": "Night after night the Prince sends the swallow to carry his ruby to a seamstress and his sapphire eyes to a poor playwright and a match-girl.",
+   "metadata": {
+    "act": "The Happy Prince",
+    "act_number": 1,
+    "beat_number": 2,
+    "when": "main",
+    "source_quote": "will you not stay with me for one night, and be my messenger?"
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/maid.webp",
+    "alt": "The loveliest of the Queen's maids of honour, in a pale gown and tall headdress",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Leaf by leaf",
+   "text": "Now blind, the Prince has the swallow strip his gold leaf for the poor. Winter comes; the swallow dies at his feet and the lead heart cracks.",
+   "metadata": {
+    "act": "The Happy Prince",
+    "act_number": 1,
+    "beat_number": 3,
+    "when": "main",
+    "source_quote": "“I am covered with fine gold,” said the Prince, “you must take it off, leaf by leaf, and give it to my poor"
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/beggars.webp",
+    "alt": "A cloaked beggar crouching at the gates while the rich make merry in a lit palace beyond",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The two most precious things",
+   "text": "The Mayor melts down the shabby statue. The lead heart will not melt and is thrown on a dust-heap with the dead bird; an angel carries both to God.",
+   "metadata": {
+    "act": "The Happy Prince",
+    "act_number": 1,
+    "beat_number": 4,
+    "when": "main",
+    "source_quote": "“Bring me the two most precious things in the city,” said God to one of His Angels"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "A red rose",
+   "text": "A Student despairs: the Professor's daughter will dance with him only if he brings a red rose, and there are none in his garden.",
+   "metadata": {
+    "act": "The Nightingale and the Rose",
+    "act_number": 2,
+    "beat_number": 5,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/student.webp",
+    "alt": "A young woman in an elegant patterned gown passes by while the Student watches",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The thorn",
+   "text": "To make a red rose the Nightingale sings all night with her heart against a thorn, and dies. The girl prefers jewels; the Student throws the rose in the gutter.",
+   "metadata": {
+    "act": "The Nightingale and the Rose",
+    "act_number": 2,
+    "beat_number": 6,
+    "when": "main",
+    "source_quote": "“Death is a great price to pay for a red rose,” cried the Nightingale"
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/lover.webp",
+    "alt": "A winged figure of Love with a bow, standing barefoot in a rose-coloured haze",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Trespassers will be prosecuted",
+   "text": "The Giant comes home, finds children in his garden and walls them out. Spring never comes; the garden stays in winter.",
+   "metadata": {
+    "act": "The Selfish Giant",
+    "act_number": 3,
+    "beat_number": 7,
+    "when": "main",
+    "source_quote": "TRESPASSERS WILL BE PROSECUTED"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The children come back",
+   "text": "Children creep in through a hole and the trees blossom. The Giant lifts a little boy into a tree and knocks the wall down.",
+   "metadata": {
+    "act": "The Selfish Giant",
+    "act_number": 3,
+    "beat_number": 8,
+    "when": "main",
+    "source_quote": "“How selfish I have been!” he said; “now I know why the Spring would not come here."
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/giant-tree.webp",
+    "alt": "Children climbing a tree white with blossom in the Giant's garden",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The wounds of Love",
+   "text": "Years later the little boy returns with wounds in his hands and feet and takes the old Giant to his own garden, Paradise.",
+   "metadata": {
+    "act": "The Selfish Giant",
+    "act_number": 3,
+    "beat_number": 9,
+    "when": "main",
+    "source_quote": "“Nay!” answered the child; “but these are the wounds of Love.”"
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/little-boy.webp",
+    "alt": "The little boy in a yellow robe standing among white blossom and cloud",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Little Hans and the Miller",
+   "text": "The rich Miller talks beautifully about friendship and takes everything from little Hans, who dies running an errand for him in a storm.",
+   "metadata": {
+    "act": "The Devoted Friend",
+    "act_number": 4,
+    "beat_number": 10,
+    "when": "main",
+    "source_quote": "Little Hans had a great many friends, but the most devoted friend of all was big Hugh the Miller."
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/hans.webp",
+    "alt": "Little Hans in a wide hat, working in his garden among the roses",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "A very remarkable Rocket",
+   "text": "At a royal wedding a vain rocket cries and talks too much, gets damp, is thrown in a ditch and explodes in the daytime with nobody watching.",
+   "metadata": {
+    "act": "The Remarkable Rocket",
+    "act_number": 5,
+    "beat_number": 11,
+    "when": "main",
+    "source_quote": "“I knew I should create a great sensation,” gasped the Rocket, and he went out."
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/king.webp",
+    "alt": "The King in his crown and furs, a courtier bowing low: Let the fireworks begin",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Happy Prince",
+   "text": "A gilded statue with sapphire eyes and a lead heart, who as a living prince never knew sorrow and as a statue sees nothing else.",
+   "metadata": {
+    "tags": [
+     "statue",
+     "giver"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/sans-souci.webp",
+    "alt": "Young people lounging in a sunlit palace garden: the Palace of Sans-Souci",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Swallow",
+   "text": "A frivolous little bird in love with a reed, who stays one more night, and one more, and gives up Egypt for the Prince.",
+   "metadata": {
+    "tags": [
+     "messenger",
+     "bird"
+    ],
+    "aliases": [],
+    "source_quote": "I am waited for in Egypt"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Nightingale",
+   "text": "A bird who believes love is worth more than life and proves it.",
+   "metadata": {
+    "tags": [
+     "bird",
+     "sacrifice"
+    ],
+    "aliases": [],
+    "source_quote": "Love is better than Life"
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/lover.webp",
+    "alt": "A winged figure of Love with a bow, standing barefoot in a rose-coloured haze",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Student",
+   "text": "A young man of books who wants a rose to win a dance, and decides afterwards that logic is more useful than love.",
+   "metadata": {
+    "tags": [
+     "skeptic"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/student.webp",
+    "alt": "A young woman in an elegant patterned gown passes by while the Student watches",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Selfish Giant",
+   "text": "A giant who walls in his garden after seven years with the Cornish ogre, and learns too late what the wall cost him.",
+   "metadata": {
+    "tags": [
+     "giant"
+    ],
+    "aliases": [],
+    "source_quote": "My own garden is my own garden"
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/giant-tree.webp",
+    "alt": "Children climbing a tree white with blossom in the Giant's garden",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The little boy",
+   "text": "The smallest child in the Giant's garden, too little to reach the tree; he returns years later with the wounds of Love.",
+   "metadata": {
+    "tags": [
+     "child",
+     "Christ figure"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/little-boy.webp",
+    "alt": "The little boy in a yellow robe standing among white blossom and cloud",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Little Hans",
+   "text": "A kind, poor gardener who believes his rich friend the Miller, whatever it costs him.",
+   "metadata": {
+    "tags": [
+     "victim"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/hans.webp",
+    "alt": "Little Hans in a wide hat, working in his garden among the roses",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Remarkable Rocket",
+   "text": "A firework who thinks the world was made to admire him.",
+   "metadata": {
+    "tags": [
+     "vanity"
+    ],
+    "aliases": [],
+    "source_quote": "I am a very remarkable Rocket, and come of remarkable parents."
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/king.webp",
+    "alt": "The King in his crown and furs, a courtier bowing low: Let the fireworks begin",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The city square",
+   "text": "A city of rich houses and poor attics, seen from the top of the Prince's column.",
+   "metadata": {
+    "tags": [
+     "city"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/beggars.webp",
+    "alt": "A cloaked beggar crouching at the gates while the rich make merry in a lit palace beyond",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The Palace of Sans-Souci",
+   "text": "The palace where the prince lived, where sorrow was not allowed in; its name means \"without care\".",
+   "metadata": {
+    "tags": [
+     "palace"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/sans-souci.webp",
+    "alt": "Young people lounging in a sunlit palace garden: the Palace of Sans-Souci",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The Giant's garden",
+   "text": "A lovely garden with soft grass and twelve peach-trees, locked in winter while the wall stands.",
+   "metadata": {
+    "tags": [
+     "garden"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/giant-tree.webp",
+    "alt": "Children climbing a tree white with blossom in the Giant's garden",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The King's palace",
+   "text": "The setting of The Remarkable Rocket, where the Prince marries the Russian Princess who arrived in a sledge drawn by six reindeer.",
+   "metadata": {
+    "tags": [
+     "court"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/princess.webp",
+    "alt": "The Russian Princess arriving in a sledge drawn by reindeer, a domed city behind",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Talking creatures and objects",
+   "text": "Statues, birds, trees, fireworks and water-rats all speak and judge each other, usually wrongly.",
+   "metadata": {
+    "tags": [
+     "rule"
+    ],
+    "aliases": []
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Heaven's ledger",
+   "text": "Earthly authorities judge by appearance and use; God's judgment, in the last lines, reverses theirs.",
+   "metadata": {
+    "tags": [
+     "rule",
+     "justice"
+    ],
+    "aliases": []
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Charity that costs everything",
+   "text": "The Prince and the swallow give until there is nothing left of either. The gift is real; the reward is not of this world.",
+   "metadata": {
+    "tags": [
+     "sacrifice"
+    ],
+    "aliases": [],
+    "source_quote": "There is no Mystery so great as Misery."
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/beggars.webp",
+    "alt": "A cloaked beggar crouching at the gates while the rich make merry in a lit palace beyond",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Beauty judged by use",
+   "text": "The town admires the statue while it glitters and melts it the moment it doesn't.",
+   "metadata": {
+    "tags": [
+     "value"
+    ],
+    "aliases": [],
+    "source_quote": "As he is no longer beautiful he is no longer useful"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Love against Logic",
+   "text": "The Nightingale gives her life for a rose; the Student cannot see the point of it.",
+   "metadata": {
+    "tags": [
+     "love"
+    ],
+    "aliases": [],
+    "source_quote": "It is not half as useful as Logic"
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/student.webp",
+    "alt": "A young woman in an elegant patterned gown passes by while the Student watches",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Words as a lever",
+   "text": "The Miller's speeches about friendship are how he exploits Hans. Wilde distrusts people who talk well about virtue.",
+   "metadata": {
+    "tags": [
+     "hypocrisy"
+    ],
+    "aliases": [],
+    "source_quote": "Lots of people act well"
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/hans.webp",
+    "alt": "Little Hans in a wide hat, working in his garden among the roses",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Passion",
+   "text": "The Giant's last visitor carries the prints of nails in his hands and feet: Wilde's tale closes in the language of the Passion.",
+   "metadata": {
+    "tags": [
+     "Bible"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/little-boy.webp",
+    "alt": "The little boy in a yellow robe standing among white blossom and cloud",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Sans-Souci",
+   "text": "Frederick the Great's summer palace at Potsdam, named \"without care\".",
+   "metadata": {
+    "tags": [
+     "history"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-happy-prince-and-other-tales/sans-souci.webp",
+    "alt": "Young people lounging in a sunlit palace garden: the Palace of Sans-Souci",
+    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/30120"
+   }
+  }
+ ]
+}

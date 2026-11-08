@@ -1,0 +1,190 @@
+{
+ "slug": "the-happy-prince-and-other-tales",
+ "title": "The Happy Prince and Other Tales",
+ "description": "Oscar Wilde's 1888 fairy tales, from the gilded statue who gives himself away to the poor to a rocket who believes the world exists to watch him explode.",
+ "source_title": "The Happy Prince and Other Tales",
+ "source_author": "Oscar Wilde",
+ "purchase_url": "https://www.gutenberg.org/ebooks/902",
+ "tags": [
+  "sacrifice",
+  "charity",
+  "love",
+  "vanity",
+  "fairy tale"
+ ],
+ "domains": [
+  "literature",
+  "children's literature"
+ ],
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "creator_name": "ConteXtube",
+ "language": "en",
+ "rights": "public_domain",
+ "cover": {
+  "url": "/images/the-happy-prince-and-other-tales/beggars.webp",
+  "alt": "A cloaked beggar crouching at the gates while the rich make merry in a lit palace beyond",
+  "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+  "source": "https://www.gutenberg.org/ebooks/30120"
+ },
+ "chunks": [
+  {
+   "layer": 1,
+   "extract": "gold→given→discarded",
+   "importance": 1.0,
+   "text": "A statue gives away its gold leaf by leaf until the town that admired it finds it shabby and melts it down.",
+   "images": [
+    {
+     "url": "/images/the-happy-prince-and-other-tales/beggars.webp",
+     "alt": "A cloaked beggar crouching at the gates while the rich make merry in a lit palace beyond",
+     "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/30120"
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "wall→winter",
+   "importance": 0.95,
+   "text": "The Giant walls the children out and spring refuses to come in. When he lets them back, the trees blossom.",
+   "images": [
+    {
+     "url": "/images/the-happy-prince-and-other-tales/giant-tree.webp",
+     "alt": "Children climbing a tree white with blossom in the Giant's garden",
+     "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/30120"
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "the price nobody sees",
+   "importance": 0.9,
+   "text": "Every tale ends with a gift that nobody notices: a rose thrown in the gutter, a heart thrown on a dust-heap.",
+   "images": [
+    {
+     "url": "/images/the-happy-prince-and-other-tales/lover.webp",
+     "alt": "A winged figure of Love with a bow, standing barefoot in a rose-coloured haze",
+     "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/30120"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "happiness inside a wall",
+   "importance": 0.85,
+   "text": "The Prince was happy only because his palace kept sorrow out. As a statue above the city, he sees for the first time what the wall hid.",
+   "source_quote": "“When I was alive and had a human heart,” answered the statue, “I did not know what tears were, for I lived in the Palace of Sans-Souci, where sorrow is not allowed to enter.",
+   "images": [
+    {
+     "url": "/images/the-happy-prince-and-other-tales/sans-souci.webp",
+     "alt": "Young people lounging in a sunlit palace garden: the Palace of Sans-Souci",
+     "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/30120"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "Mystery<Misery",
+   "importance": 0.8,
+   "text": "The Swallow brings back wonders from Egypt. The Prince answers that the city's suffering is stranger than any of them, and sends him to look.",
+   "source_quote": "There is no Mystery so great as Misery.",
+   "images": [
+    {
+     "url": "/images/the-happy-prince-and-other-tales/beggars.webp",
+     "alt": "A cloaked beggar crouching at the gates while the rich make merry in a lit palace beyond",
+     "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/30120"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "beauty=use",
+   "importance": 0.8,
+   "text": "Once the gold and the jewels are gone, the town's experts reach their verdict in one line, and the statue goes to the furnace.",
+   "source_quote": "“As he is no longer beautiful he is no longer useful,” said the Art Professor at the University."
+  },
+  {
+   "layer": 2,
+   "extract": "love vs logic",
+   "importance": 0.75,
+   "text": "The Nightingale dies on a thorn to make the red rose; the girl prefers jewels, and the Student throws the rose away and goes back to his books.",
+   "source_quote": "“What a silly thing Love is,” said the Student as he walked away. “It is not half as useful as Logic",
+   "images": [
+    {
+     "url": "/images/the-happy-prince-and-other-tales/student.webp",
+     "alt": "A young woman in an elegant patterned gown passes by while the Student watches",
+     "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/30120"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "my garden is my own",
+   "importance": 0.75,
+   "text": "The Selfish Giant's reasoning sounds unanswerable, and the whole tale is the reply to it: a garden kept for one is a garden where it is always winter.",
+   "source_quote": "“My own garden is my own garden,” said the Giant; “any one can understand that, and I will allow nobody to play in it but myself.”",
+   "images": [
+    {
+     "url": "/images/the-happy-prince-and-other-tales/little-boy.webp",
+     "alt": "The little boy in a yellow robe standing among white blossom and cloud",
+     "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/30120"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "friendship as extraction",
+   "importance": 0.7,
+   "text": "In The Devoted Friend the rich Miller talks so beautifully about friendship that little Hans works himself to death for him. Wilde's most bitter tale is about language used as a lever.",
+   "source_quote": "a true friend always says unpleasant things, and does not mind giving pain.",
+   "images": [
+    {
+     "url": "/images/the-happy-prince-and-other-tales/hans.webp",
+     "alt": "Little Hans in a wide hat, working in his garden among the roses",
+     "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/30120"
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "useful or discarded",
+   "importance": 0.6,
+   "links": [
+    "the-metamorphosis"
+   ],
+   "text": "\"No longer beautiful, no longer useful\" is the verdict the Samsa family reaches about Gregor. Wilde and Kafka both describe a community that values someone exactly as long as he provides, then disposes of the remains with a sense of relief."
+  },
+  {
+   "layer": 3,
+   "extract": "the bird and the heart",
+   "text": "The ending, where God asks for the two most precious things in the city and receives a lead heart and a dead swallow, comes straight from the Gospel reversal in which the last are first. Wilde wrote the tales for his sons, Cyril and Vyvyan, and the collection is shaped like a sermon told with the manners of a society comedy."
+  },
+  {
+   "layer": 4,
+   "extract": "sacrifice nobody records",
+   "importance": 0.5,
+   "text": "Wilde's fairy tales are more serious than his plays and crueller than they look. Each one sets a gift against a society that cannot see it. The Prince's charity is unknown to everyone who receives it; the Nightingale's death becomes a rose in a gutter; little Hans dies running an errand for the friend who talks about loyalty. The people with power in these stories (Mayors, Professors, Millers, Students) speak in the confident voice of common sense, and their common sense is always wrong.\n\nThe tales are often read as Victorian moral lessons. They are closer to the opposite: a mockery of the people who give moral lessons. Wilde's sympathy is with the swallow that misses its flight to Egypt, with the statue that ends on a dust-heap, with the Giant who learns too late. Goodness in these tales is real, and it is never rewarded on earth.",
+   "images": [
+    {
+     "url": "/images/the-happy-prince-and-other-tales/moon-king.webp",
+     "alt": "The King of the Mountains of the Moon seated among his attendants",
+     "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/30120"
+    }
+   ]
+  },
+  {
+   "layer": 5,
+   "type": "meta",
+   "text": "The collection is in the public domain. Its text below is Project Gutenberg ebook 902. Colour plates are by Charles Robinson for the 1913 edition, from Project Gutenberg ebook 30120. This interpretation was drafted by Claude in November 2026."
+  }
+ ],
+ "l5_source": "sources/the-happy-prince-and-other-tales.txt"
+}

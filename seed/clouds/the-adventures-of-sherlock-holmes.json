@@ -1,0 +1,568 @@
+{
+ "slug": "the-adventures-of-sherlock-holmes",
+ "title": "The Adventures of Sherlock Holmes",
+ "description": "Twelve cases from 221B Baker Street, told by Dr Watson: a king's blackmailer, a league of red-headed men, a goose with a jewel in its crop, and a speckled band in a locked room.",
+ "genre": "Detective fiction",
+ "creator_name": "ConteXtube",
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "work": "the-adventures-of-sherlock-holmes",
+ "rights": "public_domain",
+ "source_title": "The Adventures of Sherlock Holmes",
+ "source_author": "Arthur Conan Doyle",
+ "purchase_url": "https://www.gutenberg.org/ebooks/1661",
+ "cover": {
+  "url": "/images/the-adventures-of-sherlock-holmes/stalls.webp",
+  "alt": "Holmes sitting in the stalls at a concert, eyes half closed, listening",
+  "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+  "source": "https://www.gutenberg.org/ebooks/48320"
+ },
+ "elements": [
+  {
+   "kind": "plot",
+   "title": "The masked king",
+   "text": "The King of Bohemia, masked, asks Holmes to recover a photograph that could wreck his marriage. Irene Adler sees through Holmes's disguise and escapes with it.",
+   "metadata": {
+    "act": "A Scandal in Bohemia",
+    "act_number": 1,
+    "beat_number": 1,
+    "when": "main",
+    "source_quote": "how the best plans of Mr. Sherlock Holmes were beaten by a woman’s wit."
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/king.webp",
+    "alt": "A huge man in a fur-trimmed cloak and black mask enters: the King of Bohemia",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The League is dissolved",
+   "text": "A pawnbroker is paid to copy the encyclopaedia for a league of red-headed men, until the office is locked. Holmes finds a tunnel being dug to a bank vault.",
+   "metadata": {
+    "act": "The Red-Headed League",
+    "act_number": 2,
+    "beat_number": 2,
+    "when": "main",
+    "source_quote": "“It is quite a three pipe problem, and I beg that you won’t speak to me for fifty minutes.”"
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/door.webp",
+    "alt": "Jabez Wilson reads the notice on a locked door: The Red-Headed League is dissolved",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The vanished fiancé",
+   "text": "A typist's shy fiancé disappears at the church door. He was her stepfather in disguise, protecting his use of her income.",
+   "metadata": {
+    "act": "A Case of Identity",
+    "act_number": 3,
+    "beat_number": 3,
+    "when": "main",
+    "source_quote": "It has long been an axiom of mine that the little things are infinitely the most important."
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/rat.webp",
+    "alt": "Windibank, glancing about like a rat in a trap, as Holmes stands by the door",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Murder by the pool",
+   "text": "A young man is arrested for killing his father by a lake. Holmes reads the ground and finds an old man with a secret from the Australian goldfields.",
+   "metadata": {
+    "act": "The Boscombe Valley Mystery",
+    "act_number": 4,
+    "beat_number": 4,
+    "when": "main",
+    "source_quote": "There is nothing more deceptive than an obvious fact"
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/body.webp",
+    "alt": "Men in the woods find the body of Charles McCarthy by the pool",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Five pips in an envelope",
+   "text": "Five orange pips arrive before each death in a family. Holmes is too late to save his client and takes it as a wound to his pride.",
+   "metadata": {
+    "act": "The Five Orange Pips",
+    "act_number": 5,
+    "beat_number": 5,
+    "when": "main",
+    "source_quote": "I have been beaten four times—three times by men, and once by a woman."
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/too-late.webp",
+    "alt": "Watson reading the newspaper and calling out to Holmes: You are too late",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The beggar of Threadneedle Street",
+   "text": "A respectable man vanishes in an opium den. He turns out to be the scarred beggar Hugh Boone, who earns more by begging than by work.",
+   "metadata": {
+    "act": "The Man with the Twisted Lip",
+    "act_number": 6,
+    "beat_number": 6,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/lascar.webp",
+    "alt": "Mrs St. Clair struggles with the Lascar at the foot of the stairs",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "A goose for Christmas",
+   "text": "A stolen jewel turns up in a Christmas goose. Holmes traces it back to the thief, and lets him go.",
+   "metadata": {
+    "act": "The Blue Carbuncle",
+    "act_number": 7,
+    "beat_number": 7,
+    "when": "main",
+    "source_quote": "I suppose that I am commuting a felony, but it is just possible that I am saving a soul."
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/mercy.webp",
+    "alt": "James Ryder falls to his knees begging for mercy before Holmes",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The speckled band",
+   "text": "Helen Stoner fears she will die like her sister, behind a bolted door. Holmes keeps watch in the dark and meets the swamp adder her stepfather uses.",
+   "metadata": {
+    "act": "The Speckled Band",
+    "act_number": 8,
+    "beat_number": 8,
+    "when": "main",
+    "source_quote": "When a doctor does go wrong he is the first of criminals."
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/brave.webp",
+    "alt": "Holmes takes leave of Helen Stoner under the trees: Good-bye, and be brave",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "A night's work at Eyford",
+   "text": "A young engineer hired for a secret job loses his thumb escaping a coining press disguised as a hydraulic machine.",
+   "metadata": {
+    "act": "The Engineer's Thumb",
+    "act_number": 9,
+    "beat_number": 9,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/word.webp",
+    "alt": "Colonel Stark warns the engineer Hatherley: Not a word to a soul",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The vanishing bride",
+   "text": "Lord St. Simon's American bride disappears from the wedding breakfast. Her first husband, believed dead, has come back.",
+   "metadata": {
+    "act": "The Noble Bachelor",
+    "act_number": 10,
+    "beat_number": 10,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/pew.webp",
+    "alt": "A wedding at the altar: the gentleman in the pew hands the bride her bouquet",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The broken coronet",
+   "text": "A banker finds his son holding a damaged national treasure. Holmes, in disguise, clears the son and recovers the missing stones.",
+   "metadata": {
+    "act": "The Beryl Coronet",
+    "act_number": 11,
+    "beat_number": 11,
+    "when": "main"
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/pistol.webp",
+    "alt": "Holmes holds a pistol to the head of Sir George Burnwell",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The governess",
+   "text": "A governess is paid well to cut her hair and sit in a blue dress. Holmes finds a daughter locked in a remote house.",
+   "metadata": {
+    "act": "The Copper Beeches",
+    "act_number": 12,
+    "beat_number": 12,
+    "when": "main",
+    "source_quote": "the lowest and vilest alleys in London do not present a more dreadful record of sin than does the smiling and beautiful countryside."
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/delighted.webp",
+    "alt": "Violet Hunter greets Holmes and Watson at the inn: I am so delighted that you have come",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Sherlock Holmes",
+   "text": "The consulting detective of 221B Baker Street: violinist, master of disguise, reader of trifles, bored to death between cases.",
+   "metadata": {
+    "tags": [
+     "detective"
+    ],
+    "aliases": [],
+    "source_quote": "My name is Sherlock Holmes. It is my business to know what other people don’t know."
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/stalls.webp",
+    "alt": "Holmes sitting in the stalls at a concert, eyes half closed, listening",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Dr John Watson",
+   "text": "Holmes's friend and chronicler, a doctor with a practical mind who asks the questions the reader would ask.",
+   "metadata": {
+    "tags": [
+     "narrator"
+    ],
+    "aliases": [
+     "Watson"
+    ],
+    "source_quote": "You see, but you do not observe."
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/too-late.webp",
+    "alt": "Watson reading the newspaper and calling out to Holmes: You are too late",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Irene Adler",
+   "text": "An opera singer and adventuress who outwits Holmes and keeps the King's photograph as insurance. Forever \"the woman\".",
+   "metadata": {
+    "tags": [
+     "opponent"
+    ],
+    "aliases": [
+     "the woman"
+    ],
+    "source_quote": "To Sherlock Holmes she is always the woman."
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/pew.webp",
+    "alt": "A wedding at the altar: the gentleman in the pew hands the bride her bouquet",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The King of Bohemia",
+   "text": "A huge, masked royal client who wants his old letters and photograph back before his wedding.",
+   "metadata": {
+    "tags": [
+     "client"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/king.webp",
+    "alt": "A huge man in a fur-trimmed cloak and black mask enters: the King of Bohemia",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Jabez Wilson",
+   "text": "A red-headed pawnbroker who copies the encyclopaedia for weeks without asking why.",
+   "metadata": {
+    "tags": [
+     "client"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/door.webp",
+    "alt": "Jabez Wilson reads the notice on a locked door: The Red-Headed League is dissolved",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Helen Stoner",
+   "text": "A frightened young woman whose sister died crying out about a speckled band.",
+   "metadata": {
+    "tags": [
+     "client"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/brave.webp",
+    "alt": "Holmes takes leave of Helen Stoner under the trees: Good-bye, and be brave",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "James Ryder",
+   "text": "The hotel attendant who stole the blue carbuncle and hid it in a goose.",
+   "metadata": {
+    "tags": [
+     "thief"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/mercy.webp",
+    "alt": "James Ryder falls to his knees begging for mercy before Holmes",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "221B Baker Street",
+   "text": "Holmes's rooms: a fire, two armchairs, a sofa, chemical stains and seventeen steps from the hall.",
+   "metadata": {
+    "tags": [
+     "home"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/welcome.webp",
+    "alt": "Holmes welcomes Miss Mary Sutherland at the door of his rooms",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "St. James's Hall",
+   "text": "The concert hall where Holmes spends an afternoon listening to the violinist Sarasate while a bank robbery goes on underground.",
+   "metadata": {
+    "tags": [
+     "London"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/stalls.webp",
+    "alt": "Holmes sitting in the stalls at a concert, eyes half closed, listening",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "Stoke Moran",
+   "text": "A crumbling manor in Surrey with a bell-pull that rings nothing and a ventilator into the next room.",
+   "metadata": {
+    "tags": [
+     "countryside"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/brave.webp",
+    "alt": "Holmes takes leave of Helen Stoner under the trees: Good-bye, and be brave",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The country lanes",
+   "text": "Hampshire, Herefordshire, Berkshire: beautiful countryside that Holmes trusts less than London.",
+   "metadata": {
+    "tags": [
+     "countryside"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/body.webp",
+    "alt": "Men in the woods find the body of Charles McCarthy by the pool",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Victorian London",
+   "text": "Gas-light, hansom cabs, telegrams and fog: a city of strangers where a detective can be hired like a doctor.",
+   "metadata": {
+    "tags": [
+     "setting"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/too-late.webp",
+    "alt": "Watson reading the newspaper and calling out to Holmes: You are too late",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "The method",
+   "text": "Observation of trifles, then inference to the best explanation, tested against every fact.",
+   "metadata": {
+    "tags": [
+     "rule"
+    ],
+    "aliases": [],
+    "source_quote": "You know my method. It is founded upon the observation of trifles."
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/boots.webp",
+    "alt": "The maid shows Holmes, Watson and Lestrade the dead man's boots",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Seeing versus observing",
+   "text": "Everyone sees the same things; very few notice them. The stories are an education in attention.",
+   "metadata": {
+    "tags": [
+     "attention"
+    ],
+    "aliases": [],
+    "source_quote": "You see, but you do not observe."
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/welcome.webp",
+    "alt": "Holmes welcomes Miss Mary Sutherland at the door of his rooms",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Justice above law",
+   "text": "Holmes lets the guilty go when prison would make things worse, and answers to his own conscience, not the police.",
+   "metadata": {
+    "tags": [
+     "justice"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/mercy.webp",
+    "alt": "James Ryder falls to his knees begging for mercy before Holmes",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Strangeness hides in the ordinary",
+   "text": "Life is stranger than fiction, and the oddest stories begin with dull details.",
+   "metadata": {
+    "tags": [
+     "reality"
+    ],
+    "aliases": [],
+    "source_quote": "life is infinitely stranger than anything which the mind of man could invent."
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/rat.webp",
+    "alt": "Windibank, glancing about like a rat in a trap, as Holmes stands by the door",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Logic over sensation",
+   "text": "Holmes complains that Watson's stories turn lessons in reasoning into adventures.",
+   "metadata": {
+    "tags": [
+     "reason"
+    ],
+    "aliases": [],
+    "source_quote": "Crime is common. Logic is rare."
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Joseph Bell",
+   "text": "Doyle's teacher at Edinburgh, who diagnosed patients' jobs and travels at a glance; the model for Holmes.",
+   "metadata": {
+    "tags": [
+     "history",
+     "medicine"
+    ],
+    "aliases": []
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Strand Magazine",
+   "text": "Where the stories first appeared, monthly, from July 1891, with Sidney Paget's illustrations.",
+   "metadata": {
+    "tags": [
+     "publishing"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-adventures-of-sherlock-holmes/pistol.webp",
+    "alt": "Holmes holds a pistol to the head of Sir George Burnwell",
+    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/48320"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Gustave Flaubert",
+   "text": "Holmes quotes Flaubert's letter to George Sand: the man is nothing, the work is everything.",
+   "metadata": {
+    "tags": [
+     "literature"
+    ],
+    "aliases": []
+   }
+  }
+ ]
+}

@@ -10,7 +10,8 @@
     "migrate": "node scripts/migrate.mjs",
     "seed": "node scripts/seed.mjs",
     "typecheck": "tsc --noEmit",
-    "build:app": "next build"
+    "build:app": "next build",
+    "seed:clouds": "node scripts/seed-clouds.mjs"
   },
   "engines": {
     "node": ">=20"

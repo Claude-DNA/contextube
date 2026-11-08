@@ -24,7 +24,7 @@ export function EssenceCard({ c, showFooter = true }: { c: CardData; showFooter?
     >
       {image && (
         <Link href={c.href} tabIndex={-1}>
-          <Picture img={image} className="w-full aspect-[4/3] object-cover group-hover:opacity-90 transition-opacity" />
+          <Picture img={image} className="w-full aspect-[4/3] object-cover object-[50%_30%] group-hover:opacity-90 transition-opacity" />
         </Link>
       )}
       <div className="p-5 space-y-3">

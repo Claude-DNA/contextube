@@ -50,8 +50,8 @@ function ElementCard({ e, kind }: { e: CloudElement; kind: CloudKind }) {
   const aliases = Array.isArray(m.aliases) ? m.aliases.filter((a): a is string => typeof a === "string" && a.length > 0) : [];
   const { body, senses } = kind === "stage" ? sensory(e.text) : { body: e.text, senses: [] };
   return (
-    <article className="overflow-hidden rounded-lg border border-gray-700 bg-gray-900">
-      {e.image && <Picture img={e.image} className="block w-full h-44 object-cover" />}
+    <article id={`e-${e.id}`} className="scroll-mt-20 overflow-hidden rounded-lg border border-gray-700 bg-gray-900 target:border-violet-400">
+      {e.image && <Picture img={e.image} className="block w-full h-44 object-cover object-[50%_30%]" />}
       <div className="p-5 space-y-3">
         <div className="space-y-1">
           <h3 className="text-lg font-bold text-white leading-snug">{e.title}</h3>

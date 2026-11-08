@@ -196,3 +196,66 @@ export async function unpublishCloud(slug: string, writer: string, owner?: strin
   await query(`UPDATE clouds SET status = 'draft', updated_at = now() WHERE slug = $1`, [slug]);
   return "ok";
 }
+
+/** An illustrated element for the home page: what it shows and which cloud it belongs to. */
+export type CloudHighlight = {
+  id: string;
+  kind: CloudKind;
+  title: string;
+  text: string;
+  image: Img;
+  cloud_slug: string;
+  cloud_title: string;
+};
+
+/**
+ * Illustrated characters, places and beats from every published cloud, interleaved so neighbours come
+ * from different clouds. The order changes once a day.
+ */
+export async function getCloudHighlights(limit = 12): Promise<CloudHighlight[]> {
+  const r = await query(
+    `SELECT id, kind, title, text, image, cloud_slug, cloud_title FROM (
+       SELECT e.id, e.kind, e.title, e.text, e.image, c.slug AS cloud_slug, c.title AS cloud_title,
+              md5(e.id::text || current_date::text) AS shuffle,
+              row_number() OVER (PARTITION BY c.id ORDER BY md5(e.id::text || current_date::text)) AS turn
+       FROM cloud_elements e JOIN clouds c ON c.id = e.cloud_id
+       WHERE c.status = 'published' AND e.image IS NOT NULL AND e.kind IN ('characters', 'stage', 'plot')
+     ) x ORDER BY turn, shuffle LIMIT $1`,
+    [Math.min(Math.max(limit, 1), 40)],
+  );
+  return r.rows
+    .map((row) => ({ ...(row as CloudHighlight), image: toImage(row.image, row.title as string) as Img }))
+    .filter((h) => h.image);
+}
+
+/** Up to `per` illustrations from each cloud (characters first), for previews in lists. */
+export async function getCloudThumbs(per = 4): Promise<Record<string, Img[]>> {
+  const r = await query<{ slug: string; image: unknown; title: string }>(
+    `SELECT slug, image, title FROM (
+       SELECT c.slug, e.image, e.title,
+              row_number() OVER (PARTITION BY c.id ORDER BY array_position(ARRAY['characters','stage','plot','universe','ideas','references'], e.kind), e.position) AS n
+       FROM cloud_elements e JOIN clouds c ON c.id = e.cloud_id
+       WHERE c.status = 'published' AND e.image IS NOT NULL
+     ) x WHERE n <= $1`,
+    [per],
+  );
+  const out: Record<string, Img[]> = {};
+  for (const row of r.rows) {
+    const img = toImage(row.image, row.title);
+    if (img) (out[row.slug] ??= []).push(img);
+  }
+  return out;
+}
+
+/** How much the library holds, for the home page. */
+export async function getLibraryStats(): Promise<{ works: number; clouds: number; elements: number; essences: number }> {
+  const r = await query<{ works: string; clouds: string; elements: string; essences: string }>(
+    `SELECT (SELECT count(*) FROM content_units WHERE status = 'published') AS works,
+            (SELECT count(*) FROM clouds WHERE status = 'published') AS clouds,
+            (SELECT coalesce(sum(element_count), 0) FROM clouds WHERE status = 'published') AS elements,
+            (SELECT count(*) FROM chunks c JOIN content_units u ON u.id = c.content_id
+              WHERE u.status = 'published' AND c.layer IN (1, 2)) AS essences`,
+  );
+  const x = r.rows[0];
+  return { works: Number(x?.works ?? 0), clouds: Number(x?.clouds ?? 0), elements: Number(x?.elements ?? 0), essences: Number(x?.essences ?? 0) };
+}

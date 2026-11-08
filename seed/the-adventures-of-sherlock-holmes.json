@@ -1,0 +1,197 @@
+{
+ "slug": "the-adventures-of-sherlock-holmes",
+ "title": "The Adventures of Sherlock Holmes",
+ "description": "Arthur Conan Doyle's twelve 1891–92 stories from The Strand Magazine: a detective who reads people from their boots and sleeves, and the few times the world proves stranger than his method.",
+ "source_title": "The Adventures of Sherlock Holmes",
+ "source_author": "Arthur Conan Doyle",
+ "purchase_url": "https://www.gutenberg.org/ebooks/1661",
+ "tags": [
+  "detection",
+  "observation",
+  "London",
+  "justice",
+  "reason"
+ ],
+ "domains": [
+  "literature",
+  "crime fiction"
+ ],
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "creator_name": "ConteXtube",
+ "language": "en",
+ "rights": "public_domain",
+ "cover": {
+  "url": "/images/the-adventures-of-sherlock-holmes/stalls.webp",
+  "alt": "Holmes sitting in the stalls at a concert, eyes half closed, listening",
+  "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+  "source": "https://www.gutenberg.org/ebooks/48320"
+ },
+ "chunks": [
+  {
+   "layer": 1,
+   "extract": "trifles→truth",
+   "importance": 1.0,
+   "text": "A worn sleeve, a muddy boot, a mended glove: Holmes treats the small things everyone ignores as the only honest witnesses.",
+   "images": [
+    {
+     "url": "/images/the-adventures-of-sherlock-holmes/boots.webp",
+     "alt": "The maid shows Holmes, Watson and Lestrade the dead man's boots",
+     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/48320"
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "beaten by a woman",
+   "importance": 0.95,
+   "text": "The first adventure is a defeat. The cleverest man in London is outplayed by Irene Adler, and keeps her photograph as a trophy of it.",
+   "images": [
+    {
+     "url": "/images/the-adventures-of-sherlock-holmes/king.webp",
+     "alt": "A huge man in a fur-trimmed cloak and black mask enters: the King of Bohemia",
+     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/48320"
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "boredom⇄case",
+   "importance": 0.9,
+   "text": "For Holmes, a mystery is a cure. Between cases the world is unbearably dull; inside one, he is the happiest man in London.",
+   "images": [
+    {
+     "url": "/images/the-adventures-of-sherlock-holmes/stalls.webp",
+     "alt": "Holmes sitting in the stalls at a concert, eyes half closed, listening",
+     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/48320"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "see vs observe",
+   "importance": 0.85,
+   "text": "Watson has climbed the stairs to Baker Street hundreds of times and cannot say how many steps there are. Holmes knows: seventeen. The whole method is in the difference.",
+   "source_quote": "You see, but you do not observe.",
+   "images": [
+    {
+     "url": "/images/the-adventures-of-sherlock-holmes/welcome.webp",
+     "alt": "Holmes welcomes Miss Mary Sutherland at the door of his rooms",
+     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/48320"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "the woman",
+   "importance": 0.8,
+   "text": "Watson insists it was not love. Irene Adler is the one opponent who sees through Holmes's disguise and escapes with her secret, and he never again jokes about the cleverness of women.",
+   "source_quote": "To Sherlock Holmes she is always the woman.",
+   "images": [
+    {
+     "url": "/images/the-adventures-of-sherlock-holmes/pew.webp",
+     "alt": "A wedding at the altar: the gentleman in the pew hands the bride her bouquet",
+     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/48320"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "little things matter most",
+   "importance": 0.75,
+   "text": "In A Case of Identity the trivial details of a shy fiancé (tinted glasses, a whisper, typed letters) add up to a stepfather in disguise.",
+   "source_quote": "It has long been an axiom of mine that the little things are infinitely the most important.",
+   "images": [
+    {
+     "url": "/images/the-adventures-of-sherlock-holmes/rat.webp",
+     "alt": "Windibank, glancing about like a rat in a trap, as Holmes stands by the door",
+     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/48320"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "obvious=deceptive",
+   "importance": 0.75,
+   "text": "Everyone thinks the Boscombe Valley case is solved because the facts point one way. Holmes's rule is that a clear story is the one most likely to be wrong.",
+   "source_quote": "There is nothing more deceptive than an obvious fact",
+   "images": [
+    {
+     "url": "/images/the-adventures-of-sherlock-holmes/body.webp",
+     "alt": "Men in the woods find the body of Charles McCarthy by the pool",
+     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/48320"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "saving a soul",
+   "importance": 0.75,
+   "text": "Holmes lets the jewel thief of The Blue Carbuncle go. Justice, for him, is not the same as handing a man to the police.",
+   "source_quote": "I suppose that I am commuting a felony, but it is just possible that I am saving a soul.",
+   "images": [
+    {
+     "url": "/images/the-adventures-of-sherlock-holmes/mercy.webp",
+     "alt": "James Ryder falls to his knees begging for mercy before Holmes",
+     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/48320"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "countryside>alleys",
+   "importance": 0.65,
+   "text": "On a train through lovely Hampshire, Holmes says the isolated farms frighten him more than London's slums, because no neighbour can hear what happens inside them.",
+   "source_quote": "the lowest and vilest alleys in London do not present a more dreadful record of sin than does the smiling and beautiful countryside.",
+   "images": [
+    {
+     "url": "/images/the-adventures-of-sherlock-holmes/delighted.webp",
+     "alt": "Violet Hunter greets Holmes and Watson at the inn: I am so delighted that you have come",
+     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/48320"
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "reading gestures→verdict",
+   "importance": 0.6,
+   "links": [
+    "peculiarities-of-planetary-conquest"
+   ],
+   "text": "Holmes reads strangers from small signs and is right. Kostya, in Peculiarities of Planetary Conquest, reads strangers from small signs and kills them. The method is the same; what separates deduction from paranoia is the willingness to be proved wrong."
+  },
+  {
+   "layer": 3,
+   "extract": "Joseph Bell→forensics",
+   "text": "Doyle modelled Holmes on Joseph Bell, his teacher at Edinburgh medical school, who diagnosed patients' trades and travels at a glance. The stories helped popularise the idea of trace evidence before police forces used it routinely, and Holmes's reasoning (strictly abduction, inference to the best explanation, rather than deduction) is still a classroom example in logic and medicine."
+  },
+  {
+   "layer": 4,
+   "extract": "reason with mercy",
+   "importance": 0.5,
+   "text": "The Adventures are remembered for the method, but what makes them last is the character the method serves. Holmes is not a policeman. He takes cases because they interest him, he shrugs at fees, and several times he lets the guilty go: the thief in The Blue Carbuncle, the woman who outwits him in the first story. His loyalty is to the truth and to the people who come to Baker Street frightened, not to the law.\n\nThe twelve stories also built the template every detective series still uses: the brilliant, difficult detective; the loyal narrator who stands in for the reader; the client's story told in the armchair; the reveal in which ordinary details turn out to have explained everything. Sidney Paget's drawings for The Strand fixed how Holmes looks; the deerstalker cap, which Doyle never names, first appears in Paget's picture for The Boscombe Valley Mystery.",
+   "images": [
+    {
+     "url": "/images/the-adventures-of-sherlock-holmes/brave.webp",
+     "alt": "Holmes takes leave of Helen Stoner under the trees: Good-bye, and be brave",
+     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/48320"
+    }
+   ]
+  },
+  {
+   "layer": 5,
+   "type": "meta",
+   "text": "The stories are in the public domain. Their full text is not loaded here because of its length; read it free at Project Gutenberg (ebook 1661). Illustrations are Sidney Paget's, as reprinted in the 1892 Harper & Brothers edition, from Project Gutenberg ebook 48320. This interpretation was drafted by Claude in November 2026."
+  }
+ ]
+}

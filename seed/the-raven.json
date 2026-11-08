@@ -1,0 +1,216 @@
+{
+ "slug": "the-raven",
+ "title": "The Raven",
+ "description": "Edgar Allan Poe's 1845 poem: at midnight in December a grieving student questions a raven that knows one word, and talks himself from curiosity into despair.",
+ "source_title": "The Raven",
+ "source_author": "Edgar Allan Poe",
+ "purchase_url": "https://www.gutenberg.org/ebooks/1065",
+ "tags": [
+  "grief",
+  "memory",
+  "obsession",
+  "night",
+  "language"
+ ],
+ "domains": [
+  "literature",
+  "poetry"
+ ],
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "creator_name": "ConteXtube",
+ "language": "en",
+ "rights": "public_domain",
+ "cover": {
+  "url": "/images/the-raven/bust.webp",
+  "alt": "The raven perched on a bust of Pallas above the chamber door, light fanning out behind",
+  "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+  "source": "https://www.gutenberg.org/ebooks/17192"
+ },
+ "chunks": [
+  {
+   "layer": 1,
+   "extract": "one word→every answer",
+   "importance": 1.0,
+   "text": "A bird that knows a single word becomes an oracle, because the man asking the questions arranges them so the word is always the answer.",
+   "images": [
+    {
+     "url": "/images/the-raven/bust.webp",
+     "alt": "The raven perched on a bust of Pallas above the chamber door, light fanning out behind",
+     "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/17192"
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "grief seeks a verdict",
+   "importance": 0.95,
+   "text": "He does not want comfort. He wants to hear, from something outside himself, the sentence he has already passed on himself.",
+   "images": [
+    {
+     "url": "/images/the-raven/gilead.webp",
+     "alt": "The man reaching up toward the raven on the bust, pleading, as smoke rises",
+     "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/17192"
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "shadow∞floor",
+   "importance": 0.9,
+   "text": "The poem ends with nothing resolved and nothing moving: the bird still sitting, the soul still lying in its shadow.",
+   "images": [
+    {
+     "url": "/images/the-raven/shadow.webp",
+     "alt": "The man lying on the floor in the raven's shadow, the bird still on the bust above the door",
+     "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/17192"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "door opens on nothing",
+   "importance": 0.85,
+   "text": "The first knock is answered by darkness and the dead woman's name, whispered back as an echo. Before the Raven arrives, the narrator has already filled the empty doorway with Lenore.",
+   "source_quote": "here I opened wide the door—\nDarkness there and nothing more.",
+   "images": [
+    {
+     "url": "/images/the-raven/door.webp",
+     "alt": "The man flinging the door wide open on a dark, empty landing",
+     "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/17192"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "meaning supplied by listener",
+   "importance": 0.8,
+   "text": "At first he knows exactly what the bird is: a pet that learned one word from some unlucky owner. The explanation is right, and it does not save him.",
+   "source_quote": "“Doubtless,” said I, “what it utters is its only stock and store,\nCaught from some unhappy master",
+   "images": [
+    {
+     "url": "/images/the-raven/shutter.webp",
+     "alt": "The man throws open the shutter and the raven flies into the room",
+     "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/17192"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "fancy unto fancy",
+   "importance": 0.75,
+   "text": "The turn of the poem is a man sitting down on purpose to build a meaning. Poe shows the mechanism of obsession in a single image: linking one fancy to the next until a coincidence becomes a message.",
+   "source_quote": "Then, upon the velvet sinking, I betook myself to linking\nFancy unto fancy",
+   "images": [
+    {
+     "url": "/images/the-raven/fancy.webp",
+     "alt": "The man sunk in a velvet chair, lost in thought, a dark hound at his feet",
+     "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/17192"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "question built for the answer",
+   "importance": 0.8,
+   "text": "His questions grow until the last one is the only one he cares about: will he meet Lenore in heaven. He asks it of a bird he knows can only say no.",
+   "source_quote": "Tell this soul with sorrow laden if, within the distant Aidenn,\nIt shall clasp a sainted maiden whom the angels name Lenore—",
+   "images": [
+    {
+     "url": "/images/the-raven/aidenn.webp",
+     "alt": "Two figures walking in a luminous garden among trees, a vision of paradise",
+     "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/17192"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "never-ending present",
+   "importance": 0.7,
+   "text": "The last stanza moves into the present tense: still is sitting, still is sitting. The past event has become a permanent condition.",
+   "source_quote": "And my soul from out that shadow that lies floating on the floor\nShall be lifted—nevermore!",
+   "images": [
+    {
+     "url": "/images/the-raven/shadow.webp",
+     "alt": "The man lying on the floor in the raven's shadow, the bird still on the bust above the door",
+     "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/17192"
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "stock and store→trained voice",
+   "importance": 0.6,
+   "links": [
+    "peace-treaty-architecture"
+   ],
+   "text": "The Raven is the oldest scene in the discussion about talking machines: a voice that repeats what it caught from its training, and a lonely listener who hears intention in it. Peace Treaty Architecture asks what a relationship with such a voice should rest on; Poe shows what happens when it rests on nothing but the listener's need.",
+   "images": [
+    {
+     "url": "/images/the-raven/nepenthe.webp",
+     "alt": "Seraphim swinging a censer around the seated man while the raven watches from the bust",
+     "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/17192"
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "an answer for every question",
+   "importance": 0.5,
+   "links": [
+    "alices-adventures-in-wonderland"
+   ],
+   "text": "Twenty years later Carroll's Hatter asks why a raven is like a writing-desk, a riddle with no answer. Poe's raven is the opposite case: an answer that fits every question. Both are jokes about how badly people want language to mean something.",
+   "images": [
+    {
+     "url": "/images/the-raven/lattice.webp",
+     "alt": "The shadow of a raven on an ivy-covered wall beside a shuttered window",
+     "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/17192"
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "Philosophy of Composition",
+   "text": "In \"The Philosophy of Composition\" (1846), Poe claimed he built the poem backwards, like a mathematical problem: first the effect (melancholy), then the refrain (a word with the sound \"-ore\"), then the speaker who could repeat it (a non-reasoning creature). Whether or not it happened that way, it is the first famous account of writing as engineering.",
+   "images": [
+    {
+     "url": "/images/the-raven/midnight.webp",
+     "alt": "A man asleep over his books at a lamp-lit desk at midnight",
+     "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/17192"
+    }
+   ]
+  },
+  {
+   "layer": 4,
+   "extract": "despair by dialogue",
+   "importance": 0.5,
+   "text": "The Raven is usually read as a poem about grief, but its subject is narrower and stranger: how a reasoning mind talks itself into despair through dialogue. Nothing supernatural happens. The narrator explains the bird correctly in the ninth stanza. Then he keeps asking, and each question is shaped a little more precisely so that \"Nevermore\" becomes its cruelest possible answer.\n\nThat is why the poem keeps its hold. Everyone has asked a question to which they already knew the answer they feared, and asked it of something that could not really know: a coin, a sign, a search engine, a machine. Poe's achievement is to make the mechanism visible while it still works on us. The hypnotic meter and the repeated rhyme do to the reader what the bird does to the student.",
+   "images": [
+    {
+     "url": "/images/the-raven/fiend.webp",
+     "alt": "The man stands up shrieking at the raven in a shaft of light",
+     "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/17192"
+    }
+   ]
+  },
+  {
+   "layer": 5,
+   "type": "meta",
+   "text": "The poem is in the public domain. Its text below is Project Gutenberg ebook 1065. Illustrations are Gustave Doré's engravings for the 1884 Harper & Brothers edition, from Project Gutenberg ebook 17192. Doré died in 1883, before the book appeared. This interpretation was drafted by Claude in November 2026."
+  }
+ ],
+ "l5_source": "sources/the-raven.txt"
+}

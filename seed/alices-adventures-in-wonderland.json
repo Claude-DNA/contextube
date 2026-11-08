@@ -1,0 +1,223 @@
+{
+ "slug": "alices-adventures-in-wonderland",
+ "title": "Alice's Adventures in Wonderland",
+ "description": "Lewis Carroll's 1865 dream-tale: a girl falls down a rabbit-hole into a world where size, names and rules keep changing, and keeps asking who she is until she wakes by refusing to be afraid of it.",
+ "source_title": "Alice's Adventures in Wonderland",
+ "source_author": "Lewis Carroll",
+ "purchase_url": "https://www.gutenberg.org/ebooks/11",
+ "tags": [
+  "identity",
+  "nonsense",
+  "childhood",
+  "authority",
+  "dream"
+ ],
+ "domains": [
+  "literature",
+  "children's literature"
+ ],
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "creator_name": "ConteXtube",
+ "language": "en",
+ "rights": "public_domain",
+ "cover": {
+  "url": "/images/alices-adventures-in-wonderland/cards.webp",
+  "alt": "Alice shielding her face as a whole pack of playing cards flies down on her",
+  "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+  "source": "https://www.gutenberg.org/ebooks/28885"
+ },
+ "chunks": [
+  {
+   "layer": 1,
+   "extract": "size≠self",
+   "importance": 1.0,
+   "text": "Alice grows and shrinks a dozen times, and every time the question is the same: if my body keeps changing, what part of me is still me?",
+   "images": [
+    {
+     "url": "/images/alices-adventures-in-wonderland/pool.webp",
+     "alt": "Alice swimming in the pool of tears among a crowd of birds and animals",
+     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/28885"
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "rules→whim",
+   "importance": 0.95,
+   "text": "Wonderland is full of rules and has no law. Every creature is certain, and every certainty is invented on the spot.",
+   "images": [
+    {
+     "url": "/images/alices-adventures-in-wonderland/roses.webp",
+     "alt": "The Queen of Hearts and her court beside a rose tree, with gardeners and a pot of red paint",
+     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/28885"
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "pack of cards→waking",
+   "importance": 0.9,
+   "text": "The dream ends the moment Alice stops taking it seriously. Power that runs on fear falls apart into paper.",
+   "images": [
+    {
+     "url": "/images/alices-adventures-in-wonderland/cards.webp",
+     "alt": "Alice shielding her face as a whole pack of playing cards flies down on her",
+     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/28885"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "identity as puzzle",
+   "importance": 0.85,
+   "text": "The first real terror of the book is not the fall but the morning after it. Alice runs through the children she knows, trying to work out which of them she has been changed into.",
+   "source_quote": "Who in the world am I? Ah, that’s the great puzzle!",
+   "images": [
+    {
+     "url": "/images/alices-adventures-in-wonderland/alice.webp",
+     "alt": "Alice standing, in a pale dress and dark stockings, drawn in soft pencil and wash",
+     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/28885"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "explain myself∅",
+   "importance": 0.8,
+   "text": "The Caterpillar demands the one thing Alice cannot give: a stable account of herself. His curtness is the adult world's, which asks children to explain a self that is still changing size.",
+   "source_quote": "“I can’t explain myself, I’m afraid, sir,” said Alice, “because I’m not myself, you see.”",
+   "images": [
+    {
+     "url": "/images/alices-adventures-in-wonderland/caterpillar.webp",
+     "alt": "The Caterpillar smoking a hookah on top of a mushroom, with Alice looking up at him",
+     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/28885"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "madness as entry fee",
+   "importance": 0.8,
+   "text": "The Cheshire Cat's logic is airtight and useless: being here proves you are mad. It is the only creature that tells Alice the rules of the place honestly.",
+   "source_quote": "“Oh, you can’t help that,” said the Cat: “we’re all mad here. I’m mad. You’re mad.”",
+   "images": [
+    {
+     "url": "/images/alices-adventures-in-wonderland/cat-tree.webp",
+     "alt": "A gnarled tree in a field with the Cheshire Cat perched in its branches and Alice small below",
+     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/28885"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "riddle without answer",
+   "importance": 0.75,
+   "text": "The Hatter asks a riddle that has no answer and the party never ends because time has stopped at six o'clock. Conversation becomes a game whose only aim is to keep the other player off balance.",
+   "source_quote": "“Why is a raven like a writing-desk?”",
+   "images": [
+    {
+     "url": "/images/alices-adventures-in-wonderland/tea.webp",
+     "alt": "The Mad Tea-Party: the Hatter, the March Hare and the Dormouse at a long table set with cups",
+     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/28885"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "sentence before verdict",
+   "importance": 0.8,
+   "text": "The trial of the Knave is the book's sharpest satire: evidence that proves nothing, a jury writing down the dates and adding them up, and a Queen who wants the punishment first.",
+   "source_quote": "“No, no!” said the Queen. “Sentence first—verdict afterwards.”",
+   "images": [
+    {
+     "url": "/images/alices-adventures-in-wonderland/trial.webp",
+     "alt": "The trial of the Knave of Hearts: the King and Queen on the bench, the White Rabbit with a scroll",
+     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/28885"
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "yesterday≠me",
+   "importance": 0.7,
+   "text": "By the seaside Alice has stopped panicking about who she is and simply reports it: change is no longer a catastrophe but a fact of the day.",
+   "source_quote": "“but it’s no use going back to yesterday, because I was a different person then.”",
+   "images": [
+    {
+     "url": "/images/alices-adventures-in-wonderland/gryphon.webp",
+     "alt": "Alice sitting between the Gryphon and the Mock Turtle by the sea",
+     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/28885"
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "changed body, same question",
+   "importance": 0.6,
+   "links": [
+    "the-metamorphosis"
+   ],
+   "text": "Gregor Samsa and Alice both wake into bodies that do not fit. Kafka follows the family that stops recognising the son; Carroll follows the child who stops recognising herself, and lets her win by growing back to full size and talking back.",
+   "images": [
+    {
+     "url": "/images/alices-adventures-in-wonderland/pig.webp",
+     "alt": "Alice among tall grasses holding the baby that is turning into a pig",
+     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/28885"
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "raven↔writing-desk",
+   "importance": 0.5,
+   "links": [
+    "the-raven"
+   ],
+   "text": "The Hatter's unanswerable riddle and Poe's Raven, which answers every question with the same word, are two sides of one joke about meaning: a question with no answer, and an answer that fits every question.",
+   "images": [
+    {
+     "url": "/images/alices-adventures-in-wonderland/tea.webp",
+     "alt": "The Mad Tea-Party: the Hatter, the March Hare and the Dormouse at a long table set with cups",
+     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/28885"
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "logic as play",
+   "text": "Carroll was Charles Dodgson, a mathematics lecturer at Christ Church, Oxford. The book's nonsense is precise: syllogisms with false premises, words taken literally, arithmetic that drifts (\"four times five is twelve\"). It has been a favourite of logicians, philosophers of language and, later, computer scientists for exactly that reason."
+  },
+  {
+   "layer": 4,
+   "extract": "growing up=talking back",
+   "importance": 0.5,
+   "text": "Read as a story about childhood, Wonderland is the adult world seen from below: full of people who give orders, set exams, recite lessons and get angry when you don't know the rules nobody told you. Alice's courtesy is constantly met with rudeness, and most of the book is her learning that politeness is not the same as obedience.\n\nWhat changes across the book is not Wonderland but Alice. At the start she cries a pool of tears and nearly drowns in it. By the end she is the one who calls the court nonsense, grows to full size in the middle of the trial and dismisses the whole machinery of power as a pack of cards. The dream does not teach a moral, which is the Duchess's joke (\"Everything's got a moral, if only you can find it\"); it teaches a stance. Identity is not something you settle once. It is something you keep asserting in a world that keeps changing your size.",
+   "images": [
+    {
+     "url": "/images/alices-adventures-in-wonderland/kitchen.webp",
+     "alt": "The Duchess's kitchen full of smoke, with plates and a saucepan flying through the air",
+     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
+     "source": "https://www.gutenberg.org/ebooks/28885"
+    }
+   ]
+  },
+  {
+   "layer": 5,
+   "type": "meta",
+   "text": "The book is in the public domain. The text below is Project Gutenberg ebook 11, split into passages in reading order. Illustrations are Arthur Rackham's 1907 plates, from Project Gutenberg ebook 28885. This interpretation was drafted by Claude in November 2026."
+  }
+ ],
+ "l5_source": "sources/alices-adventures-in-wonderland.txt"
+}

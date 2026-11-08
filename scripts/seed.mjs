@@ -31,7 +31,12 @@ function passages(text) {
   return out;
 }
 
-const files = (await readdir(seedDir)).filter((f) => f.endsWith(".json") && f !== "images.json").sort();
+// ONLY=slug,slug publishes just those works.
+const only = (process.env.ONLY ?? "").split(",").map((s) => s.trim()).filter(Boolean);
+const files = (await readdir(seedDir))
+  .filter((f) => f.endsWith(".json") && f !== "images.json")
+  .filter((f) => !only.length || only.includes(f.replace(/\.json$/, "")))
+  .sort();
 const images = JSON.parse(await readFile(join(seedDir, "images.json"), "utf8"));
 const absolute = (img) => (img ? { ...img, url: img.url.startsWith("/") ? `${base}${img.url}` : img.url } : undefined);
 let failed = 0;
@@ -39,6 +44,9 @@ let failed = 0;
 for (const file of files) {
   const unit = JSON.parse(await readFile(join(seedDir, file), "utf8"));
   const art = images.works[unit.slug];
+  // A work may also carry its pictures inline (cover and chunk images with /images/... paths).
+  if (unit.cover) unit.cover = absolute(unit.cover);
+  for (const c of unit.chunks) if (Array.isArray(c.images)) c.images = c.images.map(absolute);
   if (art) {
     unit.cover = absolute(art.cover);
     unit.chunks.forEach((c, i) => {

@@ -1,0 +1,505 @@
+{
+ "slug": "the-raven",
+ "title": "The Raven",
+ "description": "A student reading late on a December night to forget the dead Lenore lets in a raven that can say one word, and asks it the questions that will hurt him most.",
+ "genre": "Poetry",
+ "creator_name": "ConteXtube",
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "work": "the-raven",
+ "rights": "public_domain",
+ "source_title": "The Raven",
+ "source_author": "Edgar Allan Poe",
+ "purchase_url": "https://www.gutenberg.org/ebooks/1065",
+ "cover": {
+  "url": "/images/the-raven/bust.webp",
+  "alt": "The raven perched on a bust of Pallas above the chamber door, light fanning out behind",
+  "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+  "source": "https://www.gutenberg.org/ebooks/17192"
+ },
+ "elements": [
+  {
+   "kind": "plot",
+   "title": "Midnight dreary",
+   "text": "Near midnight in December a scholar dozes over old books, trying to read away his grief for Lenore. Something taps at his chamber door.",
+   "metadata": {
+    "act": "Act 1: The Knock",
+    "act_number": 1,
+    "beat_number": 1,
+    "when": "main",
+    "source_quote": "Once upon a midnight dreary, while I pondered, weak and weary,"
+   },
+   "image": {
+    "url": "/images/the-raven/midnight.webp",
+    "alt": "A man asleep over his books at a lamp-lit desk at midnight",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Sorrow for the lost Lenore",
+   "text": "The dying embers, the rustling curtains and the memory of Lenore fill him with terrors; he repeats to himself that it is only a visitor.",
+   "metadata": {
+    "act": "Act 1: The Knock",
+    "act_number": 1,
+    "beat_number": 2,
+    "when": "main",
+    "source_quote": "From my books surcease of sorrow—sorrow for the lost Lenore—"
+   },
+   "image": {
+    "url": "/images/the-raven/december.webp",
+    "alt": "A dim room in December: a woman's ghostly figure stands while the man sits by the dying fire",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Darkness there",
+   "text": "He apologises to whoever is knocking and throws the door open. There is only darkness. He whispers \"Lenore?\" and an echo whispers it back.",
+   "metadata": {
+    "act": "Act 1: The Knock",
+    "act_number": 1,
+    "beat_number": 3,
+    "when": "main",
+    "source_quote": "And the only word there spoken was the whispered word, “Lenore?”"
+   },
+   "image": {
+    "url": "/images/the-raven/door.webp",
+    "alt": "The man flinging the door wide open on a dark, empty landing",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Something at the lattice",
+   "text": "The tapping comes again, louder, from the window. He tells himself it is the wind.",
+   "metadata": {
+    "act": "Act 2: The Visitor",
+    "act_number": 2,
+    "beat_number": 4,
+    "when": "main",
+    "source_quote": "“Surely,” said I, “surely that is something at my window lattice;"
+   },
+   "image": {
+    "url": "/images/the-raven/lattice.webp",
+    "alt": "The shadow of a raven on an ivy-covered wall beside a shuttered window",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "A stately Raven",
+   "text": "He opens the shutter and a raven steps in without a bow and perches on the bust of Pallas above his door.",
+   "metadata": {
+    "act": "Act 2: The Visitor",
+    "act_number": 2,
+    "beat_number": 5,
+    "when": "main",
+    "source_quote": "In there stepped a stately Raven of the saintly days of yore."
+   },
+   "image": {
+    "url": "/images/the-raven/shutter.webp",
+    "alt": "The man throws open the shutter and the raven flies into the room",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Quoth the Raven",
+   "text": "Amused, he asks the bird its name. It answers \"Nevermore\". He decides it learned the word from some unhappy master.",
+   "metadata": {
+    "act": "Act 2: The Visitor",
+    "act_number": 2,
+    "beat_number": 6,
+    "when": "main",
+    "source_quote": "Quoth the Raven, “Nevermore.”"
+   },
+   "image": {
+    "url": "/images/the-raven/bust.webp",
+    "alt": "The raven perched on a bust of Pallas above the chamber door, light fanning out behind",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Fancy unto fancy",
+   "text": "He wheels a cushioned seat in front of the bird and sets about working out what it means, until he remembers that Lenore will never sit on this velvet again.",
+   "metadata": {
+    "act": "Act 3: The Questions",
+    "act_number": 3,
+    "beat_number": 7,
+    "when": "main",
+    "source_quote": "Then, upon the velvet sinking, I betook myself to linking"
+   },
+   "image": {
+    "url": "/images/the-raven/fancy.webp",
+    "alt": "The man sunk in a velvet chair, lost in thought, a dark hound at his feet",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Nepenthe",
+   "text": "The air thickens as if angels swung a censer. He begs to be allowed to forget Lenore.",
+   "metadata": {
+    "act": "Act 3: The Questions",
+    "act_number": 3,
+    "beat_number": 8,
+    "when": "main",
+    "source_quote": "Quaff, oh quaff this kind nepenthe and forget this lost Lenore!"
+   },
+   "image": {
+    "url": "/images/the-raven/nepenthe.webp",
+    "alt": "Seraphim swinging a censer around the seated man while the raven watches from the bust",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Balm in Gilead",
+   "text": "Calling it prophet and devil, he asks whether there is any cure for his grief, then whether he will meet Lenore in heaven. Nevermore.",
+   "metadata": {
+    "act": "Act 3: The Questions",
+    "act_number": 3,
+    "beat_number": 9,
+    "when": "main",
+    "source_quote": "Is there—is there balm in Gilead?—tell me—tell me, I implore!"
+   },
+   "image": {
+    "url": "/images/the-raven/gilead.webp",
+    "alt": "The man reaching up toward the raven on the bust, pleading, as smoke rises",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Bird or fiend",
+   "text": "He shrieks at the raven to leave and take its beak out of his heart.",
+   "metadata": {
+    "act": "Act 3: The Questions",
+    "act_number": 3,
+    "beat_number": 10,
+    "when": "main",
+    "source_quote": "“Be that our sign of parting, bird or fiend!” I shrieked, upstarting—"
+   },
+   "image": {
+    "url": "/images/the-raven/fiend.webp",
+    "alt": "The man stands up shrieking at the raven in a shaft of light",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Still is sitting",
+   "text": "The raven never leaves. It sits on the bust, its shadow on the floor, and the speaker's soul lies in that shadow for good.",
+   "metadata": {
+    "act": "Act 3: The Questions",
+    "act_number": 3,
+    "beat_number": 11,
+    "when": "main",
+    "source_quote": "And the Raven, never flitting, still is sitting, still is sitting"
+   },
+   "image": {
+    "url": "/images/the-raven/shadow.webp",
+    "alt": "The man lying on the floor in the raven's shadow, the bird still on the bust above the door",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The narrator",
+   "text": "A lonely student who reads to forget the woman he lost. Reasonable at first, he questions the bird into a sentence of despair.",
+   "metadata": {
+    "tags": [
+     "protagonist",
+     "grieving"
+    ],
+    "aliases": [
+     "the scholar",
+     "the student"
+    ]
+   },
+   "image": {
+    "url": "/images/the-raven/fancy.webp",
+    "alt": "The man sunk in a velvet chair, lost in thought, a dark hound at his feet",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Raven",
+   "text": "A black bird \"of the saintly days of yore\" that knows one word and never moves from the bust of Pallas. Poe called it emblematic of mournful and never-ending remembrance.",
+   "metadata": {
+    "tags": [
+     "oracle",
+     "bird"
+    ],
+    "aliases": [],
+    "source_quote": "Ghastly grim and ancient Raven wandering from the Nightly shore—"
+   },
+   "image": {
+    "url": "/images/the-raven/bust.webp",
+    "alt": "The raven perched on a bust of Pallas above the chamber door, light fanning out behind",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Lenore",
+   "text": "The dead woman the narrator loved. She never appears; she exists only as a name whispered into the dark.",
+   "metadata": {
+    "tags": [
+     "absent",
+     "beloved"
+    ],
+    "aliases": [],
+    "source_quote": "For the rare and radiant maiden whom the angels name Lenore—"
+   },
+   "image": {
+    "url": "/images/the-raven/lenore.webp",
+    "alt": "Angels carrying a maiden through the clouds above a dark sea",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The chamber",
+   "text": "A study at night: old books, a lamp, a dying fire, purple curtains and a velvet chair. The whole poem happens inside it.",
+   "metadata": {
+    "tags": [
+     "interior"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-raven/midnight.webp",
+    "alt": "A man asleep over his books at a lamp-lit desk at midnight",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The chamber door and the bust of Pallas",
+   "text": "Above the door stands a bust of Pallas Athena, goddess of wisdom. The bird of ill omen settles on wisdom's head.",
+   "metadata": {
+    "tags": [
+     "symbol"
+    ],
+    "aliases": [],
+    "source_quote": "Perched upon a bust of Pallas just above my chamber door—"
+   },
+   "image": {
+    "url": "/images/the-raven/bust.webp",
+    "alt": "The raven perched on a bust of Pallas above the chamber door, light fanning out behind",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The Night's Plutonian shore",
+   "text": "The darkness the raven seems to come from: Pluto's realm, the shore of the dead.",
+   "metadata": {
+    "tags": [
+     "underworld"
+    ],
+    "aliases": [],
+    "source_quote": "Tell me what thy lordly name is on the Night’s Plutonian shore!"
+   },
+   "image": {
+    "url": "/images/the-raven/shore.webp",
+    "alt": "A graveyard by night under a low moon, crosses and tombstones, a raven flying overhead",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "One word",
+   "text": "The poem's single rule: the Raven can only say \"Nevermore\". All the meaning comes from the questions.",
+   "metadata": {
+    "tags": [
+     "rule",
+     "language"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-raven/bust.webp",
+    "alt": "The raven perched on a bust of Pallas above the chamber door, light fanning out behind",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "December night",
+   "text": "Bleak December, midnight, a storm outside: Poe's setting for maximum melancholy.",
+   "metadata": {
+    "tags": [
+     "time"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-raven/december.webp",
+    "alt": "A dim room in December: a woman's ghostly figure stands while the man sits by the dying fire",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Answers supplied by the asker",
+   "text": "The bird's word is random; the man shapes each question so that \"Nevermore\" will hurt most. Meaning is something the listener brings.",
+   "metadata": {
+    "tags": [
+     "meaning",
+     "projection"
+    ],
+    "aliases": [],
+    "source_quote": "Doubtless,” said I, “what it utters is its only stock and store,"
+   },
+   "image": {
+    "url": "/images/the-raven/gilead.webp",
+    "alt": "The man reaching up toward the raven on the bust, pleading, as smoke rises",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Grief that wants to be told",
+   "text": "He does not ask for comfort but for a verdict, and he goes to the one source that can only give the verdict he fears.",
+   "metadata": {
+    "tags": [
+     "grief"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-raven/aidenn.webp",
+    "alt": "Two figures walking in a luminous garden among trees, a vision of paradise",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Remembrance without end",
+   "text": "The final stanza turns an evening into a permanent state: the raven still sits, the soul is never lifted.",
+   "metadata": {
+    "tags": [
+     "memory"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-raven/shadow.webp",
+    "alt": "The man lying on the floor in the raven's shadow, the bird still on the bust above the door",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Wisdom crowned by omen",
+   "text": "The Raven perches on Pallas, goddess of wisdom: reason itself has become the seat of the bird of despair.",
+   "metadata": {
+    "tags": [
+     "symbol"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-raven/bust.webp",
+    "alt": "The raven perched on a bust of Pallas above the chamber door, light fanning out behind",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Balm in Gilead",
+   "text": "From Jeremiah 8:22, \"Is there no balm in Gilead?\": a question about whether any healing is left.",
+   "metadata": {
+    "tags": [
+     "Bible"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-raven/gilead.webp",
+    "alt": "The man reaching up toward the raven on the bust, pleading, as smoke rises",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Nepenthe",
+   "text": "In the Odyssey, Helen gives Telemachus and Menelaus nepenthe, a drug of forgetfulness for grief.",
+   "metadata": {
+    "tags": [
+     "Homer"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-raven/nepenthe.webp",
+    "alt": "Seraphim swinging a censer around the seated man while the raven watches from the bust",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Aidenn",
+   "text": "Poe's spelling of Eden, used for the far-off paradise where he hopes to meet Lenore.",
+   "metadata": {
+    "tags": [
+     "paradise"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-raven/aidenn.webp",
+    "alt": "Two figures walking in a luminous garden among trees, a vision of paradise",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Pallas Athena",
+   "text": "Greek goddess of wisdom; her bust was a common ornament in libraries and studies.",
+   "metadata": {
+    "tags": [
+     "mythology"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "/images/the-raven/bust.webp",
+    "alt": "The raven perched on a bust of Pallas above the chamber door, light fanning out behind",
+    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
+    "source": "https://www.gutenberg.org/ebooks/17192"
+   }
+  }
+ ]
+}
