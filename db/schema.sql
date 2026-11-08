@@ -103,5 +103,8 @@ CREATE TABLE IF NOT EXISTS cloud_elements (
   created_at timestamptz NOT NULL DEFAULT now()
 );
 
+-- Works published by multi-user writers (Studio) record whose they are, as clouds do.
+ALTER TABLE content_units ADD COLUMN IF NOT EXISTS owner text;
+
 CREATE INDEX IF NOT EXISTS cloud_elements_cloud_idx ON cloud_elements (cloud_id, kind, position);
 CREATE INDEX IF NOT EXISTS clouds_status_idx ON clouds (status, updated_at DESC);

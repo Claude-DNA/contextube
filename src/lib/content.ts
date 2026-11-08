@@ -302,12 +302,15 @@ export async function publishContent(input: PublishInput, writer: string) {
   const totalTokens = prepared.reduce((s, c) => s + c.tokens, 0);
 
   return withTransaction(async (db) => {
-    const owner = await db.query<{ published_by: string | null }>(
-      `SELECT published_by FROM content_units WHERE slug = $1 FOR UPDATE`,
+    const owner = await db.query<{ published_by: string | null; owner: string | null }>(
+      `SELECT published_by, owner FROM content_units WHERE slug = $1 FOR UPDATE`,
       [slug],
     );
-    const by = owner.rows[0]?.published_by;
-    if (owner.rows.length && by && by !== writer && !isEditor(writer)) throw new SlugTakenError(slug);
+    const prev = owner.rows[0];
+    if (prev && !isEditor(writer)) {
+      if (prev.published_by && prev.published_by !== writer) throw new SlugTakenError(slug);
+      if (prev.owner && prev.owner !== input.owner) throw new SlugTakenError(slug);
+    }
 
     let flowId: string | null = null;
     if (input.flow) {
@@ -326,20 +329,21 @@ export async function publishContent(input: PublishInput, writer: string) {
     const unit = await db.query<{ id: string; slug: string; created: boolean }>(
       `INSERT INTO content_units
          (flow_id, slug, title, description, language, tags, domains, source_title, source_author,
-          rights, purchase_url, status, chunk_count, total_tokens, published_by, cover)
-       VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16::jsonb)
+          rights, purchase_url, status, chunk_count, total_tokens, published_by, cover, owner)
+       VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16::jsonb,$17)
        ON CONFLICT (slug) DO UPDATE SET
          flow_id = EXCLUDED.flow_id, title = EXCLUDED.title, description = EXCLUDED.description,
          language = EXCLUDED.language, tags = EXCLUDED.tags, domains = EXCLUDED.domains,
          source_title = EXCLUDED.source_title, source_author = EXCLUDED.source_author,
          rights = EXCLUDED.rights, purchase_url = EXCLUDED.purchase_url, status = EXCLUDED.status,
          chunk_count = EXCLUDED.chunk_count, total_tokens = EXCLUDED.total_tokens,
-         published_by = EXCLUDED.published_by, cover = EXCLUDED.cover, updated_at = now()
+         published_by = EXCLUDED.published_by, cover = EXCLUDED.cover,
+         owner = COALESCE(EXCLUDED.owner, content_units.owner), updated_at = now()
        RETURNING id, slug, (xmax = 0) AS created`,
       [
         flowId, slug, input.title, input.description, input.language, input.tags, input.domains,
         input.source_title ?? null, input.source_author ?? null, input.rights, input.purchase_url ?? null,
-        input.status, prepared.length, totalTokens, writer, jsonImage(input.cover),
+        input.status, prepared.length, totalTokens, writer, jsonImage(input.cover), input.owner ?? null,
       ],
     );
     const { id, created } = unit.rows[0];

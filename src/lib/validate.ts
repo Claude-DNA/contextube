@@ -57,6 +57,8 @@ export const publishSchema = z.object({
   source_author: z.string().optional(),
   rights: z.enum(["own", "public_domain", "copyrighted"]).optional().default("own"),
   purchase_url: z.string().url().optional(),
+  /** For writers that publish for many people (Studio): who owns this work. */
+  owner: z.string().trim().max(120).optional(),
   chunks: z.array(chunkSchema).min(1, "at least one chunk is required").max(2000),
 }).superRefine((u, ctx) => {
   if (u.rights === "copyrighted") {
