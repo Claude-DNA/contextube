@@ -4,13 +4,15 @@ import { rateLimit } from "@/lib/http";
 import { listContent, getContent, getLayer, searchContent, listFlows } from "@/lib/content";
 import { assemble, assembledToText } from "@/lib/assemble";
 import { layerName, LAYERS_INLINE } from "@/lib/layers";
+import { listClouds, getCloud, cloudAsText } from "@/lib/clouds";
 
 export const maxDuration = 60;
 
 const INSTRUCTIONS = `ConteXtube holds human-made interpretations of works (literature, essays, philosophy, film), each split into five layers of depth:
 ${LAYERS_INLINE}.
 L1 opens with a symbolic extract, L2 ideas carry source quotes, L3 links other works, L4 is the creator's interpretation, L5 is the source text or notes.
-Work in this order: search_content → get_content → get_layer with layer 1 → deeper layers, or assemble_context to fit a token budget.`;
+Work in this order: search_content → get_content → get_layer with layer 1 → deeper layers, or assemble_context to fit a token budget.
+It also holds clouds: a work's story bible (plot beats in story order, characters, places, world rules, ideas, references). Use list_clouds, then get_cloud.`;
 
 /** Every tool answers with readable text plus the same data as JSON. */
 function reply(text: string, data: unknown) {
@@ -135,6 +137,37 @@ const handler = createMcpHandler(
         const flows = await listFlows();
         const text = flows.map((f) => `- ${f.name} (slug: ${f.slug}) — ${f.content_count} ${f.content_count === 1 ? "work" : "works"}${f.creator_name ? `, by ${f.creator_name}` : ""}`).join("\n") || "No flows yet.";
         return reply(text, flows);
+      },
+    );
+
+    server.registerTool(
+      "list_clouds",
+      {
+        title: "List story clouds",
+        description: "Clouds are works' story bibles: plot beats, characters, places, world rules, ideas and references.",
+        inputSchema: z.object({
+          flow: z.string().optional().describe("A creator's collection slug"),
+          limit: z.number().int().min(1).max(100).optional(),
+        }),
+      },
+      async ({ flow, limit }) => {
+        const r = await listClouds({ flow, limit });
+        const text = r.clouds.map((c) => `- ${c.title} (slug: ${c.slug}, ${c.element_count} elements)${c.creator_name ? `, by ${c.creator_name}` : ""} — ${c.description}`).join("\n") || "No clouds yet.";
+        return reply(`${r.total} ${r.total === 1 ? "cloud" : "clouds"}.\n${text}`, r);
+      },
+    );
+
+    server.registerTool(
+      "get_cloud",
+      {
+        title: "Get a story cloud",
+        description: "The whole cloud as one readable document: plot beats in story order with acts and flashbacks marked, then characters, places, world rules, ideas and references, with quotes from the text.",
+        inputSchema: z.object({ slug: z.string().min(1).describe("Cloud slug from list_clouds") }),
+      },
+      async ({ slug }) => {
+        const c = await getCloud(slug);
+        if (!c) return { isError: true, content: [{ type: "text" as const, text: `No published cloud with slug "${slug}". Try list_clouds.` }] };
+        return { content: [{ type: "text" as const, text: cloudAsText(c) }] };
       },
     );
   },

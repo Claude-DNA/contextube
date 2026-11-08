@@ -86,6 +86,50 @@ export function openapi(site: string) {
       "/flows": {
         get: { operationId: "listFlows", summary: "List all content flows (collections by creator)", responses: { "200": { description: "Flows with content counts" } } },
       },
+      "/clouds": {
+        get: {
+          operationId: "listClouds",
+          summary: "List story clouds",
+          description: "Published clouds: works' story bibles (plot beats in story order, characters, places, world rules, ideas, references), newest first.",
+          parameters: [
+            { name: "flow", in: "query", schema: { type: "string" }, description: "Filter by the creator's flow slug" },
+            { name: "limit", in: "query", schema: { type: "integer", default: 50, maximum: 100 } },
+            { name: "offset", in: "query", schema: { type: "integer", default: 0 } },
+          ],
+          responses: { "200": { description: "{ clouds, total }" } },
+        },
+        post: {
+          operationId: "publishCloud",
+          summary: "Publish or replace a cloud",
+          description: "Requires a publish key. Body: { title, description?, genre?, creator_name?, flow?, work?, rights?, cover?, owner?, elements: [{ kind: plot|characters|stage|universe|ideas|references (Studio's arc, scenes, world also work), title, text, image?, metadata? }] }. Elements of each kind keep the order sent.",
+          security: [{ publishKey: [] }],
+          responses: { "201": { description: "Published" }, "200": { description: "Replaced" }, "409": errorResponse, "422": errorResponse },
+        },
+      },
+      "/clouds/{slug}": {
+        get: {
+          operationId: "getCloud",
+          summary: "Get a cloud with its elements",
+          parameters: [{ name: "slug", in: "path", required: true, schema: { type: "string" } }],
+          responses: { "200": { description: "{ cloud } with elements grouped by kind" }, "404": errorResponse },
+        },
+        delete: {
+          operationId: "unpublishCloud",
+          summary: "Take a cloud down",
+          security: [{ publishKey: [] }],
+          parameters: [{ name: "slug", in: "path", required: true, schema: { type: "string" } }],
+          responses: { "200": { description: "Unpublished" }, "403": errorResponse, "404": errorResponse },
+        },
+      },
+      "/clouds/{slug}/text": {
+        get: {
+          operationId: "getCloudText",
+          summary: "Get a cloud as one plain-text document",
+          description: "Markdown for an AI's context: plot beats in story order with acts and flashbacks marked, then characters, places, world rules, ideas and references, with quotes.",
+          parameters: [{ name: "slug", in: "path", required: true, schema: { type: "string" } }],
+          responses: { "200": { description: "text/markdown" }, "404": errorResponse },
+        },
+      },
       "/categories": {
         get: { operationId: "listCategories", summary: "List all available domains and tags with counts", responses: { "200": { description: "Domains and tags with counts" } } },
       },

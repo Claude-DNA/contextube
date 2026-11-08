@@ -4,6 +4,7 @@ import { NEW_FLOW_URL, STUDIO_URL } from "@/lib/studio";
 
 const LINKS = [
   { href: "/explore", label: "Explore" },
+  { href: "/clouds", label: "Clouds" },
   { href: "/about", label: "About" },
   { href: "/how-it-works", label: "How It Works" },
   { href: "/docs", label: "Docs" },

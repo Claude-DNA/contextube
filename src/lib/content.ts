@@ -266,7 +266,7 @@ export class SlugTakenError extends Error {
 }
 
 /** Writers who may replace any work. Others may only replace their own. */
-function isEditor(writer: string): boolean {
+export function isEditor(writer: string): boolean {
   const editors = (process.env.PUBLISH_EDITORS ?? "andrei,navigator,claude").split(",").map((s) => s.trim());
   return editors.includes(writer);
 }

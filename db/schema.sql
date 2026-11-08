@@ -64,3 +64,44 @@ CREATE INDEX IF NOT EXISTS chunks_search_idx ON chunks USING gin (search);
 CREATE INDEX IF NOT EXISTS units_status_idx ON content_units (status, created_at DESC);
 CREATE INDEX IF NOT EXISTS units_tags_idx ON content_units USING gin (tags);
 CREATE INDEX IF NOT EXISTS units_domains_idx ON content_units USING gin (domains);
+
+-- Clouds: a work's story bible as published from Context Cloud Studio (the old /cloud pages).
+-- Elements are grouped by kind: plot (beats, in story order), characters, stage (places),
+-- universe (world rules), ideas and references.
+CREATE TABLE IF NOT EXISTS clouds (
+  id            uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+  slug          text UNIQUE NOT NULL,
+  title         text NOT NULL,
+  description   text NOT NULL DEFAULT '',
+  genre         text,
+  creator_name  text,
+  flow_id       uuid REFERENCES flows(id) ON DELETE SET NULL,
+  work_slug     text,
+  rights        text NOT NULL DEFAULT 'own' CHECK (rights IN ('own', 'public_domain', 'copyrighted')),
+  source_title  text,
+  source_author text,
+  purchase_url  text,
+  cover         jsonb,
+  element_count integer NOT NULL DEFAULT 0,
+  status        text NOT NULL DEFAULT 'published' CHECK (status IN ('draft', 'published')),
+  published_by  text,
+  -- For writers that publish for many people (Studio): whose cloud this is, so one user can't overwrite another's.
+  owner         text,
+  created_at    timestamptz NOT NULL DEFAULT now(),
+  updated_at    timestamptz NOT NULL DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS cloud_elements (
+  id         uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+  cloud_id   uuid NOT NULL REFERENCES clouds(id) ON DELETE CASCADE,
+  kind       text NOT NULL CHECK (kind IN ('plot', 'characters', 'stage', 'universe', 'ideas', 'references')),
+  position   integer NOT NULL DEFAULT 0,
+  title      text NOT NULL,
+  text       text NOT NULL DEFAULT '',
+  image      jsonb,
+  metadata   jsonb NOT NULL DEFAULT '{}',
+  created_at timestamptz NOT NULL DEFAULT now()
+);
+
+CREATE INDEX IF NOT EXISTS cloud_elements_cloud_idx ON cloud_elements (cloud_id, kind, position);
+CREATE INDEX IF NOT EXISTS clouds_status_idx ON clouds (status, updated_at DESC);

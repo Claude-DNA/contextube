@@ -73,3 +73,62 @@ export type ChunkInput = PublishInput["chunks"][number];
 export function formatZodError(err: z.ZodError) {
   return err.issues.map((i) => ({ path: i.path.join("."), message: i.message }));
 }
+
+// ---------- Clouds ----------
+
+/** Studio's cloud types and the names used on ConteXtube. */
+export const CLOUD_KINDS = ["plot", "characters", "stage", "universe", "ideas", "references"] as const;
+export type CloudKind = (typeof CLOUD_KINDS)[number];
+const KIND_ALIASES: Record<string, CloudKind> = {
+  arc: "plot", plot: "plot", beat: "plot", beats: "plot",
+  characters: "characters", character: "characters",
+  scenes: "stage", scene: "stage", stage: "stage", places: "stage",
+  world: "universe", universe: "universe",
+  ideas: "ideas", idea: "ideas", themes: "ideas",
+  references: "references", reference: "references",
+};
+
+const elementSchema = z.object({
+  kind: z.string().trim().transform((k, ctx) => {
+    const kind = KIND_ALIASES[k.toLowerCase()];
+    if (!kind) ctx.addIssue({ code: "custom", message: `kind must be one of ${CLOUD_KINDS.join(", ")} (Studio names arc, scenes, world also work)` });
+    return kind ?? "plot";
+  }),
+  title: z.string().trim().min(1, "title is required").max(200),
+  text: z.string().trim().max(6000).optional().default(""),
+  image: imageInput.optional().nullable(),
+  /** Free-form; the page and API use: source_quote, act, act_number, when, aliases, initial_state, tags. */
+  metadata: z.record(z.string(), z.unknown()).optional().default({}),
+});
+
+export const cloudSchema = z.object({
+  slug: z.string().trim().regex(/^[a-z0-9-]+$/, "slug may hold only a-z, 0-9 and -").optional(),
+  title: z.string().trim().min(1, "title is required").max(200),
+  description: z.string().trim().max(1000).optional().default(""),
+  genre: z.string().trim().max(60).optional(),
+  creator_name: z.string().trim().max(120).optional(),
+  /** The creator's flow (their author page), e.g. "andrei-navrotskii"; created if new. */
+  flow: z.string().trim().regex(/^[a-z0-9-]+$/).optional(),
+  flow_name: z.string().trim().max(120).optional(),
+  /** Slug of the work's five-layer page on ConteXtube, when there is one. */
+  work: z.string().trim().regex(/^[a-z0-9-]+$/).optional(),
+  rights: z.enum(["own", "public_domain", "copyrighted"]).optional().default("own"),
+  source_title: z.string().trim().max(300).optional(),
+  source_author: z.string().trim().max(200).optional(),
+  purchase_url: z.string().url().optional(),
+  cover: imageInput.optional(),
+  /** For writers that publish for many people (Studio): who owns this cloud. */
+  owner: z.string().trim().max(120).optional(),
+  status: z.enum(["draft", "published"]).optional().default("published"),
+  elements: z.array(elementSchema).min(1, "at least one element is required").max(600),
+}).superRefine((c, ctx) => {
+  if (c.rights !== "copyrighted") return;
+  c.elements.forEach((e, i) => {
+    const q = e.metadata?.source_quote;
+    if (typeof q === "string" && q.length > 300) {
+      ctx.addIssue({ code: "custom", path: ["elements", i, "metadata", "source_quote"], message: "quotes from copyrighted works must be 300 characters or fewer" });
+    }
+  });
+});
+
+export type CloudInput = z.infer<typeof cloudSchema>;

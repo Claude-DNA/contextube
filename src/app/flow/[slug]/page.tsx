@@ -1,6 +1,8 @@
 import { notFound } from "next/navigation";
 import { getFlow, listContent } from "@/lib/content";
 import { WorkCard } from "@/components/WorkCard";
+import { CloudCard } from "@/components/CloudCard";
+import { listClouds } from "@/lib/clouds";
 import { Picture } from "@/components/Picture";
 import { NEW_FLOW_URL } from "@/lib/studio";
 
@@ -10,7 +12,7 @@ export default async function FlowPage({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const flow = await getFlow(slug);
   if (!flow) notFound();
-  const { content } = await listContent({ flow: slug, limit: 100 });
+  const [{ content }, { clouds }] = await Promise.all([listContent({ flow: slug, limit: 100 }), listClouds({ flow: slug, limit: 100 })]);
   return (
     <div className="max-w-6xl mx-auto px-4 pt-24 pb-16">
       <div className={`mb-10 ${flow.cover ? "flex flex-col-reverse gap-6 md:flex-row md:items-center md:justify-between" : ""}`}>
@@ -31,6 +33,14 @@ export default async function FlowPage({ params }: { params: Promise<{ slug: str
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
         {content.map((u) => <WorkCard key={u.id} u={u} headingLevel={2} />)}
       </div>
+      {clouds.length > 0 && (
+        <section aria-labelledby="h-flow-clouds" className="mt-12">
+          <h2 id="h-flow-clouds" className="mb-4 border-b border-gray-800 pb-3 text-xl font-bold">Clouds</h2>
+          <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+            {clouds.map((c) => <CloudCard key={c.id} c={c} />)}
+          </div>
+        </section>
+      )}
       <p className="mt-12 text-sm text-gray-500">
         Have a reading of your own?{" "}
         <a href={NEW_FLOW_URL} className="text-amber-400 hover:text-amber-300 font-medium">Create a new flow in Context Cloud Studio →</a>

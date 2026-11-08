@@ -1,6 +1,8 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import { listContent, listCategories, searchContent, listFlows } from "@/lib/content";
+import { listClouds } from "@/lib/clouds";
+import { CloudCard } from "@/components/CloudCard";
 import { WorkCard } from "@/components/WorkCard";
 import { Picture } from "@/components/Picture";
 import { NEW_FLOW_URL } from "@/lib/studio";
@@ -24,11 +26,12 @@ const pill = (active: boolean, kind: "domain" | "tag") =>
 export default async function ExplorePage({ searchParams }: Props) {
   const { q, tag, domain } = await searchParams;
   const filtered = Boolean(q || tag || domain);
-  const [categories, hits, list, flows] = await Promise.all([
+  const [categories, hits, list, flows, cloudList] = await Promise.all([
     listCategories(),
     q ? searchContent(q, 25) : Promise.resolve(null),
     q ? Promise.resolve(null) : listContent({ tag, domain, limit: 100 }),
     filtered ? Promise.resolve([]) : listFlows(),
+    filtered ? Promise.resolve({ clouds: [], total: 0 }) : listClouds({ limit: 6 }),
   ]);
 
   const heading = q ? `Results for “${q}”` : domain ? `Domain: ${domain}` : tag ? `Tag: ${tag}` : "All works";
@@ -65,6 +68,18 @@ export default async function ExplorePage({ searchParams }: Props) {
           </ul>
         )}
       </div>
+
+      {!filtered && cloudList.clouds.length > 0 && (
+        <section aria-labelledby="h-clouds" className="mb-12">
+          <div className="mb-4 flex items-baseline justify-between border-b border-gray-800 pb-3">
+            <h2 id="h-clouds" className="text-xl font-bold">Clouds</h2>
+            {cloudList.total > cloudList.clouds.length && <Link href="/clouds" className="text-sm text-violet-300 hover:text-violet-200">All {cloudList.total} clouds →</Link>}
+          </div>
+          <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+            {cloudList.clouds.map((c) => <CloudCard key={c.id} c={c} />)}
+          </div>
+        </section>
+      )}
 
       {!filtered && (
         <section aria-labelledby="h-flows" className="mb-12">

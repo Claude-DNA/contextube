@@ -1,5 +1,6 @@
 import { siteUrl } from "@/lib/http";
 import { listContent } from "@/lib/content";
+import { listClouds } from "@/lib/clouds";
 
 export const revalidate = 3600;
 
@@ -11,6 +12,13 @@ export async function GET() {
     catalog = content.map((u) => `- [${u.title}](${site}/api/v1/content/${u.slug}): ${u.description}`).join("\n");
   } catch {
     catalog = "(catalog unavailable; use GET /api/v1/content)";
+  }
+  let cloudList = "";
+  try {
+    const { clouds } = await listClouds({ limit: 100 });
+    cloudList = clouds.map((c) => `- [${c.title}](${site}/api/v1/clouds/${c.slug}/text): ${c.description}`).join("\n") || "(none yet)";
+  } catch {
+    cloudList = "(list unavailable; use GET /api/v1/clouds)";
   }
 
   const body = `# ConteXtube — Structured Narratives for AI
@@ -44,6 +52,12 @@ POST /api/v1/assemble
 Body: {"contentId": "...", "maxTokens": 4000, "maxLayer": 3, "focus": ["concept"]}
 Returns: the best chunks within your token budget, grouped by layer
 
+### Story clouds
+A cloud is a work's story bible: plot beats in story order (acts and flashbacks marked), characters, places, world rules, ideas and references, with quotes from the text.
+GET /api/v1/clouds               → list clouds
+GET /api/v1/clouds/{slug}        → JSON, elements grouped by kind
+GET /api/v1/clouds/{slug}/text   → the whole cloud as one Markdown document, ready for your context
+
 ## The 5 Layers
 Layer 1 — Abstract Associations: gut feelings and associations, as a symbolic extract (~50 tokens)
 Layer 2 — Ideas & Evidence: ideas backed by direct quotes from the source (~200 tokens)
@@ -59,10 +73,13 @@ Layer 5 — Full Narrative & Meta: the full source with notes on how the context
 
 ## MCP
 Streamable HTTP server: ${site}/api/mcp
-Tools: search_content, list_content, get_content, get_layer, assemble_context, list_flows
+Tools: search_content, list_content, get_content, get_layer, assemble_context, list_flows, list_clouds, get_cloud
 
 ## Available Content
 ${catalog}
+
+## Available Clouds
+${cloudList}
 
 ## Full API Documentation
 ${site}/docs
