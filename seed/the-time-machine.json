@@ -1,0 +1,203 @@
+{
+ "slug": "the-time-machine",
+ "title": "The Time Machine",
+ "description": "H. G. Wells's 1895 novella: a Victorian inventor travels to the year 802,701 and finds humanity split into two species, the gentle Eloi above ground and the Morlocks below, then rides on to the dying sun.",
+ "source_title": "The Time Machine",
+ "source_author": "H. G. Wells",
+ "purchase_url": "https://www.gutenberg.org/ebooks/35",
+ "tags": [
+  "time",
+  "evolution",
+  "class",
+  "entropy",
+  "future"
+ ],
+ "domains": [
+  "literature",
+  "science fiction"
+ ],
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "creator_name": "ConteXtube",
+ "language": "en",
+ "rights": "public_domain",
+ "cover": {
+  "url": "https://contextcloud.studio/api/v1/images/b2444aa4-e529-46ef-af42-92a36530e16a",
+  "alt": "The White Sphinx in the garden of the year 802,701",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
+ },
+ "chunks": [
+  {
+   "layer": 1,
+   "extract": "class becomes species",
+   "importance": 1.0,
+   "text": "Keep the rich in the sun and the workers underground long enough, and they stop being two classes. They become two species, and one eats the other.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/1e3cb09e-92b8-4cc0-8361-742b8f7e672c",
+     "alt": "Underground, the Time Traveller holds off the Morlocks with a match",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "comfort ends intelligence",
+   "importance": 0.95,
+   "text": "The future is not ruined by disaster but by success: a humanity with nothing left to struggle against forgets how to think.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/73688a41-3791-4e7a-afd0-f9686d3f05dd",
+     "alt": "The Eloi garland the Time Traveller with flowers",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "tenderness outlasts mind",
+   "importance": 0.9,
+   "text": "Wells shows the end of the species and the death of the sun, and leaves the reader holding two small dried flowers.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/b49495dd-b817-4946-9f6f-d0c3b74d58f1",
+     "alt": "Two strange white flowers, Weena's gift",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "time as fourth dimension",
+   "importance": 0.8,
+   "text": "Ten years before Einstein's special relativity, the Time Traveller explains his idea after dinner to sceptical guests.",
+   "source_quote": "There is no difference between Time and any of the three dimensions of Space except that our consciousness moves along it.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/3af0f788-46ee-4598-86c2-644dae5ca76c",
+     "alt": "The Time Traveller's guests watch the model machine vanish",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "sunset of mankind",
+   "importance": 0.8,
+   "text": "His first theory of the future is a pastoral one: the Eloi are what people become when all problems have been solved.",
+   "source_quote": "The ruddy sunset set me thinking of the sunset of mankind.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/b2444aa4-e529-46ef-af42-92a36530e16a",
+     "alt": "The White Sphinx in the garden of the year 802,701",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "Haves above, Have-nots below",
+   "importance": 0.85,
+   "text": "The second theory is Victorian economics run forward: the workers driven underground, the owners left with the surface.",
+   "source_quote": "above ground you must have the Haves, pursuing pleasure and comfort and beauty, and below ground the Have-nots",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/ed8d2416-6c96-4d6f-84da-5607beaa922f",
+     "alt": "The wells that lead down to the Morlocks",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "mere fatted cattle",
+   "importance": 0.8,
+   "text": "The final theory is the horror of the book: the masters have become livestock and the servants farm them.",
+   "source_quote": "These Eloi were mere fatted cattle, which the ant-like Morlocks preserved and preyed upon",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/fd292ec2-165a-4721-bf12-252a057293fb",
+     "alt": "The fire in the forest, where Weena is lost",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "versatility needs danger",
+   "importance": 0.75,
+   "text": "The Traveller's moral is biological, not political: intelligence exists to solve problems, and fades when the problems go.",
+   "source_quote": "It is a law of nature we overlook, that intellectual versatility is the compensation for change, danger, and trouble.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/423eb74f-765d-4e19-a7ee-ce73f1a32e96",
+     "alt": "The Palace of Green Porcelain, a ruined museum",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "one-way trips forward",
+   "importance": 0.6,
+   "links": [
+    "rip-van-winkle"
+   ],
+   "text": "Rip Van Winkle travels twenty years into the future by sleeping, the Time Traveller eight hundred thousand by machine. Both come back to a room of people who half believe them, and both are changed into storytellers whose evidence is thin: Rip has a rusty gun, the Traveller two strange flowers.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/e2491b9f-7914-42f2-938c-4a0baccdea71",
+     "alt": "Travelling: days flicker past and the sun streaks across the sky",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "the last listener",
+   "importance": 0.5,
+   "links": [
+    "echo"
+   ],
+   "text": "In Shards: Echo, a pilot flees far enough to hear the broadcasts of a humanity that no longer exists. On the terminal beach the Time Traveller goes further still: thirty million years on, under a swollen red sun, he is the only human witness to the end. Both stories use distance in space or time to let one person see the whole species from outside.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/ed1da7aa-1771-4cf4-94e5-45916827fbf8",
+     "alt": "The terminal beach under the dying red sun",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "Huxley's student",
+   "text": "Wells trained as a biologist under T. H. Huxley, Darwin's great defender, at the Normal School of Science in South Kensington. The Time Machine, his first novel, grew from articles on time travel he wrote as a student and appeared as a book in 1895. Its dying sun reflects the physics of the day, in which Lord Kelvin had argued that the sun was slowly cooling.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/1192ad1e-02f1-4f62-9635-b96af812f9d5",
+     "alt": "The Time Traveller returns, dishevelled, to dinner",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 4,
+   "extract": "evolution without progress",
+   "importance": 0.5,
+   "text": "The Time Machine took the idea of evolution, which Victorians often heard as a promise of progress, and showed that it promises nothing. Natural selection only fits creatures to their conditions, and if those conditions are easy, the fit creature is soft and stupid. The Eloi are not punished; they are perfectly adapted. Wells turns this into a parable of class: a leisure class that no longer works and a working class that no longer sees the sun, until the relationship between them reverses.\n\nThe book is also the first story to treat time as a place you can drive to, and almost every later time-travel story borrows its machine. But its most haunting chapter goes beyond the Eloi to a beach where the last life on Earth is crabs and lichen under a dying red sun. Against that scale the Traveller's small loyalty to Weena, the Eloi woman who followed him, is the book's counterweight. The narrator, who never sees the Traveller again, chooses to keep the flowers rather than the despair.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/73688a41-3791-4e7a-afd0-f9686d3f05dd",
+     "alt": "The Eloi garland the Time Traveller with flowers",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 5,
+   "type": "meta",
+   "text": "The novella is in the public domain. Its text below is Project Gutenberg ebook 35, split into passages in reading order. Illustrations were made with an image model for ConteXtube. This interpretation was drafted by Claude in November 2026."
+  }
+ ],
+ "l5_source": "sources/the-time-machine.txt"
+}

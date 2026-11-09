@@ -1,0 +1,716 @@
+{
+ "slug": "we",
+ "title": "We",
+ "description": "A thousand years after the Two Hundred Years' War, the United State lives in glass houses behind a Green Wall, by one Table of Hours, under the Well-Doer. D-503, builder of the spaceship Integral, begins a diary in praise of it, and meets I-330.",
+ "genre": "Dystopian science fiction",
+ "creator_name": "ConteXtube",
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "work": "we",
+ "rights": "public_domain",
+ "source_title": "We, translated by Gregory Zilboorg (1924)",
+ "source_author": "Yevgeny Zamyatin",
+ "purchase_url": "https://www.gutenberg.org/ebooks/61963",
+ "cover": {
+  "url": "https://contextcloud.studio/api/v1/images/b1fd765d-cfab-45d4-bee4-9b91604b0e95",
+  "alt": "The Numbers march in fours through the glass city",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
+ },
+ "elements": [
+  {
+   "kind": "plot",
+   "title": "The announcement",
+   "text": "The State newspaper announces that the Integral will be finished in 120 days and invites every Number to write in praise of the United State. D-503 begins his records.",
+   "metadata": {
+    "act": "Order",
+    "act_number": 1,
+    "beat_number": 1,
+    "when": "main",
+    "source_quote": "In another hundred and twenty days the building of the Integral will be completed."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/eafc78ef-524f-4a75-8e88-f909dfa6269c",
+    "alt": "D-503 at the dock where the Integral is being built",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The walk in fours",
+   "text": "During the personal hour Numbers march in ranks of four to the March of the United State. D-503 walks with O-90 and meets I-330, who mocks the uniformity.",
+   "metadata": {
+    "act": "Order",
+    "act_number": 1,
+    "beat_number": 2,
+    "when": "main",
+    "source_quote": "slender, abrupt, resistantly flexible like a whip, I-330"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/b1fd765d-cfab-45d4-bee4-9b91604b0e95",
+    "alt": "The Numbers march in fours through the glass city",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The Ancient House",
+   "text": "I-330 takes D-503 to the Ancient House beyond the city, a preserved apartment of the old world, and appears in an old-fashioned yellow dress.",
+   "metadata": {
+    "act": "Order",
+    "act_number": 1,
+    "beat_number": 3,
+    "when": "main",
+    "source_quote": "That strange, delicate, blind establishment is covered all around with a glass shell"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/3e95174f-ab9c-425c-9722-c299c8ab3c41",
+    "alt": "I-330 in her yellow dress in the Ancient House, D-503 bewildered",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Dreams and a soul",
+   "text": "D-503 begins to dream and to feel jealousy. The Medical Bureau tells him a soul has formed in him, and that it is incurable.",
+   "metadata": {
+    "act": "Infection",
+    "act_number": 2,
+    "beat_number": 4,
+    "when": "main",
+    "source_quote": "Apparently a soul has formed in you."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/0734e81f-75ff-4196-bc77-f518192544e2",
+    "alt": "D-503 told by the doctor that a soul has formed in him",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The Plaza of the Cube",
+   "text": "A poet who wrote against the State is executed by the Machine of the Well-Doer. D-503 watches with the crowd and approves.",
+   "metadata": {
+    "act": "Infection",
+    "act_number": 2,
+    "beat_number": 5,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/ef03a7b4-fca8-4f54-a7f6-169db0ac6729",
+    "alt": "The Plaza of the Cube and the Machine of the Well-Doer",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Pink tickets",
+   "text": "Numbers book each other for sexual hours with pink tickets and lower their curtains. D-503's tickets for O-90 give way to his obsession with I-330.",
+   "metadata": {
+    "act": "Infection",
+    "act_number": 2,
+    "beat_number": 6,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/4603685f-5ae7-4c0a-bc2e-9195e5dee7eb",
+    "alt": "Glass apartments where everyone lives in view, one curtain lowered",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The Day of Unanimity",
+   "text": "The Well-Doer is re-elected unanimously for the forty-eighth time, except that thousands of hands rise against him. I-330 is among them.",
+   "metadata": {
+    "act": "Revolt",
+    "act_number": 3,
+    "beat_number": 7,
+    "when": "main",
+    "source_quote": "was unanimously re-elected for the forty-eighth time."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/799ce47e-05e4-4432-ac1f-c42fe12f1504",
+    "alt": "The Day of Unanimity, when thousands of hands rise against the Well-Doer",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Beyond the Wall",
+   "text": "Through a passage under the Ancient House I-330 leads D-503 into the forest, to the Mephi: wild, furred people and city rebels who plan to seize the Integral.",
+   "metadata": {
+    "act": "Revolt",
+    "act_number": 3,
+    "beat_number": 8,
+    "when": "main",
+    "source_quote": "There is no last revolution, their number is infinite"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/cfd6922b-5ad8-4127-993e-40742eb8a229",
+    "alt": "Beyond the Wall: I-330 speaks to the Mephi in the forest",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "O-90's child",
+   "text": "O-90, refused a child by the Maternal Norm, conceives one with D-503. He sends her to I-330, who smuggles her beyond the Wall.",
+   "metadata": {
+    "act": "Revolt",
+    "act_number": 3,
+    "beat_number": 9,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/7dc0decc-b7b5-474c-b5f4-68ab815ad609",
+    "alt": "O-90, expecting a child, slips beyond the Wall",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The Great Operation",
+   "text": "The State announces that the cause of all unhappiness, fancy, can be cut out of the brain with X-rays, and orders every Number to have it.",
+   "metadata": {
+    "act": "The operation",
+    "act_number": 4,
+    "beat_number": 10,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/a739f2fd-d1dc-4536-bfcf-8f68b8fd03d0",
+    "alt": "Numbers queue for the Great Operation that removes the imagination",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The Integral seized",
+   "text": "On the test flight the rebels try to take over the Integral. Their plan has been betrayed and the Guardians are waiting on board.",
+   "metadata": {
+    "act": "The operation",
+    "act_number": 4,
+    "beat_number": 11,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/2f5ec09b-7b47-4394-af47-5f0d119e4a20",
+    "alt": "The Integral's test flight, as the rebels try to seize it",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Cured",
+   "text": "D-503 is operated on, informs on the rebels and watches I-330 tortured under the Gas Bell without feeling anything. The fighting at the Wall goes on.",
+   "metadata": {
+    "act": "The operation",
+    "act_number": 4,
+    "beat_number": 12,
+    "when": "main",
+    "source_quote": "I am certain we shall win. For Reason must win."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/a739f2fd-d1dc-4536-bfcf-8f68b8fd03d0",
+    "alt": "Numbers queue for the Great Operation that removes the imagination",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "D-503",
+   "text": "The narrator: a mathematician and chief builder of the Integral, a believer in straight lines who is embarrassed by his own hairy hands.",
+   "metadata": {
+    "tags": [
+     "narrator",
+     "engineer"
+    ],
+    "aliases": [],
+    "source_quote": "I, D-503, the builder of the Integral, I am only one of the many mathematicians of the United State."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/eafc78ef-524f-4a75-8e88-f909dfa6269c",
+    "alt": "D-503 at the dock where the Integral is being built",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "I-330",
+   "text": "A slender, ironic woman with sharp teeth and dark eyebrows forming an X, who smokes, drinks and leads the plot to take the Integral.",
+   "metadata": {
+    "tags": [
+     "rebel"
+    ],
+    "aliases": [
+     "I-"
+    ],
+    "source_quote": "resistantly flexible like a whip"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/3e95174f-ab9c-425c-9722-c299c8ab3c41",
+    "alt": "I-330 in her yellow dress in the Ancient House, D-503 bewildered",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "O-90",
+   "text": "D-503's rosy, round companion, too short for the Maternal Norm, who wants a child more than anything the State can offer.",
+   "metadata": {
+    "tags": [
+     "lover",
+     "mother"
+    ],
+    "aliases": [
+     "O-"
+    ],
+    "source_quote": "She is approximately ten centimeters shorter than the required Maternal Norm."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/7dc0decc-b7b5-474c-b5f4-68ab815ad609",
+    "alt": "O-90, expecting a child, slips beyond the Wall",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "R-13",
+   "text": "A State poet with thick lips that spray words, D-503's old friend and O-90's other registered partner.",
+   "metadata": {
+    "tags": [
+     "poet"
+    ],
+    "aliases": [
+     "R-"
+    ]
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/799ce47e-05e4-4432-ac1f-c42fe12f1504",
+    "alt": "The Day of Unanimity, when thousands of hands rise against the Well-Doer",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "S-4711",
+   "text": "A stooped Guardian, double-curved like the letter S, who follows D-503 everywhere and turns out to be more than a spy.",
+   "metadata": {
+    "tags": [
+     "Guardian"
+    ],
+    "aliases": [
+     "S-"
+    ],
+    "source_quote": "double-curved like the letter S"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/ef03a7b4-fca8-4f54-a7f6-169db0ac6729",
+    "alt": "The Plaza of the Cube and the Machine of the Well-Doer",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Well-Doer",
+   "text": "The ruler of the United State, re-elected every year without opposition, who presides over executions in person.",
+   "metadata": {
+    "tags": [
+     "ruler"
+    ],
+    "aliases": [
+     "the Benefactor"
+    ]
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/ef03a7b4-fca8-4f54-a7f6-169db0ac6729",
+    "alt": "The Plaza of the Cube and the Machine of the Well-Doer",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The glass city",
+   "text": "Straight avenues of glass blocks, where everyone can see everyone, and curtains may be lowered only on sexual days.",
+   "metadata": {
+    "tags": [
+     "city"
+    ],
+    "aliases": [],
+    "source_quote": "Normally we live surrounded by transparent walls which seem to be knitted of sparkling air"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/4603685f-5ae7-4c0a-bc2e-9195e5dee7eb",
+    "alt": "Glass apartments where everyone lives in view, one curtain lowered",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The Green Wall",
+   "text": "The glass wall that shuts the city off from the wild forest and the people who survived there.",
+   "metadata": {
+    "tags": [
+     "border"
+    ],
+    "aliases": [],
+    "source_quote": "From beyond the Wall, from the infinite ocean of green there rose toward me an immense wave of roots, branches, flowers, leaves."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/fc735cc1-dd8d-41dd-8495-1fd0fa4241a9",
+    "alt": "The Green Wall, with the wild forest pressing against it",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The Ancient House",
+   "text": "A museum apartment of the twentieth century, with a piano, books and mirrors, kept under a glass shell; the rebels' secret door.",
+   "metadata": {
+    "tags": [
+     "museum"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/3e95174f-ab9c-425c-9722-c299c8ab3c41",
+    "alt": "I-330 in her yellow dress in the Ancient House, D-503 bewildered",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The Integral dock",
+   "text": "The yard where D-503's glass, electric, fire-breathing spaceship is being built to carry reason to other planets.",
+   "metadata": {
+    "tags": [
+     "spaceship"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/eafc78ef-524f-4a75-8e88-f909dfa6269c",
+    "alt": "D-503 at the dock where the Integral is being built",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The Plaza of the Cube",
+   "text": "The square where the Machine of the Well-Doer stands and public executions are held as festivals of Justice.",
+   "metadata": {
+    "tags": [
+     "execution"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/ef03a7b4-fca8-4f54-a7f6-169db0ac6729",
+    "alt": "The Plaza of the Cube and the Machine of the Well-Doer",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "The Table of Hours",
+   "text": "One timetable for everyone: millions rise, eat, work, walk and sleep at the same minute; only two personal hours a day are free.",
+   "metadata": {
+    "tags": [
+     "control"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/b1fd765d-cfab-45d4-bee4-9b91604b0e95",
+    "alt": "The Numbers march in fours through the glass city",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Numbers, not names",
+   "text": "Citizens are Numbers with a letter and digits, wear identical light blue unifs and receive pink tickets for sex.",
+   "metadata": {
+    "tags": [
+     "identity"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/4603685f-5ae7-4c0a-bc2e-9195e5dee7eb",
+    "alt": "Glass apartments where everyone lives in view, one curtain lowered",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "The Guardians",
+   "text": "An unseen secret police whom Numbers denounce each other to as a civic duty; the Bureau of Guardians receives visitors gladly.",
+   "metadata": {
+    "tags": [
+     "surveillance"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/ef03a7b4-fca8-4f54-a7f6-169db0ac6729",
+    "alt": "The Plaza of the Cube and the Machine of the Well-Doer",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "The Two Hundred Years' War",
+   "text": "The war that ended the old world: the city and the countryside fought until most of humanity was dead and the Wall was built.",
+   "metadata": {
+    "tags": [
+     "history"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/fc735cc1-dd8d-41dd-8495-1fd0fa4241a9",
+    "alt": "The Green Wall, with the wild forest pressing against it",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Happiness against freedom",
+   "text": "The State's central equation: freedom causes unhappiness and crime, so non-freedom is happiness.",
+   "metadata": {
+    "tags": [
+     "politics"
+    ],
+    "aliases": [],
+    "source_quote": "For all this preserves our non-freedom, that is, our happiness."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/b1fd765d-cfab-45d4-bee4-9b91604b0e95",
+    "alt": "The Numbers march in fours through the glass city",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "The irrational root",
+   "text": "D-503's horror of the square root of minus one becomes the novel's image for everything in people that reason cannot eliminate.",
+   "metadata": {
+    "tags": [
+     "mathematics"
+    ],
+    "aliases": [],
+    "source_quote": "when I first encountered the square-root of minus one."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/0734e81f-75ff-4196-bc77-f518192544e2",
+    "alt": "D-503 told by the doctor that a soul has formed in him",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "No final revolution",
+   "text": "I-330's answer to every utopia: since there is no largest number, there can be no last revolution.",
+   "metadata": {
+    "tags": [
+     "revolution"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/cfd6922b-5ad8-4127-993e-40742eb8a229",
+    "alt": "Beyond the Wall: I-330 speaks to the Mephi in the forest",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Beauty of submission",
+   "text": "D-503 finds dance beautiful because it is unfree, and the State's marches and hymns sell obedience as an aesthetic.",
+   "metadata": {
+    "tags": [
+     "aesthetics"
+    ],
+    "aliases": [],
+    "source_quote": "because it is an unfree movement."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/b1fd765d-cfab-45d4-bee4-9b91604b0e95",
+    "alt": "The Numbers march in fours through the glass city",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Frederick Winslow Taylor",
+   "text": "The American engineer of time-and-motion study, whom the United State reveres as the greatest genius of the ancients.",
+   "metadata": {
+    "tags": [
+     "labour"
+    ],
+    "origin": "text",
+    "refType": "person",
+    "source_quote": "Yes, this Taylor was undoubtedly the greatest genius of the ancients."
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Adam, Eve and the serpent",
+   "text": "R-13 retells the Fall: the ancients chose freedom over happiness, and the State has crushed the serpent and returned to Paradise.",
+   "metadata": {
+    "tags": [
+     "Bible"
+    ],
+    "origin": "text",
+    "refType": "book",
+    "source_quote": "We returned to the simple-mindedness and innocence of Adam and Eve."
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Official Railroad Guide",
+   "text": "D-503 praises the railway timetable as the greatest monument of ancient literature, a rough draft of the Table of Hours.",
+   "metadata": {
+    "tags": [
+     "timetable"
+    ],
+    "origin": "text",
+    "refType": "book"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Nineteen Eighty-Four (George Orwell, 1949)",
+   "text": "Orwell reviewed We in 1946 and wrote a novel of a glass-walled surveillance state, a Party leader everyone loves, a forbidden affair and a hero broken into loving Big Brother. Readers may see Winston and Julia as D-503 and I-330.",
+   "metadata": {
+    "tags": [
+     "dystopia"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "book"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Brave New World (Aldous Huxley, 1932)",
+   "text": "A world state keeps people content with conditioning, sex and soma. Readers may see in it the same bargain We describes: happiness bought with freedom.",
+   "metadata": {
+    "tags": [
+     "dystopia"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "book"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Grand Inquisitor (Dostoevsky, The Brothers Karamazov)",
+   "text": "Ivan Karamazov's parable of a church that relieves people of freedom in exchange for bread and certainty. Readers may hear it in R-13's speech on Paradise and the Well-Doer's claim to give people the happiness they cannot bear to choose.",
+   "metadata": {
+    "tags": [
+     "freedom",
+     "russian"
+    ],
+    "origin": "association",
+    "link": "source",
+    "refType": "book"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Notes from Underground: two times two (Dostoevsky, 1864)",
+   "text": "Dostoevsky's underground man rages against 'twice two makes four' and the Crystal Palace of rational happiness. Readers may hear him behind R-13's poem to the multiplication table and the whole city of glass.",
+   "metadata": {
+    "tags": [
+     "russian",
+     "reason"
+    ],
+    "origin": "association",
+    "link": "source",
+    "refType": "book"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Crystal Palace (London, 1851)",
+   "text": "The giant glass hall of the Great Exhibition, which Russian radicals took as the symbol of a rational future. Readers may see the glass city as that palace built for living in.",
+   "metadata": {
+    "tags": [
+     "glass"
+    ],
+    "origin": "association",
+    "link": "history",
+    "refType": "historical event"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Gastev and the Soviet cult of the machine",
+   "text": "Aleksei Gastev, the poet who founded the Central Institute of Labour in 1920 to apply Taylor's methods to Soviet workers, dreamed of people known by letters and numbers. Readers may recognise him in Zamyatin's Taylor-worshipping State.",
+   "metadata": {
+    "tags": [
+     "soviet",
+     "labour"
+    ],
+    "origin": "association",
+    "link": "history",
+    "refType": "historical event"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Panopticon (Jeremy Bentham)",
+   "text": "Bentham's design for a prison where every cell can be watched from one point. Readers may think of the glass walls that let every Number watch every other.",
+   "metadata": {
+    "tags": [
+     "surveillance"
+    ],
+    "origin": "association",
+    "link": "history",
+    "refType": "idea"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "THX 1138 (George Lucas, 1971)",
+   "text": "A film of numbered people with shaved heads, drugged calm and licensed sex, and one couple who break the rules. Readers may see it as We on screen in all but name.",
+   "metadata": {
+    "tags": [
+     "dystopia"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "film"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Anthem (Ayn Rand, 1938)",
+   "text": "A novella in which the word 'I' has been abolished and people have names like Equality 7-2521. Readers may find Zamyatin's title and numbered citizens in it, written by another émigré from St Petersburg.",
+   "metadata": {
+    "tags": [
+     "individualism"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "book"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Equilibrium (2002 film)",
+   "text": "A state that bans feeling with a daily drug and burns art. Readers may think of the Great Operation, which removes fancy from the brain.",
+   "metadata": {
+    "tags": [
+     "emotion"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "film"
+   }
+  }
+ ]
+}

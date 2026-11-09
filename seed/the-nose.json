@@ -1,0 +1,187 @@
+{
+ "slug": "the-nose",
+ "title": "The Nose",
+ "description": "Nikolai Gogol's 1836 story: a St Petersburg official wakes to find a smooth blank where his nose was, then meets his nose in the street, dressed in a uniform that outranks his own.",
+ "source_title": "The Nose, in The Mantle and Other Stories, translated by Claud Field",
+ "source_author": "Nikolai Gogol",
+ "purchase_url": "https://www.gutenberg.org/ebooks/36238",
+ "tags": [
+  "absurd",
+  "rank",
+  "vanity",
+  "bureaucracy",
+  "St Petersburg"
+ ],
+ "domains": [
+  "literature",
+  "satire"
+ ],
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "creator_name": "ConteXtube",
+ "language": "en",
+ "rights": "public_domain",
+ "cover": {
+  "url": "https://contextcloud.studio/api/v1/images/077bc5df-e66c-40e7-8ac8-70725430a38e",
+  "alt": "Kovaloff sees his own nose step out of a carriage in uniform",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
+ },
+ "chunks": [
+  {
+   "layer": 1,
+   "extract": "nose outranks its owner",
+   "importance": 1.0,
+   "text": "A man loses his nose and finds it promoted: it rides in a carriage, wears a better uniform than his, and refuses to admit they are related.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/077bc5df-e66c-40e7-8ac8-70725430a38e",
+     "alt": "Kovaloff sees his own nose step out of a carriage in uniform",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "rank before face",
+   "importance": 0.95,
+   "text": "Kovaloff is less afraid of being disfigured than of being seen. Without a nose he cannot call on ladies or apply for a post.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/9622c1a1-9b10-4a73-ba4d-826741b42451",
+     "alt": "Kovaloff begs his nose to return; it denies they are related",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "absurd treated as paperwork",
+   "importance": 0.9,
+   "text": "Nobody asks how a nose can walk. They ask whether it can be advertised, arrested, insured or exhibited for twenty-four kopecks.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/a97bc539-4a77-4ca5-b7c1-1c9be5ceed80",
+     "alt": "Kovaloff tries to advertise for his lost nose",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "bread with a nose",
+   "importance": 0.8,
+   "text": "The story begins at a barber's breakfast table. Gogol lets the impossible arrive in the most ordinary place he can find.",
+   "source_quote": "He put in his finger, and drew out--a nose!",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/6290ceb1-c3e6-4dc8-b69e-ed4863c1bd9e",
+     "alt": "The barber finds a nose in his breakfast loaf",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "smooth vacancy",
+   "importance": 0.8,
+   "text": "Kovaloff wakes and reaches for his mirror to inspect a pimple, and finds instead a blank as flat as the rest of his face.",
+   "source_quote": "instead of his nose he had a perfectly smooth vacancy in his face.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/a2e57237-93ec-4950-9667-5cfbf4c2caf6",
+     "alt": "Kovaloff wakes to find a smooth blank where his nose was",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "I am myself",
+   "importance": 0.85,
+   "text": "When Kovaloff finally corners his nose, it answers him with the cold courtesy of a superior official.",
+   "source_quote": "There you are wrong, respected sir; I am myself. Besides, there can be no close relations between us.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/9622c1a1-9b10-4a73-ba4d-826741b42451",
+     "alt": "Kovaloff begs his nose to return; it denies they are related",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "sell it in vinegar",
+   "importance": 0.75,
+   "text": "The doctor declines to reattach the nose and offers to buy it instead, preserved in spirits, as a curiosity.",
+   "source_quote": "I advise you to have it preserved in a bottle of spirits, or, still better, of warm vinegar mixed with two spoonfuls of brandy",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/db439fab-7cae-44cd-aa66-b798b356a1d3",
+     "alt": "The doctor refuses to reattach the nose",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "such cases do occur",
+   "importance": 0.75,
+   "text": "The narrator finishes by complaining that the story makes no sense and serves no purpose, then admits it anyway.",
+   "source_quote": "such cases do occur--rarely, it is true, but now and then actually.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/603a0671-fe21-4075-a0d8-f6cab025d8fb",
+     "alt": "The seventh of April: the nose is back",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "waking to an absurd body",
+   "importance": 0.6,
+   "links": [
+    "the-metamorphosis"
+   ],
+   "text": "Gregor Samsa wakes as an insect and worries about missing his train; Kovaloff wakes without a nose and worries about his chances of a vice-governorship. Both stories refuse to explain the impossible event. Their subject is what the people around it do: family, doctors, clerks and police treat the absurd as an administrative problem.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/a2e57237-93ec-4950-9667-5cfbf4c2caf6",
+     "alt": "Kovaloff wakes to find a smooth blank where his nose was",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "Table of Ranks",
+   "text": "Gogol's St Petersburg ran on Peter the Great's Table of Ranks, fourteen grades of civil and military service. Kovaloff is a collegiate assessor, rank eight, who calls himself Major; his nose wears the uniform of a state councillor, rank five. The story appeared in Pushkin's journal The Contemporary in 1836. Censors objected to the scene in which Kovaloff meets his nose at prayer in Kazan Cathedral, so it was moved to a shopping arcade, as in this translation.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/4f2e73aa-b096-4e8d-b263-beab8cfbd9dc",
+     "alt": "Kovaloff on the Nevsky Avenue",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 4,
+   "extract": "identity as a uniform",
+   "importance": 0.5,
+   "text": "The Nose is a joke that has kept growing for nearly two centuries. On the surface it is pure nonsense: a nose turns up in a loaf, becomes an official, tries to flee to Riga with a passport, and returns to its owner's face two weeks later without explanation. Underneath is a precise picture of a society in which a person is his rank. Kovaloff's horror is social, not physical. His nose has done what he always wanted to do: risen above him, worn better braid and refused to know him.\n\nGogol's narrator keeps protesting that none of this is possible or useful, which is itself part of the joke and part of the method. Without explaining anything, the story shows how quickly a city absorbs the impossible into its routines: newspapers that will not print the advertisement, crowds who pay to see a shop window, a doctor who wants to buy the specimen. Later writers from Dostoevsky to Bulgakov drew on this flat, deadpan treatment of the absurd, and Shostakovich made it an opera.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/d68268d3-0022-4f21-9f30-8c93f67e5365",
+     "alt": "Crowds on the Nevsky hoping to see the Major's nose",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 5,
+   "type": "meta",
+   "text": "The story is in the public domain. Its text below is Claud Field's translation from The Mantle and Other Stories, Project Gutenberg ebook 36238. Illustrations were made with an image model for ConteXtube. This interpretation was drafted by Claude in November 2026."
+  }
+ ],
+ "l5_source": "sources/the-nose.txt"
+}

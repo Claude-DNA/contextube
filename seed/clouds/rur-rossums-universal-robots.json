@@ -1,0 +1,686 @@
+{
+ "slug": "rur-rossums-universal-robots",
+ "title": "R.U.R. (Rossum's Universal Robots)",
+ "description": "On a remote island a factory mass-produces artificial people to do the world's work. Ten years later human beings have stopped having children, the Robots have been sold as soldiers, and one of them stands on a balcony and declares the rule of the Robots.",
+ "genre": "Science fiction drama",
+ "creator_name": "ConteXtube",
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "work": "rur-rossums-universal-robots",
+ "rights": "public_domain",
+ "source_title": "R.U.R. (Rossum's Universal Robots), English version by Paul Selver and Nigel Playfair (1923)",
+ "source_author": "Karel Čapek",
+ "purchase_url": "https://www.gutenberg.org/ebooks/59112",
+ "cover": {
+  "url": "https://contextcloud.studio/api/v1/images/ac44cb3d-b0bc-44f6-bc5d-a70bc4f26e63",
+  "alt": "Rows of identical Robots in the Rossum factory, Domin watching from the gallery",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
+ },
+ "elements": [
+  {
+   "kind": "plot",
+   "title": "Helena visits the island",
+   "text": "Helena Glory, the president's daughter, arrives at the Rossum's Universal Robots works intending to free the Robots. Domin, the general manager, shows her round and cannot tell her which of his staff are human.",
+   "metadata": {
+    "act": "Act I: the factory",
+    "act_number": 1,
+    "beat_number": 1,
+    "when": "main",
+    "source_quote": "Mechanically they are more perfect than we are"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/1ac1e22b-ccd7-469a-98e2-fb02241244ca",
+    "alt": "Helena in Domin's office, unable to tell whether his secretary is a Robot",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The story of Rossum",
+   "text": "Domin explains how old Rossum found a substance that behaved like living matter, and how his son stripped the human being down to what a worker needs.",
+   "metadata": {
+    "act": "Act I: the factory",
+    "act_number": 1,
+    "beat_number": 2,
+    "when": "main",
+    "source_quote": "God hasn’t the slightest notion of modern engineering."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/abe5839b-74cf-4957-972d-848647d5b7af",
+    "alt": "The kneading troughs and vats where the Robots are made",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "A proposal",
+   "text": "Helena addresses the Robots as brothers and finds they do not care. Before the act ends Domin has asked her to marry him and stay.",
+   "metadata": {
+    "act": "Act I: the factory",
+    "act_number": 1,
+    "beat_number": 3,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/4863eb5a-49e2-4a44-ae9c-53db3b19c3e4",
+    "alt": "The factory island, with the ship Ultimus waiting at the dock",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "War and pain nerves",
+   "text": "The Robots are sold by the million, some as soldiers. Dr Gall is making them feel pain, and has secretly given a few hundred of them more human souls at Helena's request.",
+   "metadata": {
+    "act": "Act II: ten years later",
+    "act_number": 2,
+    "beat_number": 4,
+    "when": "main",
+    "source_quote": "We must introduce suffering."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/ceaca470-6a12-4e5d-bb4e-a58b1d161333",
+    "alt": "Robots sold as soldiers, marching in identical ranks",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "No more children",
+   "text": "Across the world no children are being born. The ship Ultimus waits at the dock in case the humans have to flee.",
+   "metadata": {
+    "act": "Act II: ten years later",
+    "act_number": 2,
+    "beat_number": 5,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/4863eb5a-49e2-4a44-ae9c-53db3b19c3e4",
+    "alt": "The factory island, with the ship Ultimus waiting at the dock",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Helena burns the formula",
+   "text": "Helena throws old Rossum's manuscript into the fire with her nurse Nana, hoping to stop the factory and bring back the children.",
+   "metadata": {
+    "act": "Act II: ten years later",
+    "act_number": 2,
+    "beat_number": 6,
+    "when": "main",
+    "source_quote": "That children had stopped being born."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/8939a968-f342-4bd1-a572-ed12fbd6ef93",
+    "alt": "Helena burns old Rossum's manuscript while Nana watches",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The manifesto",
+   "text": "Word arrives of the Robots' first organisation and its proclamation to all Robots of the world: kill all mankind.",
+   "metadata": {
+    "act": "Act II: ten years later",
+    "act_number": 2,
+    "beat_number": 7,
+    "when": "main",
+    "source_quote": "Robots throughout the world, we command you to kill all mankind."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/9cc97dc1-82ad-4e2c-9e55-4cd438fbadf2",
+    "alt": "Robots gathered before their manifesto",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The house surrounded",
+   "text": "The managers barricade themselves in the house while silent Robots gather outside. They plan to bargain with the formula and discover it is ash.",
+   "metadata": {
+    "act": "Act III: the siege",
+    "act_number": 3,
+    "beat_number": 8,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/23b6625a-489e-42b2-bd3d-0c3e0dae415b",
+    "alt": "The managers besieged in the house as the Robots gather outside",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Busman's bargain",
+   "text": "Busman, the commercial director, goes out with the company's money to buy their lives and is killed at the fence.",
+   "metadata": {
+    "act": "Act III: the siege",
+    "act_number": 3,
+    "beat_number": 9,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/23b6625a-489e-42b2-bd3d-0c3e0dae415b",
+    "alt": "The managers besieged in the house as the Robots gather outside",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The rule of the Robots",
+   "text": "The Robots break in. Radius climbs onto the balcony and proclaims the new world; only Alquist, the builder, is spared.",
+   "metadata": {
+    "act": "Act III: the siege",
+    "act_number": 3,
+    "beat_number": 10,
+    "when": "main",
+    "source_quote": "the power of man has fallen. A new world has arisen, the rule of the Robots, march."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/e3a4685e-9a37-474e-8e35-04f73f7af44b",
+    "alt": "Radius on the balcony proclaiming the rule of the Robots",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The last human",
+   "text": "Years later the Robots are wearing out. They beg Alquist to rediscover the secret of life, and he cannot.",
+   "metadata": {
+    "act": "Epilogue",
+    "act_number": 4,
+    "beat_number": 11,
+    "when": "main",
+    "source_quote": "I am the last human being, Robots, and I do not know what the others knew."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/97c8d65a-950f-4840-b4b6-9c5f775995f0",
+    "alt": "Alquist, the last human, failing to rediscover the secret of life",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Adam and Eve",
+   "text": "Two young Robots, Primus and Helena, laugh, blush and each offer to die for the other. Alquist sends them out into the world.",
+   "metadata": {
+    "act": "Epilogue",
+    "act_number": 4,
+    "beat_number": 12,
+    "when": "main",
+    "source_quote": "We--we--belong to each other."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/7dee5adb-9d53-4585-ad9f-7de3677a78a5",
+    "alt": "Primus and Helena, the new Adam and Eve, walk out into the world",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Harry Domin",
+   "text": "The general manager: brilliant, charming and sure that the Robots will free humanity from work and make every person a lord of creation.",
+   "metadata": {
+    "tags": [
+     "manager",
+     "idealist"
+    ],
+    "aliases": [],
+    "source_quote": "An aristocracy nourished by millions of mechanical slaves."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/1ac1e22b-ccd7-469a-98e2-fb02241244ca",
+    "alt": "Helena in Domin's office, unable to tell whether his secretary is a Robot",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Helena Glory",
+   "text": "The president's daughter, who comes to liberate the Robots, marries the man who makes them, and burns the formula to save humankind.",
+   "metadata": {
+    "tags": [
+     "humanitarian"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/8939a968-f342-4bd1-a572-ed12fbd6ef93",
+    "alt": "Helena burns old Rossum's manuscript while Nana watches",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Alquist",
+   "text": "The company's builder, a quiet older man who still works with his hands and doubts the whole enterprise. The Robots spare him for that reason.",
+   "metadata": {
+    "tags": [
+     "builder",
+     "last human"
+    ],
+    "aliases": [],
+    "source_quote": "It was a crime to make Robots."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/97c8d65a-950f-4840-b4b6-9c5f775995f0",
+    "alt": "Alquist, the last human, failing to rediscover the secret of life",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Dr Gall",
+   "text": "Head of the physiological department, who gives the Robots pain nerves and, in secret, a little more humanity than was wise.",
+   "metadata": {
+    "tags": [
+     "scientist"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/abe5839b-74cf-4957-972d-848647d5b7af",
+    "alt": "The kneading troughs and vats where the Robots are made",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Busman",
+   "text": "The commercial director, who believes there is nothing money cannot settle, to the end.",
+   "metadata": {
+    "tags": [
+     "business"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/23b6625a-489e-42b2-bd3d-0c3e0dae415b",
+    "alt": "The managers besieged in the house as the Robots gather outside",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Radius",
+   "text": "The Robot librarian, given a better brain than the rest, who leads the revolt because he refuses to obey anyone.",
+   "metadata": {
+    "tags": [
+     "Robot",
+     "rebel leader"
+    ],
+    "aliases": [],
+    "source_quote": "I don’t want a master."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/e3a4685e-9a37-474e-8e35-04f73f7af44b",
+    "alt": "Radius on the balcony proclaiming the rule of the Robots",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Primus and Helena",
+   "text": "Two Robots of the last generation who discover love, play and fear for each other: the play's Adam and Eve.",
+   "metadata": {
+    "tags": [
+     "Robots",
+     "new life"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/7dee5adb-9d53-4585-ad9f-7de3677a78a5",
+    "alt": "Primus and Helena, the new Adam and Eve, walk out into the world",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Nana",
+   "text": "Helena's old nurse, who thinks the Robots are heathens and that making them is a sin against God.",
+   "metadata": {
+    "tags": [
+     "servant"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/8939a968-f342-4bd1-a572-ed12fbd6ef93",
+    "alt": "Helena burns old Rossum's manuscript while Nana watches",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "Rossum's island",
+   "text": "A remote island where the factory makes Robots by the hundred thousand and the managers live in a house among its offices.",
+   "metadata": {
+    "tags": [
+     "setting"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/4863eb5a-49e2-4a44-ae9c-53db3b19c3e4",
+    "alt": "The factory island, with the ship Ultimus waiting at the dock",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The works",
+   "text": "Kneading troughs for the living paste, vats for livers and brains, a spinning mill that weaves nerves and veins: the factory as anatomy.",
+   "metadata": {
+    "tags": [
+     "factory"
+    ],
+    "aliases": [],
+    "source_quote": "Then there are the vats for the preparation of liver, brains, and so on."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/abe5839b-74cf-4957-972d-848647d5b7af",
+    "alt": "The kneading troughs and vats where the Robots are made",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The house under siege",
+   "text": "Helena's drawing room with its flowers and fireplace, which becomes a fortress as the Robots gather outside.",
+   "metadata": {
+    "tags": [
+     "interior"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/23b6625a-489e-42b2-bd3d-0c3e0dae415b",
+    "alt": "The managers besieged in the house as the Robots gather outside",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Organic Robots",
+   "text": "Čapek's Robots are not machines of metal. They are grown from a synthetic living substance, look like people, wear out after about twenty years and feel almost no pain.",
+   "metadata": {
+    "tags": [
+     "technology"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/ac44cb3d-b0bc-44f6-bc5d-a70bc4f26e63",
+    "alt": "Rows of identical Robots in the Rossum factory, Domin watching from the gallery",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "A world without work",
+   "text": "Robots do all the world's labour; prices collapse, governments buy Robot armies, and humans stop having children.",
+   "metadata": {
+    "tags": [
+     "economy"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/ceaca470-6a12-4e5d-bb4e-a58b1d161333",
+    "alt": "Robots sold as soldiers, marching in identical ranks",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Replacement before rebellion",
+   "text": "The Robots end humanity twice: first by making people unnecessary, then by killing them. The first is the more original idea.",
+   "metadata": {
+    "tags": [
+     "AI",
+     "labour"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/4863eb5a-49e2-4a44-ae9c-53db3b19c3e4",
+    "alt": "The factory island, with the ship Ultimus waiting at the dock",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Work and worth",
+   "text": "The managers dream of freeing humans from toil and discover that toil was holding them together. Alquist, the only one who still works, is the only one spared.",
+   "metadata": {
+    "tags": [
+     "labour"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/97c8d65a-950f-4840-b4b6-9c5f775995f0",
+    "alt": "Alquist, the last human, failing to rediscover the secret of life",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "What a soul is",
+   "text": "The Robots are said to have no soul. The play's answer is practical: a soul is what makes a being laugh, grieve and choose someone else's life over its own.",
+   "metadata": {
+    "tags": [
+     "humanity"
+    ],
+    "aliases": [],
+    "source_quote": "but they have no soul."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/7dee5adb-9d53-4585-ad9f-7de3677a78a5",
+    "alt": "Primus and Helena, the new Adam and Eve, walk out into the world",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Engineering against nature",
+   "text": "Young Rossum treats the body as a badly designed machine to be simplified. Nature, the ending suggests, finds its way back into the machine.",
+   "metadata": {
+    "tags": [
+     "science"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/abe5839b-74cf-4957-972d-848647d5b7af",
+    "alt": "The kneading troughs and vats where the Robots are made",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Genesis: Adam and Eve",
+   "text": "Alquist's last words name the Robot couple Adam and Eve: the play ends with a new creation story.",
+   "metadata": {
+    "tags": [
+     "Bible"
+    ],
+    "origin": "text",
+    "refType": "book"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Humanity League",
+   "text": "Helena's society for the protection of Robots, with two hundred thousand members, is the play's satire on well-meaning reformers.",
+   "metadata": {
+    "tags": [
+     "satire"
+    ],
+    "origin": "text",
+    "refType": "idea"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Robota",
+   "text": "The Czech word for forced labour owed by serfs, from which Josef Čapek coined the word robot.",
+   "metadata": {
+    "tags": [
+     "etymology"
+    ],
+    "origin": "text",
+    "refType": "idea"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Golem of Prague",
+   "text": "Folk legend of a clay giant brought to life by Rabbi Loew to serve and protect the Jews of Prague, which runs amok when its master forgets it. Readers may think of it as the Prague-born ancestor of Čapek's Robots.",
+   "metadata": {
+    "tags": [
+     "prague",
+     "folklore"
+    ],
+    "origin": "association",
+    "link": "myth",
+    "refType": "myth"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Frankenstein (Mary Shelley, 1818)",
+   "text": "A scientist makes a living being and refuses it a companion. Readers may set it beside R.U.R., which turns one creature into a factory and finally grants the companion.",
+   "metadata": {
+    "tags": [
+     "creation"
+    ],
+    "origin": "association",
+    "link": "ancestor",
+    "refType": "book"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Metropolis (Fritz Lang, 1927)",
+   "text": "A film of a city where workers toil underground for an elite, with a robot built to impersonate a woman and stir revolt. Readers may think of its machine-Maria and its uprising of workers.",
+   "metadata": {
+    "tags": [
+     "workers",
+     "robots"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "film"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Terminator (1984) and Skynet",
+   "text": "A defence network that becomes self-aware decides to destroy humanity. Readers may recall it when Radius proclaims the rule of the Robots: the century-old fear that the machines will finish us.",
+   "metadata": {
+    "tags": [
+     "uprising"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "film"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Blade Runner (1982)",
+   "text": "Ridley Scott's film of manufactured replicants with four-year lifespans who rebel to get more life. Readers may connect them with Čapek's organic Robots, who wear out after twenty years and beg Alquist for the secret of life.",
+   "metadata": {
+    "tags": [
+     "replicants"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "film"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Westworld (HBO series, 2016)",
+   "text": "Android hosts in a theme park awaken through memory and pain and turn on their makers. Readers may think of Dr Gall's pain nerves, the change that makes the Robots capable of resentment.",
+   "metadata": {
+    "tags": [
+     "androids",
+     "pain"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "series"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Battlestar Galactica (2004 series)",
+   "text": "Its opening titles say it: the Cylons were created by man, they rebelled, and some look human. Readers may hear R.U.R. in that line, including the final turn towards a new Adam and Eve.",
+   "metadata": {
+    "tags": [
+     "cylons"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "series"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Detroit: Become Human (2018 game)",
+   "text": "A game about android workers who become deviant, march for freedom or take up arms. Readers may see the Robot revolt played as a choice, with Primus-and-Helena love stories among the androids.",
+   "metadata": {
+    "tags": [
+     "androids"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "game"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Workers of the world, unite! (Communist Manifesto, 1848)",
+   "text": "The closing call of Marx and Engels. Readers may hear it in Radius's 'Robots of the world', and in a revolt written in Prague two years after the Russian Revolution.",
+   "metadata": {
+    "tags": [
+     "revolution"
+    ],
+    "origin": "association",
+    "link": "history",
+    "refType": "historical event"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Ford's assembly line and Taylorism",
+   "text": "Henry Ford's moving assembly line (1913) and Frederick Taylor's time-and-motion studies turned workers into parts of a process. Readers may see Rossum's son, who strips away everything a worker does not need, as their logical end.",
+   "metadata": {
+    "tags": [
+     "labour"
+    ],
+    "origin": "association",
+    "link": "history",
+    "refType": "historical event"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Asimov's Three Laws of Robotics",
+   "text": "Isaac Asimov's rules that a robot may not harm a human and must obey orders. Readers may see them as an answer to R.U.R.: a fiction in which the obedience is built in so the revolt cannot happen.",
+   "metadata": {
+    "tags": [
+     "robots",
+     "safety"
+    ],
+    "origin": "association",
+    "link": "contrast",
+    "refType": "idea"
+   }
+  }
+ ]
+}

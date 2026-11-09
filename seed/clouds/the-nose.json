@@ -1,0 +1,618 @@
+{
+ "slug": "the-nose",
+ "title": "The Nose",
+ "description": "On the twenty-fifth of March a St Petersburg barber finds a nose in his breakfast loaf. Its owner, Major Kovaloff, wakes to a smooth blank, and spends two weeks chasing a nose that now wears the uniform of a state councillor.",
+ "genre": "Absurdist satire",
+ "creator_name": "ConteXtube",
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "work": "the-nose",
+ "rights": "public_domain",
+ "source_title": "The Nose, in The Mantle and Other Stories, translated by Claud Field",
+ "source_author": "Nikolai Gogol",
+ "purchase_url": "https://www.gutenberg.org/ebooks/36238",
+ "cover": {
+  "url": "https://contextcloud.studio/api/v1/images/077bc5df-e66c-40e7-8ac8-70725430a38e",
+  "alt": "Kovaloff sees his own nose step out of a carriage in uniform",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
+ },
+ "elements": [
+  {
+   "kind": "plot",
+   "title": "A nose in the loaf",
+   "text": "Ivan Jakovlevitch cuts his morning bread and finds a nose he recognises: Kovaloff's, whom he shaves on Sundays and Wednesdays. His wife throws him out with it.",
+   "metadata": {
+    "act": "The barber",
+    "act_number": 1,
+    "beat_number": 1,
+    "when": "main",
+    "source_quote": "He put in his finger, and drew out--a nose!"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/6290ceb1-c3e6-4dc8-b69e-ed4863c1bd9e",
+    "alt": "The barber finds a nose in his breakfast loaf",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "On the Isaac Bridge",
+   "text": "He tries to drop the nose, wrapped in a rag, anywhere at all, and finally throws it from the Isaac Bridge into the Neva, under the eye of a police inspector.",
+   "metadata": {
+    "act": "The barber",
+    "act_number": 1,
+    "beat_number": 2,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/43433d90-89e0-424f-8eb1-886e9376fb34",
+    "alt": "On the Isaac Bridge the barber tries to rid himself of the nose",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "A smooth vacancy",
+   "text": "Major Kovaloff wakes, reaches for his mirror to look at a pimple, and finds his face perfectly flat.",
+   "metadata": {
+    "act": "The Major",
+    "act_number": 2,
+    "beat_number": 3,
+    "when": "main",
+    "source_quote": "instead of his nose he had a perfectly smooth vacancy in his face."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/a2e57237-93ec-4950-9667-5cfbf4c2caf6",
+    "alt": "Kovaloff wakes to find a smooth blank where his nose was",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The nose in uniform",
+   "text": "A carriage stops; a gentleman in a gold-embroidered uniform and a plumed hat hurries up some steps. It is his nose.",
+   "metadata": {
+    "act": "The Major",
+    "act_number": 2,
+    "beat_number": 4,
+    "when": "main",
+    "source_quote": "it held the rank of a state-councillor."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/077bc5df-e66c-40e7-8ac8-70725430a38e",
+    "alt": "Kovaloff sees his own nose step out of a carriage in uniform",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "I am myself",
+   "text": "Kovaloff corners his nose in front of a shop at the Bazar and timidly asks it to return. The nose denies any connection and walks off.",
+   "metadata": {
+    "act": "The Major",
+    "act_number": 2,
+    "beat_number": 5,
+    "when": "main",
+    "source_quote": "I am myself. Besides, there can be no close relations between us."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/9622c1a1-9b10-4a73-ba4d-826741b42451",
+    "alt": "Kovaloff begs his nose to return; it denies they are related",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The advertisement office",
+   "text": "No police chief is at home, so Kovaloff tries the newspaper. The clerk refuses the notice in case it makes the paper look ridiculous, and offers him snuff.",
+   "metadata": {
+    "act": "The Major",
+    "act_number": 2,
+    "beat_number": 6,
+    "when": "main",
+    "source_quote": "It is perfectly flat like a freshly fried pancake."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/a97bc539-4a77-4ca5-b7c1-1c9be5ceed80",
+    "alt": "Kovaloff tries to advertise for his lost nose",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Madame Podtotchina",
+   "text": "Kovaloff decides that a colonel's wife has bewitched him because he would not marry her daughter, and writes to accuse her. Her innocent reply convinces him.",
+   "metadata": {
+    "act": "The Major",
+    "act_number": 2,
+    "beat_number": 7,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/f592c845-26a7-4ed4-8f0d-c67181ae1fb7",
+    "alt": "Madame Podtotchina and her daughter read Kovaloff's accusing letter",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Arrested on the road to Riga",
+   "text": "A police officer brings the nose back, wrapped in paper: it was caught boarding a coach for Riga with a passport in an official's name.",
+   "metadata": {
+    "act": "The return",
+    "act_number": 3,
+    "beat_number": 8,
+    "when": "main",
+    "source_quote": "It has been arrested just as it was getting into a carriage for Riga."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/67a2c814-4ac7-409e-b2d2-86dfd1fd0c59",
+    "alt": "A police officer brings back the nose wrapped in paper",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "It will not stick",
+   "text": "The nose falls off his face like a cork. The doctor declines to help and offers to buy it in a jar.",
+   "metadata": {
+    "act": "The return",
+    "act_number": 3,
+    "beat_number": 9,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/db439fab-7cae-44cd-aa66-b798b356a1d3",
+    "alt": "The doctor refuses to reattach the nose",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Rumours on the Nevsky",
+   "text": "The city hears that the Major's nose takes a walk on the Nevsky Avenue at three o'clock every day. Crowds gather and a speculator rents out benches.",
+   "metadata": {
+    "act": "The return",
+    "act_number": 3,
+    "beat_number": 10,
+    "when": "main",
+    "source_quote": "Major Kovaloff's nose was to be seen walking every day at three o'clock on the Neffsky Avenue."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/d68268d3-0022-4f21-9f30-8c93f67e5365",
+    "alt": "Crowds on the Nevsky hoping to see the Major's nose",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The seventh of April",
+   "text": "One morning the nose is simply back between his cheeks. Kovaloff struts down the Nevsky as if nothing had happened.",
+   "metadata": {
+    "act": "The return",
+    "act_number": 3,
+    "beat_number": 11,
+    "when": "main",
+    "source_quote": "This occurred on 7th April."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/603a0671-fe21-4075-a0d8-f6cab025d8fb",
+    "alt": "The seventh of April: the nose is back",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Such cases do occur",
+   "text": "The narrator complains that the story is improbable and useless, and concludes that such things happen anyway.",
+   "metadata": {
+    "act": "The narrator",
+    "act_number": 4,
+    "beat_number": 12,
+    "when": "main",
+    "source_quote": "such cases do occur--rarely, it is true, but now and then actually."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/603a0671-fe21-4075-a0d8-f6cab025d8fb",
+    "alt": "The seventh of April: the nose is back",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Major Kovaloff",
+   "text": "A collegiate assessor who calls himself Major, walks the Nevsky daily, wears many seals and hopes for a vice-governorship and a rich wife.",
+   "metadata": {
+    "tags": [
+     "official",
+     "vain"
+    ],
+    "aliases": [
+     "Platon Kovaloff",
+     "Kovalyov"
+    ],
+    "source_quote": "go to my house in Sadovaia Street and ask 'Does Major Kovaloff live here?'"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/a2e57237-93ec-4950-9667-5cfbf4c2caf6",
+    "alt": "Kovaloff wakes to find a smooth blank where his nose was",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Nose",
+   "text": "Kovaloff's nose, now a state councillor in uniform, who pays calls by carriage, carries a passport and will not acknowledge its owner.",
+   "metadata": {
+    "tags": [
+     "absurd",
+     "official"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/077bc5df-e66c-40e7-8ac8-70725430a38e",
+    "alt": "Kovaloff sees his own nose step out of a carriage in uniform",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Ivan Jakovlevitch",
+   "text": "The barber who finds the nose: unshaven, snuff-taking, given to drink and terrified of the police.",
+   "metadata": {
+    "tags": [
+     "barber"
+    ],
+    "aliases": [],
+    "source_quote": "Ivan Jakovlevitch was a terrible drunkard"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/6290ceb1-c3e6-4dc8-b69e-ed4863c1bd9e",
+    "alt": "The barber finds a nose in his breakfast loaf",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Praskovia Ossipovna",
+   "text": "The barber's wife, fond of coffee and quick to call her husband a scoundrel.",
+   "metadata": {
+    "tags": [
+     "wife"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/6290ceb1-c3e6-4dc8-b69e-ed4863c1bd9e",
+    "alt": "The barber finds a nose in his breakfast loaf",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The police officer",
+   "text": "The whiskered inspector from the bridge, who returns the nose and accepts a banknote for his trouble.",
+   "metadata": {
+    "tags": [
+     "police"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/67a2c814-4ac7-409e-b2d2-86dfd1fd0c59",
+    "alt": "A police officer brings back the nose wrapped in paper",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The doctor",
+   "text": "A splendidly whiskered physician with five toothbrushes, who refuses to reattach the nose on principle and offers to buy it.",
+   "metadata": {
+    "tags": [
+     "doctor"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/db439fab-7cae-44cd-aa66-b798b356a1d3",
+    "alt": "The doctor refuses to reattach the nose",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Madame Podtotchina",
+   "text": "A colonel's wife with a marriageable daughter, wrongly suspected of having spirited away the nose.",
+   "metadata": {
+    "tags": [
+     "society"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/f592c845-26a7-4ed4-8f0d-c67181ae1fb7",
+    "alt": "Madame Podtotchina and her daughter read Kovaloff's accusing letter",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "St Petersburg",
+   "text": "The northern capital: the Nevsky Avenue, the Isaac Bridge over the Neva, the Bazar, the newspaper office, the Sadovaia Street flat.",
+   "metadata": {
+    "tags": [
+     "city"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/4f2e73aa-b096-4e8d-b263-beab8cfbd9dc",
+    "alt": "Kovaloff on the Nevsky Avenue",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The Nevsky Avenue",
+   "text": "The great boulevard where everyone who matters takes a daily walk, and where the nose is rumoured to stroll at three.",
+   "metadata": {
+    "tags": [
+     "boulevard"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/d68268d3-0022-4f21-9f30-8c93f67e5365",
+    "alt": "Crowds on the Nevsky hoping to see the Major's nose",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The barber's room",
+   "text": "A shop on the Ascension Avenue whose sign shows a soaped cheek and offers blood-letting.",
+   "metadata": {
+    "tags": [
+     "shop"
+    ],
+    "aliases": [],
+    "source_quote": "Blood-letting done here."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/6290ceb1-c3e6-4dc8-b69e-ed4863c1bd9e",
+    "alt": "The barber finds a nose in his breakfast loaf",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "The Table of Ranks",
+   "text": "Fourteen grades of state service. Kovaloff is a collegiate assessor, eighth grade; his nose wears the uniform of the fifth.",
+   "metadata": {
+    "tags": [
+     "bureaucracy"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/077bc5df-e66c-40e7-8ac8-70725430a38e",
+    "alt": "Kovaloff sees his own nose step out of a carriage in uniform",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Rumour and magnetism",
+   "text": "A city ready to believe in wonders, recently thrilled by experiments in magnetism and stories of floating chairs.",
+   "metadata": {
+    "tags": [
+     "credulity"
+    ],
+    "aliases": [],
+    "source_quote": "the public had recently been impressed by experiments in magnetism."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/d68268d3-0022-4f21-9f30-8c93f67e5365",
+    "alt": "Crowds on the Nevsky hoping to see the Major's nose",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Rank as identity",
+   "text": "Kovaloff fears losing face more than losing his nose. The nose's real offence is to outrank him.",
+   "metadata": {
+    "tags": [
+     "status"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/9622c1a1-9b10-4a73-ba4d-826741b42451",
+    "alt": "Kovaloff begs his nose to return; it denies they are related",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "The absurd as routine",
+   "text": "Every institution treats the impossible as a matter of procedure: the clerk, the doctor and the police each have a form for it.",
+   "metadata": {
+    "tags": [
+     "bureaucracy"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/a97bc539-4a77-4ca5-b7c1-1c9be5ceed80",
+    "alt": "Kovaloff tries to advertise for his lost nose",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "A story without a reason",
+   "text": "The narrator's closing complaints make the lack of explanation part of the joke.",
+   "metadata": {
+    "tags": [
+     "narration"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/603a0671-fe21-4075-a0d8-f6cab025d8fb",
+    "alt": "The seventh of April: the nose is back",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Northern Bee",
+   "text": "The newspaper clerk suggests the case be written up as a natural curiosity for the Northern Bee, a real St Petersburg paper of the time.",
+   "metadata": {
+    "tags": [
+     "press"
+    ],
+    "origin": "text",
+    "refType": "other",
+    "source_quote": "publish the article in the Northern Bee"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Animal magnetism",
+   "text": "The story's rumour-hungry city has recently been impressed by experiments in magnetism, Mesmer's fashionable pseudo-science.",
+   "metadata": {
+    "tags": [
+     "mesmerism"
+    ],
+    "origin": "text",
+    "refType": "idea"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Kazan Cathedral and the censor",
+   "text": "In Gogol's manuscript Kovaloff finds his nose praying in Kazan Cathedral; the censors would not allow it, and the scene moved to a shopping arcade. Readers who know the later text may picture it there.",
+   "metadata": {
+    "tags": [
+     "censorship"
+    ],
+    "origin": "association",
+    "link": "history",
+    "refType": "historical event"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Slawkenbergius's Tale (Sterne, Tristram Shandy)",
+   "text": "Laurence Sterne's comic tale of a stranger with an enormous nose who throws a whole city into uproar. Readers may see it as the comic ancestor of Gogol's nose.",
+   "metadata": {
+    "tags": [
+     "noses",
+     "comedy"
+    ],
+    "origin": "association",
+    "link": "ancestor",
+    "refType": "book"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Double (Dostoevsky, 1846)",
+   "text": "A timid clerk meets a successful copy of himself who takes over his career. Readers may see Golyadkin's double as Kovaloff's nose grown into a whole person.",
+   "metadata": {
+    "tags": [
+     "russian",
+     "doubles"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "book"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Metamorphosis (Kafka, 1915)",
+   "text": "A salesman wakes as an insect and worries about his job. Readers may set it beside The Nose as the other great story of an impossible morning met with paperwork.",
+   "metadata": {
+    "tags": [
+     "absurd"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "book"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Nose (Shostakovich, 1930)",
+   "text": "Dmitri Shostakovich's first opera, written at twenty-two, with a nose that sings and an interlude for percussion alone. Readers may hear the story's absurdity as music.",
+   "metadata": {
+    "tags": [
+     "opera"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "other"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Master and Margarita (Bulgakov)",
+   "text": "The devil visits Moscow and the city's officials handle magic as a bureaucratic nuisance. Readers may think of Gogol, whom Bulgakov revered, behind every deadpan absurdity.",
+   "metadata": {
+    "tags": [
+     "russian",
+     "satire"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "book"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Pinocchio (Collodi, 1883)",
+   "text": "A puppet whose nose grows when he lies. Readers may set it in contrast: Pinocchio's nose betrays him, Kovaloff's abandons him.",
+   "metadata": {
+    "tags": [
+     "noses"
+    ],
+    "origin": "association",
+    "link": "contrast",
+    "refType": "book"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Surrealism",
+   "text": "The movement of André Breton and Salvador Dalí, which put dream logic into painting and film. Readers may see Gogol's walking nose as a surrealist image eighty years early.",
+   "metadata": {
+    "tags": [
+     "absurd",
+     "art"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "idea"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Cyrano de Bergerac (Rostand, 1897)",
+   "text": "A brilliant swordsman ashamed of his huge nose. Readers may think of him as the opposite of Kovaloff: one man too much nose, the other none, both sure the nose decides how they are seen.",
+   "metadata": {
+    "tags": [
+     "noses",
+     "vanity"
+    ],
+    "origin": "association",
+    "link": "contrast",
+    "refType": "book"
+   }
+  }
+ ]
+}

@@ -153,26 +153,6 @@ export default async function CloudPage({ params }: Props) {
         )}
       </header>
 
-      {c.elements.references.length > 0 && (
-        <section aria-labelledby="h-references" className="mb-14">
-          <h2 id="h-references" className="mb-2 flex items-center gap-3 text-2xl font-bold text-gray-300">
-            <span aria-hidden="true">📎</span> References
-          </h2>
-          <p className="mb-6 max-w-3xl text-gray-500">What the story names, and what it brings to mind: the films, series, myths and beliefs its author and readers carry into it.</p>
-          {[
-            { title: "In the text", list: c.elements.references.filter((e) => !isAssociation(e)) },
-            { title: "Associations", list: c.elements.references.filter(isAssociation) },
-          ].filter((g) => g.list.length).map((g) => (
-            <div key={g.title} className="mb-8 last:mb-0">
-              <h3 className="mb-3 text-sm font-semibold text-gray-400">{g.title}</h3>
-              <div className="grid gap-4 md:grid-cols-2 max-w-5xl">
-                {g.list.map((e) => <NoteCard key={e.id} e={e} />)}
-              </div>
-            </div>
-          ))}
-        </section>
-      )}
-
       {columns.length > 0 && (
         <div className={`grid gap-6 md:grid-cols-2 ${columns.length >= 4 ? "xl:grid-cols-4" : columns.length === 3 ? "xl:grid-cols-3" : ""}`}>
           {columns.map((col) => (
@@ -203,6 +183,26 @@ export default async function CloudPage({ params }: Props) {
           <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-3">
             {c.elements.ideas.map((e) => <ElementCard key={e.id} e={e} kind="ideas" />)}
           </div>
+        </section>
+      )}
+
+      {c.elements.references.length > 0 && (
+        <section aria-labelledby="h-references" className="mt-14">
+          <h2 id="h-references" className="mb-2 flex items-center gap-3 border-b border-gray-800 pb-3 text-2xl font-bold text-white">
+            <span aria-hidden="true">📎</span> References
+          </h2>
+          <p className="mb-6 max-w-3xl text-gray-500">What the story names, and what it brings to mind: the films, series, myths and beliefs its author and readers carry into it.</p>
+          {[
+            { title: "In the text", list: c.elements.references.filter((e) => !isAssociation(e)) },
+            { title: "Associations", list: c.elements.references.filter(isAssociation) },
+          ].filter((g) => g.list.length).map((g) => (
+            <div key={g.title} className="mb-8 last:mb-0">
+              <h3 className="mb-3 text-sm font-semibold text-gray-400">{g.title}</h3>
+              <div className="grid gap-4 md:grid-cols-2 max-w-5xl">
+                {g.list.map((e) => <NoteCard key={e.id} e={e} />)}
+              </div>
+            </div>
+          ))}
         </section>
       )}
 

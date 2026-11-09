@@ -1,0 +1,669 @@
+{
+ "slug": "the-time-machine",
+ "title": "The Time Machine",
+ "description": "A Victorian inventor builds a machine that moves through time, rides it to the year 802,701 and finds two descendants of humanity: the childlike Eloi who live in the ruins above and the Morlocks who tend machines below and come up at night.",
+ "genre": "Scientific romance",
+ "creator_name": "ConteXtube",
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "work": "the-time-machine",
+ "rights": "public_domain",
+ "source_title": "The Time Machine",
+ "source_author": "H. G. Wells",
+ "purchase_url": "https://www.gutenberg.org/ebooks/35",
+ "cover": {
+  "url": "https://contextcloud.studio/api/v1/images/b2444aa4-e529-46ef-af42-92a36530e16a",
+  "alt": "The White Sphinx in the garden of the year 802,701",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
+ },
+ "elements": [
+  {
+   "kind": "plot",
+   "title": "The fourth dimension",
+   "text": "After dinner at his house in Richmond, the Time Traveller argues that time is a dimension like the other three, then sends a small model machine into the future in front of his guests.",
+   "metadata": {
+    "act": "Richmond",
+    "act_number": 1,
+    "beat_number": 1,
+    "when": "main",
+    "source_quote": "There is no difference between Time and any of the three dimensions of Space except that our consciousness moves along it."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/3af0f788-46ee-4598-86c2-644dae5ca76c",
+    "alt": "The Time Traveller's guests watch the model machine vanish",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The Traveller returns",
+   "text": "A week later he limps in late to dinner, dusty, cut and starving, asks for mutton, and begins his story.",
+   "metadata": {
+    "act": "Richmond",
+    "act_number": 1,
+    "beat_number": 2,
+    "when": "main",
+    "source_quote": "Save me some of that mutton."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/1192ad1e-02f1-4f62-9635-b96af812f9d5",
+    "alt": "The Time Traveller returns, dishevelled, to dinner",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The journey",
+   "text": "Night and day flicker past, the sun becomes a band of fire, and he stops in a hailstorm beside a white sphinx.",
+   "metadata": {
+    "act": "The Golden Age",
+    "act_number": 2,
+    "beat_number": 3,
+    "when": "main",
+    "source_quote": "I saw the sun hopping swiftly across the sky, leaping it every minute, and every minute marking a day."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/e2491b9f-7914-42f2-938c-4a0baccdea71",
+    "alt": "Travelling: days flicker past and the sun streaks across the sky",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The Eloi",
+   "text": "Small, beautiful people garland him with flowers, eat only fruit, live together in great ruined halls and lose interest in everything within minutes.",
+   "metadata": {
+    "act": "The Golden Age",
+    "act_number": 2,
+    "beat_number": 4,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/73688a41-3791-4e7a-afd0-f9686d3f05dd",
+    "alt": "The Eloi garland the Time Traveller with flowers",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The machine is gone",
+   "text": "His Time Machine has vanished from the lawn: dragged inside the bronze doors of the sphinx's pedestal.",
+   "metadata": {
+    "act": "The Golden Age",
+    "act_number": 2,
+    "beat_number": 5,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/b2444aa4-e529-46ef-af42-92a36530e16a",
+    "alt": "The White Sphinx in the garden of the year 802,701",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Weena",
+   "text": "He saves a drowning Eloi woman, Weena, whom nobody else tried to help. She follows him everywhere and is terrified of the dark.",
+   "metadata": {
+    "act": "The Golden Age",
+    "act_number": 2,
+    "beat_number": 6,
+    "when": "main",
+    "source_quote": "She was exactly like a child."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/44edc4d3-f4b0-4b73-abdb-b68ca9ab799c",
+    "alt": "The Time Traveller saves Weena from the river",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The wells",
+   "text": "White ape-like figures run in the moonlight. He finds round wells with a throb of machinery below, and climbs down one.",
+   "metadata": {
+    "act": "The Morlocks",
+    "act_number": 3,
+    "beat_number": 7,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/ed8d2416-6c96-4d6f-84da-5607beaa922f",
+    "alt": "The wells that lead down to the Morlocks",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Underground",
+   "text": "In the tunnels pale-eyed Morlocks crowd round him; only his matches hold them off. He sees meat on a table and understands.",
+   "metadata": {
+    "act": "The Morlocks",
+    "act_number": 3,
+    "beat_number": 8,
+    "when": "main",
+    "source_quote": "those pale, chinless faces and great, lidless, pinkish-grey eyes!"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/1e3cb09e-92b8-4cc0-8361-742b8f7e672c",
+    "alt": "Underground, the Time Traveller holds off the Morlocks with a match",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The Palace of Green Porcelain",
+   "text": "With Weena he explores a ruined museum of fossils and machines, finds camphor and more matches, and takes an iron lever as a weapon.",
+   "metadata": {
+    "act": "The Morlocks",
+    "act_number": 3,
+    "beat_number": 9,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/423eb74f-765d-4e19-a7ee-ce73f1a32e96",
+    "alt": "The Palace of Green Porcelain, a ruined museum",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Fire in the forest",
+   "text": "Caught in the forest at night, he lights a fire to scare the Morlocks; it becomes a blaze, and in the struggle Weena is lost.",
+   "metadata": {
+    "act": "The Morlocks",
+    "act_number": 3,
+    "beat_number": 10,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/fd292ec2-165a-4721-bf12-252a057293fb",
+    "alt": "The fire in the forest, where Weena is lost",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The trap of the sphinx",
+   "text": "The pedestal doors stand open; he walks in, the Morlocks close the trap, and he escapes on the machine into the future.",
+   "metadata": {
+    "act": "The further vision",
+    "act_number": 4,
+    "beat_number": 11,
+    "when": "main"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/b2444aa4-e529-46ef-af42-92a36530e16a",
+    "alt": "The White Sphinx in the garden of the year 802,701",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The terminal beach",
+   "text": "Millions of years on, under a swollen red sun, giant crabs crawl on a dying shore; further on, only darkness and cold.",
+   "metadata": {
+    "act": "The further vision",
+    "act_number": 4,
+    "beat_number": 12,
+    "when": "main",
+    "source_quote": "At last, more than thirty million years hence, the huge red-hot dome of the sun had come to obscure nearly a tenth part of the darkling heavens."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/ed1da7aa-1771-4cf4-94e5-45916827fbf8",
+    "alt": "The terminal beach under the dying red sun",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Gone again",
+   "text": "He leaves with a camera to bring back proof and never returns. The narrator keeps two white flowers Weena gave him.",
+   "metadata": {
+    "act": "Epilogue",
+    "act_number": 5,
+    "beat_number": 13,
+    "when": "main",
+    "source_quote": "The Time Traveller vanished three years ago."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/b49495dd-b817-4946-9f6f-d0c3b74d58f1",
+    "alt": "Two strange white flowers, Weena's gift",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Time Traveller",
+   "text": "An inventor and lecturer in Richmond, eloquent and impatient, who never gives his name; he narrates most of the book to his dinner guests.",
+   "metadata": {
+    "tags": [
+     "inventor",
+     "narrator"
+    ],
+    "aliases": [],
+    "source_quote": "The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/e2491b9f-7914-42f2-938c-4a0baccdea71",
+    "alt": "Travelling: days flicker past and the sun streaks across the sky",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Weena",
+   "text": "A small Eloi woman whom he saves from the river. Childlike and loyal, she is the one being in the future he cares for.",
+   "metadata": {
+    "tags": [
+     "Eloi"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/44edc4d3-f4b0-4b73-abdb-b68ca9ab799c",
+    "alt": "The Time Traveller saves Weena from the river",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Eloi",
+   "text": "The surface people of 802,701: delicate, four feet tall, curly-haired, idle and incurious, and in fear of the night.",
+   "metadata": {
+    "tags": [
+     "descendants"
+    ],
+    "aliases": [],
+    "source_quote": "The Eloi, like the Carlovignan kings, had decayed to a mere beautiful futility."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/73688a41-3791-4e7a-afd0-f9686d3f05dd",
+    "alt": "The Eloi garland the Time Traveller with flowers",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Morlocks",
+   "text": "The underground people: pale, ape-like, nocturnal and blinded by light, who keep the machines running and feed on the Eloi.",
+   "metadata": {
+    "tags": [
+     "descendants"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/1e3cb09e-92b8-4cc0-8361-742b8f7e672c",
+    "alt": "Underground, the Time Traveller holds off the Morlocks with a match",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The dinner guests",
+   "text": "The Medical Man, the Psychologist, the Provincial Mayor, the argumentative red-haired Filby, the Editor and the narrator, who doubt everything.",
+   "metadata": {
+    "tags": [
+     "listeners"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/3af0f788-46ee-4598-86c2-644dae5ca76c",
+    "alt": "The Time Traveller's guests watch the model machine vanish",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The house in Richmond",
+   "text": "The Traveller's smoking room and laboratory by the Thames, where the story is told after dinner.",
+   "metadata": {
+    "tags": [
+     "Victorian"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/3af0f788-46ee-4598-86c2-644dae5ca76c",
+    "alt": "The Time Traveller's guests watch the model machine vanish",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The White Sphinx",
+   "text": "A huge winged sphinx of white marble on a bronze pedestal, which hides the way into the Morlock world.",
+   "metadata": {
+    "tags": [
+     "landmark"
+    ],
+    "aliases": [],
+    "source_quote": "It was of white marble, in shape something like a winged sphinx"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/b2444aa4-e529-46ef-af42-92a36530e16a",
+    "alt": "The White Sphinx in the garden of the year 802,701",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The wells and the Underworld",
+   "text": "Round shafts with domed tops across the countryside, leading down to tunnels and the hum of machines.",
+   "metadata": {
+    "tags": [
+     "underground"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/ed8d2416-6c96-4d6f-84da-5607beaa922f",
+    "alt": "The wells that lead down to the Morlocks",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The Palace of Green Porcelain",
+   "text": "A ruined museum full of fossils, dead machines and rotted books, a monument to everything humans once knew.",
+   "metadata": {
+    "tags": [
+     "museum"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/423eb74f-765d-4e19-a7ee-ce73f1a32e96",
+    "alt": "The Palace of Green Porcelain, a ruined museum",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The terminal beach",
+   "text": "A red shore under a dying sun where the last life on Earth crawls by a salt sea.",
+   "metadata": {
+    "tags": [
+     "far future"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/ed1da7aa-1771-4cf4-94e5-45916827fbf8",
+    "alt": "The terminal beach under the dying red sun",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "The Time Machine",
+   "text": "A glittering frame of brass, ivory and quartz with a saddle and two levers, one for the future and one for the past.",
+   "metadata": {
+    "tags": [
+     "invention"
+    ],
+    "aliases": [],
+    "source_quote": "an eddy of faintly glittering brass and ivory"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/e2491b9f-7914-42f2-938c-4a0baccdea71",
+    "alt": "Travelling: days flicker past and the sun streaks across the sky",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "The year 802,701",
+   "text": "The date on the machine's dials when he stops: the Thames moved a mile, England one garden of ruins and flowers.",
+   "metadata": {
+    "tags": [
+     "date"
+    ],
+    "aliases": [],
+    "source_quote": "Eight Hundred and Two Thousand Seven Hundred and One, A.D."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/73688a41-3791-4e7a-afd0-f9686d3f05dd",
+    "alt": "The Eloi garland the Time Traveller with flowers",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Class becomes species",
+   "text": "Wells extrapolates the Victorian division between capitalists and labourers until they stop being one species.",
+   "metadata": {
+    "tags": [
+     "class"
+    ],
+    "aliases": [],
+    "source_quote": "above ground you must have the Haves, pursuing pleasure and comfort and beauty, and below ground the Have-nots"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/ed8d2416-6c96-4d6f-84da-5607beaa922f",
+    "alt": "The wells that lead down to the Morlocks",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Ease breeds weakness",
+   "text": "Intelligence survives only while it is needed. A humanity with no dangers left grows lovely, weak and stupid.",
+   "metadata": {
+    "tags": [
+     "evolution"
+    ],
+    "aliases": [],
+    "source_quote": "intellectual versatility is the compensation for change, danger, and trouble."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/73688a41-3791-4e7a-afd0-f9686d3f05dd",
+    "alt": "The Eloi garland the Time Traveller with flowers",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Entropy and the end",
+   "text": "Beyond the Eloi, the Traveller watches the solar system run down: the cosmic version of the same decline.",
+   "metadata": {
+    "tags": [
+     "physics"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/ed1da7aa-1771-4cf4-94e5-45916827fbf8",
+    "alt": "The terminal beach under the dying red sun",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Small tenderness",
+   "text": "Weena's loyalty and her flowers are the only answer the book gives to deep time.",
+   "metadata": {
+    "tags": [
+     "hope"
+    ],
+    "aliases": [],
+    "source_quote": "gratitude and a mutual tenderness still lived on in the heart of man."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/b49495dd-b817-4946-9f6f-d0c3b74d58f1",
+    "alt": "Two strange white flowers, Weena's gift",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Communism",
+   "text": "On first seeing the Eloi living together without houses or families, the Traveller decides he has found a communist future, and is wrong.",
+   "metadata": {
+    "tags": [
+     "politics"
+    ],
+    "origin": "text",
+    "refType": "idea",
+    "source_quote": "‘Communism,’ said I to myself."
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Metropolitan Railway",
+   "text": "The Traveller cites London's underground railway as proof that work was already being pushed below ground in his own day.",
+   "metadata": {
+    "tags": [
+     "London"
+    ],
+    "origin": "text",
+    "refType": "historical event"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Darwin and T. H. Huxley",
+   "text": "Wells studied biology under Huxley, 'Darwin's bulldog'. Readers may see The Time Machine as natural selection told as a story, with no promise of progress.",
+   "metadata": {
+    "tags": [
+     "evolution"
+    ],
+    "origin": "association",
+    "link": "source",
+    "refType": "idea"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Benjamin Disraeli's Two Nations (Sybil, 1845)",
+   "text": "Disraeli described rich and poor as two nations 'between whom there is no intercourse and no sympathy'. Readers may see the Eloi and the Morlocks as that phrase taken literally.",
+   "metadata": {
+    "tags": [
+     "class"
+    ],
+    "origin": "association",
+    "link": "source",
+    "refType": "book"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Kelvin and the heat death of the universe",
+   "text": "Victorian physics predicted a cooling sun and a universe running down. Readers may find that prediction on the terminal beach.",
+   "metadata": {
+    "tags": [
+     "physics"
+    ],
+    "origin": "association",
+    "link": "history",
+    "refType": "idea"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Lotus-Eaters (Homer, Odyssey)",
+   "text": "Sailors who eat the lotus forget home and want only to stay. Readers may think of the Eloi, who eat fruit, play and forget.",
+   "metadata": {
+    "tags": [
+     "forgetting"
+    ],
+    "origin": "association",
+    "link": "myth",
+    "refType": "myth"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Time Machine (George Pal, 1960)",
+   "text": "The film with Rod Taylor and its red-plush, brass-dialled machine set how most people picture the story.",
+   "metadata": {
+    "tags": [
+     "adaptation"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "film"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Doctor Who (1963–)",
+   "text": "A time traveller in a machine larger inside than out, who keeps arriving in distant futures to find humanity changed. Readers may see Wells's Traveller as the Doctor's grandfather.",
+   "metadata": {
+    "tags": [
+     "time travel"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "series"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Back to the Future (1985)",
+   "text": "A teenager and an eccentric inventor with a time machine built into a car. Readers may hear Wells's dinner party in Doc Brown's demonstration with a dog in the DeLorean.",
+   "metadata": {
+    "tags": [
+     "time travel"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "film"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Planet of the Apes (1968)",
+   "text": "An astronaut lands on a future Earth where humans are mute animals and finds a ruined landmark that reveals where he is. Readers may think of the Palace of Green Porcelain and humanity's fall.",
+   "metadata": {
+    "tags": [
+     "far future"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "film"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Matrix (1999)",
+   "text": "Machines farm sleeping humans for energy. Readers may recognise the Morlocks' herding of the Eloi as the same nightmare: comfort as captivity.",
+   "metadata": {
+    "tags": [
+     "farming"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "film"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "WALL-E (2008)",
+   "text": "Humans drift in a cruise ship in space, so served by machines that they can no longer walk. Readers may see them as Eloi in the making.",
+   "metadata": {
+    "tags": [
+     "comfort"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "film"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Morlocks of Marvel's X-Men",
+   "text": "A community of outcast mutants living in tunnels under New York, named after Wells's underground race. Readers of comics may meet the word there first.",
+   "metadata": {
+    "tags": [
+     "comics"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "other"
+   }
+  }
+ ]
+}

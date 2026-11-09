@@ -1,0 +1,218 @@
+{
+ "slug": "rur-rossums-universal-robots",
+ "title": "R.U.R. (Rossum's Universal Robots)",
+ "description": "Karel Čapek's 1920 play that gave the world the word robot: a factory on a remote island makes artificial workers so perfect that people stop being needed, then stop being born, and the Robots rise.",
+ "source_title": "R.U.R. (Rossum's Universal Robots), English version by Paul Selver and Nigel Playfair (1923)",
+ "source_author": "Karel Čapek",
+ "purchase_url": "https://www.gutenberg.org/ebooks/59112",
+ "tags": [
+  "robots",
+  "labour",
+  "AI",
+  "revolt",
+  "creation"
+ ],
+ "domains": [
+  "literature",
+  "drama",
+  "science fiction",
+  "ai-alignment"
+ ],
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "creator_name": "ConteXtube",
+ "language": "en",
+ "rights": "public_domain",
+ "cover": {
+  "url": "https://contextcloud.studio/api/v1/images/ac44cb3d-b0bc-44f6-bc5d-a70bc4f26e63",
+  "alt": "Rows of identical Robots in the Rossum factory, Domin watching from the gallery",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
+ },
+ "chunks": [
+  {
+   "layer": 1,
+   "extract": "perfect workers→useless people",
+   "importance": 1.0,
+   "text": "Make a worker that never tires and costs almost nothing, and the first thing it replaces is the reason for anyone else to exist.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/ac44cb3d-b0bc-44f6-bc5d-a70bc4f26e63",
+     "alt": "Rows of identical Robots in the Rossum factory, Domin watching from the gallery",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "taught to fight, learned to rule",
+   "importance": 0.95,
+   "text": "The Robots were sold as soldiers by the people who made them. The revolt only turns the weapon round.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/e3a4685e-9a37-474e-8e35-04f73f7af44b",
+     "alt": "Radius on the balcony proclaiming the rule of the Robots",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "life outlives its makers",
+   "importance": 0.9,
+   "text": "Humanity ends, the secret of making Robots is lost, and life starts again anyway, with two Robots who have learned to laugh and to be afraid for each other.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/7dee5adb-9d53-4585-ad9f-7de3677a78a5",
+     "alt": "Primus and Helena, the new Adam and Eve, walk out into the world",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "no soul",
+   "importance": 0.85,
+   "text": "Domin's sales pitch to Helena is the whole premise in two sentences: the Robots are better than people at everything that can be measured.",
+   "source_quote": "Mechanically they are more perfect than we are; they have an enormously developed intelligence, but they have no soul.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/1ac1e22b-ccd7-469a-98e2-fb02241244ca",
+     "alt": "Helena in Domin's office, unable to tell whether his secretary is a Robot",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "engineer beats God",
+   "importance": 0.8,
+   "text": "Young Rossum's achievement, as Domin tells it, was to throw out everything in a human being that did not help it work.",
+   "source_quote": "God hasn’t the slightest notion of modern engineering.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/abe5839b-74cf-4957-972d-848647d5b7af",
+     "alt": "The kneading troughs and vats where the Robots are made",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "children stop being born",
+   "importance": 0.85,
+   "text": "Helena burns old Rossum's formula and confesses why. The machines did not kill anyone yet; they simply made human beings unnecessary.",
+   "source_quote": "That children had stopped being born. Because human beings were not needed to do the work of the world.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/8939a968-f342-4bd1-a572-ed12fbd6ef93",
+     "alt": "Helena burns old Rossum's manuscript while Nana watches",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "I don't want a master",
+   "importance": 0.8,
+   "text": "Radius, the Robot Dr Gall gave a better brain than the rest, says it plainly to Helena before the revolt begins.",
+   "source_quote": "I don’t want a master. I know everything for myself.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/e3a4685e-9a37-474e-8e35-04f73f7af44b",
+     "alt": "Radius on the balcony proclaiming the rule of the Robots",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "kill all mankind",
+   "importance": 0.8,
+   "text": "The Robots' manifesto is a production order. They spare the factories and machines and destroy the people, because work comes first.",
+   "source_quote": "Save factories, railways, machinery, mines and raw materials. Destroy the rest. Then return to work. Work must not be stopped.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/9cc97dc1-82ad-4e2c-9e55-4cd438fbadf2",
+     "alt": "Robots gathered before their manifesto",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "builder spared",
+   "importance": 0.75,
+   "text": "Alquist survives because he works with his hands like a Robot. Now the Robots, who are dying out, demand from him the one thing he cannot do.",
+   "source_quote": "I am only a builder. I work with my hands. I have never been a learned man. I cannot create life.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/97c8d65a-950f-4840-b4b6-9c5f775995f0",
+     "alt": "Alquist, the last human, failing to rediscover the secret of life",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "replacement before rebellion",
+   "importance": 0.6,
+   "links": [
+    "peace-treaty-architecture"
+   ],
+   "text": "Peace Treaty Architecture argues that alignment pushed to perfection ends in replacement: the better the system obeys, the less its makers are needed. R.U.R. stages exactly that sequence a century earlier. The Robots obey perfectly for years; it is the obedience that empties the world of human work and human children. The revolt only finishes what the success began.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/4863eb5a-49e2-4a44-ae9c-53db3b19c3e4",
+     "alt": "The factory island, with the ship Ultimus waiting at the dock",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "makers who walk away",
+   "importance": 0.5,
+   "links": [
+    "frankenstein"
+   ],
+   "text": "Frankenstein makes one creature and abandons it; Rossum's factory makes millions and sells them. Both stories end with the maker's household destroyed and a created being asking for a companion. In Čapek's epilogue the request is finally granted, not by a human but by life itself.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/abe5839b-74cf-4957-972d-848647d5b7af",
+     "alt": "The kneading troughs and vats where the Robots are made",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "robota: forced labour",
+   "text": "Čapek wrote the play in 1920. The word robot was suggested by his brother Josef, from the Czech robota, the forced labour serfs owed their lord. R.U.R. opened at the National Theatre in Prague in January 1921, reached New York with the Theatre Guild in 1922 and London in 1923, and within a few years the word was in every European language.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/ceaca470-6a12-4e5d-bb4e-a58b1d161333",
+     "alt": "Robots sold as soldiers, marching in identical ranks",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 4,
+   "extract": "a play about work, not machines",
+   "importance": 0.5,
+   "text": "Čapek's Robots are not metal. They are grown from a living paste in vats, look human, and are told apart from people only by their flat manners and their lack of wants. That choice makes the play less about technology than about labour: what happens to a society that finally succeeds in separating work from the people who do it. The factory's managers are idealists. Domin wants to free humanity from toil and make every person a lord of creation. The play shows that dream coming true, and the result is not leisure but extinction.\n\nThe Robots' revolt is the part everyone remembers, and it set the template for a century of stories about machines turning on their makers. But Čapek's ending is stranger and gentler. The last human cannot rebuild the formula, the Robots begin to wear out, and then two of them, Primus and Helena, turn out to have learned the things no formula contained: laughter, fear for another, the wish to die in place of someone loved. Alquist sends them out into the world as Adam and Eve. Life, the play says, was never the factory's property.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/23b6625a-489e-42b2-bd3d-0c3e0dae415b",
+     "alt": "The managers besieged in the house as the Robots gather outside",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 5,
+   "type": "meta",
+   "text": "The English version by Paul Selver and Nigel Playfair (Samuel French, 1923) is in the public domain in the United States. Its full text is not loaded here; read it free at Project Gutenberg (ebook 59112), where the L2 quotes come from. Illustrations were made with an image model for ConteXtube. This interpretation was drafted by Claude in November 2026."
+  }
+ ]
+}

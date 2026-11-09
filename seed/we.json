@@ -1,0 +1,201 @@
+{
+ "slug": "we",
+ "title": "We",
+ "description": "Yevgeny Zamyatin's novel, written in 1920–21 and first published in English in 1924: the diary of D-503, builder of a spaceship in a glass city where everyone lives by the same timetable, until a woman with an X between her eyebrows shows him the world beyond the Wall.",
+ "source_title": "We, translated by Gregory Zilboorg (1924)",
+ "source_author": "Yevgeny Zamyatin",
+ "purchase_url": "https://www.gutenberg.org/ebooks/61963",
+ "tags": [
+  "dystopia",
+  "freedom",
+  "happiness",
+  "surveillance",
+  "imagination"
+ ],
+ "domains": [
+  "literature",
+  "science fiction",
+  "politics"
+ ],
+ "flow": "public-domain",
+ "flow_name": "Public domain classics",
+ "creator_name": "ConteXtube",
+ "language": "en",
+ "rights": "public_domain",
+ "cover": {
+  "url": "https://contextcloud.studio/api/v1/images/b1fd765d-cfab-45d4-bee4-9b91604b0e95",
+  "alt": "The Numbers march in fours through the glass city",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
+ },
+ "chunks": [
+  {
+   "layer": 1,
+   "extract": "happiness = non-freedom",
+   "importance": 1.0,
+   "text": "The United State has solved happiness by abolishing freedom. Its citizens are not oppressed; they are content, and they are numbered.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/b1fd765d-cfab-45d4-bee4-9b91604b0e95",
+     "alt": "The Numbers march in fours through the glass city",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "a soul as a disease",
+   "importance": 0.95,
+   "text": "A mathematician keeps a diary to praise perfect order, and the diary records him catching an imagination like an illness.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/0734e81f-75ff-4196-bc77-f518192544e2",
+     "alt": "D-503 told by the doctor that a soul has formed in him",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 1,
+   "extract": "no last revolution",
+   "importance": 0.9,
+   "text": "Every revolution claims to be the last one. The book's heroine answers that numbers, and revolutions, have no end.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/fc735cc1-dd8d-41dd-8495-1fd0fa4241a9",
+     "alt": "The Green Wall, with the wild forest pressing against it",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "force them to be happy",
+   "importance": 0.85,
+   "text": "The novel opens with a state newspaper announcing that the spaceship Integral will carry reason to other planets, by persuasion first.",
+   "source_quote": "If they will not understand that we are bringing them a mathematically faultless happiness, our duty will be to force them to be happy.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/eafc78ef-524f-4a75-8e88-f909dfa6269c",
+     "alt": "D-503 at the dock where the Integral is being built",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "freedom ≈ crime",
+   "importance": 0.8,
+   "text": "D-503 explains the State's logic with an engineer's analogy: remove freedom and you remove crime, the way a motionless aero cannot crash.",
+   "source_quote": "freedom and crime are as closely related as--well, as the movement of an aero and its speed",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/4603685f-5ae7-4c0a-bc2e-9195e5dee7eb",
+     "alt": "Glass apartments where everyone lives in view, one curtain lowered",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "a soul has formed",
+   "importance": 0.85,
+   "text": "The doctor's diagnosis is the novel's darkest joke: what used to make someone human is now a symptom.",
+   "source_quote": "\"Yes, it is too bad. Apparently a soul has formed in you.\"",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/0734e81f-75ff-4196-bc77-f518192544e2",
+     "alt": "D-503 told by the doctor that a soul has formed in him",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "no last revolution",
+   "importance": 0.8,
+   "text": "I-330 teaches the mathematician with his own discipline: there is no largest number, so there can be no final revolution.",
+   "source_quote": "There is no last revolution, their number is infinite",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/cfd6922b-5ad8-4127-993e-40742eb8a229",
+     "alt": "Beyond the Wall: I-330 speaks to the Mephi in the forest",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "Paradise again",
+   "importance": 0.75,
+   "text": "The State's poet R-13 retells Genesis as a political programme: the serpent was freedom, and the State has stepped on its head.",
+   "source_quote": "We returned to the simple-mindedness and innocence of Adam and Eve.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/799ce47e-05e4-4432-ac1f-c42fe12f1504",
+     "alt": "The Day of Unanimity, when thousands of hands rise against the Well-Doer",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 2,
+   "extract": "operated, smiling",
+   "importance": 0.75,
+   "text": "After the Great Operation removes his imagination, D-503 writes the last entry in a cheerful voice and watches I-330 tortured without feeling anything.",
+   "source_quote": "I am smiling; I cannot help smiling; a splinter has been taken out of my head and I feel so light, so empty!",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/a739f2fd-d1dc-4536-bfcf-8f68b8fd03d0",
+     "alt": "Numbers queue for the Great Operation that removes the imagination",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "the enemy is already inside",
+   "importance": 0.6,
+   "links": [
+    "peculiarities-of-planetary-conquest"
+   ],
+   "text": "In Peculiarities of Planetary Conquest an alien conquers Earth by convincing people the enemy is already among them. Zamyatin's United State runs on the same fear from the inside: the Guardians are everywhere unseen, Numbers denounce each other as a civic duty, and the Day of Unanimity treats every raised hand as a test of loyalty. Both stories show how cheaply a society can be governed once suspicion is the main thing its people share.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/ef03a7b4-fca8-4f54-a7f6-169db0ac6729",
+     "alt": "The Plaza of the Cube and the Machine of the Well-Doer",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 3,
+   "extract": "the first book Moscow banned",
+   "text": "Zamyatin, a naval engineer who had supervised the building of Russian icebreakers in Newcastle in 1916–17, wrote We in Petrograd in 1920–21. Soviet censors refused it, and it first appeared in this English translation in New York in 1924; the Russian text was not published in the USSR until 1988. In 1931 Zamyatin wrote to Stalin asking to be allowed to leave, and he died in Paris in 1937.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/3e95174f-ab9c-425c-9722-c299c8ab3c41",
+     "alt": "I-330 in her yellow dress in the Ancient House, D-503 bewildered",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 4,
+   "extract": "the dystopia that came first",
+   "importance": 0.5,
+   "text": "We is the ancestor of the modern dystopia. Orwell reviewed it in 1946 and published Nineteen Eighty-Four three years later; Huxley's Brave New World shares its trade of freedom for contentment. But Zamyatin's book is odder and more personal than either. It is told by a true believer, an engineer who loves straight lines, the multiplication table and the Table of Hours, and who sets out to write a hymn to the State for the people of other planets. The hymn turns into a confession as desire, jealousy and dreams break into his equations.\n\nThe novel's argument is mathematical. The State wants life to be a finished calculation; I-330 insists, like the square root of minus one that frightened D-503 as a schoolboy, that some quantities cannot be eliminated. The ending is bleak: the operation works, the rebellion is crushed in the city, and the narrator is cured. Yet the walls have been breached, the Wall is fighting a forest, and the last line, 'Reason must win', is spoken by a man who no longer knows what he has lost.",
+   "images": [
+    {
+     "url": "https://contextcloud.studio/api/v1/images/2f5ec09b-7b47-4394-af47-5f0d119e4a20",
+     "alt": "The Integral's test flight, as the rebels try to seize it",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    }
+   ]
+  },
+  {
+   "layer": 5,
+   "type": "meta",
+   "text": "Gregory Zilboorg's translation (E. P. Dutton, 1924), the first edition of the novel in any language, is in the public domain in the United States. Its full text is not loaded here; read it free at Project Gutenberg (ebook 61963), where the L2 quotes come from. Illustrations were made with an image model for ConteXtube. This interpretation was drafted by Claude in November 2026."
+  }
+ ]
+}
