@@ -12,10 +12,9 @@
  "source_author": "Charles Dickens",
  "purchase_url": "https://www.gutenberg.org/ebooks/46",
  "cover": {
-  "url": "/images/a-christmas-carol/how-now.webp",
-  "alt": "Marley's ghost, in chains, faces Scrooge sitting by his fire in a dressing-gown",
-  "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-  "source": "https://www.gutenberg.org/ebooks/24022"
+  "url": "https://contextcloud.studio/api/v1/images/ec327d06-4773-482b-a815-5a029f7a8780",
+  "alt": "Marley's ghost, in chains, faces Scrooge by his fire",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
  },
  "elements": [
   {
@@ -30,10 +29,9 @@
     "source_quote": "\"Bah!\" said Scrooge, \"Humbug!\""
    },
    "image": {
-    "url": "/images/a-christmas-carol/portly.webp",
-    "alt": "Two portly gentlemen with hats in hand, collecting for the poor",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/9485f502-1cd7-4018-855d-111634ebc40c",
+    "alt": "Two gentlemen collecting for the poor",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -47,10 +45,9 @@
     "when": "main"
    },
    "image": {
-    "url": "/images/a-christmas-carol/knocker.webp",
-    "alt": "Marley's face appearing in the door-knocker between two door-posts",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/5ed0902b-34bc-4082-baff-a38483c9b9c5",
+    "alt": "Marley's face in the door-knocker",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -65,10 +62,9 @@
     "source_quote": "\"I wear the chain I forged in life,\" replied the Ghost."
    },
    "image": {
-    "url": "/images/a-christmas-carol/how-now.webp",
-    "alt": "Marley's ghost, in chains, faces Scrooge sitting by his fire in a dressing-gown",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/ec327d06-4773-482b-a815-5a029f7a8780",
+    "alt": "Marley's ghost, in chains, faces Scrooge by his fire",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -82,10 +78,9 @@
     "when": "main"
    },
    "image": {
-    "url": "/images/a-christmas-carol/phantoms.webp",
-    "alt": "The air outside Scrooge's window full of moaning phantoms in chains",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/8b30c070-3edb-4916-a9fc-38276cd1acfd",
+    "alt": "Phantoms in chains fill the air outside the window",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -99,10 +94,9 @@
     "when": "main"
    },
    "image": {
-    "url": "/images/a-christmas-carol/fezziwig.webp",
-    "alt": "Old Fezziwig and Mrs Fezziwig dancing at the Christmas party",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/7e134304-3b88-46fe-9cfe-067f52460731",
+    "alt": "Old Fezziwig's Christmas ball",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -117,10 +111,9 @@
     "source_quote": "Another idol has displaced me"
    },
    "image": {
-    "url": "/images/a-christmas-carol/parted.webp",
-    "alt": "Belle turning away from the young Scrooge: she left him, and they parted",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/735d39c1-6574-48ae-a92c-6a9b11bb1fdb",
+    "alt": "Belle releases young Scrooge: another idol has displaced me",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -134,10 +127,9 @@
     "when": "main"
    },
    "image": {
-    "url": "/images/a-christmas-carol/boisterous.webp",
-    "alt": "A flushed and boisterous group of children tumbling around their mother",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/bdece684-779c-4b60-984c-c51bc3bdf144",
+    "alt": "Belle's happy home, the life Scrooge did not have",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -151,10 +143,9 @@
     "when": "main"
    },
    "image": {
-    "url": "/images/a-christmas-carol/climate.webp",
-    "alt": "Snow on the roofs and chimneys of London, St Paul's dome in the distance",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/99b9fe4b-3dad-47f0-befa-137828cfa8f7",
+    "alt": "Christmas morning in the snowy streets of London",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -169,10 +160,9 @@
     "source_quote": "\"God bless us every one!\" said Tiny Tim, the last of all."
    },
    "image": {
-    "url": "/images/a-christmas-carol/pudding.webp",
-    "alt": "Mrs Cratchit carrying in the Christmas pudding, her shadow on the wall",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/e15c3ac4-9547-4e1f-9ddf-cb201dcf6b03",
+    "alt": "The Cratchits' Christmas pudding",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -185,6 +175,11 @@
     "beat_number": 10,
     "when": "main",
     "source_quote": "This boy is Ignorance. This girl is Want."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/bad8bdf5-ffc1-42c7-adf4-751b6d768833",
+    "alt": "Ignorance and Want beneath the Spirit's robe",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -198,10 +193,9 @@
     "when": "main"
    },
    "image": {
-    "url": "/images/a-christmas-carol/bed-curtains.webp",
-    "alt": "Old Joe's shop, where a charwoman unrolls the dead man's bed-curtains",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/90c48d58-5b68-40af-afaf-9fdcdb94837a",
+    "alt": "Old Joe's shop: the dead man's bed-curtains",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -216,10 +210,9 @@
     "source_quote": "Are these the shadows of the things that Will be, or are they shadows of things that May be, only?"
    },
    "image": {
-    "url": "/images/a-christmas-carol/last-spirit.webp",
-    "alt": "The Ghost of Christmas Yet to Come, a hooded phantom, pointing among the graves",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/6aca82af-1aa2-4626-90a0-2e527d1e86e1",
+    "alt": "The last Spirit points to the grave",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -234,10 +227,9 @@
     "source_quote": "I don't know what day of the month it is!"
    },
    "image": {
-    "url": "/images/a-christmas-carol/fred.webp",
-    "alt": "Scrooge at his nephew's door: It's I, your uncle Scrooge. I have come to dinner",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/67983f5c-c454-4934-aec9-650da647ba0f",
+    "alt": "'It's I, your uncle Scrooge. I have come to dinner'",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -252,10 +244,9 @@
     "source_quote": "He became as good a friend, as good a master, and as good a man, as the good old city knew"
    },
    "image": {
-    "url": "/images/a-christmas-carol/raise.webp",
-    "alt": "Scrooge facing Bob Cratchit in the counting-house the morning after Christmas",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/4c9b93ac-32a6-4d35-8f21-e196c066a5be",
+    "alt": "Scrooge raises Bob's salary",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -271,10 +262,9 @@
     "source_quote": "secret, and self-contained, and solitary as an oyster."
    },
    "image": {
-    "url": "/images/a-christmas-carol/how-now.webp",
-    "alt": "Marley's ghost, in chains, faces Scrooge sitting by his fire in a dressing-gown",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/ec327d06-4773-482b-a815-5a029f7a8780",
+    "alt": "Marley's ghost, in chains, faces Scrooge by his fire",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -289,10 +279,9 @@
     "source_quote": "Mankind was my business."
    },
    "image": {
-    "url": "/images/a-christmas-carol/how-now.webp",
-    "alt": "Marley's ghost, in chains, faces Scrooge sitting by his fire in a dressing-gown",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/ec327d06-4773-482b-a815-5a029f7a8780",
+    "alt": "Marley's ghost, in chains, faces Scrooge by his fire",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -307,10 +296,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/a-christmas-carol/slide.webp",
-    "alt": "Bob Cratchit sliding on the ice in Cornhill with a line of boys on Christmas Eve",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/230d907e-2e0f-40b9-a5bd-94d94fa99595",
+    "alt": "Bob Cratchit slides on the ice in Cornhill",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -325,10 +313,9 @@
     "source_quote": "\"God bless us every one!\" said Tiny Tim"
    },
    "image": {
-    "url": "/images/a-christmas-carol/tim.webp",
-    "alt": "Bob Cratchit carrying Tiny Tim on his shoulder home from church",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/fdda721e-f7a9-4fc1-99ce-e85ecf439bab",
+    "alt": "Bob carries Tiny Tim home from church",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -342,10 +329,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/a-christmas-carol/forfeits.webp",
+    "url": "https://contextcloud.studio/api/v1/images/8a8f8d46-3560-452c-a4cc-b332f8f1e46f",
     "alt": "Blind man's buff at Fred's Christmas party",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -359,10 +345,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/a-christmas-carol/last-spirit.webp",
-    "alt": "The Ghost of Christmas Yet to Come, a hooded phantom, pointing among the graves",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/6aca82af-1aa2-4626-90a0-2e527d1e86e1",
+    "alt": "The last Spirit points to the grave",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -376,10 +361,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/a-christmas-carol/fezziwig.webp",
-    "alt": "Old Fezziwig and Mrs Fezziwig dancing at the Christmas party",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/7e134304-3b88-46fe-9cfe-067f52460731",
+    "alt": "Old Fezziwig's Christmas ball",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -393,10 +377,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/a-christmas-carol/raise.webp",
-    "alt": "Scrooge facing Bob Cratchit in the counting-house the morning after Christmas",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/4c9b93ac-32a6-4d35-8f21-e196c066a5be",
+    "alt": "Scrooge raises Bob's salary",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -410,10 +393,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/a-christmas-carol/nobody.webp",
-    "alt": "Scrooge checking his room, nobody in his dressing-gown hanging against the wall",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/f62d9b59-ca47-445a-8e0b-7114b4d5666c",
+    "alt": "Scrooge checks his rooms: nobody there",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -427,10 +409,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/a-christmas-carol/pudding.webp",
-    "alt": "Mrs Cratchit carrying in the Christmas pudding, her shadow on the wall",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/e15c3ac4-9547-4e1f-9ddf-cb201dcf6b03",
+    "alt": "The Cratchits' Christmas pudding",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -444,10 +425,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/a-christmas-carol/last-spirit.webp",
-    "alt": "The Ghost of Christmas Yet to Come, a hooded phantom, pointing among the graves",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/6aca82af-1aa2-4626-90a0-2e527d1e86e1",
+    "alt": "The last Spirit points to the grave",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -461,10 +441,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/a-christmas-carol/phantoms.webp",
-    "alt": "The air outside Scrooge's window full of moaning phantoms in chains",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/8b30c070-3edb-4916-a9fc-38276cd1acfd",
+    "alt": "Phantoms in chains fill the air outside the window",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -478,10 +457,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/a-christmas-carol/climate.webp",
-    "alt": "Snow on the roofs and chimneys of London, St Paul's dome in the distance",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/99b9fe4b-3dad-47f0-befa-137828cfa8f7",
+    "alt": "Christmas morning in the snowy streets of London",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -495,10 +473,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/a-christmas-carol/fezziwig.webp",
-    "alt": "Old Fezziwig and Mrs Fezziwig dancing at the Christmas party",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/7e134304-3b88-46fe-9cfe-067f52460731",
+    "alt": "Old Fezziwig's Christmas ball",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -511,6 +488,11 @@
     ],
     "aliases": [],
     "source_quote": "Beware them both"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/bad8bdf5-ffc1-42c7-adf4-751b6d768833",
+    "alt": "Ignorance and Want beneath the Spirit's robe",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -524,10 +506,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/a-christmas-carol/last-spirit.webp",
-    "alt": "The Ghost of Christmas Yet to Come, a hooded phantom, pointing among the graves",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/6aca82af-1aa2-4626-90a0-2e527d1e86e1",
+    "alt": "The last Spirit points to the grave",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -542,10 +523,9 @@
     "source_quote": "fellow-passengers to the grave"
    },
    "image": {
-    "url": "/images/a-christmas-carol/forfeits.webp",
+    "url": "https://contextcloud.studio/api/v1/images/8a8f8d46-3560-452c-a4cc-b332f8f1e46f",
     "alt": "Blind man's buff at Fred's Christmas party",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -559,10 +539,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/a-christmas-carol/portly.webp",
-    "alt": "Two portly gentlemen with hats in hand, collecting for the poor",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/9485f502-1cd7-4018-855d-111634ebc40c",
+    "alt": "Two gentlemen collecting for the poor",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -587,10 +566,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/a-christmas-carol/knocker.webp",
-    "alt": "Marley's face appearing in the door-knocker between two door-posts",
-    "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/24022"
+    "url": "https://contextcloud.studio/api/v1/images/5ed0902b-34bc-4082-baff-a38483c9b9c5",
+    "alt": "Marley's face in the door-knocker",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   }
  ]

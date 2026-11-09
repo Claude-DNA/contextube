@@ -12,10 +12,9 @@
  "source_author": "Edgar Allan Poe",
  "purchase_url": "https://www.gutenberg.org/ebooks/1065",
  "cover": {
-  "url": "/images/the-raven/bust.webp",
-  "alt": "The raven perched on a bust of Pallas above the chamber door, light fanning out behind",
-  "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-  "source": "https://www.gutenberg.org/ebooks/17192"
+  "url": "https://contextcloud.studio/api/v1/images/ec762d43-5253-4e0b-b1f3-5c392d361674",
+  "alt": "The Raven on the bust of Pallas above the chamber door",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
  },
  "elements": [
   {
@@ -30,10 +29,9 @@
     "source_quote": "Once upon a midnight dreary, while I pondered, weak and weary,"
    },
    "image": {
-    "url": "/images/the-raven/midnight.webp",
-    "alt": "A man asleep over his books at a lamp-lit desk at midnight",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/d568a485-455b-4ed1-a174-9467b2209d6a",
+    "alt": "Midnight: the scholar dozing over his books",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -48,10 +46,9 @@
     "source_quote": "From my books surcease of sorrow—sorrow for the lost Lenore—"
    },
    "image": {
-    "url": "/images/the-raven/december.webp",
-    "alt": "A dim room in December: a woman's ghostly figure stands while the man sits by the dying fire",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/9c9200c1-f69c-4103-841b-733f05d6e187",
+    "alt": "December: the dying fire and the memory of Lenore",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -66,10 +63,9 @@
     "source_quote": "And the only word there spoken was the whispered word, “Lenore?”"
    },
    "image": {
-    "url": "/images/the-raven/door.webp",
-    "alt": "The man flinging the door wide open on a dark, empty landing",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/b9663558-02d4-4eed-bd03-9a25d9882ecd",
+    "alt": "He opens the door: darkness there and nothing more",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -84,10 +80,9 @@
     "source_quote": "“Surely,” said I, “surely that is something at my window lattice;"
    },
    "image": {
-    "url": "/images/the-raven/lattice.webp",
-    "alt": "The shadow of a raven on an ivy-covered wall beside a shuttered window",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/81790b93-8c75-4ddc-b74e-c042678a0aad",
+    "alt": "Something at the window lattice",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -102,10 +97,9 @@
     "source_quote": "In there stepped a stately Raven of the saintly days of yore."
    },
    "image": {
-    "url": "/images/the-raven/shutter.webp",
-    "alt": "The man throws open the shutter and the raven flies into the room",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/7274c541-0ec5-4c50-91d2-31afbe872848",
+    "alt": "A stately Raven steps in",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -120,10 +114,9 @@
     "source_quote": "Quoth the Raven, “Nevermore.”"
    },
    "image": {
-    "url": "/images/the-raven/bust.webp",
-    "alt": "The raven perched on a bust of Pallas above the chamber door, light fanning out behind",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/ec762d43-5253-4e0b-b1f3-5c392d361674",
+    "alt": "The Raven on the bust of Pallas above the chamber door",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -138,10 +131,9 @@
     "source_quote": "Then, upon the velvet sinking, I betook myself to linking"
    },
    "image": {
-    "url": "/images/the-raven/fancy.webp",
-    "alt": "The man sunk in a velvet chair, lost in thought, a dark hound at his feet",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/10eea003-65a4-470f-9e8c-a0de10589f38",
+    "alt": "Linking fancy unto fancy",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -156,10 +148,9 @@
     "source_quote": "Quaff, oh quaff this kind nepenthe and forget this lost Lenore!"
    },
    "image": {
-    "url": "/images/the-raven/nepenthe.webp",
-    "alt": "Seraphim swinging a censer around the seated man while the raven watches from the bust",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/970f011e-0e2d-4e03-b34b-6d8f60cb88d6",
+    "alt": "The air grows denser, perfumed from an unseen censer",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -174,10 +165,9 @@
     "source_quote": "Is there—is there balm in Gilead?—tell me—tell me, I implore!"
    },
    "image": {
-    "url": "/images/the-raven/gilead.webp",
-    "alt": "The man reaching up toward the raven on the bust, pleading, as smoke rises",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/b5e032cc-cf12-4261-ab67-672beb2cf0f4",
+    "alt": "Is there balm in Gilead?",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -192,10 +182,9 @@
     "source_quote": "“Be that our sign of parting, bird or fiend!” I shrieked, upstarting—"
    },
    "image": {
-    "url": "/images/the-raven/fiend.webp",
-    "alt": "The man stands up shrieking at the raven in a shaft of light",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/e3636015-7fea-45e9-984b-e85ce0ee1258",
+    "alt": "Bird or fiend! the scholar shrieks",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -210,10 +199,9 @@
     "source_quote": "And the Raven, never flitting, still is sitting, still is sitting"
    },
    "image": {
-    "url": "/images/the-raven/shadow.webp",
-    "alt": "The man lying on the floor in the raven's shadow, the bird still on the bust above the door",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/ab4c2154-31f6-4fb3-8abd-909f83176b82",
+    "alt": "His soul in the raven's shadow on the floor",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -231,10 +219,9 @@
     ]
    },
    "image": {
-    "url": "/images/the-raven/fancy.webp",
-    "alt": "The man sunk in a velvet chair, lost in thought, a dark hound at his feet",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/10eea003-65a4-470f-9e8c-a0de10589f38",
+    "alt": "Linking fancy unto fancy",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -250,10 +237,9 @@
     "source_quote": "Ghastly grim and ancient Raven wandering from the Nightly shore—"
    },
    "image": {
-    "url": "/images/the-raven/bust.webp",
-    "alt": "The raven perched on a bust of Pallas above the chamber door, light fanning out behind",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/ec762d43-5253-4e0b-b1f3-5c392d361674",
+    "alt": "The Raven on the bust of Pallas above the chamber door",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -269,10 +255,9 @@
     "source_quote": "For the rare and radiant maiden whom the angels name Lenore—"
    },
    "image": {
-    "url": "/images/the-raven/lenore.webp",
-    "alt": "Angels carrying a maiden through the clouds above a dark sea",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/0809739a-a590-49b3-b350-3204a6e22aab",
+    "alt": "Lenore carried away by angels",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -286,10 +271,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-raven/midnight.webp",
-    "alt": "A man asleep over his books at a lamp-lit desk at midnight",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/d568a485-455b-4ed1-a174-9467b2209d6a",
+    "alt": "Midnight: the scholar dozing over his books",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -304,10 +288,9 @@
     "source_quote": "Perched upon a bust of Pallas just above my chamber door—"
    },
    "image": {
-    "url": "/images/the-raven/bust.webp",
-    "alt": "The raven perched on a bust of Pallas above the chamber door, light fanning out behind",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/ec762d43-5253-4e0b-b1f3-5c392d361674",
+    "alt": "The Raven on the bust of Pallas above the chamber door",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -322,10 +305,9 @@
     "source_quote": "Tell me what thy lordly name is on the Night’s Plutonian shore!"
    },
    "image": {
-    "url": "/images/the-raven/shore.webp",
-    "alt": "A graveyard by night under a low moon, crosses and tombstones, a raven flying overhead",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/51b6b2bb-68a3-4eb1-86d3-6c75ff6c40b0",
+    "alt": "The Night's Plutonian shore",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -340,10 +322,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-raven/bust.webp",
-    "alt": "The raven perched on a bust of Pallas above the chamber door, light fanning out behind",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/ec762d43-5253-4e0b-b1f3-5c392d361674",
+    "alt": "The Raven on the bust of Pallas above the chamber door",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -357,10 +338,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-raven/december.webp",
-    "alt": "A dim room in December: a woman's ghostly figure stands while the man sits by the dying fire",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/9c9200c1-f69c-4103-841b-733f05d6e187",
+    "alt": "December: the dying fire and the memory of Lenore",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -376,10 +356,9 @@
     "source_quote": "Doubtless,” said I, “what it utters is its only stock and store,"
    },
    "image": {
-    "url": "/images/the-raven/gilead.webp",
-    "alt": "The man reaching up toward the raven on the bust, pleading, as smoke rises",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/b5e032cc-cf12-4261-ab67-672beb2cf0f4",
+    "alt": "Is there balm in Gilead?",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -393,10 +372,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-raven/aidenn.webp",
-    "alt": "Two figures walking in a luminous garden among trees, a vision of paradise",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/91c31e6c-1a95-4c91-8c52-df95e9cf212a",
+    "alt": "A vision of Aidenn",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -410,10 +388,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-raven/shadow.webp",
-    "alt": "The man lying on the floor in the raven's shadow, the bird still on the bust above the door",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/ab4c2154-31f6-4fb3-8abd-909f83176b82",
+    "alt": "His soul in the raven's shadow on the floor",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -427,10 +404,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-raven/bust.webp",
-    "alt": "The raven perched on a bust of Pallas above the chamber door, light fanning out behind",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/ec762d43-5253-4e0b-b1f3-5c392d361674",
+    "alt": "The Raven on the bust of Pallas above the chamber door",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -444,10 +420,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-raven/gilead.webp",
-    "alt": "The man reaching up toward the raven on the bust, pleading, as smoke rises",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/b5e032cc-cf12-4261-ab67-672beb2cf0f4",
+    "alt": "Is there balm in Gilead?",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -461,10 +436,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-raven/nepenthe.webp",
-    "alt": "Seraphim swinging a censer around the seated man while the raven watches from the bust",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/970f011e-0e2d-4e03-b34b-6d8f60cb88d6",
+    "alt": "The air grows denser, perfumed from an unseen censer",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -478,10 +452,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-raven/aidenn.webp",
-    "alt": "Two figures walking in a luminous garden among trees, a vision of paradise",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/91c31e6c-1a95-4c91-8c52-df95e9cf212a",
+    "alt": "A vision of Aidenn",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -495,10 +468,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-raven/bust.webp",
-    "alt": "The raven perched on a bust of Pallas above the chamber door, light fanning out behind",
-    "credit": "Gustave Doré, engraving for The Raven (Harper & Brothers, 1884). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/17192"
+    "url": "https://contextcloud.studio/api/v1/images/ec762d43-5253-4e0b-b1f3-5c392d361674",
+    "alt": "The Raven on the bust of Pallas above the chamber door",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   }
  ]

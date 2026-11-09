@@ -12,10 +12,9 @@
  "source_author": "Oscar Wilde",
  "purchase_url": "https://www.gutenberg.org/ebooks/902",
  "cover": {
-  "url": "/images/the-happy-prince-and-other-tales/beggars.webp",
-  "alt": "A cloaked beggar crouching at the gates while the rich make merry in a lit palace beyond",
-  "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-  "source": "https://www.gutenberg.org/ebooks/30120"
+  "url": "https://contextcloud.studio/api/v1/images/91ad16a6-a534-450c-9be1-7f910ce8fe2a",
+  "alt": "The Happy Prince on his column, the Swallow at his feet",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
  },
  "elements": [
   {
@@ -30,10 +29,9 @@
     "source_quote": "“When I was alive and had a human heart,” answered the statue, “I did not know what tears were"
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/sans-souci.webp",
-    "alt": "Young people lounging in a sunlit palace garden: the Palace of Sans-Souci",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/91ad16a6-a534-450c-9be1-7f910ce8fe2a",
+    "alt": "The Happy Prince on his column, the Swallow at his feet",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -48,10 +46,9 @@
     "source_quote": "will you not stay with me for one night, and be my messenger?"
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/maid.webp",
-    "alt": "The loveliest of the Queen's maids of honour, in a pale gown and tall headdress",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/6310e17f-4c7a-464a-9512-c1aca6ac4f0a",
+    "alt": "The swallow brings the ruby to the seamstress",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -66,10 +63,9 @@
     "source_quote": "“I am covered with fine gold,” said the Prince, “you must take it off, leaf by leaf, and give it to my poor"
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/beggars.webp",
-    "alt": "A cloaked beggar crouching at the gates while the rich make merry in a lit palace beyond",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/693ad310-7ebd-40d1-806e-64a6db45929a",
+    "alt": "The rich make merry while the beggars sit at the gates",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -82,6 +78,11 @@
     "beat_number": 4,
     "when": "main",
     "source_quote": "“Bring me the two most precious things in the city,” said God to one of His Angels"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/0c5b0e5e-836d-4ac8-9634-ee4a07aa3a54",
+    "alt": "The two most precious things in the city",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -95,10 +96,9 @@
     "when": "main"
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/student.webp",
-    "alt": "A young woman in an elegant patterned gown passes by while the Student watches",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/a2d36363-baa6-43a4-849c-bd7b3cfbecc9",
+    "alt": "The Student longs for a red rose",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -113,10 +113,9 @@
     "source_quote": "“Death is a great price to pay for a red rose,” cried the Nightingale"
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/lover.webp",
-    "alt": "A winged figure of Love with a bow, standing barefoot in a rose-coloured haze",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/04600dad-5014-460a-92a7-2cd7e6f2efcb",
+    "alt": "The Nightingale sings with her heart against the thorn",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -129,6 +128,11 @@
     "beat_number": 7,
     "when": "main",
     "source_quote": "TRESPASSERS WILL BE PROSECUTED"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/b13ee65e-cec1-4a89-8444-08476bb32a3a",
+    "alt": "The Giant's garden, locked in winter",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -143,10 +147,9 @@
     "source_quote": "“How selfish I have been!” he said; “now I know why the Spring would not come here."
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/giant-tree.webp",
-    "alt": "Children climbing a tree white with blossom in the Giant's garden",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/713adf61-348c-46f7-b54c-2244baabe3d6",
+    "alt": "The children come back and the trees blossom",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -161,10 +164,9 @@
     "source_quote": "“Nay!” answered the child; “but these are the wounds of Love.”"
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/little-boy.webp",
-    "alt": "The little boy in a yellow robe standing among white blossom and cloud",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/7daac1ae-86d8-4e92-9561-99ff5a509288",
+    "alt": "The Giant lifts the little boy into the tree",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -179,10 +181,9 @@
     "source_quote": "Little Hans had a great many friends, but the most devoted friend of all was big Hugh the Miller."
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/hans.webp",
-    "alt": "Little Hans in a wide hat, working in his garden among the roses",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/b209c393-10ac-493e-b6a3-49ee17c51e49",
+    "alt": "Little Hans in his garden, and the Miller at the gate",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -197,10 +198,9 @@
     "source_quote": "“I knew I should create a great sensation,” gasped the Rocket, and he went out."
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/king.webp",
-    "alt": "The King in his crown and furs, a courtier bowing low: Let the fireworks begin",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/7deae4bc-8120-401c-b831-2e6ced3b4184",
+    "alt": "The Remarkable Rocket lectures the other fireworks",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -215,10 +215,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/sans-souci.webp",
-    "alt": "Young people lounging in a sunlit palace garden: the Palace of Sans-Souci",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/91ad16a6-a534-450c-9be1-7f910ce8fe2a",
+    "alt": "The Happy Prince on his column, the Swallow at his feet",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -232,6 +231,11 @@
     ],
     "aliases": [],
     "source_quote": "I am waited for in Egypt"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/591f062e-982f-42f2-84b5-7e3710133d4f",
+    "alt": "The Swallow dies at the Prince's feet",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -247,10 +251,9 @@
     "source_quote": "Love is better than Life"
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/lover.webp",
-    "alt": "A winged figure of Love with a bow, standing barefoot in a rose-coloured haze",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/04600dad-5014-460a-92a7-2cd7e6f2efcb",
+    "alt": "The Nightingale sings with her heart against the thorn",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -264,10 +267,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/student.webp",
-    "alt": "A young woman in an elegant patterned gown passes by while the Student watches",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/a2d36363-baa6-43a4-849c-bd7b3cfbecc9",
+    "alt": "The Student longs for a red rose",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -282,10 +284,9 @@
     "source_quote": "My own garden is my own garden"
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/giant-tree.webp",
-    "alt": "Children climbing a tree white with blossom in the Giant's garden",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/713adf61-348c-46f7-b54c-2244baabe3d6",
+    "alt": "The children come back and the trees blossom",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -300,10 +301,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/little-boy.webp",
-    "alt": "The little boy in a yellow robe standing among white blossom and cloud",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/7daac1ae-86d8-4e92-9561-99ff5a509288",
+    "alt": "The Giant lifts the little boy into the tree",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -317,10 +317,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/hans.webp",
-    "alt": "Little Hans in a wide hat, working in his garden among the roses",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/b209c393-10ac-493e-b6a3-49ee17c51e49",
+    "alt": "Little Hans in his garden, and the Miller at the gate",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -335,10 +334,9 @@
     "source_quote": "I am a very remarkable Rocket, and come of remarkable parents."
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/king.webp",
-    "alt": "The King in his crown and furs, a courtier bowing low: Let the fireworks begin",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/7deae4bc-8120-401c-b831-2e6ced3b4184",
+    "alt": "The Remarkable Rocket lectures the other fireworks",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -352,10 +350,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/beggars.webp",
-    "alt": "A cloaked beggar crouching at the gates while the rich make merry in a lit palace beyond",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/693ad310-7ebd-40d1-806e-64a6db45929a",
+    "alt": "The rich make merry while the beggars sit at the gates",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -369,10 +366,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/sans-souci.webp",
-    "alt": "Young people lounging in a sunlit palace garden: the Palace of Sans-Souci",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/7e2a5da6-7f55-4499-878a-170897b260e5",
+    "alt": "The Palace of Sans-Souci, where sorrow is not allowed in",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -386,10 +382,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/giant-tree.webp",
-    "alt": "Children climbing a tree white with blossom in the Giant's garden",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/713adf61-348c-46f7-b54c-2244baabe3d6",
+    "alt": "The children come back and the trees blossom",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -403,10 +398,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/princess.webp",
-    "alt": "The Russian Princess arriving in a sledge drawn by reindeer, a domed city behind",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/5905f091-7ae6-4023-9cef-19e58e467944",
+    "alt": "The Russian Princess arrives in a sledge drawn by reindeer",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -418,6 +412,11 @@
      "rule"
     ],
     "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/f70c9e3a-a09f-49f4-960f-ab59828fc40b",
+    "alt": "The Water-rat and the Linnet talk about friendship",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -430,6 +429,11 @@
      "justice"
     ],
     "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/0c5b0e5e-836d-4ac8-9634-ee4a07aa3a54",
+    "alt": "The two most precious things in the city",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -444,10 +448,9 @@
     "source_quote": "There is no Mystery so great as Misery."
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/beggars.webp",
-    "alt": "A cloaked beggar crouching at the gates while the rich make merry in a lit palace beyond",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/693ad310-7ebd-40d1-806e-64a6db45929a",
+    "alt": "The rich make merry while the beggars sit at the gates",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -460,6 +463,11 @@
     ],
     "aliases": [],
     "source_quote": "As he is no longer beautiful he is no longer useful"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/591f062e-982f-42f2-84b5-7e3710133d4f",
+    "alt": "The Swallow dies at the Prince's feet",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -474,10 +482,9 @@
     "source_quote": "It is not half as useful as Logic"
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/student.webp",
-    "alt": "A young woman in an elegant patterned gown passes by while the Student watches",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/a2d36363-baa6-43a4-849c-bd7b3cfbecc9",
+    "alt": "The Student longs for a red rose",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -492,10 +499,9 @@
     "source_quote": "Lots of people act well"
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/hans.webp",
-    "alt": "Little Hans in a wide hat, working in his garden among the roses",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/b209c393-10ac-493e-b6a3-49ee17c51e49",
+    "alt": "Little Hans in his garden, and the Miller at the gate",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -509,10 +515,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/little-boy.webp",
-    "alt": "The little boy in a yellow robe standing among white blossom and cloud",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/7daac1ae-86d8-4e92-9561-99ff5a509288",
+    "alt": "The Giant lifts the little boy into the tree",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -526,10 +531,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-happy-prince-and-other-tales/sans-souci.webp",
-    "alt": "Young people lounging in a sunlit palace garden: the Palace of Sans-Souci",
-    "credit": "Charles Robinson, colour plate for The Happy Prince and Other Tales (1913 edition). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/30120"
+    "url": "https://contextcloud.studio/api/v1/images/7e2a5da6-7f55-4499-878a-170897b260e5",
+    "alt": "The Palace of Sans-Souci, where sorrow is not allowed in",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   }
  ]

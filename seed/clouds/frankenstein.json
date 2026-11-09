@@ -12,10 +12,9 @@
  "source_author": "Mary Wollstonecraft Shelley",
  "purchase_url": "https://www.gutenberg.org/ebooks/42324",
  "cover": {
-  "url": "/images/frankenstein/creation.webp",
-  "alt": "The creature wakes on the floor among bones and books while Victor flees through the door",
-  "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
-  "source": "https://www.gutenberg.org/ebooks/42324"
+  "url": "https://contextcloud.studio/api/v1/images/fe36d780-3304-4062-941d-5e2725ee2e28",
+  "alt": "It breathed: the creature opens its eye as Victor recoils",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
  },
  "elements": [
   {
@@ -30,10 +29,9 @@
     "source_quote": "He was soon borne away by the waves, and lost in darkness and distance."
    },
    "image": {
-    "url": "/images/frankenstein/nipped.webp",
-    "alt": "A ship crushed between towering blocks of ice",
-    "credit": "Nipped in the Ice, Currier & Ives, 1877–94. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/662043"
+    "url": "https://contextcloud.studio/api/v1/images/61ba2ea5-9063-48aa-9895-67c0d23a895c",
+    "alt": "The creature leaves on an ice raft",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -48,10 +46,9 @@
     "source_quote": "on a sudden I beheld a stream of fire issue from an old and beautiful oak"
    },
    "image": {
-    "url": "/images/frankenstein/storm.webp",
-    "alt": "A storm darkening over a lake, a man and a boy waiting on the shore",
-    "credit": "Approaching Thunder Storm, Martin Johnson Heade, 1859. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/11050"
+    "url": "https://contextcloud.studio/api/v1/images/ddd4a77f-88c7-4d82-8422-95884d7fee49",
+    "alt": "Lightning destroys the old oak",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -66,10 +63,9 @@
     "source_quote": "The day of my departure at length arrived."
    },
    "image": {
-    "url": "/images/frankenstein/departure.webp",
-    "alt": "Elizabeth holding Victor's hand at the door as he leaves for Ingolstadt, his face in his hand",
-    "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/42324"
+    "url": "https://contextcloud.studio/api/v1/images/13bded7d-d999-41ff-b320-4b290893a0a7",
+    "alt": "Victor leaves Elizabeth for Ingolstadt",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -84,10 +80,9 @@
     "source_quote": "I kept my workshop of filthy creation"
    },
    "image": {
-    "url": "/images/frankenstein/galvanized.webp",
-    "alt": "A satirical print of a corpse sitting up in its coffin, jolted by galvanism",
-    "credit": "A Galvanized Corpse, Henry R. Robinson, 1836. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/389105"
+    "url": "https://contextcloud.studio/api/v1/images/9cd0fc7e-ba6b-4812-9321-fbd34d24925c",
+    "alt": "Victor's workshop of filthy creation in Ingolstadt",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -102,10 +97,9 @@
     "source_quote": "I saw the dull yellow eye of the creature open; it breathed hard, and a convulsive motion agitated its limbs."
    },
    "image": {
-    "url": "/images/frankenstein/creation.webp",
-    "alt": "The creature wakes on the floor among bones and books while Victor flees through the door",
-    "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/42324"
+    "url": "https://contextcloud.studio/api/v1/images/fe36d780-3304-4062-941d-5e2725ee2e28",
+    "alt": "It breathed: the creature opens its eye as Victor recoils",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -119,10 +113,9 @@
     "when": "main"
    },
    "image": {
-    "url": "/images/frankenstein/geneva.webp",
-    "alt": "Lake Geneva with trees and boats in the foreground",
-    "credit": "View of Lake Geneva, Joseph Vernet, ca. 1750–1800. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/811924"
+    "url": "https://contextcloud.studio/api/v1/images/fd4f03d3-9711-4e0a-ad60-54f1b3f9ff45",
+    "alt": "Lake Geneva, Victor's home",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -137,10 +130,9 @@
     "source_quote": "For some time I sat upon the rock that overlooks the sea of ice."
    },
    "image": {
-    "url": "/images/frankenstein/mer-de-glace.webp",
-    "alt": "The Mer de Glace glacier below the peaks of Chamonix, in mezzotint",
-    "credit": "Mêr de Glace, Valley of Chamouni-Savoy, Joseph Mallord William Turner, May 23, 1812. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/383023"
+    "url": "https://contextcloud.studio/api/v1/images/63a56da3-4a2e-4679-9a68-c854a76a01d2",
+    "alt": "The creature meets Victor on the Mer de Glace",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -153,6 +145,11 @@
     "beat_number": 8,
     "when": "main",
     "source_quote": "I am malicious because I am miserable."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/a235e6e4-c888-48ea-8bc6-20762a5ecfea",
+    "alt": "The creature watches the De Lacey family",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -167,10 +164,9 @@
     "source_quote": "I am alone, and miserable; man will not associate with me"
    },
    "image": {
-    "url": "/images/frankenstein/mont-blanc.webp",
-    "alt": "The massif of Mont Blanc, its snowy peaks above a stony valley",
-    "credit": "View of the Massif of Mont Blanc, Jean-Antoine Linck, late 18th–19th century. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/373896"
+    "url": "https://contextcloud.studio/api/v1/images/a7d9d0d8-a88a-4b97-8fda-ae841b6009f5",
+    "alt": "Mont Blanc above the valley of Chamonix",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -183,6 +179,11 @@
     "beat_number": 10,
     "when": "main",
     "source_quote": "You are my creator, but I am your master;--obey!"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/7e3fef6b-5e0e-402a-9ce3-f170f50268fe",
+    "alt": "Victor destroys the companion as the creature watches",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -197,10 +198,9 @@
     "source_quote": "I shall be with you on your wedding-night."
    },
    "image": {
-    "url": "/images/frankenstein/storm.webp",
-    "alt": "A storm darkening over a lake, a man and a boy waiting on the shore",
-    "credit": "Approaching Thunder Storm, Martin Johnson Heade, 1859. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/11050"
+    "url": "https://contextcloud.studio/api/v1/images/7faf3ad5-79ae-43e6-943a-f254e0835289",
+    "alt": "A storm over the lake, and a figure in the lightning",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -214,10 +214,9 @@
     "when": "main"
    },
    "image": {
-    "url": "/images/frankenstein/arctic.webp",
-    "alt": "A ship among Arctic ice floes under a dark storm cloud",
-    "credit": "An Arctic Summer: Boring Through the Pack in Melville Bay, William Bradford, 1871. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/10207"
+    "url": "https://contextcloud.studio/api/v1/images/87c21313-46e6-4648-a286-0f768c53a636",
+    "alt": "Walton's ship in the Arctic ice",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -231,10 +230,9 @@
     "when": "main"
    },
    "image": {
-    "url": "/images/frankenstein/nipped.webp",
-    "alt": "A ship crushed between towering blocks of ice",
-    "credit": "Nipped in the Ice, Currier & Ives, 1877–94. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/662043"
+    "url": "https://contextcloud.studio/api/v1/images/61ba2ea5-9063-48aa-9895-67c0d23a895c",
+    "alt": "The creature leaves on an ice raft",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -250,10 +248,9 @@
     "source_quote": "Life and death appeared to me ideal bounds, which I should first break through"
    },
    "image": {
-    "url": "/images/frankenstein/departure.webp",
-    "alt": "Elizabeth holding Victor's hand at the door as he leaves for Ingolstadt, his face in his hand",
-    "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/42324"
+    "url": "https://contextcloud.studio/api/v1/images/13bded7d-d999-41ff-b320-4b290893a0a7",
+    "alt": "Victor leaves Elizabeth for Ingolstadt",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -272,10 +269,9 @@
     "source_quote": "I ought to be thy Adam; but I am rather the fallen angel"
    },
    "image": {
-    "url": "/images/frankenstein/creation.webp",
-    "alt": "The creature wakes on the floor among bones and books while Victor flees through the door",
-    "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/42324"
+    "url": "https://contextcloud.studio/api/v1/images/fe36d780-3304-4062-941d-5e2725ee2e28",
+    "alt": "It breathed: the creature opens its eye as Victor recoils",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -289,10 +285,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/frankenstein/departure.webp",
-    "alt": "Elizabeth holding Victor's hand at the door as he leaves for Ingolstadt, his face in his hand",
-    "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/42324"
+    "url": "https://contextcloud.studio/api/v1/images/13bded7d-d999-41ff-b320-4b290893a0a7",
+    "alt": "Victor leaves Elizabeth for Ingolstadt",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -307,10 +302,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/frankenstein/arctic.webp",
-    "alt": "A ship among Arctic ice floes under a dark storm cloud",
-    "credit": "An Arctic Summer: Boring Through the Pack in Melville Bay, William Bradford, 1871. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/10207"
+    "url": "https://contextcloud.studio/api/v1/images/87c21313-46e6-4648-a286-0f768c53a636",
+    "alt": "Walton's ship in the Arctic ice",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -333,6 +327,11 @@
      "teachers"
     ],
     "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/a235e6e4-c888-48ea-8bc6-20762a5ecfea",
+    "alt": "The creature watches the De Lacey family",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -346,10 +345,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/frankenstein/geneva.webp",
-    "alt": "Lake Geneva with trees and boats in the foreground",
-    "credit": "View of Lake Geneva, Joseph Vernet, ca. 1750–1800. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/811924"
+    "url": "https://contextcloud.studio/api/v1/images/fd4f03d3-9711-4e0a-ad60-54f1b3f9ff45",
+    "alt": "Lake Geneva, Victor's home",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -361,6 +359,11 @@
      "laboratory"
     ],
     "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/9cd0fc7e-ba6b-4812-9321-fbd34d24925c",
+    "alt": "Victor's workshop of filthy creation in Ingolstadt",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -375,10 +378,9 @@
     "source_quote": "The surface is very uneven, rising like the waves of a troubled sea"
    },
    "image": {
-    "url": "/images/frankenstein/mer-de-glace.webp",
-    "alt": "The Mer de Glace glacier below the peaks of Chamonix, in mezzotint",
-    "credit": "Mêr de Glace, Valley of Chamouni-Savoy, Joseph Mallord William Turner, May 23, 1812. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/383023"
+    "url": "https://contextcloud.studio/api/v1/images/63a56da3-4a2e-4679-9a68-c854a76a01d2",
+    "alt": "The creature meets Victor on the Mer de Glace",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -392,10 +394,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/frankenstein/arctic.webp",
-    "alt": "A ship among Arctic ice floes under a dark storm cloud",
-    "credit": "An Arctic Summer: Boring Through the Pack in Melville Bay, William Bradford, 1871. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/10207"
+    "url": "https://contextcloud.studio/api/v1/images/87c21313-46e6-4648-a286-0f768c53a636",
+    "alt": "Walton's ship in the Arctic ice",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -409,10 +410,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/frankenstein/galvanized.webp",
-    "alt": "A satirical print of a corpse sitting up in its coffin, jolted by galvanism",
-    "credit": "A Galvanized Corpse, Henry R. Robinson, 1836. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/389105"
+    "url": "https://contextcloud.studio/api/v1/images/9cd0fc7e-ba6b-4812-9321-fbd34d24925c",
+    "alt": "Victor's workshop of filthy creation in Ingolstadt",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -426,10 +426,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/frankenstein/nipped.webp",
-    "alt": "A ship crushed between towering blocks of ice",
-    "credit": "Nipped in the Ice, Currier & Ives, 1877–94. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/662043"
+    "url": "https://contextcloud.studio/api/v1/images/61ba2ea5-9063-48aa-9895-67c0d23a895c",
+    "alt": "The creature leaves on an ice raft",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -444,10 +443,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/frankenstein/creation.webp",
-    "alt": "The creature wakes on the floor among bones and books while Victor flees through the door",
-    "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/42324"
+    "url": "https://contextcloud.studio/api/v1/images/fe36d780-3304-4062-941d-5e2725ee2e28",
+    "alt": "It breathed: the creature opens its eye as Victor recoils",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -462,10 +460,9 @@
     "source_quote": "I was benevolent and good; misery made me a fiend."
    },
    "image": {
-    "url": "/images/frankenstein/storm.webp",
-    "alt": "A storm darkening over a lake, a man and a boy waiting on the shore",
-    "credit": "Approaching Thunder Storm, Martin Johnson Heade, 1859. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/11050"
+    "url": "https://contextcloud.studio/api/v1/images/7faf3ad5-79ae-43e6-943a-f254e0835289",
+    "alt": "A storm over the lake, and a figure in the lightning",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -480,10 +477,9 @@
     "source_quote": "how dangerous is the acquirement of knowledge"
    },
    "image": {
-    "url": "/images/frankenstein/departure.webp",
-    "alt": "Elizabeth holding Victor's hand at the door as he leaves for Ingolstadt, his face in his hand",
-    "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/42324"
+    "url": "https://contextcloud.studio/api/v1/images/13bded7d-d999-41ff-b320-4b290893a0a7",
+    "alt": "Victor leaves Elizabeth for Ingolstadt",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -498,10 +494,9 @@
     "source_quote": "Every where I see bliss, from which I alone am irrevocably excluded."
    },
    "image": {
-    "url": "/images/frankenstein/mont-blanc.webp",
-    "alt": "The massif of Mont Blanc, its snowy peaks above a stony valley",
-    "credit": "View of the Massif of Mont Blanc, Jean-Antoine Linck, late 18th–19th century. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/373896"
+    "url": "https://contextcloud.studio/api/v1/images/a7d9d0d8-a88a-4b97-8fda-ae841b6009f5",
+    "alt": "Mont Blanc above the valley of Chamonix",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -537,10 +532,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/frankenstein/geneva.webp",
-    "alt": "Lake Geneva with trees and boats in the foreground",
-    "credit": "View of Lake Geneva, Joseph Vernet, ca. 1750–1800. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/811924"
+    "url": "https://contextcloud.studio/api/v1/images/fd4f03d3-9711-4e0a-ad60-54f1b3f9ff45",
+    "alt": "Lake Geneva, Victor's home",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -554,10 +548,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/frankenstein/galvanized.webp",
-    "alt": "A satirical print of a corpse sitting up in its coffin, jolted by galvanism",
-    "credit": "A Galvanized Corpse, Henry R. Robinson, 1836. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/389105"
+    "url": "https://contextcloud.studio/api/v1/images/9cd0fc7e-ba6b-4812-9321-fbd34d24925c",
+    "alt": "Victor's workshop of filthy creation in Ingolstadt",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   }
  ]

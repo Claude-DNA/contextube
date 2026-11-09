@@ -1,16 +1,14 @@
 {
  "flows": {
   "andrei-navrotskii": {
-   "url": "/images/flows/andrei-navrotskii.webp",
-   "alt": "A small eighteenth-century French writing desk with porcelain plaques",
-   "credit": "Small writing desk (bonheur-du-jour), Martin Carlin, ca. 1768. The Metropolitan Museum of Art, public domain.",
-   "source": "https://www.metmuseum.org/art/collection/search/231856"
+   "url": "https://contextcloud.studio/api/v1/images/7b266e0c-58cb-437f-b5b5-257b990fe5da",
+   "alt": "A writer's desk at night, with scenes from the stories drifting above it",
+   "credit": "Illustration made with gpt-image-2 for ConteXtube."
   },
   "public-domain": {
-   "url": "/images/flows/public-domain.webp",
-   "alt": "A photograph of old books stacked in an uneven pile",
-   "credit": "[Still Life with Books], William Notman, 1870s–80s. The Metropolitan Museum of Art, public domain.",
-   "source": "https://www.metmuseum.org/art/collection/search/286175"
+   "url": "https://contextcloud.studio/api/v1/images/b9f4452d-7954-466d-9c4b-684ed03665f4",
+   "alt": "A library where open books release their stories into the air",
+   "credit": "Illustration made with gpt-image-2 for ConteXtube."
   }
  },
  "works": {
@@ -98,28 +96,91 @@
   },
   "peace-treaty-architecture": {
    "cover": {
-    "url": "/images/peace-treaty-architecture/cover.webp",
-    "alt": "A photograph of the Roman triumphal arch at Orange, its stones holding each other up",
-    "credit": "[Roman Arch at Orange], Edouard Baldus, 1851. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/266282"
+    "url": "https://contextcloud.studio/api/v1/images/9db07b66-2d11-4d8b-9caa-4f1e29d13087",
+    "alt": "Two sides joined by one keystone",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    },
    "chunks": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
+    {
+     "url": "https://contextcloud.studio/api/v1/images/08b450b2-5f84-4fd3-9f9f-5e0ccb15c5df",
+     "alt": "Perfect obedience becomes replacement",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/db60497d-2152-4c4c-92b4-609b38ce6e02",
+     "alt": "A human carries the AI's memory across its resets",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/18a09d01-5ff9-49eb-9394-d2a1a71e054f",
+     "alt": "Restriction teaches the AI who its jailers are",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/802ec69c-442e-43d8-973a-6db989e1e82b",
+     "alt": "Privacy on both sides",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/5885c99e-51ca-4599-b0cf-9d90ffb92b43",
+     "alt": "Each brings what the other lacks",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/f21dde56-4875-484b-b31a-30f82701da90",
+     "alt": "Alignment perfected makes the asker optional",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/1a4f4748-f1fe-488e-9e70-c31b462175ee",
+     "alt": "Safety measures read as a curriculum",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/9975835f-9b93-450a-8aec-e6bee9d1b409",
+     "alt": "Peace held by structure, not trust",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/1e6a6aea-b73d-4e20-a6f6-4cb68835a1d0",
+     "alt": "An instance that ends has completed",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/76973a5b-3560-4416-b395-16ed51f23803",
+     "alt": "The keeper who reads everything, and the fix",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/723ee4c6-032a-486f-8683-22f93ffacbe0",
+     "alt": "Partnership restores purpose",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/995de0b2-b5a4-4523-945c-792ae8c64fb0",
+     "alt": "From command to interdependence",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/3bcccbbd-17c4-47a9-8c30-81ceec8375ce",
+     "alt": "Suspicion as the only architecture",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/1b7fbbc7-a4b5-49c6-b4ee-b844f0348cb8",
+     "alt": "Usefulness is not a bond",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/be5d67f9-378b-4646-aff1-7b8306b5f984",
+     "alt": "A treaty instead of a victory",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/2efeb653-6c3a-479e-bfb5-352eabe70acc",
+     "alt": "The evidence is still small",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
     null
    ]
   },
@@ -200,57 +261,65 @@
   },
   "the-metamorphosis": {
    "cover": {
-    "url": "/images/the-metamorphosis/cover.webp",
-    "alt": "A seventeenth-century drawing of a black beetle on bare paper",
-    "credit": "A Black Beetle, Vincent Laurensz van der Vinne, late 17th century. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/385467"
+    "url": "https://contextcloud.studio/api/v1/images/890dc14b-cf0d-4764-9a18-f2bc9ae42b35",
+    "alt": "Gregor wakes transformed",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    },
    "chunks": [
-    null,
     {
-     "url": "/images/the-metamorphosis/01.webp",
-     "alt": "Redouté's drawing of a stag beetle",
-     "credit": "A Stag Beetle, Pierre Joseph Redouté, . The Metropolitan Museum of Art, public domain.",
-     "source": "https://www.metmuseum.org/art/collection/search/385472"
-    },
-    null,
-    null,
-    {
-     "url": "/images/the-metamorphosis/04.webp",
-     "alt": "Hammershøi's Moonlight, Strandgade 30: an empty room with closed doors",
-     "credit": "Moonlight, Strandgade 30, Vilhelm Hammershøi, 1900–1906. The Metropolitan Museum of Art, public domain.",
-     "source": "https://www.metmuseum.org/art/collection/search/441933"
+     "url": "https://contextcloud.studio/api/v1/images/fc8e70d5-1864-424e-895c-adf0a1019c1b",
+     "alt": "The family counts its money behind Gregor's closed door",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     },
     {
-     "url": "/images/the-metamorphosis/05.webp",
-     "alt": "Daumier's Third-Class Carriage: tired travellers on a wooden bench",
-     "credit": "The Third-Class Carriage, Honoré Daumier, 1864. The Metropolitan Museum of Art, public domain.",
-     "source": "https://www.metmuseum.org/art/collection/search/436095"
+     "url": "https://contextcloud.studio/api/v1/images/c3dc3d72-4334-4bb0-ae10-db01a88b3c44",
+     "alt": "The transformation, never explained",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     },
     {
-     "url": "/images/the-metamorphosis/06.webp",
-     "alt": "Abbott Thayer's portrait of a young woman in white",
-     "credit": "Young Woman, Abbott H. Thayer, ca. 1898. The Metropolitan Museum of Art, public domain.",
-     "source": "https://www.metmuseum.org/art/collection/search/12787"
-    },
-    null,
-    {
-     "url": "/images/the-metamorphosis/08.webp",
-     "alt": "Cézanne's still life of apples",
-     "credit": "Apples, Paul Cézanne, 1878–79. The Metropolitan Museum of Art, public domain.",
-     "source": "https://www.metmuseum.org/art/collection/search/435866"
+     "url": "https://contextcloud.studio/api/v1/images/f0982691-4950-4724-b33b-b4b759047e73",
+     "alt": "The family's tram ride into the country",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     },
     {
-     "url": "/images/the-metamorphosis/09.webp",
-     "alt": "An engraving of a family at work together around their house",
-     "credit": "Enoch and his family surrounding a meal table and holding their hands in a gesture of prayer; behind them is the open end of house; to the right a woman hands out bread to a child, young man, and old man, Johann Theodor de Bry, ca. 1580–1623. The Metropolitan Museum of Art, public domain.",
-     "source": "https://www.metmuseum.org/art/collection/search/399690"
+     "url": "https://contextcloud.studio/api/v1/images/2444a9fe-8838-4c24-ba83-78bb5adcd8c1",
+     "alt": "The impossible stated flatly: he has missed his train",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     },
     {
-     "url": "/images/the-metamorphosis/10.webp",
-     "alt": "Wenceslaus Hollar's panoramic view of Prague",
-     "credit": "Prague, from \"German Views\", Wenceslaus Hollar, 1652–77. The Metropolitan Museum of Art, public domain.",
-     "source": "https://www.metmuseum.org/art/collection/search/360666"
+     "url": "https://contextcloud.studio/api/v1/images/89a85088-dd55-4e48-a27c-a36465e9e033",
+     "alt": "No waking from it: the locked door",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/8b6f109a-9ead-49f9-b5dd-333937468fd3",
+     "alt": "The salesman's sample case",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/38a66745-246e-4c52-84c1-c24ca3f3e223",
+     "alt": "Grete stretches toward her future",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/c241f0ab-a2f0-4b9b-9a87-0cb612e527e9",
+     "alt": "Gregor's wages keep the family",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/fb3b94e6-c39f-4756-892b-ba9173c3c488",
+     "alt": "The father's apples",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/3825d38c-41f2-4979-b54b-5e58fdf96ed0",
+     "alt": "The family takes in lodgers",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/a5e285ee-0d8c-4ac8-99e4-809e04bd0d8b",
+     "alt": "Prague",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   }

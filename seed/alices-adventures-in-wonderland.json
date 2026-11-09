@@ -22,10 +22,9 @@
  "language": "en",
  "rights": "public_domain",
  "cover": {
-  "url": "/images/alices-adventures-in-wonderland/cards.webp",
-  "alt": "Alice shielding her face as a whole pack of playing cards flies down on her",
-  "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
-  "source": "https://www.gutenberg.org/ebooks/28885"
+  "url": "https://contextcloud.studio/api/v1/images/8ff4e3ff-8fb7-4067-961d-457d81ee26a6",
+  "alt": "Alice shields herself as the pack of cards flies at her",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
  },
  "chunks": [
   {
@@ -35,10 +34,9 @@
    "text": "Alice grows and shrinks a dozen times, and every time the question is the same: if my body keeps changing, what part of me is still me?",
    "images": [
     {
-     "url": "/images/alices-adventures-in-wonderland/pool.webp",
-     "alt": "Alice swimming in the pool of tears among a crowd of birds and animals",
-     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/28885"
+     "url": "https://contextcloud.studio/api/v1/images/846df010-8375-4351-a034-d7e092f72fa6",
+     "alt": "Alice swimming in the pool of tears among birds and animals",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -49,10 +47,9 @@
    "text": "Wonderland is full of rules and has no law. Every creature is certain, and every certainty is invented on the spot.",
    "images": [
     {
-     "url": "/images/alices-adventures-in-wonderland/roses.webp",
-     "alt": "The Queen of Hearts and her court beside a rose tree, with gardeners and a pot of red paint",
-     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/28885"
+     "url": "https://contextcloud.studio/api/v1/images/480a3611-aadc-47fd-89c2-e87a0df57179",
+     "alt": "Gardeners painting the white roses red as the Queen arrives",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -63,10 +60,9 @@
    "text": "The dream ends the moment Alice stops taking it seriously. Power that runs on fear falls apart into paper.",
    "images": [
     {
-     "url": "/images/alices-adventures-in-wonderland/cards.webp",
-     "alt": "Alice shielding her face as a whole pack of playing cards flies down on her",
-     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/28885"
+     "url": "https://contextcloud.studio/api/v1/images/8ff4e3ff-8fb7-4067-961d-457d81ee26a6",
+     "alt": "Alice shields herself as the pack of cards flies at her",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -78,10 +74,9 @@
    "source_quote": "Who in the world am I? Ah, that’s the great puzzle!",
    "images": [
     {
-     "url": "/images/alices-adventures-in-wonderland/alice.webp",
-     "alt": "Alice standing, in a pale dress and dark stockings, drawn in soft pencil and wash",
-     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/28885"
+     "url": "https://contextcloud.studio/api/v1/images/682ace4c-9f77-4a04-a69f-aee329b6da3d",
+     "alt": "Alice, curious and a little lost",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -93,10 +88,9 @@
    "source_quote": "“I can’t explain myself, I’m afraid, sir,” said Alice, “because I’m not myself, you see.”",
    "images": [
     {
-     "url": "/images/alices-adventures-in-wonderland/caterpillar.webp",
-     "alt": "The Caterpillar smoking a hookah on top of a mushroom, with Alice looking up at him",
-     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/28885"
+     "url": "https://contextcloud.studio/api/v1/images/f2bd7bff-1b72-408f-aa15-1e307f0e1e60",
+     "alt": "The Caterpillar on his mushroom, Alice peering up at him",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -108,10 +102,9 @@
    "source_quote": "“Oh, you can’t help that,” said the Cat: “we’re all mad here. I’m mad. You’re mad.”",
    "images": [
     {
-     "url": "/images/alices-adventures-in-wonderland/cat-tree.webp",
-     "alt": "A gnarled tree in a field with the Cheshire Cat perched in its branches and Alice small below",
-     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/28885"
+     "url": "https://contextcloud.studio/api/v1/images/ba2a0acd-db44-49a2-b3f1-141b6b338f21",
+     "alt": "The Cheshire Cat in its tree, Alice asking which way to go",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -123,10 +116,9 @@
    "source_quote": "“Why is a raven like a writing-desk?”",
    "images": [
     {
-     "url": "/images/alices-adventures-in-wonderland/tea.webp",
-     "alt": "The Mad Tea-Party: the Hatter, the March Hare and the Dormouse at a long table set with cups",
-     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/28885"
+     "url": "https://contextcloud.studio/api/v1/images/22e51b20-ec5f-4cf9-a93c-7820e0fb9fde",
+     "alt": "The Mad Tea-Party",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -138,10 +130,9 @@
    "source_quote": "“No, no!” said the Queen. “Sentence first—verdict afterwards.”",
    "images": [
     {
-     "url": "/images/alices-adventures-in-wonderland/trial.webp",
-     "alt": "The trial of the Knave of Hearts: the King and Queen on the bench, the White Rabbit with a scroll",
-     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/28885"
+     "url": "https://contextcloud.studio/api/v1/images/1f4cbc81-6683-42d2-98e4-b5bd033c20d9",
+     "alt": "The trial of the Knave of Hearts",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -153,10 +144,9 @@
    "source_quote": "“but it’s no use going back to yesterday, because I was a different person then.”",
    "images": [
     {
-     "url": "/images/alices-adventures-in-wonderland/gryphon.webp",
-     "alt": "Alice sitting between the Gryphon and the Mock Turtle by the sea",
-     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/28885"
+     "url": "https://contextcloud.studio/api/v1/images/dad31ac7-d75b-45c0-91b3-dcc31e4e235c",
+     "alt": "Alice by the sea with the Gryphon and the Mock Turtle",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -170,10 +160,9 @@
    "text": "Gregor Samsa and Alice both wake into bodies that do not fit. Kafka follows the family that stops recognising the son; Carroll follows the child who stops recognising herself, and lets her win by growing back to full size and talking back.",
    "images": [
     {
-     "url": "/images/alices-adventures-in-wonderland/pig.webp",
-     "alt": "Alice among tall grasses holding the baby that is turning into a pig",
-     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/28885"
+     "url": "https://contextcloud.studio/api/v1/images/e0f4b138-c045-4f82-9ae6-8f8c45e20f42",
+     "alt": "The baby turns into a pig in Alice's arms",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -187,10 +176,9 @@
    "text": "The Hatter's unanswerable riddle and Poe's Raven, which answers every question with the same word, are two sides of one joke about meaning: a question with no answer, and an answer that fits every question.",
    "images": [
     {
-     "url": "/images/alices-adventures-in-wonderland/tea.webp",
-     "alt": "The Mad Tea-Party: the Hatter, the March Hare and the Dormouse at a long table set with cups",
-     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/28885"
+     "url": "https://contextcloud.studio/api/v1/images/22e51b20-ec5f-4cf9-a93c-7820e0fb9fde",
+     "alt": "The Mad Tea-Party",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -206,17 +194,16 @@
    "text": "Read as a story about childhood, Wonderland is the adult world seen from below: full of people who give orders, set exams, recite lessons and get angry when you don't know the rules nobody told you. Alice's courtesy is constantly met with rudeness, and most of the book is her learning that politeness is not the same as obedience.\n\nWhat changes across the book is not Wonderland but Alice. At the start she cries a pool of tears and nearly drowns in it. By the end she is the one who calls the court nonsense, grows to full size in the middle of the trial and dismisses the whole machinery of power as a pack of cards. The dream does not teach a moral, which is the Duchess's joke (\"Everything's got a moral, if only you can find it\"); it teaches a stance. Identity is not something you settle once. It is something you keep asserting in a world that keeps changing your size.",
    "images": [
     {
-     "url": "/images/alices-adventures-in-wonderland/kitchen.webp",
-     "alt": "The Duchess's kitchen full of smoke, with plates and a saucepan flying through the air",
-     "credit": "Arthur Rackham, illustration for Alice's Adventures in Wonderland (Heinemann, 1907). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/28885"
+     "url": "https://contextcloud.studio/api/v1/images/7ad6f10c-741f-4c01-9449-0915285173ef",
+     "alt": "The Duchess's kitchen, full of pepper and flying saucepans",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
   {
    "layer": 5,
    "type": "meta",
-   "text": "The book is in the public domain. The text below is Project Gutenberg ebook 11, split into passages in reading order. Illustrations are Arthur Rackham's 1907 plates, from Project Gutenberg ebook 28885. This interpretation was drafted by Claude in November 2026."
+   "text": "The book is in the public domain. The text below is Project Gutenberg ebook 11, split into passages in reading order. Illustrations were made with an image model for ConteXtube; the 1907 Arthur Rackham edition is at Project Gutenberg (ebook 28885). This interpretation was drafted by Claude in November 2026."
   }
  ],
  "l5_source": "sources/alices-adventures-in-wonderland.txt"

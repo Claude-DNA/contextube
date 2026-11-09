@@ -22,10 +22,9 @@
  "language": "en",
  "rights": "public_domain",
  "cover": {
-  "url": "/images/the-adventures-of-sherlock-holmes/stalls.webp",
-  "alt": "Holmes sitting in the stalls at a concert, eyes half closed, listening",
-  "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-  "source": "https://www.gutenberg.org/ebooks/48320"
+  "url": "https://contextcloud.studio/api/v1/images/36463e65-e065-4fda-8c0a-995d87ff2471",
+  "alt": "Holmes in the stalls at St. James's Hall",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
  },
  "chunks": [
   {
@@ -35,10 +34,9 @@
    "text": "A worn sleeve, a muddy boot, a mended glove: Holmes treats the small things everyone ignores as the only honest witnesses.",
    "images": [
     {
-     "url": "/images/the-adventures-of-sherlock-holmes/boots.webp",
-     "alt": "The maid shows Holmes, Watson and Lestrade the dead man's boots",
-     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/48320"
+     "url": "https://contextcloud.studio/api/v1/images/850f17c3-24b6-493e-b72a-ab20b3903b4e",
+     "alt": "Holmes examines the dead man's boots",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -49,10 +47,9 @@
    "text": "The first adventure is a defeat. The cleverest man in London is outplayed by Irene Adler, and keeps her photograph as a trophy of it.",
    "images": [
     {
-     "url": "/images/the-adventures-of-sherlock-holmes/king.webp",
-     "alt": "A huge man in a fur-trimmed cloak and black mask enters: the King of Bohemia",
-     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/48320"
+     "url": "https://contextcloud.studio/api/v1/images/8b53f915-9115-48a2-8fae-9834c5010ba1",
+     "alt": "The masked King of Bohemia enters Baker Street",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -63,10 +60,9 @@
    "text": "For Holmes, a mystery is a cure. Between cases the world is unbearably dull; inside one, he is the happiest man in London.",
    "images": [
     {
-     "url": "/images/the-adventures-of-sherlock-holmes/stalls.webp",
-     "alt": "Holmes sitting in the stalls at a concert, eyes half closed, listening",
-     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/48320"
+     "url": "https://contextcloud.studio/api/v1/images/36463e65-e065-4fda-8c0a-995d87ff2471",
+     "alt": "Holmes in the stalls at St. James's Hall",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -78,10 +74,9 @@
    "source_quote": "You see, but you do not observe.",
    "images": [
     {
-     "url": "/images/the-adventures-of-sherlock-holmes/welcome.webp",
-     "alt": "Holmes welcomes Miss Mary Sutherland at the door of his rooms",
-     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/48320"
+     "url": "https://contextcloud.studio/api/v1/images/ff054f5f-5a90-4bb4-b862-2374c936284f",
+     "alt": "Holmes welcomes Miss Mary Sutherland",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -93,10 +88,9 @@
    "source_quote": "To Sherlock Holmes she is always the woman.",
    "images": [
     {
-     "url": "/images/the-adventures-of-sherlock-holmes/pew.webp",
-     "alt": "A wedding at the altar: the gentleman in the pew hands the bride her bouquet",
-     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/48320"
+     "url": "https://contextcloud.studio/api/v1/images/7bb77846-9ba4-4f7d-9e6c-4f5bd53c8f9d",
+     "alt": "The wedding of Lord St. Simon",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -108,10 +102,9 @@
    "source_quote": "It has long been an axiom of mine that the little things are infinitely the most important.",
    "images": [
     {
-     "url": "/images/the-adventures-of-sherlock-holmes/rat.webp",
-     "alt": "Windibank, glancing about like a rat in a trap, as Holmes stands by the door",
-     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/48320"
+     "url": "https://contextcloud.studio/api/v1/images/b556b26e-cba2-42b0-b838-53080a3af32d",
+     "alt": "Windibank, caught like a rat in a trap",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -123,10 +116,9 @@
    "source_quote": "There is nothing more deceptive than an obvious fact",
    "images": [
     {
-     "url": "/images/the-adventures-of-sherlock-holmes/body.webp",
-     "alt": "Men in the woods find the body of Charles McCarthy by the pool",
-     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/48320"
+     "url": "https://contextcloud.studio/api/v1/images/20ba74e0-7c88-4f81-b027-1b39da87220d",
+     "alt": "The Boscombe Pool, where Charles McCarthy was found",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -138,10 +130,9 @@
    "source_quote": "I suppose that I am commuting a felony, but it is just possible that I am saving a soul.",
    "images": [
     {
-     "url": "/images/the-adventures-of-sherlock-holmes/mercy.webp",
-     "alt": "James Ryder falls to his knees begging for mercy before Holmes",
-     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/48320"
+     "url": "https://contextcloud.studio/api/v1/images/41650444-e5b3-4d33-b27d-0869310ea3cb",
+     "alt": "James Ryder begs for mercy",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -153,10 +144,9 @@
    "source_quote": "the lowest and vilest alleys in London do not present a more dreadful record of sin than does the smiling and beautiful countryside.",
    "images": [
     {
-     "url": "/images/the-adventures-of-sherlock-holmes/delighted.webp",
-     "alt": "Violet Hunter greets Holmes and Watson at the inn: I am so delighted that you have come",
-     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/48320"
+     "url": "https://contextcloud.studio/api/v1/images/eceaa6f5-c079-417e-b831-f4c01810f6de",
+     "alt": "Violet Hunter meets Holmes and Watson at Winchester",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -181,17 +171,16 @@
    "text": "The Adventures are remembered for the method, but what makes them last is the character the method serves. Holmes is not a policeman. He takes cases because they interest him, he shrugs at fees, and several times he lets the guilty go: the thief in The Blue Carbuncle, the woman who outwits him in the first story. His loyalty is to the truth and to the people who come to Baker Street frightened, not to the law.\n\nThe twelve stories also built the template every detective series still uses: the brilliant, difficult detective; the loyal narrator who stands in for the reader; the client's story told in the armchair; the reveal in which ordinary details turn out to have explained everything. Sidney Paget's drawings for The Strand fixed how Holmes looks; the deerstalker cap, which Doyle never names, first appears in Paget's picture for The Boscombe Valley Mystery.",
    "images": [
     {
-     "url": "/images/the-adventures-of-sherlock-holmes/brave.webp",
-     "alt": "Holmes takes leave of Helen Stoner under the trees: Good-bye, and be brave",
-     "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/48320"
+     "url": "https://contextcloud.studio/api/v1/images/876ddb98-6b8b-43a7-9396-13361eeabef7",
+     "alt": "'Good-bye, and be brave': Holmes and Helen Stoner",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
   {
    "layer": 5,
    "type": "meta",
-   "text": "The stories are in the public domain. Their full text is not loaded here because of its length; read it free at Project Gutenberg (ebook 1661). Illustrations are Sidney Paget's, as reprinted in the 1892 Harper & Brothers edition, from Project Gutenberg ebook 48320. This interpretation was drafted by Claude in November 2026."
+   "text": "The stories are in the public domain. Their full text is not loaded here because of its length; read it free at Project Gutenberg (ebook 1661). Illustrations were made with an image model for ConteXtube; the 1892 Sidney Paget edition is at Project Gutenberg (ebook 48320). This interpretation was drafted by Claude in November 2026."
   }
  ]
 }

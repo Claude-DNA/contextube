@@ -21,10 +21,9 @@
  "language": "en",
  "rights": "public_domain",
  "cover": {
-  "url": "/images/a-christmas-carol/how-now.webp",
-  "alt": "Marley's ghost, in chains, faces Scrooge sitting by his fire in a dressing-gown",
-  "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-  "source": "https://www.gutenberg.org/ebooks/24022"
+  "url": "https://contextcloud.studio/api/v1/images/ec327d06-4773-482b-a815-5a029f7a8780",
+  "alt": "Marley's ghost, in chains, faces Scrooge by his fire",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
  },
  "chunks": [
   {
@@ -34,10 +33,9 @@
    "text": "Every small refusal adds a link. Marley shows Scrooge the chain he has been forging for years without noticing its weight.",
    "images": [
     {
-     "url": "/images/a-christmas-carol/how-now.webp",
-     "alt": "Marley's ghost, in chains, faces Scrooge sitting by his fire in a dressing-gown",
-     "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/24022"
+     "url": "https://contextcloud.studio/api/v1/images/ec327d06-4773-482b-a815-5a029f7a8780",
+     "alt": "Marley's ghost, in chains, faces Scrooge by his fire",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -48,10 +46,9 @@
    "text": "The whole book hangs on one question at a gravestone: is the future fixed, or is it only the shape of the road you are on?",
    "images": [
     {
-     "url": "/images/a-christmas-carol/last-spirit.webp",
-     "alt": "The Ghost of Christmas Yet to Come, a hooded phantom, pointing among the graves",
-     "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/24022"
+     "url": "https://contextcloud.studio/api/v1/images/6aca82af-1aa2-4626-90a0-2e527d1e86e1",
+     "alt": "The last Spirit points to the grave",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -62,10 +59,9 @@
    "text": "The joy of the last chapter is not riches but time: it is still Christmas morning, and nothing has been lost yet.",
    "images": [
     {
-     "url": "/images/a-christmas-carol/fred.webp",
-     "alt": "Scrooge at his nephew's door: It's I, your uncle Scrooge. I have come to dinner",
-     "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/24022"
+     "url": "https://contextcloud.studio/api/v1/images/67983f5c-c454-4934-aec9-650da647ba0f",
+     "alt": "'It's I, your uncle Scrooge. I have come to dinner'",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -77,10 +73,9 @@
    "source_quote": "secret, and self-contained, and solitary as an oyster.",
    "images": [
     {
-     "url": "/images/a-christmas-carol/climate.webp",
-     "alt": "Snow on the roofs and chimneys of London, St Paul's dome in the distance",
-     "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/24022"
+     "url": "https://contextcloud.studio/api/v1/images/99b9fe4b-3dad-47f0-befa-137828cfa8f7",
+     "alt": "Christmas morning in the snowy streets of London",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -92,10 +87,9 @@
    "source_quote": "\"If they would rather die,\" said Scrooge, \"they had better do it, and decrease the surplus population.",
    "images": [
     {
-     "url": "/images/a-christmas-carol/portly.webp",
-     "alt": "Two portly gentlemen with hats in hand, collecting for the poor",
-     "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/24022"
+     "url": "https://contextcloud.studio/api/v1/images/9485f502-1cd7-4018-855d-111634ebc40c",
+     "alt": "Two gentlemen collecting for the poor",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -107,10 +101,9 @@
    "source_quote": "\"Mankind was my business. The common welfare was my business; charity, mercy, forbearance, and benevolence, were, all, my business.",
    "images": [
     {
-     "url": "/images/a-christmas-carol/phantoms.webp",
-     "alt": "The air outside Scrooge's window full of moaning phantoms in chains",
-     "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/24022"
+     "url": "https://contextcloud.studio/api/v1/images/8b30c070-3edb-4916-a9fc-38276cd1acfd",
+     "alt": "Phantoms in chains fill the air outside the window",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -122,10 +115,9 @@
    "source_quote": "Another idol has displaced me",
    "images": [
     {
-     "url": "/images/a-christmas-carol/parted.webp",
-     "alt": "Belle turning away from the young Scrooge: she left him, and they parted",
-     "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/24022"
+     "url": "https://contextcloud.studio/api/v1/images/735d39c1-6574-48ae-a92c-6a9b11bb1fdb",
+     "alt": "Belle releases young Scrooge: another idol has displaced me",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -137,10 +129,9 @@
    "source_quote": "This boy is Ignorance. This girl is Want. Beware them both",
    "images": [
     {
-     "url": "/images/a-christmas-carol/pudding.webp",
-     "alt": "Mrs Cratchit carrying in the Christmas pudding, her shadow on the wall",
-     "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/24022"
+     "url": "https://contextcloud.studio/api/v1/images/bad8bdf5-ffc1-42c7-adf4-751b6d768833",
+     "alt": "Ignorance and Want beneath the Spirit's robe",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -152,10 +143,9 @@
    "source_quote": "Are these the shadows of the things that Will be, or are they shadows of things that May be, only?",
    "images": [
     {
-     "url": "/images/a-christmas-carol/last-spirit.webp",
-     "alt": "The Ghost of Christmas Yet to Come, a hooded phantom, pointing among the graves",
-     "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/24022"
+     "url": "https://contextcloud.studio/api/v1/images/6aca82af-1aa2-4626-90a0-2e527d1e86e1",
+     "alt": "The last Spirit points to the grave",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -169,10 +159,9 @@
    "text": "Wilde's Happy Prince and Dickens's Carol are both Victorian winter stories about a city of rich houses and freezing poor, seen by a visitor who cannot be ignored. Dickens believed a heart could change in a night; Wilde's statue gives everything and is melted down. The two books mark the hope and the doubt of the same century.",
    "images": [
     {
-     "url": "/images/a-christmas-carol/tim.webp",
-     "alt": "Bob Cratchit carrying Tiny Tim on his shoulder home from church",
-     "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/24022"
+     "url": "https://contextcloud.studio/api/v1/images/fdda721e-f7a9-4fc1-99ce-e85ecf439bab",
+     "alt": "Bob carries Tiny Tim home from church",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -182,10 +171,9 @@
    "text": "Dickens wrote the Carol in six weeks in 1843, after reading a government report on child labour and visiting the Field Lane Ragged School. Scrooge's phrases about prisons, workhouses and surplus population echo the New Poor Law of 1834 and Thomas Malthus's population theory, both much argued over that year.",
    "images": [
     {
-     "url": "/images/a-christmas-carol/old-scratch.webp",
-     "alt": "Businessmen on the street talking of a dead man while a horned devil looks on",
-     "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/24022"
+     "url": "https://contextcloud.studio/api/v1/images/faf5f1ec-de33-43e0-8758-2df44f51d850",
+     "alt": "Businessmen joke about a death nobody mourns",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -196,17 +184,16 @@
    "text": "A Christmas Carol works because it does not ask Scrooge to be argued out of his opinions. Nobody wins a debate with him. Instead he is made to remember: a lonely boy reading at school, a kind employer who spent his money on a dance, a girl who left him because she saw the change coming. Only after the past has softened him does the present show him the Cratchits, and only then does the future show him a death that nobody mourns.\n\nThe story invented much of how the English-speaking world keeps Christmas, but its real subject is the possibility of change late in life. Dickens makes that change complete and joyful, which can look naive. It is better read as a claim about where moral change comes from: not from argument but from memory, imagination and seeing other people as \"fellow-passengers to the grave\", in the nephew's phrase. The ghosts are a way of giving a man those experiences in one night.",
    "images": [
     {
-     "url": "/images/a-christmas-carol/fezziwig.webp",
-     "alt": "Old Fezziwig and Mrs Fezziwig dancing at the Christmas party",
-     "credit": "Arthur Rackham, illustration for A Christmas Carol (1915). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/24022"
+     "url": "https://contextcloud.studio/api/v1/images/7e134304-3b88-46fe-9cfe-067f52460731",
+     "alt": "Old Fezziwig's Christmas ball",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
   {
    "layer": 5,
    "type": "meta",
-   "text": "The book is in the public domain. Its text below is Project Gutenberg ebook 46, split into passages in reading order. Illustrations are Arthur Rackham's for the 1915 edition, from Project Gutenberg ebook 24022. This interpretation was drafted by Claude in November 2026."
+   "text": "The book is in the public domain. Its text below is Project Gutenberg ebook 46, split into passages in reading order. Illustrations were made with an image model for ConteXtube; the 1915 Arthur Rackham edition is at Project Gutenberg (ebook 24022). This interpretation was drafted by Claude in November 2026."
   }
  ],
  "l5_source": "sources/a-christmas-carol.txt"

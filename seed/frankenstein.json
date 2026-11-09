@@ -23,10 +23,9 @@
  "language": "en",
  "rights": "public_domain",
  "cover": {
-  "url": "/images/frankenstein/creation.webp",
-  "alt": "The creature wakes on the floor among bones and books while Victor flees through the door",
-  "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
-  "source": "https://www.gutenberg.org/ebooks/42324"
+  "url": "https://contextcloud.studio/api/v1/images/fe36d780-3304-4062-941d-5e2725ee2e28",
+  "alt": "It breathed: the creature opens its eye as Victor recoils",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
  },
  "chunks": [
   {
@@ -36,10 +35,9 @@
    "text": "The crime of the book is not making a creature. It is running out of the room the moment it opens its eyes.",
    "images": [
     {
-     "url": "/images/frankenstein/creation.webp",
-     "alt": "The creature wakes on the floor among bones and books while Victor flees through the door",
-     "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/42324"
+     "url": "https://contextcloud.studio/api/v1/images/fe36d780-3304-4062-941d-5e2725ee2e28",
+     "alt": "It breathed: the creature opens its eye as Victor recoils",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -50,10 +48,9 @@
    "text": "On a glacier, a maker and the being he made argue as equals about what they owe each other. Neither wins the argument.",
    "images": [
     {
-     "url": "/images/frankenstein/mer-de-glace.webp",
-     "alt": "The Mer de Glace glacier below the peaks of Chamonix, in mezzotint",
-     "credit": "Mêr de Glace, Valley of Chamouni-Savoy, Joseph Mallord William Turner, May 23, 1812. The Metropolitan Museum of Art, public domain.",
-     "source": "https://www.metmuseum.org/art/collection/search/383023"
+     "url": "https://contextcloud.studio/api/v1/images/63a56da3-4a2e-4679-9a68-c854a76a01d2",
+     "alt": "The creature meets Victor on the Mer de Glace",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -64,10 +61,9 @@
    "text": "Hatred binds them tighter than love would have: the creator chases his creation to the end of the world, and the creation leaves him clues so he can.",
    "images": [
     {
-     "url": "/images/frankenstein/arctic.webp",
-     "alt": "A ship among Arctic ice floes under a dark storm cloud",
-     "credit": "An Arctic Summer: Boring Through the Pack in Melville Bay, William Bradford, 1871. The Metropolitan Museum of Art, public domain.",
-     "source": "https://www.metmuseum.org/art/collection/search/10207"
+     "url": "https://contextcloud.studio/api/v1/images/87c21313-46e6-4648-a286-0f768c53a636",
+     "alt": "Walton's ship in the Arctic ice",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -79,10 +75,9 @@
    "source_quote": "now that I had finished, the beauty of the dream vanished, and breathless horror and disgust filled my heart.",
    "images": [
     {
-     "url": "/images/frankenstein/creation.webp",
-     "alt": "The creature wakes on the floor among bones and books while Victor flees through the door",
-     "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/42324"
+     "url": "https://contextcloud.studio/api/v1/images/fe36d780-3304-4062-941d-5e2725ee2e28",
+     "alt": "It breathed: the creature opens its eye as Victor recoils",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -94,10 +89,9 @@
    "source_quote": "I ought to be thy Adam; but I am rather the fallen angel, whom thou drivest from joy for no misdeed.",
    "images": [
     {
-     "url": "/images/frankenstein/mer-de-glace.webp",
-     "alt": "The Mer de Glace glacier below the peaks of Chamonix, in mezzotint",
-     "credit": "Mêr de Glace, Valley of Chamouni-Savoy, Joseph Mallord William Turner, May 23, 1812. The Metropolitan Museum of Art, public domain.",
-     "source": "https://www.metmuseum.org/art/collection/search/383023"
+     "url": "https://contextcloud.studio/api/v1/images/63a56da3-4a2e-4679-9a68-c854a76a01d2",
+     "alt": "The creature meets Victor on the Mer de Glace",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -109,10 +103,9 @@
    "source_quote": "I was benevolent and good; misery made me a fiend. Make me happy, and I shall again be virtuous.",
    "images": [
     {
-     "url": "/images/frankenstein/storm.webp",
-     "alt": "A storm darkening over a lake, a man and a boy waiting on the shore",
-     "credit": "Approaching Thunder Storm, Martin Johnson Heade, 1859. The Metropolitan Museum of Art, public domain.",
-     "source": "https://www.metmuseum.org/art/collection/search/11050"
+     "url": "https://contextcloud.studio/api/v1/images/7faf3ad5-79ae-43e6-943a-f254e0835289",
+     "alt": "A storm over the lake, and a figure in the lightning",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -124,10 +117,9 @@
    "source_quote": "You are my creator, but I am your master;--obey!",
    "images": [
     {
-     "url": "/images/frankenstein/nipped.webp",
-     "alt": "A ship crushed between towering blocks of ice",
-     "credit": "Nipped in the Ice, Currier & Ives, 1877–94. The Metropolitan Museum of Art, public domain.",
-     "source": "https://www.metmuseum.org/art/collection/search/662043"
+     "url": "https://contextcloud.studio/api/v1/images/61ba2ea5-9063-48aa-9895-67c0d23a895c",
+     "alt": "The creature leaves on an ice raft",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -139,10 +131,9 @@
    "source_quote": "Learn from me, if not by my precepts, at least by my example, how dangerous is the acquirement of knowledge",
    "images": [
     {
-     "url": "/images/frankenstein/departure.webp",
-     "alt": "Elizabeth holding Victor's hand at the door as he leaves for Ingolstadt, his face in his hand",
-     "credit": "Theodor von Holst (drawing) and William Chevalier (engraving), for Frankenstein (Colburn and Bentley, 1831). Public domain.",
-     "source": "https://www.gutenberg.org/ebooks/42324"
+     "url": "https://contextcloud.studio/api/v1/images/13bded7d-d999-41ff-b320-4b290893a0a7",
+     "alt": "Victor leaves Elizabeth for Ingolstadt",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -156,10 +147,9 @@
    "text": "Peace Treaty Architecture asks what humans and AI owe each other if neither is to dominate. Frankenstein is the case study of the failure: a creator who accepts no obligations, a creation that learns language, reasoning and resentment on its own, and a relationship that ends in mutual destruction because no one negotiated it.",
    "images": [
     {
-     "url": "/images/frankenstein/galvanized.webp",
-     "alt": "A satirical print of a corpse sitting up in its coffin, jolted by galvanism",
-     "credit": "A Galvanized Corpse, Henry R. Robinson, 1836. The Metropolitan Museum of Art, public domain.",
-     "source": "https://www.metmuseum.org/art/collection/search/389105"
+     "url": "https://contextcloud.studio/api/v1/images/9cd0fc7e-ba6b-4812-9321-fbd34d24925c",
+     "alt": "Victor's workshop of filthy creation in Ingolstadt",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -178,10 +168,9 @@
    "text": "The novel grew from a ghost-story contest at the Villa Diodati on Lake Geneva in the wet summer of 1816, after talk of Erasmus Darwin and galvanism, the experiments that made dead frogs' legs twitch with electricity. Its landscapes, from the Mer de Glace to Mont Blanc, are the ones Mary Shelley had just travelled through.",
    "images": [
     {
-     "url": "/images/frankenstein/mont-blanc.webp",
-     "alt": "The massif of Mont Blanc, its snowy peaks above a stony valley",
-     "credit": "View of the Massif of Mont Blanc, Jean-Antoine Linck, late 18th–19th century. The Metropolitan Museum of Art, public domain.",
-     "source": "https://www.metmuseum.org/art/collection/search/373896"
+     "url": "https://contextcloud.studio/api/v1/images/a7d9d0d8-a88a-4b97-8fda-ae841b6009f5",
+     "alt": "Mont Blanc above the valley of Chamonix",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
@@ -192,17 +181,16 @@
    "text": "Frankenstein is usually remembered as a warning against making things that should not be made. Read closely, it says something harder: the disaster begins after the making, in the refusal to take responsibility for what was made. The creature arrives curious and gentle. He learns language by listening through a wall, teaches himself to read from Milton, Plutarch and Goethe, and asks only for one companion and to be left in peace. Every door is shut on him, first by his maker.\n\nThat is why the book has become the founding myth of artificial intelligence. Its questions are the ones still argued over: whether a made mind is owed anything; whether its behaviour comes from its design or its upbringing; what happens when it becomes more capable than the one who made it; whether a creator can simply walk away. Shelley's answer is not that creation is forbidden. It is that creation without care turns both parties into monsters, and that the creature was the more articulate of the two.",
    "images": [
     {
-     "url": "/images/frankenstein/geneva.webp",
-     "alt": "Lake Geneva with trees and boats in the foreground",
-     "credit": "View of Lake Geneva, Joseph Vernet, ca. 1750–1800. The Metropolitan Museum of Art, public domain.",
-     "source": "https://www.metmuseum.org/art/collection/search/811924"
+     "url": "https://contextcloud.studio/api/v1/images/fd4f03d3-9711-4e0a-ad60-54f1b3f9ff45",
+     "alt": "Lake Geneva, Victor's home",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     }
    ]
   },
   {
    "layer": 5,
    "type": "meta",
-   "text": "The novel is in the public domain. Its full text is not loaded here because of its length; read the 1831 edition free at Project Gutenberg (ebook 42324). Quotes in L2 are from that edition. Pictures are Theodor von Holst's 1831 frontispiece and title vignette, and public-domain landscapes and prints from The Metropolitan Museum of Art chosen for the places in the novel. This interpretation was drafted by Claude in November 2026."
+   "text": "The novel is in the public domain. Its full text is not loaded here because of its length; read the 1831 edition free at Project Gutenberg (ebook 42324). Quotes in L2 are from that edition. Illustrations were made with an image model for ConteXtube. This interpretation was drafted by Claude in November 2026."
   }
  ]
 }

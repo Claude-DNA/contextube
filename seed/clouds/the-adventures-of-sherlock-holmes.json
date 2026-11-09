@@ -12,10 +12,9 @@
  "source_author": "Arthur Conan Doyle",
  "purchase_url": "https://www.gutenberg.org/ebooks/1661",
  "cover": {
-  "url": "/images/the-adventures-of-sherlock-holmes/stalls.webp",
-  "alt": "Holmes sitting in the stalls at a concert, eyes half closed, listening",
-  "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-  "source": "https://www.gutenberg.org/ebooks/48320"
+  "url": "https://contextcloud.studio/api/v1/images/36463e65-e065-4fda-8c0a-995d87ff2471",
+  "alt": "Holmes in the stalls at St. James's Hall",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
  },
  "elements": [
   {
@@ -30,10 +29,9 @@
     "source_quote": "how the best plans of Mr. Sherlock Holmes were beaten by a woman’s wit."
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/king.webp",
-    "alt": "A huge man in a fur-trimmed cloak and black mask enters: the King of Bohemia",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/8b53f915-9115-48a2-8fae-9834c5010ba1",
+    "alt": "The masked King of Bohemia enters Baker Street",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -48,10 +46,9 @@
     "source_quote": "“It is quite a three pipe problem, and I beg that you won’t speak to me for fifty minutes.”"
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/door.webp",
-    "alt": "Jabez Wilson reads the notice on a locked door: The Red-Headed League is dissolved",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/f3c406ca-05a1-4a40-af4d-028d83288760",
+    "alt": "Jabez Wilson at the locked door of the Red-Headed League",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -66,10 +63,9 @@
     "source_quote": "It has long been an axiom of mine that the little things are infinitely the most important."
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/rat.webp",
-    "alt": "Windibank, glancing about like a rat in a trap, as Holmes stands by the door",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/b556b26e-cba2-42b0-b838-53080a3af32d",
+    "alt": "Windibank, caught like a rat in a trap",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -84,10 +80,9 @@
     "source_quote": "There is nothing more deceptive than an obvious fact"
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/body.webp",
-    "alt": "Men in the woods find the body of Charles McCarthy by the pool",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/20ba74e0-7c88-4f81-b027-1b39da87220d",
+    "alt": "The Boscombe Pool, where Charles McCarthy was found",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -102,10 +97,9 @@
     "source_quote": "I have been beaten four times—three times by men, and once by a woman."
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/too-late.webp",
-    "alt": "Watson reading the newspaper and calling out to Holmes: You are too late",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/517c9d21-9123-4211-a9d8-18ff34ce3baf",
+    "alt": "Watson: 'Holmes, you are too late'",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -119,10 +113,9 @@
     "when": "main"
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/lascar.webp",
-    "alt": "Mrs St. Clair struggles with the Lascar at the foot of the stairs",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/1e0a6d6e-0815-4c0c-99d7-72b01c00c758",
+    "alt": "Mrs St. Clair at the opium den in Upper Swandam Lane",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -137,10 +130,9 @@
     "source_quote": "I suppose that I am commuting a felony, but it is just possible that I am saving a soul."
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/mercy.webp",
-    "alt": "James Ryder falls to his knees begging for mercy before Holmes",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/41650444-e5b3-4d33-b27d-0869310ea3cb",
+    "alt": "James Ryder begs for mercy",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -155,10 +147,9 @@
     "source_quote": "When a doctor does go wrong he is the first of criminals."
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/brave.webp",
-    "alt": "Holmes takes leave of Helen Stoner under the trees: Good-bye, and be brave",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/876ddb98-6b8b-43a7-9396-13361eeabef7",
+    "alt": "'Good-bye, and be brave': Holmes and Helen Stoner",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -172,10 +163,9 @@
     "when": "main"
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/word.webp",
-    "alt": "Colonel Stark warns the engineer Hatherley: Not a word to a soul",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/267bc1b2-a9f4-463c-a986-e0d2db5c2a5f",
+    "alt": "Colonel Stark: 'Not a word to a soul'",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -189,10 +179,9 @@
     "when": "main"
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/pew.webp",
-    "alt": "A wedding at the altar: the gentleman in the pew hands the bride her bouquet",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/7bb77846-9ba4-4f7d-9e6c-4f5bd53c8f9d",
+    "alt": "The wedding of Lord St. Simon",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -206,10 +195,9 @@
     "when": "main"
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/pistol.webp",
-    "alt": "Holmes holds a pistol to the head of Sir George Burnwell",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/39aad100-a8af-4988-9b94-ee0db9e46a59",
+    "alt": "Holmes confronts Sir George Burnwell",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -224,10 +212,9 @@
     "source_quote": "the lowest and vilest alleys in London do not present a more dreadful record of sin than does the smiling and beautiful countryside."
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/delighted.webp",
-    "alt": "Violet Hunter greets Holmes and Watson at the inn: I am so delighted that you have come",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/eceaa6f5-c079-417e-b831-f4c01810f6de",
+    "alt": "Violet Hunter meets Holmes and Watson at Winchester",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -242,10 +229,9 @@
     "source_quote": "My name is Sherlock Holmes. It is my business to know what other people don’t know."
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/stalls.webp",
-    "alt": "Holmes sitting in the stalls at a concert, eyes half closed, listening",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/36463e65-e065-4fda-8c0a-995d87ff2471",
+    "alt": "Holmes in the stalls at St. James's Hall",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -262,10 +248,9 @@
     "source_quote": "You see, but you do not observe."
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/too-late.webp",
-    "alt": "Watson reading the newspaper and calling out to Holmes: You are too late",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/517c9d21-9123-4211-a9d8-18ff34ce3baf",
+    "alt": "Watson: 'Holmes, you are too late'",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -282,10 +267,9 @@
     "source_quote": "To Sherlock Holmes she is always the woman."
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/pew.webp",
-    "alt": "A wedding at the altar: the gentleman in the pew hands the bride her bouquet",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/7bb77846-9ba4-4f7d-9e6c-4f5bd53c8f9d",
+    "alt": "The wedding of Lord St. Simon",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -299,10 +283,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/king.webp",
-    "alt": "A huge man in a fur-trimmed cloak and black mask enters: the King of Bohemia",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/8b53f915-9115-48a2-8fae-9834c5010ba1",
+    "alt": "The masked King of Bohemia enters Baker Street",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -316,10 +299,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/door.webp",
-    "alt": "Jabez Wilson reads the notice on a locked door: The Red-Headed League is dissolved",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/f3c406ca-05a1-4a40-af4d-028d83288760",
+    "alt": "Jabez Wilson at the locked door of the Red-Headed League",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -333,10 +315,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/brave.webp",
-    "alt": "Holmes takes leave of Helen Stoner under the trees: Good-bye, and be brave",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/876ddb98-6b8b-43a7-9396-13361eeabef7",
+    "alt": "'Good-bye, and be brave': Holmes and Helen Stoner",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -350,10 +331,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/mercy.webp",
-    "alt": "James Ryder falls to his knees begging for mercy before Holmes",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/41650444-e5b3-4d33-b27d-0869310ea3cb",
+    "alt": "James Ryder begs for mercy",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -367,10 +347,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/welcome.webp",
-    "alt": "Holmes welcomes Miss Mary Sutherland at the door of his rooms",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/ff054f5f-5a90-4bb4-b862-2374c936284f",
+    "alt": "Holmes welcomes Miss Mary Sutherland",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -384,10 +363,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/stalls.webp",
-    "alt": "Holmes sitting in the stalls at a concert, eyes half closed, listening",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/36463e65-e065-4fda-8c0a-995d87ff2471",
+    "alt": "Holmes in the stalls at St. James's Hall",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -401,10 +379,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/brave.webp",
-    "alt": "Holmes takes leave of Helen Stoner under the trees: Good-bye, and be brave",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/876ddb98-6b8b-43a7-9396-13361eeabef7",
+    "alt": "'Good-bye, and be brave': Holmes and Helen Stoner",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -418,10 +395,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/body.webp",
-    "alt": "Men in the woods find the body of Charles McCarthy by the pool",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/20ba74e0-7c88-4f81-b027-1b39da87220d",
+    "alt": "The Boscombe Pool, where Charles McCarthy was found",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -435,10 +411,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/too-late.webp",
-    "alt": "Watson reading the newspaper and calling out to Holmes: You are too late",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/517c9d21-9123-4211-a9d8-18ff34ce3baf",
+    "alt": "Watson: 'Holmes, you are too late'",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -453,10 +428,9 @@
     "source_quote": "You know my method. It is founded upon the observation of trifles."
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/boots.webp",
-    "alt": "The maid shows Holmes, Watson and Lestrade the dead man's boots",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/850f17c3-24b6-493e-b72a-ab20b3903b4e",
+    "alt": "Holmes examines the dead man's boots",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -471,10 +445,9 @@
     "source_quote": "You see, but you do not observe."
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/welcome.webp",
-    "alt": "Holmes welcomes Miss Mary Sutherland at the door of his rooms",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/ff054f5f-5a90-4bb4-b862-2374c936284f",
+    "alt": "Holmes welcomes Miss Mary Sutherland",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -488,10 +461,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/mercy.webp",
-    "alt": "James Ryder falls to his knees begging for mercy before Holmes",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/41650444-e5b3-4d33-b27d-0869310ea3cb",
+    "alt": "James Ryder begs for mercy",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -506,10 +478,9 @@
     "source_quote": "life is infinitely stranger than anything which the mind of man could invent."
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/rat.webp",
-    "alt": "Windibank, glancing about like a rat in a trap, as Holmes stands by the door",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/b556b26e-cba2-42b0-b838-53080a3af32d",
+    "alt": "Windibank, caught like a rat in a trap",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
@@ -547,10 +518,9 @@
     "aliases": []
    },
    "image": {
-    "url": "/images/the-adventures-of-sherlock-holmes/pistol.webp",
-    "alt": "Holmes holds a pistol to the head of Sir George Burnwell",
-    "credit": "Sidney Paget, illustration for The Adventures of Sherlock Holmes (Harper & Brothers, 1892). Public domain.",
-    "source": "https://www.gutenberg.org/ebooks/48320"
+    "url": "https://contextcloud.studio/api/v1/images/39aad100-a8af-4988-9b94-ee0db9e46a59",
+    "alt": "Holmes confronts Sir George Burnwell",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    }
   },
   {
