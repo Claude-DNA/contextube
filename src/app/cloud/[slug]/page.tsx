@@ -80,8 +80,17 @@ function ElementCard({ e, kind }: { e: CloudElement; kind: CloudKind }) {
   );
 }
 
+const LINK_WORDS: Record<string, string> = {
+  source: "a source", ancestor: "an ancestor", echo: "an echo", contrast: "a contrast", myth: "a myth it plays on", history: "history it recalls",
+};
+
+const isAssociation = (e: CloudElement) => e.metadata?.origin === "association";
+
 function NoteCard({ e }: { e: CloudElement }) {
   const quote = str(e.metadata?.source_quote);
+  const type = str(e.metadata?.refType);
+  const link = LINK_WORDS[str(e.metadata?.link) ?? ""];
+  const label = [type && type.charAt(0).toUpperCase() + type.slice(1), link].filter(Boolean).join(", ");
   return (
     <article className="flex gap-4 rounded-lg border border-gray-700 bg-gray-900 p-5">
       <svg aria-hidden="true" viewBox="0 0 24 24" className="mt-1 h-6 w-6 shrink-0 text-gray-400" fill="none" stroke="currentColor" strokeWidth={1.6}>
@@ -89,6 +98,7 @@ function NoteCard({ e }: { e: CloudElement }) {
       </svg>
       <div className="min-w-0 space-y-1.5">
         <h3 className="text-base font-medium text-white">{e.title}</h3>
+        {isAssociation(e) && label && <p className="text-xs text-violet-300">{label}</p>}
         <p className="text-sm leading-relaxed text-gray-400">{e.text}</p>
         {quote && <p className="text-sm italic text-gray-500">“{quote}”</p>}
       </div>
@@ -144,12 +154,21 @@ export default async function CloudPage({ params }: Props) {
 
       {c.elements.references.length > 0 && (
         <section aria-labelledby="h-references" className="mb-14">
-          <h2 id="h-references" className="mb-5 flex items-center gap-3 text-2xl font-bold text-gray-300">
+          <h2 id="h-references" className="mb-2 flex items-center gap-3 text-2xl font-bold text-gray-300">
             <span aria-hidden="true">📎</span> References
           </h2>
-          <div className="grid gap-4 md:grid-cols-2 max-w-5xl">
-            {c.elements.references.map((e) => <NoteCard key={e.id} e={e} />)}
-          </div>
+          <p className="mb-6 max-w-3xl text-gray-500">What the story names, and what it brings to mind: the films, series, myths and beliefs its author and readers carry into it.</p>
+          {[
+            { title: "In the text", list: c.elements.references.filter((e) => !isAssociation(e)) },
+            { title: "Associations", list: c.elements.references.filter(isAssociation) },
+          ].filter((g) => g.list.length).map((g) => (
+            <div key={g.title} className="mb-8 last:mb-0">
+              <h3 className="mb-3 text-sm font-semibold text-gray-400">{g.title}</h3>
+              <div className="grid gap-4 md:grid-cols-2 max-w-5xl">
+                {g.list.map((e) => <NoteCard key={e.id} e={e} />)}
+              </div>
+            </div>
+          ))}
         </section>
       )}
 

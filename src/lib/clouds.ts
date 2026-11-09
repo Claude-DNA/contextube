@@ -109,7 +109,8 @@ export function cloudAsText(c: Cloud): string {
         act = m.act;
         lines.push("", `### ${act}`);
       }
-      const when = kind === "plot" && typeof m.when === "string" && m.when !== "main" ? ` [${m.when.replace("_", "-")}]` : "";
+      const when = kind === "plot" && typeof m.when === "string" && m.when !== "main" ? ` [${m.when.replace("_", "-")}]`
+        : kind === "references" && m.origin === "association" ? ` [association${typeof m.link === "string" ? `: ${m.link}` : ""}]` : "";
       const aliases = Array.isArray(m.aliases) && m.aliases.length ? ` (also: ${m.aliases.join(", ")})` : "";
       lines.push("", `**${e.title}**${aliases}${when}`, e.text);
       if (typeof m.initial_state === "string" && m.initial_state) lines.push(`At first: ${m.initial_state}`);
