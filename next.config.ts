@@ -14,6 +14,11 @@ const nextConfig: NextConfig = {
           { key: "Access-Control-Allow-Headers", value: "Content-Type, Authorization" },
         ],
       },
+      {
+        // Press screenshots, so other sites (and their editors) can fetch them.
+        source: "/press/:file*",
+        headers: [{ key: "Access-Control-Allow-Origin", value: "*" }],
+      },
     ];
   },
 };
