@@ -125,30 +125,76 @@
   },
   "peculiarities-of-planetary-conquest": {
    "cover": {
-    "url": "/images/peculiarities-of-planetary-conquest/cover.webp",
-    "alt": "Piranesi's Drawbridge from the Imaginary Prisons: endless stairs, ropes and bridges",
-    "credit": "The Drawbridge, from \"Carceri d'invenzione\" (Imaginary Prisons), Giovanni Battista Piranesi, ca. 1749–50. The Metropolitan Museum of Art, public domain.",
-    "source": "https://www.metmuseum.org/art/collection/search/337060"
+    "url": "https://contextcloud.studio/api/v1/images/c5b1245e-ac8b-4f53-b9aa-2adc5c896205",
+    "alt": "A half-ruined city at dawn: shattered towers, burned-out cars smouldering along the avenue, smoke drifting",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
    },
    "chunks": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
-     "url": "/images/peculiarities-of-planetary-conquest/11.webp",
-     "alt": "Earth and the Moon together in black space, photographed by Galileo",
-     "credit": "The Earth & Moon, NASA / JPL, 1998. Public domain.",
-     "source": "https://images.nasa.gov/details/PIA00342"
+     "url": "https://contextcloud.studio/api/v1/images/9a37427b-78ba-4c4a-a20c-340472ea7916",
+     "alt": "Kostya's hideout: a barricade of office furniture and two angled mirrors on the top floor of a tower",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
     },
-    null,
+    {
+     "url": "https://contextcloud.studio/api/v1/images/0870ac58-4485-4a4e-9e4d-0a00bcd75df9",
+     "alt": "Kostya fires twice",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/222c5d6d-cd3e-466e-9835-74c5a6648049",
+     "alt": "The leader of Free Will on every screen on Earth",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/ccae74ca-fc3c-4f20-9822-7973f5fef185",
+     "alt": "The scout ship emerges from the Moon's shadow above a grey Earth",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/e4861d3d-7329-462c-b39c-096e6ae756f5",
+     "alt": "Taka and Thorg kill each other in a blinding flash",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/803b8299-555b-4669-8ceb-736d872c65bf",
+     "alt": "The girl in the doorway, seen in Kostya's mirror",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/b92892a2-3f06-4dd4-83f0-6591a66758cd",
+     "alt": "The Council of Aggressors watching the human recording",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/94d9e9cc-8251-4bf1-a467-bc790c71b51c",
+     "alt": "Suspicion spreads on the Aggressors' world",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/cdc665d9-2e0c-428d-8bf1-6651ff688d6f",
+     "alt": "Snow in July as Kostya walks toward the gunfire",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/9a37427b-78ba-4c4a-a20c-340472ea7916",
+     "alt": "Kostya's hideout: a barricade of office furniture and two angled mirrors on the top floor of a tower",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/cd439631-e33d-44ad-ba49-842c21c75cdf",
+     "alt": "The girl, filthy after months of wandering",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/1274ed08-ff1a-490a-855d-9299ff2fc569",
+     "alt": "Orbit above Earth as the nuclear winter begins",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
+    {
+     "url": "https://contextcloud.studio/api/v1/images/c5b1245e-ac8b-4f53-b9aa-2adc5c896205",
+     "alt": "A half-ruined city at dawn: shattered towers, burned-out cars smouldering along the avenue, smoke drifting",
+     "credit": "Illustration made with gpt-image-2 for ConteXtube."
+    },
     null
    ]
   },
