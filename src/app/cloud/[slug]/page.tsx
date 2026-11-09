@@ -90,7 +90,8 @@ function NoteCard({ e }: { e: CloudElement }) {
   const quote = str(e.metadata?.source_quote);
   const type = str(e.metadata?.refType);
   const link = LINK_WORDS[str(e.metadata?.link) ?? ""];
-  const label = [type && type.charAt(0).toUpperCase() + type.slice(1), link].filter(Boolean).join(", ");
+  const sameWord = type && link && link.includes(type.toLowerCase());
+  const label = sameWord ? link!.charAt(0).toUpperCase() + link!.slice(1) : [type && type.charAt(0).toUpperCase() + type.slice(1), link].filter(Boolean).join(", ");
   return (
     <article className="flex gap-4 rounded-lg border border-gray-700 bg-gray-900 p-5">
       <svg aria-hidden="true" viewBox="0 0 24 24" className="mt-1 h-6 w-6 shrink-0 text-gray-400" fill="none" stroke="currentColor" strokeWidth={1.6}>
