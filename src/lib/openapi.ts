@@ -130,6 +130,15 @@ export function openapi(site: string) {
           responses: { "200": { description: "text/markdown" }, "404": errorResponse },
         },
       },
+      "/clouds/{slug}/file": {
+        get: {
+          operationId: "getCloudFile",
+          summary: "Get a cloud as one .cloud.json file",
+          description: "The whole cloud in the context-cloud file format: { format, version, cloud: {...}, elements: [{ kind, title, text, image?, metadata? }] }. Context Cloud Studio saves and opens the same file. ?download=0 returns plain JSON.",
+          parameters: [{ name: "slug", in: "path", required: true, schema: { type: "string" } }, { name: "download", in: "query", schema: { type: "string", enum: ["0"] } }],
+          responses: { "200": { description: "application/vnd.context-cloud+json" }, "404": errorResponse },
+        },
+      },
       "/categories": {
         get: { operationId: "listCategories", summary: "List all available domains and tags with counts", responses: { "200": { description: "Domains and tags with counts" } } },
       },

@@ -57,6 +57,7 @@ A cloud is a work's story bible: plot beats in story order (acts and flashbacks 
 GET /api/v1/clouds               → list clouds
 GET /api/v1/clouds/{slug}        → JSON, elements grouped by kind
 GET /api/v1/clouds/{slug}/text   → the whole cloud as one Markdown document, ready for your context
+GET /api/v1/clouds/{slug}/file   → the whole cloud as one .cloud.json file (format "context-cloud"), to keep or reopen in Context Cloud Studio
 
 ## The 5 Layers
 Layer 1 — Abstract Associations: gut feelings and associations, as a symbolic extract (~50 tokens)

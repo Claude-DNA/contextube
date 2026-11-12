@@ -131,7 +131,13 @@ export default async function CloudPage({ params }: Props) {
       <header className="border-b border-gray-800 pb-8 mb-10">
         <div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
           <h1 className="text-4xl sm:text-5xl font-bold tracking-tight text-white">{c.title}</h1>
-          <CopyForAI text={text} className="self-start" />
+          <div className="flex items-center gap-3 self-start">
+            <a href={`/api/v1/clouds/${c.slug}/file`} download={`${c.slug}.cloud.json`}
+              className="shrink-0 rounded-lg border border-gray-600 px-5 py-2.5 text-sm font-medium text-gray-200 transition-colors hover:border-gray-400 hover:text-white">
+              Save as file
+            </a>
+            <CopyForAI text={text} />
+          </div>
         </div>
         {c.description && <p className="mt-4 max-w-4xl text-xl leading-relaxed text-gray-400">{c.description}</p>}
         <div className="mt-5 flex flex-wrap items-center gap-x-5 gap-y-3 text-gray-400">
