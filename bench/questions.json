@@ -1,0 +1,1312 @@
+{
+ "peculiarities-of-planetary-conquest": [
+  {
+   "type": "detail",
+   "question": "What unexpected scent did Kostya notice amid the smoke and burnt flesh?",
+   "options": [
+    "Strong alcohol",
+    "Burning rubber",
+    "Women’s perfume",
+    "Wet earth"
+   ],
+   "answer": 2,
+   "evidence": "the stench of burnt flesh, of smoke from the fires… and women’s perfume",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did the two mirrors in Kostya’s hideout allow him to see?",
+   "options": [
+    "Both entrances without showing himself",
+    "The stairwell and the roof",
+    "The whole office floor at once",
+    "The avenue without leaving the barricade"
+   ],
+   "answer": 0,
+   "evidence": "Two mirrors, angled in the corners so that he could see both entrances without showing himself",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "Which feature had Kostya learned to use especially to recognize the lizard-like aliens?",
+   "options": [
+    "Their hands",
+    "Their voices",
+    "Their shadows",
+    "Their eyes"
+   ],
+   "answer": 3,
+   "evidence": "most of all — the eyes",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "How long was the first warning broadcast that appeared on television screens around Earth?",
+   "options": [
+    "Two minutes",
+    "One hour",
+    "Half an hour",
+    "Five minutes"
+   ],
+   "answer": 0,
+   "evidence": "a brief, two-minute broadcast",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What was Kostya doing when he missed Free Will’s first broadcast?",
+   "options": [
+    "Hiding in the office tower",
+    "At a shooting competition",
+    "On patrol with his squad",
+    "Traveling between cities"
+   ],
+   "answer": 1,
+   "evidence": "Kostya was at a shooting competition at the time and missed the broadcast entirely.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "According to Free Will’s second broadcast, what did the invaders feed on by taking over human bodies?",
+   "options": [
+    "Electricity, metals, and chemical fuel",
+    "Human consciousness, emotion, and life-force",
+    "Human blood, organs, and body heat",
+    "Memories, dreams, and spoken language"
+   ],
+   "answer": 1,
+   "evidence": "they fed on human consciousness, emotion, and life-force.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did Free Will say could reveal aliens disguised as humans?",
+   "options": [
+    "Their odd behavior when their true nature slipped through",
+    "A particular smell that followed them everywhere",
+    "Their inability to speak any human language",
+    "A mark that appeared on their skin at night"
+   ],
+   "answer": 0,
+   "evidence": "they could be recognized by their odd behavior.",
+   "evidence_found": false
+  },
+  {
+   "type": "detail",
+   "question": "In Taka’s report to Thorg, what fraction of the planet’s surface did he say was uninhabitable?",
+   "options": [
+    "One-third",
+    "Three-quarters",
+    "One-half",
+    "Two-thirds"
+   ],
+   "answer": 3,
+   "evidence": "After the use of the most powerful weapons, two-thirds of the surface is uninhabitable.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What was the sik, and how was the treatise stored inside it?",
+   "options": [
+    "A medical instrument containing samples in a sealed chamber",
+    "A weapon component holding a recording in a crystal core",
+    "A data-storage cylinder containing information encoded in a bacterium’s DNA",
+    "A navigation device containing a map etched onto its surface"
+   ],
+   "answer": 2,
+   "evidence": "a small cylindrical object used for data storage — a sik. Inside, encoded in the DNA of a specially bred bacterium",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What name did Taka imagine taking if he earned three new symbols?",
+   "options": [
+    "Takargkh",
+    "Taka-Thorg",
+    "Thorgak",
+    "Takargh"
+   ],
+   "answer": 0,
+   "evidence": "Takargkh — it had a fine ring to it",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "According to the Council Chairman, what had happened to Taka before he attacked Thorg?",
+   "options": [
+    "He had been sent to Earth as a prisoner",
+    "He had been ordered to sabotage the scout ship",
+    "He had stolen a weapon from the Council",
+    "He had been infected by a parasitic organism"
+   ],
+   "answer": 3,
+   "evidence": "The younger, named Taka, was infected by the parasitic organism and attacked the elder, Thorg.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What unusual weather does Kostya encounter at the end, despite the time of year?",
+   "options": [
+    "Large flakes of snow falling in the middle of July",
+    "Hail falling under a clear sky in March",
+    "A warm rain falling in the middle of January",
+    "Dust storms sweeping through the city in October"
+   ],
+   "answer": 0,
+   "evidence": "From the sky, large flakes of snow began to fall. Something was definitely wrong with the world — it was the middle of July.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What does the perfume most strongly suggest about the girl, beyond Kostya’s suspicion that she is an alien?",
+   "options": [
+    "It may be a last connection to her former human life",
+    "It proves she has recently joined Kostya’s resistance group",
+    "It identifies her as a member of the Free Will organization",
+    "It shows she is trying to lure Kostya away from the tower"
+   ],
+   "answer": 0,
+   "evidence": "or perhaps it was her final link to the past.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How does Free Will’s campaign help bring about the planetary disaster?",
+   "options": [
+    "It disables communication systems before the aliens arrive",
+    "It convinces people to evacuate the cities and abandon the planet",
+    "It persuades governments to surrender their weapons to the invaders",
+    "It spreads distrust that turns populations and forces against one another"
+   ],
+   "answer": 3,
+   "evidence": "A bit of study, a carefully crafted provocation, and the natives would annihilate themselves.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What is the central irony in the Council’s response to the warning about the invasion?",
+   "options": [
+    "It assumes the scout ship survived even though the recording says it did not",
+    "It welcomes the invasion because it believes the planet is still intact",
+    "It blames humanity for the conflict while refusing to examine the recording",
+    "Its members begin to fear infiltrators and militias much as humanity did"
+   ],
+   "answer": 3,
+   "evidence": "there are rumors of people’s militias forming, hunting down ‘invaders,’ and spreading an alien recording with translation.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What most clearly motivates Thorg to keep Taka’s research for himself?",
+   "options": [
+    "He plans to use the research to restore Earth’s energy systems",
+    "He wants to protect Taka from being punished for the invasion",
+    "He believes the treatise is too dangerous to share with anyone",
+    "He hopes to gain status in the Council by claiming the discovery"
+   ],
+   "answer": 3,
+   "evidence": "Thorg, conqueror of worlds, would become a member of the Council of Aggressors — perhaps even its leader. The death of insignificant Taka would go unnoticed.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "Why does Taka reach for the blaster after asking to record new data onto the sik?",
+   "options": [
+    "He believes the weapon will help him escape the damaged scout ship",
+    "He intends to destroy the control panel before the ship can land",
+    "Thorg’s refusal convinces him the elder will keep the research from him",
+    "Thorg has openly ordered him to defend himself against an attack"
+   ],
+   "answer": 2,
+   "evidence": "Now there was no doubt — Thorg would never let his research leave his claws. The younger’s hand reached for the blaster",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How does the story connect the human conflict on Earth with the later crisis facing the Council?",
+   "options": [
+    "Both societies become consumed by suspicion of infiltrators and threats within",
+    "Both societies unite under a single leader to resist an outside invasion",
+    "Both societies stop using weapons after receiving warnings from scouts",
+    "Both societies discover that their governments have already defeated the enemy"
+   ],
+   "answer": 0,
+   "evidence": "Members of the Council of Aggressors looked around at one another with suspicion — as though seeing each other for the first time.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What does Kostya’s thought about shooting practice suggest about his survival?",
+   "options": [
+    "He regrets practicing because it caused him to lose his comrades",
+    "A skill he once questioned has become useful in the ruined world",
+    "His shooting skill has convinced him to abandon the resistance",
+    "His training has made him certain that the war is nearly over"
+   ],
+   "answer": 1,
+   "evidence": "So there was the answer to his wife’s old question: What good is all that stupid shooting practice?",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What is the effect of ending with Kostya heading toward gunfire as snow falls in July?",
+   "options": [
+    "It shows that Kostya has decided to leave the city and avoid the war",
+    "It suggests that the fighting has ended and Kostya can return home",
+    "It shows that the world has suffered catastrophe, but Kostya continues the fight",
+    "It reveals that the snow is a sign the alien invasion has been defeated"
+   ],
+   "answer": 2,
+   "evidence": "But life went on. He had to find his people and fight the enemy.",
+   "evidence_found": true
+  }
+ ],
+ "the-nose": [
+  {
+   "type": "detail",
+   "question": "What date is given for the strange occurrence in St Petersburg?",
+   "options": [
+    "The 7th April, 18--",
+    "The 25th April, 18--",
+    "The 25th March, 18--",
+    "The 24th March, 18--"
+   ],
+   "answer": 2,
+   "evidence": "On the 25th March, 18--, a very strange occurrence took place in St Petersburg.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What was the only inscription on Ivan Jakovlevitch’s sign-board?",
+   "options": [
+    "Coffee and bread sold here.",
+    "Razors sharpened here.",
+    "Shaving done here daily.",
+    "Blood-letting done here."
+   ],
+   "answer": 3,
+   "evidence": "the only inscription to be read was, \"Blood-letting done here.\"",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did Ivan Jakovlevitch say he wanted for breakfast?",
+   "options": [
+    "Coffee with two onions.",
+    "A loaf with salt and butter.",
+    "Fresh-baked bread with coffee.",
+    "A fresh loaf with onions."
+   ],
+   "answer": 3,
+   "evidence": "To-day, Prasskovna Ossipovna, I do not want any coffee; I should like a fresh loaf with onions.",
+   "evidence_found": false
+  },
+  {
+   "type": "detail",
+   "question": "Whose nose did Ivan Jakovlevitch recognize in the loaf?",
+   "options": [
+    "The porter’s, whom he shaved every Tuesday and Saturday.",
+    "Kovaloff’s, whom he shaved every Sunday and Wednesday.",
+    "The police inspector’s, whom he shaved every Monday and Friday.",
+    "The doctor’s, whom he shaved every Thursday and Sunday."
+   ],
+   "answer": 1,
+   "evidence": "he saw at once that this nose could belong to no other than to Kovaloff, a member of the Municipal Committee whom he shaved every Sunday and Wednesday.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did the sentry say after Ivan Jakovlevitch let the wrapped nose drop?",
+   "options": [
+    "Stop there! You have lost your parcel!",
+    "Take care! You have let your cloth fall!",
+    "Look out! You have let something drop!",
+    "Come back! You have dropped your bread!"
+   ],
+   "answer": 2,
+   "evidence": "Look out! You have let something drop!",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What sort of position had Kovaloff come to St Petersburg hoping to obtain?",
+   "options": [
+    "A police superintendency, though he would accept a barber’s post.",
+    "A vice-governorship, though he would accept a bailiff’s post.",
+    "A state-councillorship, though he would accept a porter’s post.",
+    "A committee chairmanship, though he would accept a doctor’s post."
+   ],
+   "answer": 1,
+   "evidence": "He had come to St Petersburg with the view of obtaining some position corresponding to his rank, if possible that of vice-governor of a province; but he was prepared to be content with that of a bailiff in some department or other.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What rank did the nose’s uniform and plumed hat appear to indicate?",
+   "options": [
+    "Police inspector.",
+    "Caucasian committee-man.",
+    "Municipal committee-man.",
+    "State-councillor."
+   ],
+   "answer": 3,
+   "evidence": "The hat, adorned with a plume, showed that it held the rank of a state-councillor.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "How did the nose explain why it could not have a close relation with Kovaloff?",
+   "options": [
+    "Their seals showed they belonged to different districts.",
+    "Their uniform buttons showed they belonged to different departments.",
+    "Their passports showed they served different provinces.",
+    "Their hats showed they held different ranks in the same department."
+   ],
+   "answer": 1,
+   "evidence": "To judge by the buttons of your uniform, you must be in quite a different department to mine.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "Why did the advertisement official say he could not publish Kovaloff’s notice?",
+   "options": [
+    "He feared the paper might be compromised by such an advertisement.",
+    "He said the paper had no room for notices about officials.",
+    "He required Kovaloff to bring the nose in person first.",
+    "He believed the notice would reveal Kovaloff’s private address."
+   ],
+   "answer": 0,
+   "evidence": "Because it might compromise the paper.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "Why did Kovaloff suspect Madame Podtotchina of causing his misfortune?",
+   "options": [
+    "He thought she wanted revenge because he had avoided marrying her daughter.",
+    "He thought she wanted revenge because he had reported her to the police.",
+    "He thought she wanted his position after he refused to recommend her son.",
+    "He thought she wanted revenge because he had refused to pay her a debt."
+   ],
+   "answer": 0,
+   "evidence": "This must be the reason why the lady, in revenge, had resolved to bring him into disgrace",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "Where was the nose headed when the police official arrested it?",
+   "options": [
+    "It was getting into a carriage for Riga.",
+    "It was entering a shop in the Tauris Gardens.",
+    "It was boarding a boat for the Isaac Bridge.",
+    "It was getting into a carriage for Moscow."
+   ],
+   "answer": 0,
+   "evidence": "It has just been found. It has been arrested just as it was getting into a carriage for Riga.",
+   "evidence_found": false
+  },
+  {
+   "type": "detail",
+   "question": "What did Ivan Jakovlevitch do to shave Kovaloff after the nose returned?",
+   "options": [
+    "He used the razor without touching Kovaloff’s face at all.",
+    "He braced his thumb against Kovaloff’s lower jaw and cheek.",
+    "He held the nose in place with a cloth under Kovaloff’s chin.",
+    "He shaved only the cheeks and left the chin untouched."
+   ],
+   "answer": 1,
+   "evidence": "by placing his wrinkled thumb against the Major's lower jaw and cheek",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "Why does Kovaloff find the loss of his nose especially devastating?",
+   "options": [
+    "He believes that losing it will prevent him from returning to his former home.",
+    "He fears that he will no longer be able to recognize his friends in the street.",
+    "He depends on his nose to perform his work as a barber and shave his customers.",
+    "He believes his appearance and social standing are essential to his ambitions and connections."
+   ],
+   "answer": 3,
+   "evidence": "I go into good society, and this evening I am invited to two parties.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What is most strongly suggested by the nose’s independent identity and higher official rank?",
+   "options": [
+    "The story makes social rank seem absurdly powerful, even when separated from the person it supposedly belongs to.",
+    "The nose has been promoted because it has proved more honest than Kovaloff.",
+    "Kovaloff’s earlier service in the Caucasus has made the nose a legitimate official.",
+    "The nose is secretly obeying Kovaloff’s orders while trying to protect his career."
+   ],
+   "answer": 0,
+   "evidence": "There you are wrong, respected sir; I am myself. Besides, there can be no close relations between us.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How do Ivan Jakovlevitch and Kovaloff respond differently to the missing nose?",
+   "options": [
+    "Ivan seeks help from the authorities, while Kovaloff decides to hide it from everyone.",
+    "Ivan mainly fears being punished for possessing it, while Kovaloff mainly fears the damage to his appearance and status.",
+    "Ivan tries to claim it as his own, while Kovaloff refuses to admit that it has disappeared.",
+    "Ivan treats it as a joke, while Kovaloff assumes it is a punishment for his drinking."
+   ],
+   "answer": 1,
+   "evidence": "The thought that the police might find him in unlawful possession of a nose and arrest him, robbed him of all presence of mind.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What does the advertisement-office episode contribute to the story’s portrayal of officialdom?",
+   "options": [
+    "The official treats an extraordinary real crisis as an implausible joke and worries about the paper’s reputation.",
+    "The official offers to publish the notice if Kovaloff pays an unusually large fee.",
+    "The official immediately believes Kovaloff and organizes a search through the city.",
+    "The official recognizes the nose as a government official and refuses to interfere."
+   ],
+   "answer": 0,
+   "evidence": "I see that you are a witty man, and like to have your little joke.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What does Kovaloff’s suspicion of Madame Podtotchina reveal about his thinking?",
+   "options": [
+    "He has firm evidence that she hired the barber to steal the nose.",
+    "He suspects her because she wants to prevent him from accepting a government position.",
+    "He has always believed her daughter is conspiring with the police against him.",
+    "He interprets the strange event through his own marriage negotiations and assumes it is personal revenge."
+   ],
+   "answer": 3,
+   "evidence": "He himself paid her court readily, but always avoided coming to the point.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What is the effect of the city’s rumors and crowds surrounding the nose?",
+   "options": [
+    "They persuade Kovaloff to give up searching and leave St Petersburg.",
+    "They prove that the nose deliberately visits the places named in every rumor.",
+    "They show how quickly an extraordinary event becomes public spectacle, gossip, and an opportunity for profit.",
+    "They cause the authorities to explain how the nose became an official."
+   ],
+   "answer": 2,
+   "evidence": "A certain speculator with a grave, whiskered face ... invited the public to stand on them and look in, at the modest charge of twenty-four kopecks.",
+   "evidence_found": false
+  },
+  {
+   "type": "whole",
+   "question": "What does the abrupt return of the nose to Kovaloff’s face suggest about the story’s strange events?",
+   "options": [
+    "They are resolved without a rational explanation, preserving the story’s deliberately improbable quality.",
+    "They follow a medical treatment that gradually restores Kovaloff’s face.",
+    "They are revealed to have been a dream caused by Kovaloff’s illness.",
+    "They are explained as a trick arranged by Madame Podtotchina and the barber."
+   ],
+   "answer": 0,
+   "evidence": "The same nose which had masqueraded as a state-councillor ... was found one morning in its proper place",
+   "evidence_found": false
+  },
+  {
+   "type": "whole",
+   "question": "How does the narrator’s ending frame the tale’s improbability?",
+   "options": [
+    "The narrator concludes that the nose’s adventures were a warning against public officials.",
+    "The narrator insists that every event has a clear scientific explanation.",
+    "The narrator apologizes for inventing the story and says it never happened.",
+    "The narrator questions the point of such a story but still allows that rare strange events can occur."
+   ],
+   "answer": 3,
+   "evidence": "such cases do occur--rarely, it is true, but now and then actually.",
+   "evidence_found": true
+  }
+ ],
+ "rip-van-winkle": [
+  {
+   "type": "detail",
+   "question": "What happened to the Kaatskill Mountains when the rest of the landscape was cloudless?",
+   "options": [
+    "They turned blue and purple beneath a crown of bright stars.",
+    "They disappeared behind a curtain of rain that covered the river.",
+    "They reflected the green of the nearby fields across their slopes.",
+    "They gathered grey vapours around their summits, which glowed in the setting sun."
+   ],
+   "answer": 3,
+   "evidence": "they will gather a hood of grey vapours about their summits, which, in the last rays of the setting sun, will glow and light up like a crown of glory.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "When was the Dutch village founded, according to the narrator?",
+   "options": [
+    "During the first years of Peter Stuyvesant’s government.",
+    "During the reign of King George the Third.",
+    "When Hendrick Hudson first explored the river.",
+    "After the revolutionary war had ended."
+   ],
+   "answer": 0,
+   "evidence": "having been founded by some of the Dutch colonists in the early times of the province, just about the beginning of the government of the good Peter Stuyvesant",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "Which earlier event had Rip’s Van Winkle ancestors taken part in?",
+   "options": [
+    "They joined Hendrick Hudson on the voyage up the river.",
+    "They accompanied Peter Stuyvesant to the siege of Fort Christina.",
+    "They fought at the storming of Stony Point.",
+    "They helped establish the village inn under King George."
+   ],
+   "answer": 1,
+   "evidence": "accompanied him to the siege of Fort Christina.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did Rip do for the village children?",
+   "options": [
+    "He took them fishing and taught them to repair the village fences.",
+    "He brought them to the inn and showed them how to play ninepins.",
+    "He made their playthings and taught them to fly kites and shoot marbles.",
+    "He taught them to read old newspapers and debate public events."
+   ],
+   "answer": 2,
+   "evidence": "He assisted at their sports, made their playthings, taught them to fly kites and shoot marbles",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did Rip do when fishing, even if he received no encouragement?",
+   "options": [
+    "He moved from pond to pond until he caught a trout.",
+    "He gave up after an hour and went to help a neighbour.",
+    "He borrowed a lighter rod and fished from the riverbank.",
+    "He sat fishing all day without a single nibble."
+   ],
+   "answer": 3,
+   "evidence": "he would sit on a wet rock, with a rod as long and heavy as a Tartar’s lance, and fish all day without a murmur, even though he should not be encouraged by a single nibble.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did Wolf do when Dame Van Winkle flourished a broomstick or ladle?",
+   "options": [
+    "He fled to the door, yelping.",
+    "He ran out to the village inn.",
+    "He stood his ground beside the fireplace.",
+    "He hid beneath Rip’s chair and growled."
+   ],
+   "answer": 0,
+   "evidence": "at the least flourish of a broomstick or ladle he would fly to the door with yelping precipitation.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "How did Nicholas Vedder show that he approved of something?",
+   "options": [
+    "He stood up and moved into the sunlight beneath the tree.",
+    "He sent out short, angry puffs of smoke.",
+    "He spoke at length and tapped his pipe against the bench.",
+    "He took his pipe from his mouth and gravely nodded."
+   ],
+   "answer": 3,
+   "evidence": "taking the pipe from his mouth, and letting the fragrant vapour curl about his nose, would gravely nod his head in token of perfect approbation.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What was the strange old man carrying when he met Rip in the mountains?",
+   "options": [
+    "A stout keg that seemed full of liquor.",
+    "A wooden box packed with old Dutch clothes.",
+    "A rusted firelock wrapped in a cloth.",
+    "A heavy sack filled with mountain herbs."
+   ],
+   "answer": 0,
+   "evidence": "He bore on his shoulder a stout keg, that seemed full of liquor",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did Rip find beside him when he awoke on the mountain?",
+   "options": [
+    "A hunting knife with a handle carved from oak.",
+    "An old firelock with a rusty barrel and a worm-eaten stock.",
+    "A clean, well-oiled fowling-piece with a broken strap.",
+    "A keg of liquor with a flagon resting beside it."
+   ],
+   "answer": 1,
+   "evidence": "he found an old firelock lying by him, the barrel incrusted with rust, the lock falling off, and the stock worm-eaten.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What name was painted beneath the altered portrait over the inn door?",
+   "options": [
+    "NICHOLAS VEDDER",
+    "GENERAL WASHINGTON",
+    "PETER STUYVESANT",
+    "THE UNION HOTEL"
+   ],
+   "answer": 1,
+   "evidence": "underneath was painted in large characters, “GENERAL WASHINGTON.”",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did Judith Gardenier say had happened to her mother?",
+   "options": [
+    "She had moved in with Judith after the old house fell into decay.",
+    "She had died after breaking a blood vessel in a fit of passion at a New-England pedler.",
+    "She had died of a fever shortly after Rip went to the mountains.",
+    "She had left the village after Rip disappeared and never returned."
+   ],
+   "answer": 1,
+   "evidence": "she broke a blood vessel in a fit of passion at a New-England pedler.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "According to the postscript, what happened when a hunter dropped one of the gourds near Garden Rock?",
+   "options": [
+    "A great stream burst out and swept him down the precipices.",
+    "A bear sprang from the rocks and chased him to the Hudson.",
+    "The gourd split open and scattered seeds across the lake.",
+    "A storm cloud formed and drove him back into the forest."
+   ],
+   "answer": 0,
+   "evidence": "he let it fall among the rocks, when a great stream gushed forth, which washed him away and swept him down precipices",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What most clearly explains why Rip is popular with the villagers despite neglecting his own farm?",
+   "options": [
+    "He is a stern but fair husband who keeps order among the village families.",
+    "He is a skilled farmer who regularly shares his harvest with the village.",
+    "He is a respected public speaker who leads the village’s political discussions.",
+    "He is generous with his time and companionship, helping neighbours and entertaining children."
+   ],
+   "answer": 3,
+   "evidence": "Rip was ready to attend to anybody’s business but his own",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "Why does Rip ultimately wander into the mountains?",
+   "options": [
+    "He is trying to escape both the work of his farm and his wife’s constant scolding.",
+    "He is searching for a missing neighbour who has gone hunting.",
+    "He has been sent to deliver a keg of liquor to the men at the inn.",
+    "He is hoping to find a new route to the village across the mountains."
+   ],
+   "answer": 0,
+   "evidence": "his only alternative, to escape from the labour of the farm and clamour of his wife, was to take gun in hand and stroll away into the woods.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What is the main effect of Rip’s long sleep on his return to the village?",
+   "options": [
+    "It convinces him that his old neighbours have deliberately hidden from him.",
+    "It makes him confront a transformed community and a span of history he has missed.",
+    "It allows him to escape the village’s political arguments for only a few days.",
+    "It gives him a new ambition to restore his neglected farm and family home."
+   ],
+   "answer": 1,
+   "evidence": "the whole twenty years had seemed to him as but one night.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How does the change from Vedder’s inn to the Union Hotel reflect the village’s transformation?",
+   "options": [
+    "The village has abandoned elections and returned to the rule of its old landlord.",
+    "The quiet colonial gathering place has become a busier, politically contentious public world.",
+    "A place for newspapers and debate has become a centre for farming and trade.",
+    "A prosperous Dutch inn has become a private home for Rip’s descendants."
+   ],
+   "answer": 1,
+   "evidence": "There was a busy, bustling, disputatious tone about it, instead of the accustomed phlegm and drowsy tranquillity.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How is Rip’s identity crisis resolved?",
+   "options": [
+    "The man in the cocked hat discovers Rip’s name on his old gun.",
+    "Rip recognizes himself in the younger man leaning against a tree.",
+    "Nicholas Vedder returns and identifies Rip at the village inn.",
+    "His daughter’s recognition and the villagers’ memories confirm who he is."
+   ],
+   "answer": 3,
+   "evidence": "The name of the child, the air of the mother, the tone of her voice, all awakened a train of recollections in his mind.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What matters most to Rip about the end of British rule and the changes in government?",
+   "options": [
+    "He blames the revolution for his long sleep and demands his farm back.",
+    "He is largely indifferent to political change but delights in escaping his wife’s control.",
+    "He eagerly embraces politics and becomes a leader in the new republic.",
+    "He mourns the king’s departure more than the loss of his home and friends."
+   ],
+   "answer": 1,
+   "evidence": "the changes of states and empires made but little impression on him; but there was one species of despotism under which he had long groaned, and that was--petticoat government.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What role does the narrator’s note play in the story’s presentation of Rip’s experience?",
+   "options": [
+    "It reveals that Rip invented his story to explain why he left the village.",
+    "It admits that the narrator has no evidence and considers the story a local joke.",
+    "It explains that the mountain episode was borrowed directly from a German legend.",
+    "It frames the tale as an extraordinary event the narrator claims to believe and support with testimony."
+   ],
+   "answer": 3,
+   "evidence": "I have even talked with Rip Van Winkle myself",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How does the postscript connect the local legends to the events of Rip’s story?",
+   "options": [
+    "It argues that the old stories are false and that Rip’s sleep had an ordinary cause.",
+    "It identifies the old squaw spirit as the person who gave Rip the liquor.",
+    "It presents the Catskills as a place of spirits and marvels, making supernatural mountain events part of local tradition.",
+    "It explains that the villagers invented the mountain spirits to protect the local hunting grounds."
+   ],
+   "answer": 2,
+   "evidence": "The Kaatsberg or Catskill mountains have always been a region full of fable.",
+   "evidence_found": true
+  }
+ ],
+ "a-christmas-carol": [
+  {
+   "type": "detail",
+   "question": "What did C. D. hope the Ghost of an Idea would do to readers?",
+   "options": [
+    "Haunt their houses pleasantly without making them ill-tempered",
+    "Make them curious about the spirits of their ancestors",
+    "Encourage them to give money to the poor",
+    "Remind them to keep Christmas with their families"
+   ],
+   "answer": 0,
+   "evidence": "May it haunt their houses pleasantly",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What does Scrooge’s nephew’s defense of Christmas reveal about his view of the holiday?",
+   "options": [
+    "He believes its chief benefit is that it brings wealth to people who celebrate it",
+    "He values it as a time when people show kindness and recognize their shared humanity",
+    "He regards it as a solemn religious observance that should be kept privately",
+    "He sees it mainly as a chance to escape work and enjoy a large meal"
+   ],
+   "answer": 1,
+   "evidence": "a kind, forgiving, charitable, pleasant time",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "Who signed the register of Marley’s burial?",
+   "options": [
+    "The clerk, Scrooge, the chief mourner, and the parish beadle",
+    "The undertaker, the clerk, two witnesses, and Scrooge",
+    "The clergyman, Scrooge, the undertaker, and Marley’s nephew",
+    "The clergyman, the clerk, the undertaker, and the chief mourner"
+   ],
+   "answer": 3,
+   "evidence": "The register of his burial was signed by the clergyman, the clerk, the undertaker, and the chief mourner.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What made the clerk’s fire look like only one coal?",
+   "options": [
+    "Scrooge had ordered the clerk to let the fire die before closing time",
+    "The coal delivery had been delayed by the weather outside",
+    "Scrooge kept the coal-box in his own room, so the clerk could not replenish it",
+    "The clerk had used most of the coal to heat the water for his tea"
+   ],
+   "answer": 2,
+   "evidence": "the clerk's fire was so very much smaller that it looked like one coal.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How does the nephew’s behavior toward Scrooge contrast with Scrooge’s attitude toward him?",
+   "options": [
+    "The nephew challenges Scrooge because he hopes to take over the business",
+    "The nephew stops visiting because Scrooge has insulted his wife",
+    "The nephew continues to offer friendship despite Scrooge’s repeated rejection",
+    "The nephew pretends to be cheerful so that Scrooge will lend him money"
+   ],
+   "answer": 2,
+   "evidence": "His nephew left the room without an angry word, notwithstanding.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What objects made up the chain Marley wore?",
+   "options": [
+    "Cash-boxes, chains, silver spoons, papers, keys, and money bags",
+    "Ledgers, contracts, scales, coins, padlocks, and iron bars",
+    "Locks, watches, coins, account books, rings, and iron weights",
+    "Cash-boxes, keys, padlocks, ledgers, deeds, and heavy purses"
+   ],
+   "answer": 3,
+   "evidence": "it was made (for Scrooge observed it closely) of cash-boxes, keys, padlocks, ledgers, deeds, and heavy purses wrought in steel.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What is the central meaning of the chain Marley forged in life?",
+   "options": [
+    "His failure to leave money to Scrooge has trapped him in an unfinished partnership",
+    "His success in business has made him responsible for managing the wealth of the dead",
+    "His selfish choices have bound him to remorse and to the consequences of neglecting others",
+    "His fear of poverty has prevented him from finding peace in the afterlife"
+   ],
+   "answer": 2,
+   "evidence": "I wear the chain I forged in life",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did the Ghost of Christmas Past hold, despite the wintry appearance of its clothing?",
+   "options": [
+    "A small lantern trimmed with summer flowers",
+    "A sprig of mistletoe tied with a white ribbon",
+    "A branch of fresh green holly",
+    "A candle set in a silver holder"
+   ],
+   "answer": 2,
+   "evidence": "It held a branch of fresh green holly in its hand",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What reason did Fan give for bringing Scrooge home from school?",
+   "options": [
+    "The school was closing and Fan had been sent to collect her brother",
+    "Their father was ill and wanted Scrooge to visit him before Christmas",
+    "Their father had become kinder and agreed that Scrooge could come home for good",
+    "Their mother had arranged for Scrooge to begin an apprenticeship"
+   ],
+   "answer": 2,
+   "evidence": "Father is so much kinder than he used to be, that home's like Heaven!",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What do the memories shown by the Ghost of Christmas Past help explain about Scrooge?",
+   "options": [
+    "His harshness developed because he was never welcomed back into his family",
+    "His isolation grew as his concern for gain displaced affection and other hopes",
+    "His business success came from the generosity of his former employer",
+    "His dislike of Christmas began because his family refused to celebrate it"
+   ],
+   "answer": 1,
+   "evidence": "the master-passion, Gain, engrosses you.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "Who was the fellow apprentice Scrooge recognized at Fezziwig’s warehouse?",
+   "options": [
+    "Fred Fezziwig",
+    "Old Joe",
+    "Dick Wilkins",
+    "Peter Cratchit"
+   ],
+   "answer": 2,
+   "evidence": "Dick Wilkins, to be sure!",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What does Scrooge’s defense of Fezziwig’s influence suggest about the value of a good employer?",
+   "options": [
+    "An employer earns gratitude chiefly by paying workers unusually high wages",
+    "A successful business depends on holding a Christmas celebration every year",
+    "Small gestures and a kind manner can make work happier without costing a fortune",
+    "Workers respect an employer most when he keeps strict control over them"
+   ],
+   "answer": 2,
+   "evidence": "The happiness he gives, is quite as great as if it cost a fortune.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "Why did Tiny Tim hope people would notice him at church?",
+   "options": [
+    "He believed the minister might invite him to sing at the service",
+    "He wanted them to tell his father that he had behaved well",
+    "He thought remembering a cripple might remind them of the healing of the lame and blind",
+    "He hoped they would give him money to buy a stronger crutch"
+   ],
+   "answer": 2,
+   "evidence": "he hoped the people saw him in the church, because he was a cripple",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What do the Cratchits’ Christmas celebration and their limited means show together?",
+   "options": [
+    "Their cheerfulness is mostly an attempt to hide their resentment toward Bob’s employer",
+    "Their affection and gratitude make their celebration joyful despite their poverty",
+    "Their poverty prevents them from enjoying Christmas until Scrooge helps them",
+    "Their simple meal matters less to them than the chance to impress their neighbors"
+   ],
+   "answer": 1,
+   "evidence": "they were happy, grateful, pleased with one another, and contented with the time",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What names did the Ghost of Christmas Present give the two children beneath its robe?",
+   "options": [
+    "Ignorance and Want",
+    "Fear and Misery",
+    "Poverty and Hunger",
+    "Greed and Sorrow"
+   ],
+   "answer": 0,
+   "evidence": "This boy is Ignorance. This girl is Want.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "Why does the Ghost of Christmas Present warn Scrooge especially about Ignorance?",
+   "options": [
+    "Ignorance represents the poor children who will inherit Scrooge’s business",
+    "Ignorance shows that the spirits cannot predict what will happen to individuals",
+    "Ignoring social suffering can lead to a disastrous future unless people address it",
+    "Ignorance is more dangerous than Want because it makes people reject Christmas customs"
+   ],
+   "answer": 2,
+   "evidence": "on his brow I see that written which is Doom, unless the writing be erased.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did the charwoman take from the dead man’s room?",
+   "options": [
+    "His bed-curtains, including the rings, and the shirt intended for his burial",
+    "His blankets, his boots, and the papers kept in his writing desk",
+    "His sheets, his bedstead, and the money hidden beneath his pillow",
+    "His watch, his coat, and the silver candlesticks from the bedside table"
+   ],
+   "answer": 0,
+   "evidence": "Bed-curtains! ... Yes I do, replied the woman. Why not?",
+   "evidence_found": false
+  },
+  {
+   "type": "whole",
+   "question": "What realization does Scrooge reach when he sees the dead man’s possessions being sold?",
+   "options": [
+    "The people selling the possessions are responsible for the man’s isolation",
+    "The dead man was secretly kinder than Scrooge and deserved a better funeral",
+    "His business rivals will inherit his property if he dies without a will",
+    "His own life may lead to the same lonely, unloved death if he does not change"
+   ],
+   "answer": 3,
+   "evidence": "The case of this unhappy man might be my own. My life tends that way, now.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did Scrooge tell the boy to buy for the Cratchit family?",
+   "options": [
+    "A plum pudding from the shop across the street",
+    "The large prize turkey hanging at the poulterer’s",
+    "A basket of fruit and chestnuts from the grocer",
+    "A goose from the baker’s shop near the corner"
+   ],
+   "answer": 1,
+   "evidence": "Do you know whether they've sold the prize Turkey that was hanging up there?--Not the little prize Turkey: the big one?",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did Scrooge promise Bob Cratchit after Bob arrived late the next morning?",
+   "options": [
+    "He would raise Bob’s salary and help his struggling family",
+    "He would give Bob the whole week off and pay his debts",
+    "He would promote Bob to partner in the counting-house",
+    "He would provide Bob’s family with a new house and clothing"
+   ],
+   "answer": 0,
+   "evidence": "I'll raise your salary, and endeavour to assist your struggling family",
+   "evidence_found": true
+  }
+ ],
+ "the-time-machine": [
+  {
+   "type": "detail",
+   "question": "How did the Time Traveller’s patented chairs seem to treat the guests?",
+   "options": [
+    "They rocked them gently whenever the fire began to burn low.",
+    "They turned toward the fireplace whenever someone sat down.",
+    "They held them upright so firmly that they could not move.",
+    "They embraced and caressed them rather than merely supporting them."
+   ],
+   "answer": 3,
+   "evidence": "Our chairs, being his patents, embraced and caressed us rather than submitted to be sat upon",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What fourth dimension did the Time Traveller say every real body must have, in addition to length, breadth, and thickness?",
+   "options": [
+    "Temperature",
+    "Weight",
+    "Duration",
+    "Direction"
+   ],
+   "answer": 2,
+   "evidence": "it must have Length, Breadth, Thickness, and—Duration.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "Who pressed the lever that sent the model Time Machine away?",
+   "options": [
+    "The Medical Man",
+    "The Provincial Mayor",
+    "Filby",
+    "The Psychologist"
+   ],
+   "answer": 3,
+   "evidence": "it was the Psychologist himself who sent forth the model Time Machine",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What was the Time Traveller wearing on his feet when he returned to dinner in a dishevelled state?",
+   "options": [
+    "A pair of worn leather sandals",
+    "A pair of tattered, blood-stained socks",
+    "A pair of slippers, one of them torn",
+    "A pair of muddy boots with broken laces"
+   ],
+   "answer": 1,
+   "evidence": "He had nothing on them but a pair of tattered, blood-stained socks.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What delayed completion of the large Time Machine until the morning of the experiment?",
+   "options": [
+    "A nickel bar was exactly one inch too short.",
+    "A brass rail had to be bent into a new shape.",
+    "One of the ivory bars had not yet been carved.",
+    "A quartz rod had cracked and needed replacing."
+   ],
+   "answer": 0,
+   "evidence": "I found that one of the nickel bars was exactly one inch too short",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What date did the little dials on the machine record when the Time Traveller reached the world of the Eloi?",
+   "options": [
+    "The year Eight Hundred and Two Thousand and One, A.D.",
+    "The year Eight Hundred and Two Thousand Seven Hundred and One, A.D.",
+    "The year Eight Hundred and Twenty Thousand Seven Hundred and One, A.D.",
+    "The year Eight Hundred and Two Thousand Seven Hundred and Ten, A.D."
+   ],
+   "answer": 1,
+   "evidence": "the year Eight Hundred and Two Thousand Seven Hundred and One, A.D.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "Which fruit did the Time Traveller make his staple food among the Eloi?",
+   "options": [
+    "A sweet fruit growing inside a round, green shell",
+    "A sour fruit with a thick, yellow skin",
+    "A floury fruit in a three-sided husk",
+    "A small red fruit with a cluster of hard seeds"
+   ],
+   "answer": 2,
+   "evidence": "a floury thing in a three-sided husk—was especially good, and I made it my staple.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "Why did the Time Traveller first become acquainted with Weena?",
+   "options": [
+    "He gave her flowers after she became frightened by a thunderstorm.",
+    "He found her lost near the White Sphinx and led her back to the great hall.",
+    "He helped her after she was seized with cramp while bathing and began to drown.",
+    "He rescued her from Morlocks while she was exploring a ruined building."
+   ],
+   "answer": 2,
+   "evidence": "one of them was seized with cramp and began drifting downstream.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What happened to one of the bars as the Time Traveller climbed down the well into the Underworld?",
+   "options": [
+    "It bent under his weight and nearly swung him into the blackness.",
+    "It came loose and struck him across the shoulder.",
+    "It broke away from the wall and fell into the darkness.",
+    "It twisted around and trapped his foot against the shaft."
+   ],
+   "answer": 0,
+   "evidence": "One of the bars bent suddenly under my weight, and almost swung me off into the blackness beneath.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "Where did the Time Traveller find a box of matches in the Palace of Green Porcelain?",
+   "options": [
+    "In a rusting cabinet in the gallery of arms",
+    "In an air-tight case in a gallery of technical chemistry",
+    "Inside a drawer beneath a table in the mineral gallery",
+    "Under a broken floor tile in the museum’s central hall"
+   ],
+   "answer": 1,
+   "evidence": "in one of the really air-tight cases, I found a box of matches.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What happened after the Time Traveller lit his heap of wood at the edge of the forest?",
+   "options": [
+    "The flame frightened Weena into running back toward the palace.",
+    "The fire spread to nearby bushes and began creeping up the hill grass.",
+    "The Morlocks covered the fire with branches and carried it away.",
+    "The fire went out almost immediately in the damp undergrowth."
+   ],
+   "answer": 1,
+   "evidence": "the blaze had spread to some bushes adjacent, and a curved line of fire was creeping up the grass of the hill.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did the narrator keep as evidence after the Time Traveller disappeared for the last time?",
+   "options": [
+    "Two strange white flowers, now shrivelled and brittle",
+    "A broken matchbox found in the laboratory",
+    "A page of drawings covered in moss",
+    "A bent brass rail from the Time Machine"
+   ],
+   "answer": 0,
+   "evidence": "I have by me, for my comfort, two strange white flowers",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What is the Time Traveller’s central argument for treating time as a dimension like space?",
+   "options": [
+    "A body must endure for some time to exist, and consciousness moves along time in one direction.",
+    "Time differs from space because it has length but no measurable direction.",
+    "People can move through time freely, but habit prevents them from noticing it.",
+    "Time is only an illusion created by the changing positions of objects in space."
+   ],
+   "answer": 0,
+   "evidence": "any real body must have extension in four directions: it must have Length, Breadth, Thickness, and—Duration.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "Why do the guests initially distrust the Time Traveller’s account, even after seeing the model vanish?",
+   "options": [
+    "They believe Filby has secretly arranged the demonstration to embarrass them.",
+    "They object to his refusing to explain how he built the model.",
+    "They suspect his cleverness and whim make his apparent frankness hard to trust.",
+    "They think the Psychologist has hypnotised them into misremembering the event."
+   ],
+   "answer": 2,
+   "evidence": "you never felt that you saw all round him; you always suspected some subtle reserve",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How does the Time Traveller’s understanding of the apparent Golden Age change?",
+   "options": [
+    "He first believes the world is ruined, then learns that the Eloi have rebuilt a thriving industrial society.",
+    "He first assumes the Eloi fear the Morlocks, then concludes the two peoples live in complete equality.",
+    "He first thinks the Eloi are workers, then discovers they have conquered the Morlocks.",
+    "He first sees a peaceful paradise, then realises the Eloi’s comfort conceals their vulnerability and decline."
+   ],
+   "answer": 3,
+   "evidence": "Afterwards I found I had got only a half truth—or only a glimpse of one facet of the truth.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What does the Time Traveller’s early theory about the Eloi and Morlocks suggest about the long-term consequences of class division?",
+   "options": [
+    "The workers would inherit the surface because the rich would abandon it voluntarily.",
+    "Separate ways of life could eventually divide humanity into distinct kinds of people.",
+    "The wealthy and the workers would become physically identical through intermarriage.",
+    "Class divisions would disappear once industry moved underground."
+   ],
+   "answer": 1,
+   "evidence": "the gradual widening of the present merely temporary and social difference between the Capitalist and the Labourer was the key to the whole position.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How do the discoveries about the Morlocks change the apparent relationship between the two future peoples?",
+   "options": [
+    "The Eloi are no longer secure masters; they have become vulnerable to the Morlocks.",
+    "The Morlocks are shown to be harmless servants who fear the Eloi’s intelligence.",
+    "The Eloi control the Underworld but refuse to let the Morlocks live above ground.",
+    "The two peoples have formed a cooperative society in which each protects the other."
+   ],
+   "answer": 0,
+   "evidence": "The Eloi, like the Carlovignan kings, had decayed to a mere beautiful futility. They still possessed the earth on sufferance",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What does Weena’s relationship with the Time Traveller reveal about his response to the future world?",
+   "options": [
+    "Her affection becomes a source of comfort and attachment, making his departure feel more personal.",
+    "Her gifts persuade him to abandon his investigations and remain permanently with the Eloi.",
+    "Her intelligence teaches him how to operate the machine and return to his own time.",
+    "Her fear convinces him that the Eloi are secretly plotting against him."
+   ],
+   "answer": 0,
+   "evidence": "the little doll of a creature presently gave my return to the neighbourhood of the White Sphinx almost the feeling of coming home",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What principle does the Time Traveller draw from the Eloi’s decline?",
+   "options": [
+    "Security encourages people to develop new skills even when no problems remain.",
+    "Art and beauty inevitably preserve a people’s strength and independence.",
+    "A society becomes more intelligent as it eliminates every form of physical labor.",
+    "Intelligence and adaptability depend on encountering change, danger, and need."
+   ],
+   "answer": 3,
+   "evidence": "There is no intelligence where there is no change and no need of change.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What do the narrator’s final thoughts about the flowers suggest about the story’s ending?",
+   "options": [
+    "The flowers show that Weena was able to follow the Time Traveller into his own time.",
+    "Even amid human decline and uncertainty, tenderness and gratitude may survive.",
+    "The flowers prove that the Time Traveller’s account was only a carefully planned trick.",
+    "The narrator believes the future will certainly restore humanity to its former greatness."
+   ],
+   "answer": 1,
+   "evidence": "even when mind and strength had gone, gratitude and a mutual tenderness still lived on in the heart of man.",
+   "evidence_found": true
+  }
+ ]
+}

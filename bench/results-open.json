@@ -1,0 +1,142 @@
+{
+ "method": "open answers, judged against the reference",
+ "writer_and_judge": "gpt-6-luna",
+ "answerers": [
+  "gpt-6-luna",
+  "gpt-5.4-mini"
+ ],
+ "questions_per_work": {
+  "peculiarities-of-planetary-conquest": 20,
+  "the-nose": 20,
+  "rip-van-winkle": 20,
+  "a-christmas-carol": 20,
+  "the-time-machine": 20
+ },
+ "context_chars": {
+  "none": {
+   "peculiarities-of-planetary-conquest": 0,
+   "the-nose": 0,
+   "rip-van-winkle": 0,
+   "a-christmas-carol": 0,
+   "the-time-machine": 0
+  },
+  "layers": {
+   "peculiarities-of-planetary-conquest": 3183,
+   "the-nose": 3475,
+   "rip-van-winkle": 3501,
+   "a-christmas-carol": 3460,
+   "the-time-machine": 3841
+  },
+  "cloud": {
+   "peculiarities-of-planetary-conquest": 24881,
+   "the-nose": 7726,
+   "rip-van-winkle": 5092,
+   "a-christmas-carol": 5325,
+   "the-time-machine": 8470
+  },
+  "raw_same_size": {
+   "peculiarities-of-planetary-conquest": 11460,
+   "the-nose": 7726,
+   "rip-van-winkle": 5092,
+   "a-christmas-carol": 5325,
+   "the-time-machine": 8470
+  },
+  "full_text": {
+   "peculiarities-of-planetary-conquest": 11460,
+   "the-nose": 50280,
+   "rip-van-winkle": 38317,
+   "a-christmas-carol": 158082,
+   "the-time-machine": 179093
+  }
+ },
+ "overall": {
+  "none": 46,
+  "layers": 50,
+  "cloud": 59,
+  "raw_same_size": 60,
+  "full_text": 82
+ },
+ "by_model": {
+  "gpt-6-luna": {
+   "none": 58,
+   "layers": 60,
+   "cloud": 66,
+   "raw_same_size": 69,
+   "full_text": 83
+  },
+  "gpt-5.4-mini": {
+   "none": 34,
+   "layers": 40,
+   "cloud": 52,
+   "raw_same_size": 52,
+   "full_text": 80
+  }
+ },
+ "by_type": {
+  "detail": {
+   "none": 42,
+   "layers": 42,
+   "cloud": 51,
+   "raw_same_size": 60,
+   "full_text": 87
+  },
+  "whole": {
+   "none": 52,
+   "layers": 62,
+   "cloud": 71,
+   "raw_same_size": 61,
+   "full_text": 74
+  }
+ },
+ "unseen_work": {
+  "none": 25,
+  "layers": 42,
+  "cloud": 90,
+  "raw_same_size": 95,
+  "full_text": 82
+ },
+ "known_classics": {
+  "none": 51,
+  "layers": 52,
+  "cloud": 51,
+  "raw_same_size": 52,
+  "full_text": 81
+ },
+ "by_work": {
+  "peculiarities-of-planetary-conquest": {
+   "none": 25,
+   "layers": 42,
+   "cloud": 90,
+   "raw_same_size": 95,
+   "full_text": 82
+  },
+  "the-nose": {
+   "none": 55,
+   "layers": 62,
+   "cloud": 55,
+   "raw_same_size": 52,
+   "full_text": 72
+  },
+  "rip-van-winkle": {
+   "none": 45,
+   "layers": 42,
+   "cloud": 45,
+   "raw_same_size": 52,
+   "full_text": 82
+  },
+  "a-christmas-carol": {
+   "none": 58,
+   "layers": 55,
+   "cloud": 55,
+   "raw_same_size": 52,
+   "full_text": 80
+  },
+  "the-time-machine": {
+   "none": 48,
+   "layers": 48,
+   "cloud": 50,
+   "raw_same_size": 50,
+   "full_text": 90
+  }
+ }
+}
