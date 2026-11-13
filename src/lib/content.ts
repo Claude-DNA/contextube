@@ -145,12 +145,20 @@ export async function getLayer(idOrSlug: string, layer: number, q?: string, limi
   // With a query: the best-matching chunks of this layer, returned in reading order.
   const chunks = tsq
     ? await query<Chunk>(
-        `SELECT * FROM (
-           SELECT ${CHUNK_COLUMNS} FROM chunks c
-           WHERE c.content_id = $1 AND c.layer = $2 AND c.chunk_type <> 'meta' AND c.search @@ to_tsquery('simple', $3)
-           ORDER BY ts_rank(c.search, to_tsquery('simple', $3), 1) DESC, c.position LIMIT $4
-         ) hits ORDER BY position`,
-        [u.id, layer, tsq, Math.min(Math.max(limit, 1), 20)],
+        // Each word counts for more the rarer it is in this layer, so a passage with the one telling
+        // word outranks passages that repeat a common one.
+        `WITH terms AS (SELECT unnest($3::text[]) AS t),
+         pool AS (SELECT c.id, c.search FROM chunks c WHERE c.content_id = $1 AND c.layer = $2 AND c.chunk_type <> 'meta'),
+         df AS (
+           SELECT t.t, count(*) AS n FROM terms t JOIN pool p ON p.search @@ to_tsquery('simple', t.t || ':*') GROUP BY t.t
+         ),
+         scored AS (
+           SELECT p.id, sum(ln(1 + (SELECT count(*) FROM pool)::float / df.n)) AS score
+           FROM pool p JOIN df ON p.search @@ to_tsquery('simple', df.t || ':*') GROUP BY p.id
+           ORDER BY score DESC LIMIT $4
+         )
+         SELECT ${CHUNK_COLUMNS} FROM chunks c JOIN scored s ON s.id = c.id ORDER BY c.position`,
+        [u.id, layer, tsq.split(" | "), Math.min(Math.max(limit, 1), 20)],
       )
     : await query<Chunk>(
         `SELECT ${CHUNK_COLUMNS} FROM chunks c WHERE c.content_id = $1 AND c.layer = $2 ORDER BY c.position`,
