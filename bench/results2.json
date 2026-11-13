@@ -5,49 +5,49 @@
   "gpt-6-luna",
   "gpt-5.4-mini"
  ],
- "questions": 154,
+ "questions": 213,
  "overall": {
-  "none": 60,
-  "cloud": 70,
-  "search_only": 84,
-  "cloud_and_search": 82,
-  "cloud_always_search": 86,
-  "full_text": 87
+  "none": 56,
+  "cloud": 72,
+  "search_only": 85,
+  "cloud_and_search": 81,
+  "cloud_always_search": 87,
+  "full_text": 88
  },
  "by_model": {
   "gpt-6-luna": {
-   "none": 68,
+   "none": 64,
    "cloud": 80,
-   "search_only": 90,
-   "cloud_and_search": 88,
-   "cloud_always_search": 90,
+   "search_only": 92,
+   "cloud_and_search": 87,
+   "cloud_always_search": 92,
    "full_text": 91
   },
   "gpt-5.4-mini": {
-   "none": 51,
-   "cloud": 61,
-   "search_only": 78,
-   "cloud_and_search": 76,
-   "cloud_always_search": 82,
-   "full_text": 83
+   "none": 48,
+   "cloud": 64,
+   "search_only": 79,
+   "cloud_and_search": 75,
+   "cloud_always_search": 83,
+   "full_text": 85
   }
  },
  "by_type": {
   "detail": {
-   "none": 45,
-   "cloud": 61,
-   "search_only": 88,
-   "cloud_and_search": 79,
-   "cloud_always_search": 86,
+   "none": 40,
+   "cloud": 63,
+   "search_only": 89,
+   "cloud_and_search": 78,
+   "cloud_always_search": 88,
    "full_text": 91
   },
   "whole": {
-   "none": 74,
-   "cloud": 80,
-   "search_only": 80,
-   "cloud_and_search": 84,
+   "none": 72,
+   "cloud": 81,
+   "search_only": 82,
+   "cloud_and_search": 83,
    "cloud_always_search": 87,
-   "full_text": 84
+   "full_text": 85
   }
  },
  "known_classics": {
@@ -59,12 +59,12 @@
   "full_text": 90
  },
  "unseen_work": {
-  "none": 40,
-  "cloud": 82,
-  "search_only": 82,
-  "cloud_and_search": 85,
-  "cloud_always_search": 94,
-  "full_text": 76
+  "none": 44,
+  "cloud": 78,
+  "search_only": 87,
+  "cloud_and_search": 81,
+  "cloud_always_search": 91,
+  "full_text": 86
  },
  "classics_by_type": {
   "detail": {
@@ -92,6 +92,22 @@
    "cloud_and_search": 85,
    "cloud_always_search": 94,
    "full_text": 76
+  },
+  "peace-treaty-architecture": {
+   "none": 57,
+   "cloud": 67,
+   "search_only": 95,
+   "cloud_and_search": 71,
+   "cloud_always_search": 86,
+   "full_text": 91
+  },
+  "echo": {
+   "none": 37,
+   "cloud": 85,
+   "search_only": 83,
+   "cloud_and_search": 85,
+   "cloud_always_search": 92,
+   "full_text": 90
   },
   "the-nose": {
    "none": 57,
@@ -136,7 +152,7 @@
  },
  "share_of_questions_searched": {
   "search_only": 100,
-  "cloud_and_search": 36,
+  "cloud_and_search": 28,
   "cloud_always_search": 100
  }
 }

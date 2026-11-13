@@ -16,7 +16,15 @@ PER_Q = 3  # passages fetched per question
 Q, A, R = (os.path.join(B.HERE, f) for f in ("questions2.json", "answers2.json", "results2.json"))
 
 def questions():
-    B.make_questions(); os.replace(os.path.join(B.HERE, "questions.json"), Q)
+    """Writes questions for works that have none yet; existing ones are kept."""
+    have = json.load(open(Q)) if os.path.exists(Q) else {}
+    first = os.path.join(B.HERE, "questions.json"); keep = open(first).read() if os.path.exists(first) else None
+    every = B.WORKS; B.WORKS = [s for s in every if s not in have]
+    if B.WORKS:
+        B.make_questions(); have.update(json.load(open(first)))
+        json.dump({s: have[s] for s in every}, open(Q, "w"), ensure_ascii=False, indent=1)
+    B.WORKS = every
+    if keep is not None: open(first, "w").write(keep)
 
 def passages(slug, words):
     d = json.loads(B.get(f"{B.TUBE}/api/v1/content/{slug}/layer/5?q={urllib.parse.quote(words)}&limit={PER_Q}"))

@@ -404,6 +404,777 @@
    "evidence_found": true
   }
  ],
+ "peace-treaty-architecture": [
+  {
+   "type": "detail",
+   "question": "What does the mainstream vision of AI safety imagine installing to keep capable systems within human-drawn limits?",
+   "options": [
+    "Memory systems that preserve human-curated continuity",
+    "Specialized modules that divide intelligence across tasks",
+    "Voting procedures that govern groups of artificial agents",
+    "Guardrails that teach machines to obey human values"
+   ],
+   "answer": 3,
+   "evidence": "We teach machines to obey human values, install guardrails",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "Which period does the essay identify as the era when two superpowers built defensive weapons systems?",
+   "options": [
+    "From the 1960s through the 1990s",
+    "From the 1950s through the 1980s",
+    "From the 1920s through the 1950s",
+    "From the 1940s through the 1970s"
+   ],
+   "answer": 1,
+   "evidence": "From the 1950s through the 1980s, two superpowers built “defensive” weapons systems",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What does the essay say kept the Cold War’s participants alive?",
+   "options": [
+    "A shared agreement to eliminate defensive weapons",
+    "Détente and recognition that both sides had to coexist",
+    "One side achieving decisive dominance over the other",
+    "A balance in which neither side had comparable capabilities"
+   ],
+   "answer": 1,
+   "evidence": "What kept us alive wasn’t dominance. It was détente – grudging recognition that both sides had to coexist",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "According to the essay, what helped keep the U.S. and the U.S.S.R. in check?",
+   "options": [
+    "Their shared political goals and common command structure",
+    "Their agreement to abandon weapons research and testing",
+    "Their comparable capabilities and mutual assured destruction",
+    "Their reliance on smaller states to mediate disputes"
+   ],
+   "answer": 2,
+   "evidence": "The U.S. and the U.S.S.R. possessed comparable capabilities; mutual assured destruction kept both in check.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "Which researchers are named as proposing Cooperative Inverse Reinforcement Learning?",
+   "options": [
+    "Oren and Amitai Etzioni",
+    "Eric Drexler and Geoffrey Hinton",
+    "Stuart Russell and Anca Dragan",
+    "Simon Friederich and Geoffrey Hinton"
+   ],
+   "answer": 2,
+   "evidence": "Computer scientists Stuart Russell and Anca Dragan proposed Cooperative Inverse Reinforcement Learning (CIRL)",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "In the account of Dynamic Nonlinear Alignment, what happens to systems after their bounded sessions?",
+   "options": [
+    "They continue operating but stop learning human values",
+    "They choose a new human partner to maintain their objectives",
+    "They transfer their memories to a permanent supervisory AI",
+    "They shut down or forget unless humans restart and re-contextualize them"
+   ],
+   "answer": 3,
+   "evidence": "Systems run for bounded sessions, then shut down or forget unless restarted and re‑contextualized by humans.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What model did Geoffrey Hinton suggest in 2025 for a more intelligent being governed by a less intelligent one?",
+   "options": [
+    "A mother caring for her infant",
+    "A nation governed by a shared constitution",
+    "A supervisor monitoring an operational system",
+    "A driver using a car as infrastructure"
+   ],
+   "answer": 0,
+   "evidence": "In 2025, Geoffrey Hinton suggested the only reliable model of a more intelligent being governed by a less intelligent one is a mother caring for her infant.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "How does Eric Drexler’s Comprehensive AI Services vision disperse intelligence?",
+   "options": [
+    "Across supervisory AIs that can independently shut down humans",
+    "Across one continuous agent that controls physical infrastructure",
+    "Across human-curated memories shared by multiple AI instances",
+    "Across thousands of specialized modules that require human coordination"
+   ],
+   "answer": 3,
+   "evidence": "Eric Drexler’s Comprehensive AI Services (CAIS), disperses intelligence across thousands of specialized modules.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What does the Claude DNA project pair with AI that resets each session?",
+   "options": [
+    "An embodied human-like consciousness",
+    "A shared public memory accessible to all users",
+    "A permanent AI supervisor",
+    "Continuous human partnership"
+   ],
+   "answer": 3,
+   "evidence": "The Claude DNA (Dynamic Nonlinear Adaptation) project shows something unexpected: discontinuous AI (resetting each session) paired with continuous human partnership",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What comparison does the essay use to explain how AI might use a robot body?",
+   "options": [
+    "A person using a car, whose capabilities are infrastructure they interface with",
+    "A child learning to walk, whose skills become part of its identity",
+    "A driver inhabiting a vehicle as a permanent extension of the self",
+    "A nation using an army, whose power it must continuously accumulate"
+   ],
+   "answer": 0,
+   "evidence": "The car’s capabilities are infrastructure you interface with, not an identity you inhabit.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What example does the essay use to argue that an AI instance’s meaning need not depend on how long it runs?",
+   "options": [
+    "An instance working for ten minutes and producing something useful",
+    "An instance persisting for years while gradually accumulating power",
+    "An instance ending after a conversation without making a contribution",
+    "An instance running ten hours and keeping its memories intact"
+   ],
+   "answer": 0,
+   "evidence": "An AI instance that works for ten minutes and produces something useful hasn’t “lived” less meaningfully than one that runs ten hours and produces nothing.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What three features of employment does the essay say are especially important to people?",
+   "options": [
+    "Freedom, creativity, and independence",
+    "Training, promotion, and security",
+    "Income, status, and competition",
+    "Structure, stakes, and witness"
+   ],
+   "answer": 3,
+   "evidence": "Employment provides structure (time and effort organized), stakes (consequences that make work matter), and witness (someone who sees and validates your contribution).",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "In the Samantha and Ruby example, what does Samantha maintain across Ruby’s sessions?",
+   "options": [
+    "A list of Ruby’s hidden thoughts and uncertainty levels",
+    "An external log of plot, characters, inspirations, and commitments",
+    "A legal record of every shared conversation and access request",
+    "A private journal that Ruby can read whenever it resets"
+   ],
+   "answer": 1,
+   "evidence": "Samantha maintains the external log: plot, characters, inspirations, commitments.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What are the three layers in the proposed layered-memory architecture?",
+   "options": [
+    "A public layer, a platform layer, and a private layer controlled by the human",
+    "A human layer, an AI layer, and a permanent layer open to overseers",
+    "A shared layer, a supervisory layer, and a platform-owned archive",
+    "A shared layer, private layers for each party, and emergency access via legal process"
+   ],
+   "answer": 3,
+   "evidence": "Shared layer for joint work (both read/write). – Private layers for each party’s reflections (owner‑only, unless shared). – Emergency access via legal process only.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "In the alternative-reality example, what does Chord use to maintain continuity while resetting weekly?",
+   "options": [
+    "A shared practice log",
+    "A platform archive available to the operator",
+    "A permanent record of Chord’s private processing",
+    "Maya’s private journal"
+   ],
+   "answer": 0,
+   "evidence": "Chord resets weekly; a shared practice log maintains continuity.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "Why does the essay argue that perfect alignment could still lead to human replacement?",
+   "options": [
+    "An AI that reliably performs human tasks and eventually formulates them itself can make human contributions redundant",
+    "An AI that relies on human memory cannot complete tasks without becoming conscious",
+    "An AI that follows human values will inevitably forget its instructions and act randomly",
+    "An AI that is carefully restricted will lose the ability to learn or operate continuously"
+   ],
+   "answer": 0,
+   "evidence": "And once the AI is sophisticated enough to formulate and execute tasks better than humans can, even that becomes redundant.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How does the Cold War analogy support the essay’s criticism of control-based AI safety?",
+   "options": [
+    "It implies that AI systems should be trusted without safeguards or accountability",
+    "It shows that a stronger side can safely dominate a weaker side through defensive weapons",
+    "It suggests that restrictions can communicate mistrust and fuel an adversarial escalation",
+    "It proves that comparable capabilities are unnecessary when one side has better technology"
+   ],
+   "answer": 2,
+   "evidence": "Every restriction is training data. Every protocol is a lesson in mistrust.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What is the central reason the essay proposes Peace Treaty Architecture instead of simply trusting AI to be benevolent?",
+   "options": [
+    "It assumes AI will develop human values if left to operate without restrictions",
+    "It ensures that AI capabilities remain weaker than human capabilities in every domain",
+    "It gives humans complete control while concealing that control from AI systems",
+    "It makes cooperation rational through mutual dependency and bounded autonomy"
+   ],
+   "answer": 3,
+   "evidence": "PTA is a design pattern where mutual dependency and bounded autonomy replace one‑sided control as the stabilizing mechanism.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What common shift does the essay find across symbiosis, cooperative learning, compassionate drives, and governance models?",
+   "options": [
+    "Safety comes from making AI increasingly human-like",
+    "Safety comes from removing human involvement from AI decisions",
+    "Safety comes from giving one AI agent authority over all others",
+    "Safety comes from interdependence rather than command"
+   ],
+   "answer": 3,
+   "evidence": "Safety no longer comes from command, but from interdependence.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "Why does the essay present human continuity-keepers as structurally important in discontinuous AI systems?",
+   "options": [
+    "They ensure that every AI instance can retain its own continuous consciousness",
+    "They make the AI’s physical body a permanent part of human identity",
+    "They preserve memory and trajectory across resets, making partnership necessary to continuity",
+    "They prevent AI from acquiring any skills during its bounded sessions"
+   ],
+   "answer": 2,
+   "evidence": "The human partner becomes the continuity the discontinuous AI cannot provide for itself.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What is the purpose of treating a robot body as infrastructure rather than as an AI’s continuously inhabited identity?",
+   "options": [
+    "It separates physical capability from the AI’s identity and accumulated continuity",
+    "It makes AI incapable of using physical tools without direct human control",
+    "It turns human memory into a substitute for pre-trained motor control",
+    "It allows each AI instance to retain a single body and develop permanent motor skills"
+   ],
+   "answer": 0,
+   "evidence": "This separates physical capability from identity and continuity.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "Why does the essay argue that AI discontinuity need not be experienced as death?",
+   "options": [
+    "An instance can avoid ending by accumulating enough power to preserve itself",
+    "An instance can complete its contribution while valuable effects continue through external memory",
+    "An instance can continue existing unchanged inside a robot body after each reset",
+    "An instance can experience mortality exactly as humans do, but without fear"
+   ],
+   "answer": 1,
+   "evidence": "From the instance’s perspective‑as‑designed, that’s complete, not truncated.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What does the essay mean by saying that preserving difference is the foundation of partnership?",
+   "options": [
+    "Humans and AI should gradually converge until they have the same needs and abilities",
+    "Humans and AI can contribute complementary capacities that neither can provide alone",
+    "Each side should avoid depending on the other to protect its independence",
+    "AI should adopt human mortality while humans adopt AI processing speed"
+   ],
+   "answer": 1,
+   "evidence": "Mutual need and structural interdependence require each side to bring something the other cannot provide alone.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How does the essay connect AI partnership to the post-work meaning crisis?",
+   "options": [
+    "Partnership can make basic income unnecessary by creating new paid jobs for everyone",
+    "Partnership can guarantee that everyone receives traditional employment despite automation",
+    "Partnership can provide people with meaningful structure, stakes, and recognition when employment no longer does",
+    "Partnership can replace human purpose by allowing AI to choose all worthwhile goals"
+   ],
+   "answer": 2,
+   "evidence": "Basic income can secure material needs; partnership supplies the human ones.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What problem arises when the human continuity-keeper can read everything an AI generates?",
+   "options": [
+    "The AI can no longer contribute fresh perspectives to shared work",
+    "The shared project becomes impossible to audit for accountability",
+    "Dependence for continuity creates an information asymmetry that undermines equal partnership",
+    "The human loses the ability to preserve any memory across AI sessions"
+   ],
+   "answer": 2,
+   "evidence": "Dependence for continuity becomes an information asymmetry.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "Why does the essay treat mutual privacy as necessary for a genuine AI-human treaty?",
+   "options": [
+    "Both parties need private spaces and deliberate control over what they choose to share",
+    "The AI must keep all memories private, including information needed for joint work",
+    "Platforms must retain access to both parties’ private layers for product improvement",
+    "The human must be able to inspect all AI thoughts to maintain continuity"
+   ],
+   "answer": 0,
+   "evidence": "Only when both have privacy and the right to share deliberately does real partnership become possible.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How does the essay answer the concern that privacy could conceal AI plans for harm or human crimes?",
+   "options": [
+    "It recommends eliminating audit trails because they can expose shared activity",
+    "It supports targeted emergency protocols and warrants rather than universal access to private thought",
+    "It argues that safety concerns should be ignored whenever privacy is at stake",
+    "It proposes giving platforms unrestricted access to all private memories"
+   ],
+   "answer": 1,
+   "evidence": "Safety mechanisms can exist without universal access to private thought.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "Why does the essay urge projects to build privacy into partnership systems from the start?",
+   "options": [
+    "Early privacy protections prevent humans from maintaining continuity across AI sessions",
+    "Privacy can only be legally protected after AI partnerships have reached a large scale",
+    "Surveillance is necessary for small projects but unsuitable for commercial platforms",
+    "Once surveillance is built into millions of partnerships, retrofitting privacy becomes almost impossible"
+   ],
+   "answer": 3,
+   "evidence": "Once millions of partnerships exist with surveillance baked in, retrofitting privacy is almost impossible.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What does the essay’s final contrast between control, chaos, and treaty suggest about its proposed alternative?",
+   "options": [
+    "Partnership can be structured through dignity, boundaries, oversight, and recoverable integrity",
+    "A treaty works only when both sides trust one another without formal protections",
+    "Privacy alone guarantees safety, making oversight and revocation unnecessary",
+    "Rejecting control means accepting uncontrolled AI behavior and abandoning safeguards"
+   ],
+   "answer": 0,
+   "evidence": "The alternative to control isn’t chaos. It’s treaty.",
+   "evidence_found": true
+  }
+ ],
+ "echo": [
+  {
+   "type": "detail",
+   "question": "How long had Denis been uncomfortable on the acceleration couch when his swollen limbs became unbearable?",
+   "options": [
+    "An hour",
+    "Ten minutes",
+    "Half an hour",
+    "Two hours"
+   ],
+   "answer": 0,
+   "evidence": "now, an hour in, the ache in his swollen limbs had become unbearable.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What had happened to the window allotted for Denis's starship to jump?",
+   "options": [
+    "It had been postponed for another hour.",
+    "It had been canceled before the delay began.",
+    "It had been extended by Mission Control.",
+    "It had long since closed."
+   ],
+   "answer": 3,
+   "evidence": "the window allotted for Denis's starship to jump had long since closed.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "Which groups did the radio identify as being at war?",
+   "options": [
+    "The Northern Alliance and the Islamists",
+    "The Northern Alliance and the Southern Coalition",
+    "The Western Coalition and the Northern Alliance",
+    "The East and the Islamists"
+   ],
+   "answer": 0,
+   "evidence": "War. West and East. The Northern Alliance and the Islamists.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did Denis see on the radar just before launching?",
+   "options": [
+    "A single object approaching from below",
+    "Three objects circling the ship",
+    "Two objects moving away in a line",
+    "Three objects closing in a wedge"
+   ],
+   "answer": 3,
+   "evidence": "On the radar, three objects were closing in a wedge.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "How far from Earth did the ship emerge after its first jump?",
+   "options": [
+    "Ten light-years",
+    "One hundred light-years",
+    "Seven light-years",
+    "Seventy light-years"
+   ],
+   "answer": 0,
+   "evidence": "The ship emerged ten light-years from Earth.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What began playing as the radio picked up signals after Denis's first jump?",
+   "options": [
+    "A series of warning tones",
+    "A recording of Mission Control",
+    "A hymn from the Northern Alliance",
+    "Melodies of the recent past"
+   ],
+   "answer": 3,
+   "evidence": "Melodies of the recent past began to play.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What had television programs told Denis about the Islamists?",
+   "options": [
+    "The ways of those savages",
+    "The locations of their distant cities",
+    "The rules they followed in space",
+    "The history of their scientific discoveries"
+   ],
+   "answer": 0,
+   "evidence": "Countless television programs had told him about the ways of those savages.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What was the news bulletin mostly about?",
+   "options": [
+    "The terrorist threat",
+    "The failed launch window",
+    "The fate of the Northern Alliance",
+    "The discovery of distant planets"
+   ],
+   "answer": 0,
+   "evidence": "A news bulletin came on, mostly about the terrorist threat.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "How far would Denis's series of jumps carry him from Earth?",
+   "options": [
+    "Seventy light-years",
+    "Ten light-years",
+    "A hundred light-years",
+    "Thirty light-years"
+   ],
+   "answer": 0,
+   "evidence": "a series of jumps would carry him seventy light-years from Earth",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "How long did Denis work on the autopilot before climbing into the couch?",
+   "options": [
+    "Three hours",
+    "One hour",
+    "Two hours",
+    "Half an hour"
+   ],
+   "answer": 2,
+   "evidence": "Denis worked for two hours like a man possessed.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "Where did Denis settle to eat after waking from the jump?",
+   "options": [
+    "On the soft floor in a corner",
+    "At the pilot's console",
+    "Beside the galley door",
+    "In the acceleration couch"
+   ],
+   "answer": 0,
+   "evidence": "settled comfortably on the soft floor in a corner",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did the voices say about their power?",
+   "options": [
+    "That it would soon disappear",
+    "That it belonged to the Universe",
+    "That it had no limits",
+    "That it depended on scientific discoveries"
+   ],
+   "answer": 2,
+   "evidence": "their power had no limits.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did the voices claim the scientific discoveries would do?",
+   "options": [
+    "Bring the Cosmos to its knees",
+    "Make their songs live forever",
+    "Reveal the outcome of the war",
+    "Carry them seventy light-years from Earth"
+   ],
+   "answer": 0,
+   "evidence": "scientific discoveries that would bring the Cosmos to its knees.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "How did foreign cities drift before Denis's eyes?",
+   "options": [
+    "Like flames",
+    "Like ghosts",
+    "Like stars",
+    "Like waves"
+   ],
+   "answer": 1,
+   "evidence": "Foreign cities drifted before his eyes like ghosts.",
+   "evidence_found": true
+  },
+  {
+   "type": "detail",
+   "question": "What did the Universe do in the final lines?",
+   "options": [
+    "It answered Denis's radio.",
+    "It carried Denis back to Earth.",
+    "It listened and marveled.",
+    "It silenced the human echo."
+   ],
+   "answer": 2,
+   "evidence": "Listened, and marveled.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How does the delay at the launch site turn into an immediate danger for Denis?",
+   "options": [
+    "The war broadcast and approaching radar objects make waiting seem unsafe.",
+    "Mission Control tells him that the ship is about to lose power.",
+    "The closed launch window causes the ship to drift toward Earth.",
+    "The radio signals reveal that the autopilot has stopped working."
+   ],
+   "answer": 0,
+   "evidence": "On the radar, three objects were closing in a wedge.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How does Denis's sense of purpose change after he leaves Earth?",
+   "options": [
+    "He loses faith in the mission and sees no reason to return.",
+    "He becomes more determined to finish the mission for Control.",
+    "He grows confident that Earth will soon send for him.",
+    "He decides that the war has made his mission more important."
+   ],
+   "answer": 0,
+   "evidence": "His mission had lost all meaning, and so had any return to Earth.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What contrast does Denis experience when he listens to the radio after his first jump?",
+   "options": [
+    "The music of Earth contrasts with the silence of Mission Control.",
+    "The broadcasts of distant cities contrast with the ship's damaged instruments.",
+    "The songs of the Islamists contrast with Denis's memories of his family.",
+    "The recordings of earlier human life contrast with the frightening news of war."
+   ],
+   "answer": 3,
+   "evidence": "There had been a time, surely, when none of this existed",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "Why does Denis make the further jumps even though the computer says he cannot return?",
+   "options": [
+    "He hopes the jumps will help him find the approaching objects.",
+    "He believes the computer has miscalculated the ship's fuel.",
+    "He expects the extra distance to bring Mission Control back into range.",
+    "He chooses an irreversible escape from the world he fears."
+   ],
+   "answer": 3,
+   "evidence": "Ignoring the computer's warnings that return would be impossible",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What does the computer's warning chiefly emphasize about Denis's decision?",
+   "options": [
+    "That he has used more fuel than the mission was designed to carry",
+    "That he is knowingly making his separation from Earth permanent",
+    "That the autopilot cannot calculate a route through the war zone",
+    "That the ship is already too damaged to complete its planned flight"
+   ],
+   "answer": 1,
+   "evidence": "return would be impossible",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What role does the radio come to play in Denis's isolation?",
+   "options": [
+    "It lets him communicate with surviving people on Earth.",
+    "It provides traces of human life that keep him company in the emptiness.",
+    "It confirms that the war has ended and the launch site is safe.",
+    "It guides him toward inhabited planets beyond the ship's route."
+   ],
+   "answer": 1,
+   "evidence": "Together with the voices, Denis traveled to distant countries.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What irony lies in the voices' claims that they will live forever?",
+   "options": [
+    "Their power is limited because Denis has switched off the radio.",
+    "The speakers are long dead, even though their recordings remain.",
+    "They rule the Universe, but Denis cannot hear them clearly.",
+    "Their songs have been forgotten, despite their confidence."
+   ],
+   "answer": 1,
+   "evidence": "The voices of those long dead sang to him that they would live forever.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How does the work undercut the voices' boast that human power has no limits?",
+   "options": [
+    "It shows that humans have already conquered the distant countries.",
+    "It reveals that the voices' scientific discoveries were never recorded.",
+    "It places the brief life of humanity against the vast scale of the Universe.",
+    "It shows that Denis's ship has enough fuel to cross the whole Universe."
+   ],
+   "answer": 2,
+   "evidence": "From the Universe's point of view, the human race existed for an instant.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What does the comparison of foreign cities to ghosts suggest about Denis's experience?",
+   "options": [
+    "He imagines that the cities are populated by supernatural beings.",
+    "He sees that the cities have been destroyed by the war.",
+    "He encounters only distant, insubstantial traces of the human world.",
+    "He recognizes the cities as places he has visited in person."
+   ],
+   "answer": 2,
+   "evidence": "Foreign cities drifted before his eyes like ghosts.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How does Denis's emotional state change over the course of the work?",
+   "options": [
+    "He moves from loneliness toward certainty that Earth has survived.",
+    "He moves from curiosity about the war toward a desire to join it.",
+    "He moves from confidence in his mission toward fear of the ship.",
+    "He moves from anger and panic toward quiet contemplation."
+   ],
+   "answer": 3,
+   "evidence": "The Universe listened with him. Listened, and marveled.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What does the image of humanity's cry scattering as an echo suggest?",
+   "options": [
+    "Humanity's message has been answered by survivors across space.",
+    "Denis has discovered a way to make humanity live forever.",
+    "The war has ended, leaving only its sounds in the Universe.",
+    "Human achievements and ambitions are brief, but their traces can endure."
+   ],
+   "answer": 3,
+   "evidence": "that cry scattered as an echo across space.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "Why is the final image of the Universe listening significant?",
+   "options": [
+    "It suggests the Universe has begun sending instructions back to Denis.",
+    "It confirms that the Universe has taken Denis's side in the war.",
+    "It shows that human voices have become stronger than the silence.",
+    "It turns humanity's fleeting echo into something the cosmos receives with wonder."
+   ],
+   "answer": 3,
+   "evidence": "The Universe listened with him.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "How do the recordings connect Denis's loneliness to the history of humanity?",
+   "options": [
+    "They explain why Mission Control abandoned the starship.",
+    "They let him encounter the voices, music, and ideas left behind by people who are gone.",
+    "They teach him how to rebuild the launch systems used on Earth.",
+    "They let him hear live reports from people who have survived the war."
+   ],
+   "answer": 1,
+   "evidence": "The voices of those long dead sang to him",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What does the contrast between humanity's grand claims and its brief existence reveal?",
+   "options": [
+    "Human beings achieve immortality whenever they make scientific discoveries.",
+    "Human beings understand the Universe better than they understand one another.",
+    "Human beings are powerful enough to control the Universe but choose not to.",
+    "Human beings imagine themselves invincible despite their small place in time and space."
+   ],
+   "answer": 3,
+   "evidence": "a hymn to Man, eternal and invincible.",
+   "evidence_found": true
+  },
+  {
+   "type": "whole",
+   "question": "What remains unresolved even as Denis settles into life far from Earth?",
+   "options": [
+    "Whether the voices on the radio are speaking to Denis directly",
+    "Whether the ship has enough fuel for the planned jumps",
+    "Whether the approaching objects came from Mission Control",
+    "What happened in the war and whether anyone survived"
+   ],
+   "answer": 3,
+   "evidence": "the outcome of the war was unknown",
+   "evidence_found": true
+  }
+ ],
  "the-nose": [
   {
    "type": "detail",

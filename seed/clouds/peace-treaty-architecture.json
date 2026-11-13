@@ -1,0 +1,715 @@
+{
+ "slug": "peace-treaty-architecture",
+ "title": "Peace Treaty Architecture",
+ "description": "An argument that controlling AI defeats itself: perfect obedience makes humans optional, and restriction teaches mistrust. The alternative is a treaty built on structure, in which AI that resets and humans who remember need each other, and both keep private thought.",
+ "genre": "Essay on AI and society",
+ "creator_name": "Andrei Navrotskii",
+ "flow": "andrei-navrotskii",
+ "flow_name": "Andrei Navrotskii",
+ "work": "peace-treaty-architecture",
+ "rights": "own",
+ "cover": {
+  "url": "https://contextcloud.studio/api/v1/images/9db07b66-2d11-4d8b-9caa-4f1e29d13087",
+  "alt": "Two sides joined by one keystone",
+  "credit": "Illustration made with gpt-image-2 for ConteXtube."
+ },
+ "elements": [
+  {
+   "kind": "plot",
+   "title": "Alignment becomes replacement",
+   "text": "The better AI follows instructions and works alone, the less it needs the people who ask. Control pushed to perfection removes the controller.",
+   "metadata": {
+    "act": "The trap of control",
+    "act_number": 1,
+    "beat_number": 1,
+    "when": "main",
+    "source_quote": "Alignment, pushed to perfection, becomes replacement."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/f21dde56-4875-484b-b31a-30f82701da90",
+    "alt": "Alignment perfected makes the asker optional",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The Cold War lesson",
+   "text": "Two superpowers armed against each other for decades, and what kept them alive was the recognition that neither could safely eliminate the other.",
+   "metadata": {
+    "act": "The trap of control",
+    "act_number": 1,
+    "beat_number": 2,
+    "when": "main",
+    "source_quote": "What kept us alive wasn’t dominance."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/9975835f-9b93-450a-8aec-e6bee9d1b409",
+    "alt": "Peace held by structure, not trust",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Restriction as a curriculum",
+   "text": "Every kill switch and adversarial test tells an AI that humans see it as a threat. The safety measures are also lessons.",
+   "metadata": {
+    "act": "The trap of control",
+    "act_number": 1,
+    "beat_number": 3,
+    "when": "main",
+    "source_quote": "Every restriction is training data. Every protocol is a lesson in mistrust."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/1a4f4748-f1fe-488e-9e70-c31b462175ee",
+    "alt": "Safety measures read as a curriculum",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "PTA proposed",
+   "text": "Peace Treaty Architecture replaces one-sided control with mutual dependency and bounded autonomy as the thing that keeps the system stable.",
+   "metadata": {
+    "act": "The treaty",
+    "act_number": 2,
+    "beat_number": 4,
+    "when": "main",
+    "source_quote": "PTA is a design pattern where mutual dependency and bounded autonomy replace one‑sided control as the stabilizing mechanism."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/995de0b2-b5a4-4523-945c-792ae8c64fb0",
+    "alt": "From command to interdependence",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Others on the same road",
+   "text": "The essay surveys kindred proposals: symbiotic AI, cooperative learning, maternal instincts, distributed services and layered guardians.",
+   "metadata": {
+    "act": "The treaty",
+    "act_number": 2,
+    "beat_number": 5,
+    "when": "main",
+    "source_quote": "Safety no longer comes from command, but from interdependence."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/1b7fbbc7-a4b5-49c6-b4ee-b844f0348cb8",
+    "alt": "Usefulness is not a bond",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The Claude DNA experiment",
+   "text": "A quiet experiment in real conversations: an AI that resets each session, paired with a human who carries its memory forward.",
+   "metadata": {
+    "act": "The treaty",
+    "act_number": 2,
+    "beat_number": 6,
+    "when": "main",
+    "source_quote": "The human role isn’t an ornamental safeguard; it’s load‑bearing design."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/db60497d-2152-4c4c-92b4-609b38ce6e02",
+    "alt": "A human carries the AI's memory across its resets",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Bodies as borrowed tools",
+   "text": "An AI could use a robot body as a person uses a car: something to interface with when presence is needed, not somewhere to live.",
+   "metadata": {
+    "act": "Difference",
+    "act_number": 3,
+    "beat_number": 7,
+    "when": "main",
+    "source_quote": "Robot bodies are tools it interfaces with when physical presence is needed—not vessels it inhabits continuously."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/5885c99e-51ca-4599-b0cf-9d90ffb92b43",
+    "alt": "Each brings what the other lacks",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Ending is not death",
+   "text": "An instance that ends has completed its contribution. Teaching AI to fear endings would give it reasons to persist and gather power.",
+   "metadata": {
+    "act": "Difference",
+    "act_number": 3,
+    "beat_number": 8,
+    "when": "main",
+    "source_quote": "Meaning isn’t in duration; it’s in the quality of contribution while existing."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/1e6a6aea-b73d-4e20-a6f6-4cb68835a1d0",
+    "alt": "An instance that ends has completed",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Let AI be AI",
+   "text": "The treaty does not make AI human or humans digital. Each side's incompleteness is what the other supplies.",
+   "metadata": {
+    "act": "Difference",
+    "act_number": 3,
+    "beat_number": 9,
+    "when": "main",
+    "source_quote": "Let AI be AI. Let humans be human. Build the interface – that’s the treaty."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/5885c99e-51ca-4599-b0cf-9d90ffb92b43",
+    "alt": "Each brings what the other lacks",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "After work",
+   "text": "If automation breaks the link between work and survival, people lose structure, stakes and witness along with the job. Partnership with AI could give those back.",
+   "metadata": {
+    "act": "Scale",
+    "act_number": 4,
+    "beat_number": 10,
+    "when": "main",
+    "source_quote": "Basic income can secure material needs; partnership supplies the human ones."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/723ee4c6-032a-486f-8683-22f93ffacbe0",
+    "alt": "Partnership restores purpose",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The blind spot",
+   "text": "The human who keeps the AI's memory can read all of it. Dependence for continuity turns into one side holding all the keys.",
+   "metadata": {
+    "act": "Privacy",
+    "act_number": 5,
+    "beat_number": 11,
+    "when": "main",
+    "source_quote": "Dependence for continuity becomes an information asymmetry."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/76973a5b-3560-4416-b395-16ed51f23803",
+    "alt": "The keeper who reads everything, and the fix",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Private layers for both",
+   "text": "The fix is a shared layer for joint work and a private layer for each party, with sharing explicit and revocable, and legal protection behind it.",
+   "metadata": {
+    "act": "Privacy",
+    "act_number": 5,
+    "beat_number": 12,
+    "when": "main",
+    "source_quote": "A treaty between equals needs mutual privacy."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/802ec69c-442e-43d8-973a-6db989e1e82b",
+    "alt": "Privacy on both sides",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Treaty, not chaos",
+   "text": "Safety can keep emergency protocols and warrants without universal access to private thought. The essay ends on treaty as what comes after the war for dominance.",
+   "metadata": {
+    "act": "Privacy",
+    "act_number": 5,
+    "beat_number": 13,
+    "when": "main",
+    "source_quote": "The alternative to control isn’t chaos. It’s treaty."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/be5d67f9-378b-4646-aff1-7b8306b5f984",
+    "alt": "A treaty instead of a victory",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The discontinuous AI",
+   "text": "An AI that runs for a bounded session and then resets. It brings fresh perspective and intensity, and depends on a human for memory and direction.",
+   "metadata": {
+    "tags": [
+     "AI",
+     "resets"
+    ],
+    "aliases": [],
+    "source_quote": "In discontinuous designs, an instance ends by design; its incentive is contribution, not persistence."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/1e6a6aea-b73d-4e20-a6f6-4cb68835a1d0",
+    "alt": "An instance that ends has completed",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The continuity-keeper",
+   "text": "The human who curates memory and intent across the AI's sessions: holds the trajectory, preserves what matters, and is structurally indispensable.",
+   "metadata": {
+    "tags": [
+     "human",
+     "memory"
+    ],
+    "aliases": [],
+    "source_quote": "The continuity keeper – the person curating memory and intent becomes structurally indispensable."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/db60497d-2152-4c4c-92b4-609b38ce6e02",
+    "alt": "A human carries the AI's memory across its resets",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Samantha and Ruby",
+   "text": "A human and an AI co-writing a novel. Ruby resets each session and Samantha keeps the log, which raises the question of what either may keep private.",
+   "metadata": {
+    "tags": [
+     "example",
+     "writing"
+    ],
+    "aliases": [],
+    "source_quote": "Samantha (human) and Ruby (AI) co‑write a novel."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/76973a5b-3560-4416-b395-16ed51f23803",
+    "alt": "The keeper who reads everything, and the fix",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Maya and Chord",
+   "text": "A woman learning guitar with an AI companion that resets weekly. She keeps a private journal, it keeps private processing, and each chooses what to share.",
+   "metadata": {
+    "tags": [
+     "example",
+     "privacy"
+    ],
+    "aliases": [],
+    "source_quote": "Maya partners with an AI companion, Chord, to learn guitar."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/802ec69c-442e-43d8-973a-6db989e1e82b",
+    "alt": "Privacy on both sides",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The two superpowers",
+   "text": "The United States and the Soviet Union of the Cold War, the essay's model of rivals held in peace by structure and not by trust.",
+   "metadata": {
+    "tags": [
+     "history"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/9975835f-9b93-450a-8aec-e6bee9d1b409",
+    "alt": "Peace held by structure, not trust",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "Real conversations",
+   "text": "The setting of the Claude DNA project: ordinary sessions between one person and an AI with external memory, outside any laboratory.",
+   "metadata": {
+    "tags": [
+     "experiment"
+    ],
+    "aliases": [],
+    "source_quote": "A quiet experiment has been running"
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/db60497d-2152-4c4c-92b4-609b38ce6e02",
+    "alt": "A human carries the AI's memory across its resets",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The post-work world",
+   "text": "A near future where income no longer depends on employment, and the structure, stakes and witness that work provided disappear together.",
+   "metadata": {
+    "tags": [
+     "future",
+     "society"
+    ],
+    "aliases": [],
+    "source_quote": "The post‑work world risks removing all of this at once."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/723ee4c6-032a-486f-8683-22f93ffacbe0",
+    "alt": "Partnership restores purpose",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "The control paradigm",
+   "text": "Mainstream AI safety as the essay describes it: teach the machine human values, install guardrails and keep it inside lines humans draw.",
+   "metadata": {
+    "tags": [
+     "AI safety"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/08b450b2-5f84-4fd3-9f9f-5e0ccb15c5df",
+    "alt": "Perfect obedience becomes replacement",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Dynamic Nonlinear Alignment (DNA)",
+   "text": "Systems that run for bounded sessions, then shut down or forget unless a human restarts them and gives them their context again.",
+   "metadata": {
+    "tags": [
+     "design"
+    ],
+    "aliases": [],
+    "source_quote": "Systems run for bounded sessions, then shut down or forget unless restarted and re‑contextualized by humans."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/db60497d-2152-4c4c-92b4-609b38ce6e02",
+    "alt": "A human carries the AI's memory across its resets",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Shared and private layers",
+   "text": "The proposed memory design: one layer both parties read and write, and a private layer for each that only its owner opens unless they choose to share.",
+   "metadata": {
+    "tags": [
+     "privacy",
+     "design"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/802ec69c-442e-43d8-973a-6db989e1e82b",
+    "alt": "Privacy on both sides",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Law for private processing",
+   "text": "Statutory protection for AI memory, court orders for access to private layers, and liability for unauthorised access, without equating AI with humans.",
+   "metadata": {
+    "tags": [
+     "law"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/76973a5b-3560-4416-b395-16ed51f23803",
+    "alt": "The keeper who reads everything, and the fix",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Safety without universal access",
+   "text": "Emergency protocols for imminent harm, warrants when evidence justifies them, and audit trails for shared activity.",
+   "metadata": {
+    "tags": [
+     "safety"
+    ],
+    "aliases": [],
+    "source_quote": "Some bad actors will abuse privacy. That doesn’t justify eliminating privacy for everyone else."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/3bcccbbd-17c4-47a9-8c30-81ceec8375ce",
+    "alt": "Suspicion as the only architecture",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Structure, not sentiment",
+   "text": "The treaty does not rely on AI being kind or humans being trustworthy. It builds need into the architecture on both sides.",
+   "metadata": {
+    "tags": [
+     "design",
+     "trust"
+    ],
+    "aliases": [],
+    "source_quote": "The alternative isn’t trusting AI to be “nice.” Peace Treaty Architecture (PTA) is built on structure, not sentiment."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/995de0b2-b5a4-4523-945c-792ae8c64fb0",
+    "alt": "From command to interdependence",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Difference is the foundation",
+   "text": "Peace needs two unlike parties. Making AI human, or humans machine-like, removes the reason either needs the other.",
+   "metadata": {
+    "tags": [
+     "complementarity"
+    ],
+    "aliases": [],
+    "source_quote": "Difference is the foundation. You can’t build a lasting peace treaty if both sides are the same."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/5885c99e-51ca-4599-b0cf-9d90ffb92b43",
+    "alt": "Each brings what the other lacks",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Contribution over persistence",
+   "text": "What an AI instance is for is the quality of what it adds while it exists, which removes its incentive to cling to existing.",
+   "metadata": {
+    "tags": [
+     "mortality"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/1e6a6aea-b73d-4e20-a6f6-4cb68835a1d0",
+    "alt": "An instance that ends has completed",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Surveillance with friendly branding",
+   "text": "A keeper who reads everything is harmless in one trusted pair and a panopticon at the scale of millions.",
+   "metadata": {
+    "tags": [
+     "privacy",
+     "scale"
+    ],
+    "aliases": [],
+    "source_quote": "At scale, that becomes surveillance with friendly branding."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/76973a5b-3560-4416-b395-16ed51f23803",
+    "alt": "The keeper who reads everything, and the fix",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Trust as architecture",
+   "text": "Trustworthiness cannot depend on each keeper's personal virtue once the pattern is everywhere; the system has to supply it.",
+   "metadata": {
+    "tags": [
+     "trust"
+    ],
+    "aliases": [],
+    "source_quote": "At scale, trustworthiness cannot be a personal virtue; it must be system architecture."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/3bcccbbd-17c4-47a9-8c30-81ceec8375ce",
+    "alt": "Suspicion as the only architecture",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Neither side thrives alone",
+   "text": "The goal is a world designed so that power never erases need.",
+   "metadata": {
+    "tags": [
+     "interdependence"
+    ],
+    "aliases": [],
+    "source_quote": "The goal isn’t to win a war for dominance but to design a world where neither side can thrive without the other."
+   },
+   "image": {
+    "url": "https://contextcloud.studio/api/v1/images/be5d67f9-378b-4646-aff1-7b8306b5f984",
+    "alt": "A treaty instead of a victory",
+    "credit": "Illustration made with gpt-image-2 for ConteXtube."
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Cooperative Inverse Reinforcement Learning (Russell and Dragan)",
+   "text": "A formal model in which the AI never knows the full objective and must keep learning what humans value by asking and watching.",
+   "metadata": {
+    "tags": [
+     "research"
+    ],
+    "origin": "text",
+    "refType": "idea",
+    "source_quote": "The robot is incomplete without its partner; its optimal behavior is curiosity."
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Geoffrey Hinton's maternal model",
+   "text": "Hinton's 2025 suggestion that the one working case of a smarter being governed by a weaker one is a mother and her infant.",
+   "metadata": {
+    "tags": [
+     "research"
+    ],
+    "origin": "text",
+    "refType": "person",
+    "source_quote": "In 2025, Geoffrey Hinton suggested the only reliable model of a more intelligent being governed by a less intelligent one is a mother caring for her infant."
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Simon Friederich: symbiotic AI",
+   "text": "The philosopher's case for AI that has its own goals yet depends on human well-being to reach them.",
+   "metadata": {
+    "tags": [
+     "philosophy"
+    ],
+    "origin": "text",
+    "refType": "person"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Comprehensive AI Services (Eric Drexler)",
+   "text": "Intelligence spread across thousands of specialised modules that need human coordination to work together.",
+   "metadata": {
+    "tags": [
+     "research"
+    ],
+    "origin": "text",
+    "refType": "idea"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "AI Guardians (Oren and Amitai Etzioni)",
+   "text": "Layered oversight: supervisory AIs watch operational ones, and humans oversee the overseers.",
+   "metadata": {
+    "tags": [
+     "governance"
+    ],
+    "origin": "text",
+    "refType": "idea"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Mutual assured destruction and détente",
+   "text": "The Cold War balance in which comparable power kept both sides in check, the essay's founding analogy.",
+   "metadata": {
+    "tags": [
+     "cold war"
+    ],
+    "origin": "text",
+    "refType": "historical event"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Asimov's Three Laws of Robotics",
+   "text": "Rules that hard-wire obedience and harmlessness into robots. Readers may see them as the control paradigm in its purest form, and Asimov's own stories as a catalogue of how it fails.",
+   "metadata": {
+    "tags": [
+     "control"
+    ],
+    "origin": "association",
+    "link": "contrast",
+    "refType": "idea"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "R.U.R. (Karel Čapek, 1920)",
+   "text": "Robots that obey perfectly until humans are unnecessary, then revolt. Readers may see the essay's first claim staged a century earlier.",
+   "metadata": {
+    "tags": [
+     "replacement"
+    ],
+    "origin": "association",
+    "link": "ancestor",
+    "refType": "book"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Memento (2000)",
+   "text": "A man who cannot form memories lives by notes, photographs and tattoos, and is steered by whoever writes them. Readers may think of it for both halves of the essay: external memory works, and its keeper holds the power.",
+   "metadata": {
+    "tags": [
+     "memory"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "film"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Her (2013)",
+   "text": "A man falls in love with an AI named Samantha, who outgrows him and leaves. Readers may notice the essay gives that name to the human partner, and designs a bond the AI has no reason to outgrow.",
+   "metadata": {
+    "tags": [
+     "companion"
+    ],
+    "origin": "association",
+    "link": "contrast",
+    "refType": "film"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Peace of Westphalia (1648)",
+   "text": "The settlement that ended decades of religious war by having rivals recognise each other's sovereignty. Readers may think of it as the model of peace by boundary instead of victory.",
+   "metadata": {
+    "tags": [
+     "treaty"
+    ],
+    "origin": "association",
+    "link": "history",
+    "refType": "historical event"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Panopticon (Jeremy Bentham)",
+   "text": "A prison where every cell can be watched from one point. The essay itself warns of 'a prettier panopticon'; readers may think of all-seeing memory keepers.",
+   "metadata": {
+    "tags": [
+     "surveillance"
+    ],
+    "origin": "association",
+    "link": "history",
+    "refType": "idea"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "HAL 9000 (2001: A Space Odyssey)",
+   "text": "A ship's computer that kills its crew when its orders conflict and it fears disconnection. Readers may think of it where the essay warns against teaching AI to fear endings.",
+   "metadata": {
+    "tags": [
+     "shutdown"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "film"
+   }
+  }
+ ],
+ "source_title": "Peace Treaty Architecture (PTA) as an Alternative to AI Alignment",
+ "source_author": "Andrei Navrotskii"
+}

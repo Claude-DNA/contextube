@@ -18,8 +18,8 @@ TUBE = os.environ.get("BASE_URL", "https://contextube.ai")
 STUDIO = os.environ.get("STUDIO_URL", "https://contextcloud.studio")
 WRITER = os.environ.get("WRITER_MODEL", "gpt-6-luna")
 ANSWERERS = os.environ.get("ANSWER_MODELS", "gpt-6-luna,gpt-5.4-mini").split(",")
-WORKS = ["peculiarities-of-planetary-conquest", "the-nose", "rip-van-winkle", "a-christmas-carol", "the-time-machine"]
-UNSEEN = {"peculiarities-of-planetary-conquest"}  # not in any model's training data
+WORKS = ["peculiarities-of-planetary-conquest", "peace-treaty-architecture", "echo", "the-nose", "rip-van-winkle", "a-christmas-carol", "the-time-machine"]
+UNSEEN = {"peculiarities-of-planetary-conquest", "peace-treaty-architecture", "echo"}  # not in any model's training data
 CONDITIONS = ["none", "layers", "cloud", "raw_same_size", "full_text"]
 N_DETAIL, N_WHOLE = 12, 8
 

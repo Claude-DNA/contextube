@@ -1,0 +1,530 @@
+{
+ "slug": "echo",
+ "title": "Shards: Echo",
+ "description": "A starship pilot waiting to jump hears on the radio that war has broken out on Earth. He jumps ten light-years, then seventy, with no fuel to return, and spends the rest of his life listening to humanity's old broadcasts arrive.",
+ "genre": "Science fiction short story",
+ "creator_name": "Andrei Navrotskii",
+ "flow": "andrei-navrotskii",
+ "flow_name": "Andrei Navrotskii",
+ "work": "echo",
+ "rights": "own",
+ "cover": {
+  "url": "https://contextube.ai/images/echo/cover.webp",
+  "alt": "Earth as a single faint point of light inside a band of scattered sunlight, seen by Voyager 1 from six billion kilometres away",
+  "credit": "Pale Blue Dot Revisited, NASA / JPL, 2020. Public domain.",
+  "source": "https://images.nasa.gov/details/PIA23645"
+ },
+ "elements": [
+  {
+   "kind": "plot",
+   "title": "The silent window",
+   "text": "Denis lies in the acceleration couch an hour past his jump window. Mission Control does not answer, and all he thinks about is the penalty for being late.",
+   "metadata": {
+    "act": "The launch",
+    "act_number": 1,
+    "beat_number": 1,
+    "when": "main",
+    "source_quote": "He was late, and being late meant penalties."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/02.webp",
+    "alt": "A rocket waiting on its launch pad at dawn, under a violet sky",
+    "credit": "Early morning view of Pad B, KSC with ASTP Apollo/Saturn space vehicle on pad, NASA / JSC, 1975. Public domain.",
+    "source": "https://images.nasa.gov/details/S75-28386"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "War on the scanner",
+   "text": "Breaking regulations, he switches on the radio scanner and hears, among thousands of stations, that war has begun between the Northern Alliance and the Islamists.",
+   "metadata": {
+    "act": "The launch",
+    "act_number": 1,
+    "beat_number": 2,
+    "when": "main",
+    "source_quote": "War. West and East. The Northern Alliance and the Islamists."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/09.webp",
+    "alt": "A giant dish antenna of NASA's Deep Space Network under a blue sky",
+    "credit": "Tracks of a Giant, NASA / JPL, 2010. Public domain.",
+    "source": "https://images.nasa.gov/details/PIA13277"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Three objects in a wedge",
+   "text": "An angry voice in a language he does not know threatens him, and three objects close in on the radar. He slams the launch button.",
+   "metadata": {
+    "act": "The launch",
+    "act_number": 1,
+    "beat_number": 3,
+    "when": "main",
+    "source_quote": "There was no time even to panic."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/02.webp",
+    "alt": "A rocket waiting on its launch pad at dawn, under a violet sky",
+    "credit": "Early morning view of Pad B, KSC with ASTP Apollo/Saturn space vehicle on pad, NASA / JSC, 1975. Public domain.",
+    "source": "https://images.nasa.gov/details/S75-28386"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Music from the recent past",
+   "text": "Ten light-years out the radio picks up the melodies of a few years ago. His mission and his return have both lost their meaning.",
+   "metadata": {
+    "act": "Ten light-years",
+    "act_number": 2,
+    "beat_number": 4,
+    "when": "main",
+    "source_quote": "His mission had lost all meaning, and so had any return to Earth."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/04.webp",
+    "alt": "Earth as a pale dot beneath the edge of Saturn's rings, photographed by Cassini",
+    "credit": "Cassini’s Pale Blue Dot, NASA / GSFC, 2017. Public domain.",
+    "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000381"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The radio off",
+   "text": "He wants to scream and smash everything; a bulletin about the terrorist threat comes on and he switches the radio off, thinking there must have been a time before all this.",
+   "metadata": {
+    "act": "Ten light-years",
+    "act_number": 2,
+    "beat_number": 5,
+    "when": "main",
+    "source_quote": "There had been a time, surely, when none of this existed"
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/08.webp",
+    "alt": "The original Pale Blue Dot: Earth as a speck in a streak of light",
+    "credit": "Solar System Portrait - Earth as Pale Blue Dot, NASA / JPL, 1996. Public domain.",
+    "source": "https://images.nasa.gov/details/PIA00452"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The insane thought",
+   "text": "He programs a series of jumps that will take him seventy light-years from Earth, as far as the fuel allows, ignoring the computer's warnings that he cannot come back.",
+   "metadata": {
+    "act": "Seventy light-years",
+    "act_number": 3,
+    "beat_number": 6,
+    "when": "main",
+    "source_quote": "Ignoring the computer's warnings that return would be impossible, Denis worked for two hours like a man possessed."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/05.webp",
+    "alt": "Diagram of Voyager 1 looking back on the planets' orbits from far outside them",
+    "credit": "Voyager 1 Perspective for Family Portrait, NASA / JPL, 2020. Public domain.",
+    "source": "https://images.nasa.gov/details/PIA23681"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "Supper on the floor",
+   "text": "He wakes to the same silence, fetches food from the galley, settles in a corner on the soft floor and turns the radio on.",
+   "metadata": {
+    "act": "Seventy light-years",
+    "act_number": 3,
+    "beat_number": 7,
+    "when": "main",
+    "source_quote": "settled comfortably on the soft floor in a corner, and turned on the radio."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/03.webp",
+    "alt": "A tiny Earth rising over the grey horizon of the Moon",
+    "credit": "Lunar Satellite Snaps Image of Earth, NASA / GSFC, 2017. Public domain.",
+    "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001129"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The hymn to Man",
+   "text": "The voices of the long dead sing that they will live forever and rule the Universe. He travels with them through cities that drift past like ghosts.",
+   "metadata": {
+    "act": "Seventy light-years",
+    "act_number": 3,
+    "beat_number": 8,
+    "when": "main",
+    "source_quote": "The voices of those long dead sang to him that they would live forever."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/06.webp",
+    "alt": "A technician's gloved hands placing a golden phonograph record into its case",
+    "credit": "Voyager: Preparing the Golden Record, NASA / JPL, 2017. Public domain.",
+    "source": "https://images.nasa.gov/details/PIA21741"
+   }
+  },
+  {
+   "kind": "plot",
+   "title": "The Universe listens",
+   "text": "The narrator steps back: humanity lasted an instant, and its cry of amazement is now an echo crossing space. Denis and the Universe listen to it together.",
+   "metadata": {
+    "act": "The echo",
+    "act_number": 4,
+    "beat_number": 9,
+    "when": "main",
+    "source_quote": "Listened, and marveled."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/00.webp",
+    "alt": "Thousands of distant galaxies scattered across the black of the Hubble Deep Field",
+    "credit": "Hubble Deep Field Image Unveils Myriad Galaxies Back to the Beginning of Time, NASA / STScI (Hubble), 1996. Public domain.",
+    "source": "https://images.nasa.gov/details/PIA12110"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Denis",
+   "text": "A starship pilot, at first a clock-watching employee worried about fines, who flees a war, loses his reason to return and chooses to become humanity's last listener.",
+   "metadata": {
+    "tags": [
+     "pilot",
+     "last listener"
+    ],
+    "aliases": [],
+    "source_quote": "Denis had the rest of his life and all the silence of creation to listen to that echo."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/03.webp",
+    "alt": "A tiny Earth rising over the grey horizon of the Moon",
+    "credit": "Lunar Satellite Snaps Image of Earth, NASA / GSFC, 2017. Public domain.",
+    "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001129"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "Mission Control",
+   "text": "The ground station that should have cleared the jump and never answers. Its silence is the first sign that the world below is ending.",
+   "metadata": {
+    "tags": [
+     "absent"
+    ],
+    "aliases": [],
+    "source_quote": "Mission Control was silent."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/09.webp",
+    "alt": "A giant dish antenna of NASA's Deep Space Network under a blue sky",
+    "credit": "Tracks of a Giant, NASA / JPL, 2010. Public domain.",
+    "source": "https://images.nasa.gov/details/PIA13277"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The voices of the dead",
+   "text": "Singers, newsreaders and scientists of earlier decades, heard seventy light-years away, all sure that they and their works will last forever.",
+   "metadata": {
+    "tags": [
+     "broadcasts",
+     "chorus"
+    ],
+    "aliases": [],
+    "source_quote": "They spoke of how they would rule the Universe, of how their power had no limits."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/06.webp",
+    "alt": "A technician's gloved hands placing a golden phonograph record into its case",
+    "credit": "Voyager: Preparing the Golden Record, NASA / JPL, 2017. Public domain.",
+    "source": "https://images.nasa.gov/details/PIA21741"
+   }
+  },
+  {
+   "kind": "characters",
+   "title": "The Universe",
+   "text": "The story's last character: it listens to the human echo alongside Denis, and is amazed.",
+   "metadata": {
+    "tags": [
+     "witness"
+    ],
+    "aliases": [],
+    "source_quote": "The Universe listened with him."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/00.webp",
+    "alt": "Thousands of distant galaxies scattered across the black of the Hubble Deep Field",
+    "credit": "Hubble Deep Field Image Unveils Myriad Galaxies Back to the Beginning of Time, NASA / STScI (Hubble), 1996. Public domain.",
+    "source": "https://images.nasa.gov/details/PIA12110"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "The acceleration couch",
+   "text": "The cocoon where the pilot waits out a jump: cramped, painful after an hour, and the place he climbs into fast so as not to change his mind.",
+   "metadata": {
+    "tags": [
+     "cockpit"
+    ],
+    "aliases": [],
+    "source_quote": "An acceleration couch is not the best place to rest."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/02.webp",
+    "alt": "A rocket waiting on its launch pad at dawn, under a violet sky",
+    "credit": "Early morning view of Pad B, KSC with ASTP Apollo/Saturn space vehicle on pad, NASA / JSC, 1975. Public domain.",
+    "source": "https://images.nasa.gov/details/S75-28386"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "Ten light-years from Earth",
+   "text": "The planned destination. The position matches the flight plan, nobody is there, and the radio brings the music of ten years ago.",
+   "metadata": {
+    "tags": [
+     "deep space"
+    ],
+    "aliases": [],
+    "source_quote": "The ship emerged ten light-years from Earth."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/04.webp",
+    "alt": "Earth as a pale dot beneath the edge of Saturn's rings, photographed by Cassini",
+    "credit": "Cassini’s Pale Blue Dot, NASA / GSFC, 2017. Public domain.",
+    "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000381"
+   }
+  },
+  {
+   "kind": "stage",
+   "title": "Seventy light-years from Earth",
+   "text": "The limit of the fuel. Silence, emptiness, a galley, a soft floor and a radio that now receives a world seventy years younger.",
+   "metadata": {
+    "tags": [
+     "deep space",
+     "no return"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/03.webp",
+    "alt": "A tiny Earth rising over the grey horizon of the Moon",
+    "credit": "Lunar Satellite Snaps Image of Earth, NASA / GSFC, 2017. Public domain.",
+    "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001129"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Jumps outrun light",
+   "text": "A starship jumps faster than light, so a pilot who jumps far enough overtakes Earth's old radio signals and can hear the past arrive.",
+   "metadata": {
+    "tags": [
+     "physics",
+     "radio"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/05.webp",
+    "alt": "Diagram of Voyager 1 looking back on the planets' orbits from far outside them",
+    "credit": "Voyager 1 Perspective for Family Portrait, NASA / JPL, 2020. Public domain.",
+    "source": "https://images.nasa.gov/details/PIA23681"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "Jump windows and penalties",
+   "text": "Jumps are scheduled in allotted windows, with the hemispheres primed and energy burning; a pilot who misses one is fined.",
+   "metadata": {
+    "tags": [
+     "bureaucracy"
+    ],
+    "aliases": [],
+    "source_quote": "the hemispheres primed, energy burning, expensive equipment wearing out"
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/02.webp",
+    "alt": "A rocket waiting on its launch pad at dawn, under a violet sky",
+    "credit": "Early morning view of Pad B, KSC with ASTP Apollo/Saturn space vehicle on pad, NASA / JSC, 1975. Public domain.",
+    "source": "https://images.nasa.gov/details/S75-28386"
+   }
+  },
+  {
+   "kind": "universe",
+   "title": "The war",
+   "text": "West against East, the Northern Alliance against the Islamists: a war whose outcome the pilot never learns.",
+   "metadata": {
+    "tags": [
+     "war"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/08.webp",
+    "alt": "The original Pale Blue Dot: Earth as a speck in a streak of light",
+    "credit": "Solar System Portrait - Earth as Pale Blue Dot, NASA / JPL, 1996. Public domain.",
+    "source": "https://images.nasa.gov/details/PIA00452"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "The echo outlasts the voice",
+   "text": "Humanity's confidence in its own permanence survives only as a signal crossing empty space, heard after the speakers are dead.",
+   "metadata": {
+    "tags": [
+     "time",
+     "legacy"
+    ],
+    "aliases": [],
+    "source_quote": "that cry scattered as an echo across space."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/10.webp",
+    "alt": "A thin crescent of Earth alone in black space",
+    "credit": "Artemis Era Earthrise, NASA / JSC, 2026. Public domain.",
+    "source": "https://images.nasa.gov/details/art002e009280b"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Hymn against silence",
+   "text": "The broadcasts boast of ruling the Universe; the listener knows how it ended. The story lets the boast stand as a cry of amazement instead of mocking it.",
+   "metadata": {
+    "tags": [
+     "hubris",
+     "wonder"
+    ],
+    "aliases": [],
+    "source_quote": "And through all of it rang a hymn to Man, eternal and invincible."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/06.webp",
+    "alt": "A technician's gloved hands placing a golden phonograph record into its case",
+    "credit": "Voyager: Preparing the Golden Record, NASA / JPL, 2017. Public domain.",
+    "source": "https://images.nasa.gov/details/PIA21741"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Escape becomes listening",
+   "text": "Denis flees so as not to be a prisoner and ends as a witness. The trip that looks like desertion is the only act of attention left to give.",
+   "metadata": {
+    "tags": [
+     "witness"
+    ],
+    "aliases": []
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/03.webp",
+    "alt": "A tiny Earth rising over the grey horizon of the Moon",
+    "credit": "Lunar Satellite Snaps Image of Earth, NASA / GSFC, 2017. Public domain.",
+    "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001129"
+   }
+  },
+  {
+   "kind": "ideas",
+   "title": "Taught to hate",
+   "text": "What Denis knows of the enemy he learned from television, and the same radio that carried the propaganda carries the songs.",
+   "metadata": {
+    "tags": [
+     "propaganda"
+    ],
+    "aliases": [],
+    "source_quote": "Countless television programs had told him about the ways of those savages."
+   },
+   "image": {
+    "url": "https://contextube.ai/images/echo/08.webp",
+    "alt": "The original Pale Blue Dot: Earth as a speck in a streak of light",
+    "credit": "Solar System Portrait - Earth as Pale Blue Dot, NASA / JPL, 1996. Public domain.",
+    "source": "https://images.nasa.gov/details/PIA00452"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Pale Blue Dot (Voyager 1, 1990) and Carl Sagan",
+   "text": "The photograph of Earth as a speck from six billion kilometres, and Sagan's reflection on it. Readers may think of it when the narrator measures the human race as an instant.",
+   "metadata": {
+    "tags": [
+     "perspective"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "historical event"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Voyager Golden Record (1977)",
+   "text": "A disc of music, greetings and sounds sent out of the solar system for whoever finds it. Readers may see Denis as its intended listener, and human.",
+   "metadata": {
+    "tags": [
+     "message"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "historical event"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Contact (Carl Sagan; film 1997)",
+   "text": "Aliens send back humanity's first strong television broadcast, decades old. Readers may think of the same idea: our transmissions travel outward as an expanding shell of the past.",
+   "metadata": {
+    "tags": [
+     "radio"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "film"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Earth's radio bubble",
+   "text": "The popular image of a sphere about a hundred light-years across filled with every broadcast humanity has made. Readers may recognise it as the story's map.",
+   "metadata": {
+    "tags": [
+     "radio",
+     "light-years"
+    ],
+    "origin": "association",
+    "link": "source",
+    "refType": "idea"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Ozymandias (Shelley, 1818)",
+   "text": "A ruined statue whose inscription still boasts of its works. Readers may hear it in the voices that say their power has no limits.",
+   "metadata": {
+    "tags": [
+     "hubris"
+    ],
+    "origin": "association",
+    "link": "ancestor",
+    "refType": "book"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "Space Oddity (David Bowie, 1969)",
+   "text": "Major Tom drifts away from Earth with ground control calling. Readers may hear it in the pilot and the silent Mission Control.",
+   "metadata": {
+    "tags": [
+     "song",
+     "astronaut"
+    ],
+    "origin": "association",
+    "link": "echo",
+    "refType": "other"
+   }
+  },
+  {
+   "kind": "references",
+   "title": "The Fermi paradox and the Great Silence",
+   "text": "The question of why the sky holds no other voices. Readers may think of it in 'all the silence of creation', and of civilisations as brief shouts.",
+   "metadata": {
+    "tags": [
+     "silence"
+    ],
+    "origin": "association",
+    "link": "myth",
+    "refType": "idea"
+   }
+  }
+ ],
+ "source_title": "Shards: Echo",
+ "source_author": "Andrei Navrotskii"
+}

@@ -57,36 +57,41 @@ through ConteXtube (`GET /api/v1/content/<slug>/layer/5?q=<words>&limit=3`), thr
 
 ## Method
 
-- Same five works; 154 new questions (half details, half whole-work), written by gpt-6-luna from the full
-  text only. Answered by gpt-6-luna and gpt-5.4-mini with no options shown; marked by gpt-5.5.
+- Seven works. Three are in no model's training data (Peculiarities of Planetary Conquest, Peace Treaty
+  Architecture, Shards: Echo); four are classics (The Nose, Rip Van Winkle, A Christmas Carol, The Time Machine).
+- 213 questions (half details, half whole-work), written by gpt-6-luna from the full text only.
+  Answered by gpt-6-luna and gpt-5.4-mini with no options shown; marked by gpt-5.5.
 - Six kinds of help: nothing; the cloud; search only (the model picks search words from the question);
   cloud, searching only when unsure; cloud, always searching; the full text.
-- "Tokens read" is per question as if questions were asked one at a time, four classics only.
+- "Tokens read" is per question as if questions were asked one at a time, four classics only (the unseen
+  works are short, so there is little to save on them).
 
 ## Results (percent correct; `results2.json`)
 
 | | Nothing | Cloud | Search only | Cloud, search when unsure | Cloud, always search | Full text |
 |---|---|---|---|---|---|---|
-| All questions | 60 | 70 | 84 | 82 | 86 | 87 |
-| Detail questions | 45 | 61 | 88 | 79 | 86 | 91 |
-| Whole-work questions | 74 | 80 | 80 | 84 | 87 | 84 |
+| All questions | 56 | 72 | 85 | 81 | 87 | 88 |
+| Detail questions | 40 | 63 | 89 | 78 | 88 | 91 |
+| Whole-work questions | 72 | 81 | 82 | 83 | 87 | 85 |
+| Three unseen works | 44 | 78 | 87 | 81 | 91 | 86 |
 | Four classics | 65 | 67 | 85 | 81 | 85 | 90 |
-| Unseen story | 40 | 82 | 82 | 85 | 94 | 76 |
-| Tokens read per question | 0 | 1,663 | 1,163 | 2,171 | 2,814 | 26,611 |
+| Tokens read per question (classics) | 0 | 1,663 | 1,163 | 2,171 | 2,814 | 26,611 |
 
 ## Reading them
 
-- Cloud plus search scored the same as reading the full text (86 against 87) on about a tenth of the tokens.
-- Search does most of that work: search alone scored 84 on under a twentieth of the tokens.
-- The cloud's own contribution is on whole-work questions: 87 with cloud and search against 80 with
-  search alone. That gap is about two standard errors, so it is suggestive, not settled.
-- Left to decide, a model holding the cloud searched for only 36% of questions and lost accuracy on
-  details (79 against 88 for search alone). The cloud makes models overconfident about facts; agents
+- Cloud plus search scored the same as reading the full text (87 against 88) on about a tenth of the tokens.
+- Search does most of that work: search alone scored 85 on under a twentieth of the tokens.
+- On works the models have never seen, the cloud alone took them from 44 to 78, and cloud plus search to 91.
+- The cloud's own contribution over search is small and sits in whole-work questions (87 against 82),
+  which is within the noise.
+- Left to decide, a model holding the cloud searched for only 28% of questions and lost accuracy on
+  details (78 against 89 for search alone). The cloud makes models overconfident about facts; agents
   should be told to confirm details by search.
 
 ## Limits
 
-- About 300 answers per column, so differences under about 6 points are noise (10 for the detail and
-  whole-work rows). One run.
+- About 430 answers per column, so differences under about 5 points are noise (7 for the detail and
+  whole-work rows, more for single works). One run.
 - Question writer and one of the two answering models are the same model. Search is keyword search.
-- One unseen work, and it is short.
+- The unseen works are short (1,000 to 7,500 tokens), and their clouds are as long as or longer than
+  two of them.
