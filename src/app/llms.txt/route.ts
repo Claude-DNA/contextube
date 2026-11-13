@@ -59,6 +59,7 @@ GET /api/v1/clouds               → list clouds
 GET /api/v1/clouds/{slug}        → JSON, elements grouped by kind
 GET /api/v1/clouds/{slug}/text   → the whole cloud as one Markdown document, ready for your context
 GET /api/v1/clouds/{slug}/file   → the whole cloud as one .cloud.json file (format "context-cloud"), to keep or reopen in Context Cloud Studio
+GET /api/v1/states?character=alyosha&state=grief&q=mentor  → the state library: characters from literature at one moment, as formulas of feeling ("(Grief + Longing) × Calm") with the situation, the inside view, what others see, a quote, and "for_ai" text to give a writing model
 
 ## The 5 Layers
 Layer 1 — Abstract Associations: gut feelings and associations, as a symbolic extract (~50 tokens)
