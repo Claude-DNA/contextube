@@ -125,17 +125,37 @@ export async function getContent(idOrSlug: string): Promise<
   };
 }
 
-export async function getLayer(idOrSlug: string, layer: number): Promise<{ content: Pick<ContentUnit, "id" | "slug" | "title">; layer: number; chunks: Chunk[] } | null> {
+const STOP = new Set("the a an and or but of to in on at for with by from as is are was were be been it its this that these those he she they his her their him them i you we my our your not no do does did has have had what who whom which when where why how into than then so if there".split(" "));
+
+/** Words worth searching for, OR-ed so a passage matching any of them can surface; more matches rank higher. */
+export function passageQuery(q: string): string {
+  const words = [...new Set(q.toLowerCase().match(/[\p{L}\p{N}]{2,}/gu) ?? [])].filter((w) => !STOP.has(w)).slice(0, 24);
+  return words.join(" | ");
+}
+
+export async function getLayer(idOrSlug: string, layer: number, q?: string, limit = 5): Promise<{ content: Pick<ContentUnit, "id" | "slug" | "title">; layer: number; chunks: Chunk[] } | null> {
   const unit = await query<Pick<ContentUnit, "id" | "slug" | "title">>(
     `SELECT u.id, u.slug, u.title FROM content_units u WHERE ${idClause(idOrSlug)} AND u.status = 'published'`,
     [idOrSlug],
   );
   const u = unit.rows[0];
   if (!u) return null;
-  const chunks = await query<Chunk>(
-    `SELECT ${CHUNK_COLUMNS} FROM chunks c WHERE c.content_id = $1 AND c.layer = $2 ORDER BY c.position`,
-    [u.id, layer],
-  );
+  const tsq = q ? passageQuery(q) : "";
+  if (q && !tsq) return { content: u, layer, chunks: [] };
+  // With a query: the best-matching chunks of this layer, returned in reading order.
+  const chunks = tsq
+    ? await query<Chunk>(
+        `SELECT * FROM (
+           SELECT ${CHUNK_COLUMNS} FROM chunks c
+           WHERE c.content_id = $1 AND c.layer = $2 AND c.chunk_type <> 'meta' AND c.search @@ to_tsquery('simple', $3)
+           ORDER BY ts_rank(c.search, to_tsquery('simple', $3), 1) DESC, c.position LIMIT $4
+         ) hits ORDER BY position`,
+        [u.id, layer, tsq, Math.min(Math.max(limit, 1), 20)],
+      )
+    : await query<Chunk>(
+        `SELECT ${CHUNK_COLUMNS} FROM chunks c WHERE c.content_id = $1 AND c.layer = $2 ORDER BY c.position`,
+        [u.id, layer],
+      );
   return { content: u, layer, chunks: chunks.rows };
 }
 

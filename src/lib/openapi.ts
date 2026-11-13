@@ -65,7 +65,7 @@ export function openapi(site: string) {
           operationId: "getLayer",
           summary: "Get all chunks for a specific layer",
           description: "Layer 1: Abstract Associations. Layer 2: Ideas & Evidence. Layer 3: Connections. Layer 4: Synthesis. Layer 5: Full Narrative & Meta.",
-          parameters: [idParam, { name: "layer", in: "path", required: true, schema: { type: "integer", minimum: 1, maximum: 5 } }],
+          parameters: [idParam, { name: "layer", in: "path", required: true, schema: { type: "integer", minimum: 1, maximum: 5 } }, { name: "q", in: "query", description: "Return only the chunks of this layer that best match these words (any of them), in reading order. Use on layer 5 to fetch the passages a question needs.", schema: { type: "string" } }, { name: "limit", in: "query", description: "With q: how many chunks, 1 to 20 (default 5).", schema: { type: "integer" } }],
           responses: {
             "200": { description: "Chunks of the layer in reading order", content: { "application/json": { schema: { type: "object", properties: { chunks: { type: "array", items: chunkRef } } } } } },
             "404": errorResponse,

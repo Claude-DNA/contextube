@@ -46,6 +46,7 @@ GET /api/v1/content/{id}/layer/2  → Ideas & Evidence (with source quotes)
 GET /api/v1/content/{id}/layer/3  → Connections (cross-references to other works)
 GET /api/v1/content/{id}/layer/4  → Synthesis (commentary and analysis)
 GET /api/v1/content/{id}/layer/5  → Full Narrative & Meta (source text with notes)
+GET /api/v1/content/{id}/layer/5?q=matches+camphor&limit=5  → only the passages that best match those words (any layer takes ?q=)
 
 ### Step 4: Assemble optimized context
 POST /api/v1/assemble
@@ -68,6 +69,7 @@ Layer 5 — Full Narrative & Meta: the full source with notes on how the context
 
 ## Tips
 - Start with Layer 1 for a quick relevance check before loading deeper layers
+- Fetch deeper only when you need to: read the cloud or layers 1–4 first, then pull the few layer-5 passages a question needs with ?q=
 - Use /search to find content by concept, not just title
 - Each chunk is self-contained — you can use any chunk independently
 - Extracts are compressed semantic formulas (→ leads to, ↔ tension, = equivalence, ∅ absence, ∞ deep bond, ∴ therefore, ⊂ within, . qualifier), useful as index keys
