@@ -69,7 +69,7 @@ Layer 5 — Full Narrative & Meta: the full source with notes on how the context
 
 ## Tips
 - Start with Layer 1 for a quick relevance check before loading deeper layers
-- Fetch deeper only when you need to: read the cloud or layers 1–4 first, then pull the few layer-5 passages a question needs with ?q=
+- Use the cloud or layers 1–4 for what a work means; for a specific fact, confirm it with a layer-5 search (?q=) rather than answering from the cloud alone. In our tests that pairing matched reading the full text at about a tenth of the tokens
 - Use /search to find content by concept, not just title
 - Each chunk is self-contained — you can use any chunk independently
 - Extracts are compressed semantic formulas (→ leads to, ↔ tension, = equivalence, ∅ absence, ∞ deep bond, ∴ therefore, ⊂ within, . qualifier), useful as index keys

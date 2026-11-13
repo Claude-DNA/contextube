@@ -1,0 +1,142 @@
+{
+ "writer": "gpt-6-luna",
+ "judge": "gpt-5.5",
+ "answerers": [
+  "gpt-6-luna",
+  "gpt-5.4-mini"
+ ],
+ "questions": 154,
+ "overall": {
+  "none": 60,
+  "cloud": 70,
+  "search_only": 84,
+  "cloud_and_search": 82,
+  "cloud_always_search": 86,
+  "full_text": 87
+ },
+ "by_model": {
+  "gpt-6-luna": {
+   "none": 68,
+   "cloud": 80,
+   "search_only": 90,
+   "cloud_and_search": 88,
+   "cloud_always_search": 90,
+   "full_text": 91
+  },
+  "gpt-5.4-mini": {
+   "none": 51,
+   "cloud": 61,
+   "search_only": 78,
+   "cloud_and_search": 76,
+   "cloud_always_search": 82,
+   "full_text": 83
+  }
+ },
+ "by_type": {
+  "detail": {
+   "none": 45,
+   "cloud": 61,
+   "search_only": 88,
+   "cloud_and_search": 79,
+   "cloud_always_search": 86,
+   "full_text": 91
+  },
+  "whole": {
+   "none": 74,
+   "cloud": 80,
+   "search_only": 80,
+   "cloud_and_search": 84,
+   "cloud_always_search": 87,
+   "full_text": 84
+  }
+ },
+ "known_classics": {
+  "none": 65,
+  "cloud": 67,
+  "search_only": 85,
+  "cloud_and_search": 81,
+  "cloud_always_search": 85,
+  "full_text": 90
+ },
+ "unseen_work": {
+  "none": 40,
+  "cloud": 82,
+  "search_only": 82,
+  "cloud_and_search": 85,
+  "cloud_always_search": 94,
+  "full_text": 76
+ },
+ "classics_by_type": {
+  "detail": {
+   "none": 48,
+   "cloud": 57,
+   "search_only": 86,
+   "cloud_and_search": 78,
+   "cloud_always_search": 85,
+   "full_text": 91
+  },
+  "whole": {
+   "none": 80,
+   "cloud": 78,
+   "search_only": 83,
+   "cloud_and_search": 84,
+   "cloud_always_search": 84,
+   "full_text": 89
+  }
+ },
+ "by_work": {
+  "peculiarities-of-planetary-conquest": {
+   "none": 40,
+   "cloud": 82,
+   "search_only": 82,
+   "cloud_and_search": 85,
+   "cloud_always_search": 94,
+   "full_text": 76
+  },
+  "the-nose": {
+   "none": 57,
+   "cloud": 60,
+   "search_only": 98,
+   "cloud_and_search": 88,
+   "cloud_always_search": 88,
+   "full_text": 93
+  },
+  "rip-van-winkle": {
+   "none": 64,
+   "cloud": 62,
+   "search_only": 81,
+   "cloud_and_search": 73,
+   "cloud_always_search": 84,
+   "full_text": 91
+  },
+  "a-christmas-carol": {
+   "none": 83,
+   "cloud": 83,
+   "search_only": 89,
+   "cloud_and_search": 83,
+   "cloud_always_search": 86,
+   "full_text": 91
+  },
+  "the-time-machine": {
+   "none": 53,
+   "cloud": 63,
+   "search_only": 70,
+   "cloud_and_search": 80,
+   "cloud_always_search": 80,
+   "full_text": 85
+  }
+ },
+ "tokens_read_per_question_classics": {
+  "none": 0,
+  "cloud": 1663,
+  "search_only": 1163,
+  "cloud_and_search": 2171,
+  "cloud_always_search": 2814,
+  "full_text": 26611
+ },
+ "share_of_questions_searched": {
+  "search_only": 100,
+  "cloud_and_search": 36,
+  "cloud_always_search": 100
+ }
+}

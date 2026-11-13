@@ -1,4 +1,8 @@
-# Layered-context benchmark: first run (12 November 2026)
+# Layered-context benchmark
+
+Two runs, 12 November 2026. The second run, at the end of this file, is the one to quote.
+
+# First run: fixed blocks of material
 
 Question: does an AI answer questions about a work better with its ConteXtube layers or cloud than with
 nothing, or than with the same amount of raw text?
@@ -45,3 +49,44 @@ on the unseen story, because the wrong options were easy to rule out. Its files 
 - One run, 100 questions, one judge model, which is also the question writer.
 - The cloud was tested as a fixed block of text. The product's idea is that an agent starts shallow and
   fetches deeper layers when it needs them; that was not tested.
+
+# Second run: fetching deeper
+
+The first run handed the cloud over as one block. This run lets the model search the work's full text
+through ConteXtube (`GET /api/v1/content/<slug>/layer/5?q=<words>&limit=3`), three passages per question.
+
+## Method
+
+- Same five works; 154 new questions (half details, half whole-work), written by gpt-6-luna from the full
+  text only. Answered by gpt-6-luna and gpt-5.4-mini with no options shown; marked by gpt-5.5.
+- Six kinds of help: nothing; the cloud; search only (the model picks search words from the question);
+  cloud, searching only when unsure; cloud, always searching; the full text.
+- "Tokens read" is per question as if questions were asked one at a time, four classics only.
+
+## Results (percent correct; `results2.json`)
+
+| | Nothing | Cloud | Search only | Cloud, search when unsure | Cloud, always search | Full text |
+|---|---|---|---|---|---|---|
+| All questions | 60 | 70 | 84 | 82 | 86 | 87 |
+| Detail questions | 45 | 61 | 88 | 79 | 86 | 91 |
+| Whole-work questions | 74 | 80 | 80 | 84 | 87 | 84 |
+| Four classics | 65 | 67 | 85 | 81 | 85 | 90 |
+| Unseen story | 40 | 82 | 82 | 85 | 94 | 76 |
+| Tokens read per question | 0 | 1,663 | 1,163 | 2,171 | 2,814 | 26,611 |
+
+## Reading them
+
+- Cloud plus search scored the same as reading the full text (86 against 87) on about a tenth of the tokens.
+- Search does most of that work: search alone scored 84 on under a twentieth of the tokens.
+- The cloud's own contribution is on whole-work questions: 87 with cloud and search against 80 with
+  search alone. That gap is about two standard errors, so it is suggestive, not settled.
+- Left to decide, a model holding the cloud searched for only 36% of questions and lost accuracy on
+  details (79 against 88 for search alone). The cloud makes models overconfident about facts; agents
+  should be told to confirm details by search.
+
+## Limits
+
+- About 300 answers per column, so differences under about 6 points are noise (10 for the detail and
+  whole-work rows). One run.
+- Question writer and one of the two answering models are the same model. Search is keyword search.
+- One unseen work, and it is short.
