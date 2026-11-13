@@ -89,6 +89,25 @@ export async function getCloud(slug: string): Promise<Cloud | null> {
   return { ...head, elements };
 }
 
+export type StateBeat = { beat: string; state: string; delta?: string; formula?: string; color?: string; intensity?: number };
+
+/** A character's arc of states as published from Context Cloud Studio (metadata.state_arc), cleaned. */
+export function stateArc(x: unknown): StateBeat[] {
+  if (!Array.isArray(x)) return [];
+  const s = (v: unknown, n: number) => (typeof v === "string" ? v.slice(0, n) : "");
+  return x.slice(0, 60).flatMap((b) => {
+    if (!b || typeof b !== "object") return [];
+    const o = b as Record<string, unknown>;
+    const beat = s(o.beat, 200), state = s(o.state, 500);
+    if (!beat || !state) return [];
+    const color = s(o.color, 7);
+    return [{
+      beat, state, ...(s(o.delta, 20) ? { delta: s(o.delta, 20) } : {}), ...(s(o.formula, 120) ? { formula: s(o.formula, 120) } : {}),
+      ...(/^#[0-9a-f]{6}$/i.test(color) ? { color } : {}), ...(typeof o.intensity === "number" ? { intensity: o.intensity } : {}),
+    }];
+  });
+}
+
 /** The whole cloud as one plain-text document for an AI's context ("Copy for AI"). */
 export function cloudAsText(c: Cloud): string {
   const lines: string[] = [];
@@ -115,6 +134,10 @@ export function cloudAsText(c: Cloud): string {
       lines.push("", `**${e.title}**${aliases}${when}`, e.text);
       if (typeof m.initial_state === "string" && m.initial_state) lines.push(`At first: ${m.initial_state}`);
       if (typeof m.source_quote === "string" && m.source_quote) lines.push(`> ${m.source_quote}`);
+      const arc = stateArc(m.state_arc);
+      if (kind === "characters" && arc.length) {
+        lines.push("States, beat by beat:", ...arc.map((a) => `- ${a.beat}: ${a.formula ? `${a.formula}. ` : ""}${a.state}`));
+      }
     }
   }
   return lines.join("\n").trim() + "\n";

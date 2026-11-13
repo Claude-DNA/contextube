@@ -1,7 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { getCloud, cloudAsText, type CloudElement } from "@/lib/clouds";
+import { getCloud, cloudAsText, stateArc, type CloudElement } from "@/lib/clouds";
 import type { CloudKind } from "@/lib/validate";
 import { Picture } from "@/components/Picture";
 import { CopyForAI } from "@/components/CopyForAI";
@@ -49,6 +49,7 @@ function ElementCard({ e, kind }: { e: CloudElement; kind: CloudKind }) {
   const when = kind === "plot" ? str(m.when) : null;
   const aliases = Array.isArray(m.aliases) ? m.aliases.filter((a): a is string => typeof a === "string" && a.length > 0) : [];
   const { body, senses } = kind === "stage" ? sensory(e.text) : { body: e.text, senses: [] };
+  const arc = kind === "characters" ? stateArc(m.state_arc) : [];
   return (
     <article id={`e-${e.id}`} className="scroll-mt-20 overflow-hidden rounded-lg border border-gray-700 bg-gray-900 target:border-violet-400">
       {e.image && <Picture img={e.image} className="block w-full h-44 object-cover object-[50%_30%]" />}
@@ -68,6 +69,25 @@ function ElementCard({ e, kind }: { e: CloudElement; kind: CloudKind }) {
               </div>
             ))}
           </dl>
+        )}
+        {arc.length > 0 && (
+          <details className="group text-sm">
+            <summary className="cursor-pointer text-gray-500 hover:text-gray-300">
+              <span className="mr-2">States, beat by beat</span>
+              <span className="inline-flex gap-0.5 align-middle" aria-hidden="true">
+                {arc.map((a, i) => <span key={i} className="h-2.5 w-2.5 rounded-full border border-gray-600" style={{ background: a.color ?? "#6b7280" }} />)}
+              </span>
+            </summary>
+            <ol className="mt-2 space-y-2">
+              {arc.map((a, i) => (
+                <li key={i} className="border-l-2 pl-3" style={{ borderColor: a.color ?? "#6b7280" }}>
+                  <p className="text-gray-300">{a.beat}</p>
+                  {a.formula && <p className="font-medium text-gray-200">{a.formula}</p>}
+                  <p className="text-gray-400">{a.state}</p>
+                </li>
+              ))}
+            </ol>
+          </details>
         )}
         {quote && (
           <details className="group text-sm">
