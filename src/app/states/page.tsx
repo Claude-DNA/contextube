@@ -5,7 +5,7 @@ import { STUDIO_URL } from "@/lib/studio";
 
 export const metadata: Metadata = {
   title: "Character states",
-  description: "A library of characters from literature, each caught at one moment: what they feel, what is missing, how it shows. Borrow a state for a character of your own.",
+  description: "A library of characters from literature and screen, each caught at one moment: what they feel, what is missing, how it shows. Borrow a state for a character of your own.",
 };
 
 const slug = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
@@ -46,7 +46,7 @@ export default function StatesPage() {
       <div className="mb-10 space-y-3">
         <h1 className="text-4xl font-bold tracking-tight">Character states</h1>
         <p className="max-w-2xl text-lg text-gray-400">
-          Characters from literature, each caught at one moment: what they feel at once, what is missing, and how it comes out in what they do.
+          Characters from literature and screen, each caught at one moment: what they feel at once, what is missing, and how it comes out in what they do.
           Borrow a state for a character of your own, or hand it to an AI with Copy for AI.
         </p>
         <p className="max-w-2xl text-sm text-gray-500">
@@ -54,6 +54,14 @@ export default function StatesPage() {
           states are in the formula panel, ready to apply to a character in a scene.
         </p>
       </div>
+
+      <nav aria-label="Works" className="mb-10 flex flex-wrap gap-2">
+        {STATE_WORKS.map((w) => (
+          <a key={w.slug} href={`#w-${w.slug}`} className="rounded-lg border border-gray-700 px-4 py-2 text-sm font-medium text-gray-200 transition-colors hover:border-gray-500 hover:text-white">
+            {w.title} <span className="font-normal text-gray-500">{w.states.length}</span>
+          </a>
+        ))}
+      </nav>
 
       {STATE_WORKS.map((w) => {
         const byCharacter = new Map<string, StateEntry[]>();
@@ -64,7 +72,7 @@ export default function StatesPage() {
         const characters = [...byCharacter.entries()].sort((a, b) => b[1].length - a[1].length);
         return (
           <section key={w.slug} aria-labelledby={`w-${w.slug}`} className="mb-16">
-            <h2 id={`w-${w.slug}`} className="text-2xl font-bold text-white">{w.title}</h2>
+            <h2 id={`w-${w.slug}`} className="scroll-mt-20 text-2xl font-bold text-white">{w.title}</h2>
             <p className="mt-1 text-sm text-gray-500">
               {w.author}. {w.states.length} states of {characters.length} characters, from <a href={w.source_url} className="underline hover:text-gray-300">{w.source}</a>.
             </p>

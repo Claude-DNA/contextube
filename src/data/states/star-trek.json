@@ -1,0 +1,1036 @@
+{
+ "slug": "star-trek",
+ "title": "Star Trek",
+ "author": "Created by Gene Roddenberry; written by many hands",
+ "source": "the television series and films, as interpretation with no script text",
+ "source_url": "https://www.startrek.com/",
+ "states": [
+  {
+   "id": "james-t-kirk-letting-the-woman-he-loves-die-to-save-the-future",
+   "character": "James T. Kirk",
+   "moment": "letting the woman he loves die to save the future",
+   "situation": "Stranded in the past, he has fallen in love with a woman whose survival would undo the future he comes from. When the accident that must kill her comes, he holds back the friend who moves to save her.",
+   "inside": "Everything in him wants to step forward, and he has reasoned his way to knowing he cannot. He does not get to be innocent of it: he is the one who chose.",
+   "outside": "He stands rigid, gripping his friend, and does not watch. Afterwards he says almost nothing and wants only to leave.",
+   "formula": "(Grief + Love − Hope) × Calm",
+   "base": [
+    "grief",
+    "love"
+   ],
+   "missing": [
+    "hope"
+   ],
+   "modifier": "calm",
+   "intensity": 3,
+   "color": "#37474F",
+   "for_ai": "(Grief + Love − Hope) × Calm\nFeels, at the same time: Grief (Love trapped in loss; backward-facing); Love (Attachment pull; focus on what you have).\nMissing or held down, though the situation calls for it: Hope (Love that outruns the evidence; belief in a good outcome).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: overwhelming: it runs the character.",
+   "where": "The Original Series: The City on the Edge of Forever",
+   "weight": 3
+  },
+  {
+   "id": "james-t-kirk-after-his-closest-friend-dies-saving-the-ship",
+   "character": "James T. Kirk",
+   "moment": "after his closest friend dies saving the ship",
+   "situation": "His first officer has walked into a lethal chamber to restore power and save everyone aboard. They speak through glass and he watches him die, unable to reach him.",
+   "inside": "He has boasted all his life that he never lost. Now the cost has landed on the one person he could not spare, and it was paid for him.",
+   "outside": "He slides down the glass and sits on the deck. At the funeral his voice breaks on the eulogy and he does not hide it.",
+   "formula": "(Grief + Love + Guilt)",
+   "base": [
+    "grief",
+    "love",
+    "guilt"
+   ],
+   "missing": [],
+   "intensity": 3,
+   "color": "#37474F",
+   "for_ai": "(Grief + Love + Guilt)\nFeels, at the same time: Grief (Love trapped in loss; backward-facing); Love (Attachment pull; focus on what you have); Guilt (I DID wrong; Love trapped in violation awareness).\nIntensity: overwhelming: it runs the character.",
+   "where": "Star Trek II: The Wrath of Khan",
+   "weight": 3
+  },
+  {
+   "id": "james-t-kirk-hearing-that-his-son-has-been-killed",
+   "character": "James T. Kirk",
+   "moment": "hearing that his son has been killed",
+   "situation": "He is bargaining from orbit with an enemy who holds hostages on the planet below. To prove he is serious, the enemy has one killed, and it is the son he had only just begun to know.",
+   "inside": "The loss arrives with the knowledge that he was never really a father to him. For a moment he has no command left in him, only the blow.",
+   "outside": "He misses his chair and falls to the deck. He repeats a curse at the killers, then gets up and begins, coldly, to plan.",
+   "formula": "(Grief + Rage)",
+   "base": [
+    "grief",
+    "rage"
+   ],
+   "missing": [],
+   "intensity": 3,
+   "color": "#37474F",
+   "for_ai": "(Grief + Rage)\nFeels, at the same time: Grief (Love trapped in loss; backward-facing); Rage (Reactive force; present-tense).\nIntensity: overwhelming: it runs the character.",
+   "where": "Star Trek III: The Search for Spock",
+   "weight": 3
+  },
+  {
+   "id": "james-t-kirk-ordered-to-make-peace-with-the-people-who-killed-his-son",
+   "character": "James T. Kirk",
+   "moment": "ordered to make peace with the people who killed his son",
+   "situation": "Near retirement, he is volunteered to escort an old enemy to peace talks. He has hated them for decades and has a private reason to.",
+   "inside": "He knows the peace is right and cannot feel that it is. The hatred has become part of who he is, and he is afraid of who he would be without it.",
+   "outside": "He is correct and stiff at the formal dinner. In his private log he says what he would never say at the table.",
+   "formula": "(Distrust + Rage + Grief) × Calm",
+   "base": [
+    "distrust",
+    "rage",
+    "grief"
+   ],
+   "missing": [],
+   "modifier": "calm",
+   "intensity": 2,
+   "color": "#37474F",
+   "for_ai": "(Distrust + Rage + Grief) × Calm\nFeels, at the same time: Distrust (Not believing in others' intentions); Rage (Reactive force; present-tense); Grief (Love trapped in loss; backward-facing).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "Star Trek VI: The Undiscovered Country",
+   "weight": 2
+  },
+  {
+   "id": "spock-when-a-drive-he-cannot-control-overtakes-him",
+   "character": "Spock",
+   "moment": "when a drive he cannot control overtakes him",
+   "situation": "A biological compulsion of his people, never spoken of to outsiders, is overtaking him. He must go home or die, and he cannot bring himself to say why.",
+   "inside": "His whole identity is control, and his own body is about to make a spectacle of him in front of the people whose respect he needs. He would rather die than explain.",
+   "outside": "He hides in his quarters, snaps at a subordinate, throws a bowl at the wall. Asked a direct question, he stands at attention and gives a non-answer.",
+   "formula": "(Shame + Rage + Fear) × Calm",
+   "base": [
+    "shame",
+    "rage",
+    "fear"
+   ],
+   "missing": [],
+   "modifier": "calm",
+   "intensity": 3,
+   "color": "#4A148C",
+   "for_ai": "(Shame + Rage + Fear) × Calm\nFeels, at the same time: Shame (I AM wrong; self-collapse); Rage (Reactive force; present-tense); Fear (Exposure to unknown × self-preservation; default state).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: overwhelming: it runs the character.",
+   "where": "The Original Series: Amok Time",
+   "weight": 3
+  },
+  {
+   "id": "spock-finding-alive-the-friend-he-believed-he-had-killed",
+   "character": "Spock",
+   "moment": "finding alive the friend he believed he had killed",
+   "situation": "Forced into ritual combat, he believes he has killed his captain with his own hands. He returns to the ship to surrender his command, and the man walks in alive.",
+   "inside": "For one unguarded second the relief is larger than the discipline of a lifetime. Then he hears himself and has to gather it all back in.",
+   "outside": "He seizes his friend by the arms and cries out his name, smiling openly. A breath later he straightens and explains it away as logic.",
+   "formula": "(Joy + Love + Shame)",
+   "base": [
+    "joy",
+    "love",
+    "shame"
+   ],
+   "missing": [],
+   "intensity": 3,
+   "color": "#FFD600",
+   "for_ai": "(Joy + Love + Shame)\nFeels, at the same time: Joy (Present-tense positive state); Love (Attachment pull; focus on what you have); Shame (I AM wrong; self-collapse).\nIntensity: overwhelming: it runs the character.",
+   "where": "The Original Series: Amok Time",
+   "weight": 2
+  },
+  {
+   "id": "spock-staying-at-his-post-while-his-father-may-be-dying",
+   "character": "Spock",
+   "moment": "staying at his post while his father may be dying",
+   "situation": "His estranged father needs a transfusion only he can give. The captain is wounded, the ship is under threat, and he is in command; he refuses to leave the bridge.",
+   "inside": "Duty is the one language he and his father share, so obeying it is also the only way he knows to honour him. He will not let himself ask whether he is hiding in it.",
+   "outside": "He answers his mother's pleading with regulations. When she strikes him he does not move, and afterwards he touches the door she left by.",
+   "formula": "(Love + Guilt) × Calm",
+   "base": [
+    "love",
+    "guilt"
+   ],
+   "missing": [],
+   "modifier": "calm",
+   "intensity": 2,
+   "color": "#E91E8C",
+   "for_ai": "(Love + Guilt) × Calm\nFeels, at the same time: Love (Attachment pull; focus on what you have); Guilt (I DID wrong; Love trapped in violation awareness).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "The Original Series: Journey to Babel",
+   "weight": 2
+  },
+  {
+   "id": "spock-after-losing-the-only-happiness-he-has-known",
+   "character": "Spock",
+   "moment": "after losing the only happiness he has known",
+   "situation": "An alien influence freed him to feel, and for a short while he loved someone and was at ease. His captain broke the spell on purpose, and it will not return.",
+   "inside": "He remembers exactly what it was like and knows it is closed to him. He does not blame the man who ended it, which makes it no lighter.",
+   "outside": "He reports the facts in his usual voice. Only at the very end does he offer one flat sentence about what the place had been for him.",
+   "formula": "(Grief + Longing) × Calm",
+   "base": [
+    "grief",
+    "longing"
+   ],
+   "missing": [],
+   "modifier": "calm",
+   "intensity": 2,
+   "color": "#37474F",
+   "for_ai": "(Grief + Longing) × Calm\nFeels, at the same time: Grief (Love trapped in loss; backward-facing); Longing (Desire for something absent; bridge between Love and Grief).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "The Original Series: This Side of Paradise",
+   "weight": 2
+  },
+  {
+   "id": "spock-choosing-to-die-so-that-the-others-live",
+   "character": "Spock",
+   "moment": "choosing to die so that the others live",
+   "situation": "The ship cannot escape an explosion without repairs inside a lethally irradiated chamber. He sees the arithmetic before anyone else and goes without asking.",
+   "inside": "There is no struggle in it. The reasoning and the affection point the same way for once, and that agreement gives him a kind of peace.",
+   "outside": "He works quickly and precisely. Dying, he straightens his uniform, stands, and speaks to his friend about friendship in a level voice.",
+   "formula": "(Love + Calm − Fear)",
+   "base": [
+    "love",
+    "calm"
+   ],
+   "missing": [
+    "fear"
+   ],
+   "intensity": 2,
+   "color": "#E91E8C",
+   "for_ai": "(Love + Calm − Fear)\nFeels, at the same time: Love (Attachment pull; focus on what you have); Calm (Settled; nothing pulling. The baseline the other states disturb).\nMissing or held down, though the situation calls for it: Fear (Exposure to unknown × self-preservation; default state).\nIntensity: plain to see.",
+   "where": "Star Trek II: The Wrath of Khan",
+   "weight": 3
+  },
+  {
+   "id": "leonard-mccoy-delirious-and-running-from-his-own-friends",
+   "character": "Leonard McCoy",
+   "moment": "delirious and running from his own friends",
+   "situation": "An accidental overdose of a powerful drug has thrown him into raving paranoia. He flees his ship and then his own time, sure that everyone means to kill him.",
+   "inside": "Nothing he perceives can be trusted, and the faces he knows best look like murderers. Under the terror is a doctor still trying to work out what is wrong with him.",
+   "outside": "He shouts accusations, bolts from anyone who comes near, hides shaking in an alley. When kindness is finally shown him he collapses into it.",
+   "formula": "(Fear + Distrust + Confusion)",
+   "base": [
+    "fear",
+    "distrust",
+    "confusion"
+   ],
+   "missing": [],
+   "intensity": 3,
+   "color": "#1565C0",
+   "for_ai": "(Fear + Distrust + Confusion)\nFeels, at the same time: Fear (Exposure to unknown × self-preservation; default state); Distrust (Not believing in others' intentions); Confusion (Epistemic zero-vector; Soul-Mind disconnection).\nIntensity: overwhelming: it runs the character.",
+   "where": "The Original Series: The City on the Edge of Forever",
+   "weight": 2
+  },
+  {
+   "id": "leonard-mccoy-quarrelling-with-a-colleague-after-their-captain-is-presumed-lost",
+   "character": "Leonard McCoy",
+   "moment": "quarrelling with a colleague after their captain is presumed lost",
+   "situation": "The captain is missing and believed dead, the ship is trapped, and the crew are beginning to lose their minds. He and the acting commander must work together and cannot stop sniping.",
+   "inside": "He is frightened and bereaved and has nowhere to put it except on the calm man beside him, whose calm feels like an insult to the dead.",
+   "outside": "He accuses, needles, questions every order. When the two of them hear their captain's last message asking them to rely on each other, he goes quiet.",
+   "formula": "(Grief + Fear) × Rage",
+   "base": [
+    "grief",
+    "fear"
+   ],
+   "missing": [],
+   "modifier": "rage",
+   "intensity": 2,
+   "color": "#37474F",
+   "for_ai": "(Grief + Fear) × Rage\nFeels, at the same time: Grief (Love trapped in loss; backward-facing); Fear (Exposure to unknown × self-preservation; default state).\nIt comes out as Rage (Reactive force; present-tense): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "The Original Series: The Tholian Web",
+   "weight": 2
+  },
+  {
+   "id": "leonard-mccoy-carrying-a-dead-friend-s-mind-he-never-asked-for",
+   "character": "Leonard McCoy",
+   "moment": "carrying a dead friend's mind he never asked for",
+   "situation": "His friend placed his living mind in him before dying, without warning. He is breaking down, speaking in another man's voice, and has been confined as unstable.",
+   "inside": "He is furious at being used and horrified at what is in his head. Under both is the plain fact that he misses him and would carry it anyway.",
+   "outside": "He grumbles and curses his friend's name. Alone beside the body, he admits he could not bear to lose him a second time.",
+   "formula": "(Confusion + Grief + Love) × Rage",
+   "base": [
+    "confusion",
+    "grief",
+    "love"
+   ],
+   "missing": [],
+   "modifier": "rage",
+   "intensity": 2,
+   "color": "#757575",
+   "for_ai": "(Confusion + Grief + Love) × Rage\nFeels, at the same time: Confusion (Epistemic zero-vector; Soul-Mind disconnection); Grief (Love trapped in loss; backward-facing); Love (Attachment pull; focus on what you have).\nIt comes out as Rage (Reactive force; present-tense): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "Star Trek III: The Search for Spock",
+   "weight": 2
+  },
+  {
+   "id": "leonard-mccoy-remembering-that-he-ended-his-father-s-suffering-too-soon",
+   "character": "Leonard McCoy",
+   "moment": "remembering that he ended his father's suffering too soon",
+   "situation": "He is made to relive the day he switched off his dying father's life support at the man's own plea. A cure was found not long afterwards.",
+   "inside": "He did it out of mercy and has never been able to forgive it. The question he cannot answer is whether it was for his father or for himself.",
+   "outside": "The gruffness is gone entirely. He pleads with the memory, then stands emptied and says in a small voice what happened next.",
+   "formula": "(Guilt + Grief + Love)",
+   "base": [
+    "guilt",
+    "grief",
+    "love"
+   ],
+   "missing": [],
+   "intensity": 3,
+   "color": "#6A1B9A",
+   "for_ai": "(Guilt + Grief + Love)\nFeels, at the same time: Guilt (I DID wrong; Love trapped in violation awareness); Grief (Love trapped in loss; backward-facing); Love (Attachment pull; focus on what you have).\nIntensity: overwhelming: it runs the character.",
+   "where": "Star Trek V: The Final Frontier",
+   "weight": 3
+  },
+  {
+   "id": "jean-luc-picard-coming-home-after-being-used-as-a-weapon-against-his-own-people",
+   "character": "Jean-Luc Picard",
+   "moment": "coming home after being used as a weapon against his own people",
+   "situation": "An enemy took over his body and his knowledge and used them to kill thousands of his comrades. Rescued and declared fit, he visits the family vineyard he left long ago.",
+   "inside": "He keeps telling everyone he is recovered. What he cannot say is that he was not strong enough to stop it, and that he is thinking of never going back.",
+   "outside": "He is courteous and brittle and talks about a job on Earth. His brother goads him into a brawl in the mud, and there he finally weeps.",
+   "formula": "(Shame + Guilt + Rage) × Pride",
+   "base": [
+    "shame",
+    "guilt",
+    "rage"
+   ],
+   "missing": [],
+   "modifier": "pride",
+   "intensity": 3,
+   "color": "#4A148C",
+   "for_ai": "(Shame + Guilt + Rage) × Pride\nFeels, at the same time: Shame (I AM wrong; self-collapse); Guilt (I DID wrong; Love trapped in violation awareness); Rage (Reactive force; present-tense).\nIt comes out as Pride (Fear's most successful mask; self-expansion): this is what others see the character do.\nIntensity: overwhelming: it runs the character.",
+   "where": "The Next Generation: Family",
+   "weight": 3
+  },
+  {
+   "id": "jean-luc-picard-under-torture-refusing-to-say-what-he-is-told-he-sees",
+   "character": "Jean-Luc Picard",
+   "moment": "under torture, refusing to say what he is told he sees",
+   "situation": "Captured, stripped and tortured for days, he is offered comfort if he will only agree that there are five lights when there are four.",
+   "inside": "He is very nearly broken and knows it. Holding on to one small true statement is the last thing that is still his.",
+   "outside": "He recites facts to keep his mind, and laughs at his torturer once. Freed, he shouts the true number, and later admits privately how close it was.",
+   "formula": "(Pride + Fear + Despair)",
+   "base": [
+    "pride",
+    "fear",
+    "despair"
+   ],
+   "missing": [],
+   "intensity": 3,
+   "color": "#F57F17",
+   "for_ai": "(Pride + Fear + Despair)\nFeels, at the same time: Pride (Fear's most successful mask; self-expansion); Fear (Exposure to unknown × self-preservation; default state); Despair (Fear that outruns the evidence; certainty of a bad outcome).\nIntensity: overwhelming: it runs the character.",
+   "where": "The Next Generation: Chain of Command",
+   "weight": 3
+  },
+  {
+   "id": "jean-luc-picard-waking-from-a-whole-lifetime-that-never-happened",
+   "character": "Jean-Luc Picard",
+   "moment": "waking from a whole lifetime that never happened",
+   "situation": "In a few minutes of unconsciousness he lived forty years as another man on a dying world: a wife, children, grandchildren, old age. He wakes on his bridge to find it gone.",
+   "inside": "He has lost a family no one else can mourn, and gained a self that knew how to stay in one place. He does not want to be consoled out of it.",
+   "outside": "He moves slowly and looks at his ship as if relearning it. Alone, he takes up the flute he learned to play there and plays.",
+   "formula": "(Grief + Longing + Wonder) × Calm",
+   "base": [
+    "grief",
+    "longing",
+    "wonder"
+   ],
+   "missing": [],
+   "modifier": "calm",
+   "intensity": 2,
+   "color": "#37474F",
+   "for_ai": "(Grief + Longing + Wonder) × Calm\nFeels, at the same time: Grief (Love trapped in loss; backward-facing); Longing (Desire for something absent; bridge between Love and Grief); Wonder (Passive openness to the unknown).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "The Next Generation: The Inner Light",
+   "weight": 3
+  },
+  {
+   "id": "jean-luc-picard-facing-again-the-enemy-that-once-violated-him",
+   "character": "Jean-Luc Picard",
+   "moment": "facing again the enemy that once violated him",
+   "situation": "Years after his capture, the same enemy is taking his ship deck by deck. His officers urge him to abandon it and destroy it; he refuses and orders them to fight on.",
+   "inside": "He has told himself it was over. Retreat would mean they beat him twice, and he is ready to spend other people's lives to prevent that.",
+   "outside": "He guns down the enemy with relish, insults an officer for cowardice, smashes a display case. Challenged by an outsider, he hears himself and stops.",
+   "formula": "(Rage + Fear + Shame)",
+   "base": [
+    "rage",
+    "fear",
+    "shame"
+   ],
+   "missing": [],
+   "intensity": 3,
+   "color": "#B71C1C",
+   "for_ai": "(Rage + Fear + Shame)\nFeels, at the same time: Rage (Reactive force; present-tense); Fear (Exposure to unknown × self-preservation; default state); Shame (I AM wrong; self-collapse).\nIntensity: overwhelming: it runs the character.",
+   "where": "Star Trek: First Contact",
+   "weight": 3
+  },
+  {
+   "id": "data-on-trial-over-whether-he-is-a-person-or-property",
+   "character": "Data",
+   "moment": "on trial over whether he is a person or property",
+   "situation": "A scientist wants to dismantle him for study and argues that a machine cannot refuse. A hearing will decide whether he has the right to choose.",
+   "inside": "He does not experience dread, yet he has packed a few keepsakes and cannot fully explain why they matter. He wants to continue, and is curious whether that wanting counts.",
+   "outside": "He answers every question precisely and without heat. He resigns to avoid the procedure, and afterwards bears his opponent no grudge.",
+   "formula": "(Curiosity + Longing − Fear) × Calm",
+   "base": [
+    "curiosity",
+    "longing"
+   ],
+   "missing": [
+    "fear"
+   ],
+   "modifier": "calm",
+   "intensity": 2,
+   "color": "#26C6DA",
+   "for_ai": "(Curiosity + Longing − Fear) × Calm\nFeels, at the same time: Curiosity (Active pursuit of the unknown (not Wonder)); Longing (Desire for something absent; bridge between Love and Grief).\nMissing or held down, though the situation calls for it: Fear (Exposure to unknown × self-preservation; default state).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "The Next Generation: The Measure of a Man",
+   "weight": 3
+  },
+  {
+   "id": "data-after-the-child-he-made-dies",
+   "character": "Data",
+   "moment": "after the child he made dies",
+   "situation": "He built a daughter, taught her, and fought to keep her from being taken away. Her mind failed and he could not repair it.",
+   "inside": "By his own account he feels nothing. He worked at impossible speed to save her, and has now taken her memories into himself so that she is not gone.",
+   "outside": "He returns to his station at once and reports. It is the people around him who are stricken; he thanks them for their concern.",
+   "formula": "(Love + Curiosity − Grief) × Calm",
+   "base": [
+    "love",
+    "curiosity"
+   ],
+   "missing": [
+    "grief"
+   ],
+   "modifier": "calm",
+   "intensity": 2,
+   "color": "#E91E8C",
+   "for_ai": "(Love + Curiosity − Grief) × Calm\nFeels, at the same time: Love (Attachment pull; focus on what you have); Curiosity (Active pursuit of the unknown (not Wonder)).\nMissing or held down, though the situation calls for it: Grief (Love trapped in loss; backward-facing).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "The Next Generation: The Offspring",
+   "weight": 3
+  },
+  {
+   "id": "data-flooded-by-feelings-for-the-first-time",
+   "character": "Data",
+   "moment": "flooded by feelings for the first time",
+   "situation": "He has installed the device that gives him emotions and cannot switch it off. In his first real danger he freezes, and a friend is captured because of it.",
+   "inside": "Every feeling is new and has no scale. Fear turns out to be nothing like his idea of it, and the guilt that follows is worse.",
+   "outside": "He laughs too long at an old joke, then cowers, then begs to be deactivated. Later he weeps over a small thing found safe and is glad to.",
+   "formula": "(Fear + Confusion + Guilt)",
+   "base": [
+    "fear",
+    "confusion",
+    "guilt"
+   ],
+   "missing": [],
+   "intensity": 3,
+   "color": "#1565C0",
+   "for_ai": "(Fear + Confusion + Guilt)\nFeels, at the same time: Fear (Exposure to unknown × self-preservation; default state); Confusion (Epistemic zero-vector; Soul-Mind disconnection); Guilt (I DID wrong; Love trapped in violation awareness).\nIntensity: overwhelming: it runs the character.",
+   "where": "Star Trek Generations",
+   "weight": 2
+  },
+  {
+   "id": "data-offered-the-one-thing-he-has-always-wanted-by-an-enemy",
+   "character": "Data",
+   "moment": "offered the one thing he has always wanted, by an enemy",
+   "situation": "Held captive, he is given living skin and real sensation by an enemy who wants his help. It is what he has pursued for his whole existence.",
+   "inside": "The offer is not a trick; the sensation is real and it is extraordinary. For a measurable moment he considers it.",
+   "outside": "He examines his own arm with fascination and answers his captor politely. When he acts against her, he admits afterwards exactly how long he was tempted.",
+   "formula": "(Longing + Wonder + Curiosity) × Calm",
+   "base": [
+    "longing",
+    "wonder",
+    "curiosity"
+   ],
+   "missing": [],
+   "modifier": "calm",
+   "intensity": 2,
+   "color": "#7B1FA2",
+   "for_ai": "(Longing + Wonder + Curiosity) × Calm\nFeels, at the same time: Longing (Desire for something absent; bridge between Love and Grief); Wonder (Passive openness to the unknown); Curiosity (Active pursuit of the unknown (not Wonder)).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "Star Trek: First Contact",
+   "weight": 2
+  },
+  {
+   "id": "worf-accepting-public-disgrace-to-keep-his-people-from-civil-war",
+   "character": "Worf",
+   "moment": "accepting public disgrace to keep his people from civil war",
+   "situation": "His dead father is falsely named a traitor. The truth would expose a powerful family and split the state, so he agrees to take the dishonour on himself.",
+   "inside": "Honour is the whole of what he has kept of his people, and he gives it up for their sake. He will let them despise him and know privately that he was right.",
+   "outside": "He stands straight while the council turn their backs on him one by one. He says nothing in his own defence and walks out.",
+   "formula": "(Pride + Shame + Rage) × Calm",
+   "base": [
+    "pride",
+    "shame",
+    "rage"
+   ],
+   "missing": [],
+   "modifier": "calm",
+   "intensity": 3,
+   "color": "#F57F17",
+   "for_ai": "(Pride + Shame + Rage) × Calm\nFeels, at the same time: Pride (Fear's most successful mask; self-expansion); Shame (I AM wrong; self-collapse); Rage (Reactive force; present-tense).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: overwhelming: it runs the character.",
+   "where": "The Next Generation: Sins of the Father",
+   "weight": 3
+  },
+  {
+   "id": "worf-after-his-mate-is-murdered",
+   "character": "Worf",
+   "moment": "after his mate is murdered",
+   "situation": "The woman he loved, mother of a son he has just learned of, is killed by a political rival. His superiors would have him wait for the law.",
+   "inside": "There is no deliberation. Grief and the right of vengeance are the same act for him, and he sets aside his uniform to do it.",
+   "outside": "He howls over her body, takes a blade from his wall, and goes to find the man. Afterwards he accepts the reprimand without argument.",
+   "formula": "(Grief + Rage)",
+   "base": [
+    "grief",
+    "rage"
+   ],
+   "missing": [],
+   "intensity": 3,
+   "color": "#37474F",
+   "for_ai": "(Grief + Rage)\nFeels, at the same time: Grief (Love trapped in loss; backward-facing); Rage (Reactive force; present-tense).\nIntensity: overwhelming: it runs the character.",
+   "where": "The Next Generation: Reunion",
+   "weight": 3
+  },
+  {
+   "id": "worf-paralysed-and-asking-a-friend-to-help-him-die",
+   "character": "Worf",
+   "moment": "paralysed and asking a friend to help him die",
+   "situation": "An accident has crushed his spine. By his people's custom a warrior who cannot stand should end his life, and he asks a comrade to assist.",
+   "inside": "He cannot bear to be seen helpless, least of all by his son. Death looks like the only way left to be himself.",
+   "outside": "He lies rigid, refuses to let the boy visit, and makes the request as a formal matter of duty. Offered a dangerous cure, he takes it at once.",
+   "formula": "(Shame + Despair) × Pride",
+   "base": [
+    "shame",
+    "despair"
+   ],
+   "missing": [],
+   "modifier": "pride",
+   "intensity": 3,
+   "color": "#4A148C",
+   "for_ai": "(Shame + Despair) × Pride\nFeels, at the same time: Shame (I AM wrong; self-collapse); Despair (Fear that outruns the evidence; certainty of a bad outcome).\nIt comes out as Pride (Fear's most successful mask; self-expansion): this is what others see the character do.\nIntensity: overwhelming: it runs the character.",
+   "where": "The Next Generation: Ethics",
+   "weight": 2
+  },
+  {
+   "id": "worf-abandoning-a-mission-to-save-his-wife",
+   "character": "Worf",
+   "moment": "abandoning a mission to save his wife",
+   "situation": "On a covert mission his wife is badly wounded. He can reach the contact whose information would save many lives, or carry her back; he cannot do both.",
+   "inside": "He goes on, as duty requires, and gets some way before he turns round. He knows what it will cost and finds he does not regret it.",
+   "outside": "He leaves her with a weapon and walks into the jungle. Later, reprimanded by his captain, he says only that he would do it again.",
+   "formula": "(Love + Fear + Guilt) × Calm",
+   "base": [
+    "love",
+    "fear",
+    "guilt"
+   ],
+   "missing": [],
+   "modifier": "calm",
+   "intensity": 3,
+   "color": "#E91E8C",
+   "for_ai": "(Love + Fear + Guilt) × Calm\nFeels, at the same time: Love (Attachment pull; focus on what you have); Fear (Exposure to unknown × self-preservation; default state); Guilt (I DID wrong; Love trapped in violation awareness).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: overwhelming: it runs the character.",
+   "where": "Deep Space Nine: Change of Heart",
+   "weight": 3
+  },
+  {
+   "id": "benjamin-sisko-meeting-the-man-whose-attack-killed-his-wife",
+   "character": "Benjamin Sisko",
+   "moment": "meeting the man whose attack killed his wife",
+   "situation": "Three years after his wife died in an attack led by another officer, he is posted to a ruined station and must report to that same man.",
+   "inside": "He knows the man was not acting freely. It makes no difference; he has not left that burning ship, and the face in front of him is the face from that day.",
+   "outside": "He is clipped and formally correct, states exactly where they have met before, and says he is considering leaving the service.",
+   "formula": "(Grief + Rage) × Calm",
+   "base": [
+    "grief",
+    "rage"
+   ],
+   "missing": [],
+   "modifier": "calm",
+   "intensity": 2,
+   "color": "#37474F",
+   "for_ai": "(Grief + Rage) × Calm\nFeels, at the same time: Grief (Love trapped in loss; backward-facing); Rage (Reactive force; present-tense).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "Deep Space Nine: Emissary",
+   "weight": 3
+  },
+  {
+   "id": "benjamin-sisko-when-the-work-he-has-poured-himself-into-is-destroyed-for-who-he-is",
+   "character": "Benjamin Sisko",
+   "moment": "when the work he has poured himself into is destroyed for who he is",
+   "situation": "In a vision he lives as a writer in the 1950s whose story about a Black space captain is pulped by the publisher, and who is fired on the same day.",
+   "inside": "It is not only the job. They are telling him that what he imagined is not allowed to exist, and he knows it is real because he made it.",
+   "outside": "He begins reasonably and ends shouting that they cannot deny the idea, until he collapses sobbing on the office floor.",
+   "formula": "(Despair + Rage + Pride)",
+   "base": [
+    "despair",
+    "rage",
+    "pride"
+   ],
+   "missing": [],
+   "intensity": 3,
+   "color": "#263238",
+   "for_ai": "(Despair + Rage + Pride)\nFeels, at the same time: Despair (Fear that outruns the evidence; certainty of a bad outcome); Rage (Reactive force; present-tense); Pride (Fear's most successful mask; self-expansion).\nIntensity: overwhelming: it runs the character.",
+   "where": "Deep Space Nine: Far Beyond the Stars",
+   "weight": 3
+  },
+  {
+   "id": "benjamin-sisko-after-lying-and-abetting-murder-to-win-an-ally-for-the-war",
+   "character": "Benjamin Sisko",
+   "moment": "after lying and abetting murder to win an ally for the war",
+   "situation": "The war is being lost. To bring a neutral power in, he commissions a forgery, and when it fails his accomplice arranges an assassination that does the job.",
+   "inside": "It worked, and thousands will live because of it. He has given up the thing he thought he was, and suspects he would make the same trade again.",
+   "outside": "He tells the whole story to his log, pacing with a drink, growing angrier. He says he can live with it, twice, and then erases the entry.",
+   "formula": "(Guilt + Disgust) × Pride",
+   "base": [
+    "guilt",
+    "disgust"
+   ],
+   "missing": [],
+   "modifier": "pride",
+   "intensity": 3,
+   "color": "#6A1B9A",
+   "for_ai": "(Guilt + Disgust) × Pride\nFeels, at the same time: Guilt (I DID wrong; Love trapped in violation awareness); Disgust (Boundary enforcement, rejection).\nIt comes out as Pride (Fear's most successful mask; self-expansion): this is what others see the character do.\nIntensity: overwhelming: it runs the character.",
+   "where": "Deep Space Nine: In the Pale Moonlight",
+   "weight": 3
+  },
+  {
+   "id": "benjamin-sisko-when-an-old-friend-dies-after-he-ignored-a-warning",
+   "character": "Benjamin Sisko",
+   "moment": "when an old friend dies after he ignored a warning",
+   "situation": "He was warned not to leave the station and went to lead an assault anyway. While he was gone his closest friend was killed there.",
+   "inside": "He has failed as a commander and as something more than that, and does not know which way is forward. He needs to go back to where he was last sure of himself.",
+   "outside": "He talks to her coffin, admits he does not know what to do, and takes leave. He packs the baseball that always sat on his desk.",
+   "formula": "(Grief + Guilt + Confusion)",
+   "base": [
+    "grief",
+    "guilt",
+    "confusion"
+   ],
+   "missing": [],
+   "intensity": 3,
+   "color": "#37474F",
+   "for_ai": "(Grief + Guilt + Confusion)\nFeels, at the same time: Grief (Love trapped in loss; backward-facing); Guilt (I DID wrong; Love trapped in violation awareness); Confusion (Epistemic zero-vector; Soul-Mind disconnection).\nIntensity: overwhelming: it runs the character.",
+   "where": "Deep Space Nine: Tears of the Prophets",
+   "weight": 2
+  },
+  {
+   "id": "kira-nerys-made-to-work-beside-the-kind-of-people-she-fought-to-drive-out",
+   "character": "Kira Nerys",
+   "moment": "made to work beside the kind of people she fought to drive out",
+   "situation": "She spent her youth in an armed resistance. The occupation has just ended, and her new government has invited another outside power in to run the station.",
+   "inside": "She did not fight for half her life to swap one set of uniforms for another. She also knows her people cannot hold the place alone, and resents knowing it.",
+   "outside": "She shouts at an official over a screen, squares up to her new commander in their first minute, and volunteers her opinion of the whole arrangement.",
+   "formula": "(Distrust + Rage + Pride)",
+   "base": [
+    "distrust",
+    "rage",
+    "pride"
+   ],
+   "missing": [],
+   "intensity": 2,
+   "color": "#37474F",
+   "for_ai": "(Distrust + Rage + Pride)\nFeels, at the same time: Distrust (Not believing in others' intentions); Rage (Reactive force; present-tense); Pride (Fear's most successful mask; self-expansion).\nIntensity: plain to see.",
+   "where": "Deep Space Nine: Emissary",
+   "weight": 2
+  },
+  {
+   "id": "kira-nerys-when-the-war-criminal-she-wanted-to-convict-turns-out-to-be-a-penitent",
+   "character": "Kira Nerys",
+   "moment": "when the war criminal she wanted to convict turns out to be a penitent",
+   "situation": "She has caught a man she believes commanded a notorious labour camp. He is in fact a clerk who served there, posing as the commander so that someone would be punished.",
+   "inside": "She came wanting a monster and found a man crushed by what he saw and did not stop. The hatred she has lived on has nothing to hold on to.",
+   "outside": "She stops interrogating and starts listening. She sets him free and walks beside him, and when he is killed in front of her she is the one who mourns.",
+   "formula": "(Grief + Confusion − Rage)",
+   "base": [
+    "grief",
+    "confusion"
+   ],
+   "missing": [
+    "rage"
+   ],
+   "intensity": 2,
+   "color": "#37474F",
+   "for_ai": "(Grief + Confusion − Rage)\nFeels, at the same time: Grief (Love trapped in loss; backward-facing); Confusion (Epistemic zero-vector; Soul-Mind disconnection).\nMissing or held down, though the situation calls for it: Rage (Reactive force; present-tense).\nIntensity: plain to see.",
+   "where": "Deep Space Nine: Duet",
+   "weight": 3
+  },
+  {
+   "id": "kira-nerys-learning-that-her-mother-lived-with-the-enemy",
+   "character": "Kira Nerys",
+   "moment": "learning that her mother lived with the enemy",
+   "situation": "She discovers that the mother she believed died a martyr was for years the companion of the occupation's commander, in comfort, while the family went hungry.",
+   "inside": "She is disgusted, and she also sees that it kept her and her brothers alive. She cannot make the collaborator and the mother into one person.",
+   "outside": "She goes back intending to kill them both and sets the bomb. Seeing her mother weep over a message from home, she gets her out.",
+   "formula": "(Disgust + Grief + Love)",
+   "base": [
+    "disgust",
+    "grief",
+    "love"
+   ],
+   "missing": [],
+   "intensity": 3,
+   "color": "#558B2F",
+   "for_ai": "(Disgust + Grief + Love)\nFeels, at the same time: Disgust (Boundary enforcement, rejection); Grief (Love trapped in loss; backward-facing); Love (Attachment pull; focus on what you have).\nIntensity: overwhelming: it runs the character.",
+   "where": "Deep Space Nine: Wrongs Darker Than Death or Night",
+   "weight": 3
+  },
+  {
+   "id": "kira-nerys-teaching-her-old-enemies-how-to-resist-an-occupation",
+   "character": "Kira Nerys",
+   "moment": "teaching her old enemies how to resist an occupation",
+   "situation": "The people who once occupied her world are now occupied themselves. She is sent to train their rebels in the methods she used against them.",
+   "inside": "She notes every irony and keeps it to herself. She is good at this, she is needed, and their self-pity makes her skin crawl.",
+   "outside": "She wears an unfamiliar uniform, gives blunt instruction, and when one of them complains she tells him exactly what his people taught her.",
+   "formula": "(Distrust + Disgust + Pride) × Calm",
+   "base": [
+    "distrust",
+    "disgust",
+    "pride"
+   ],
+   "missing": [],
+   "modifier": "calm",
+   "intensity": 2,
+   "color": "#37474F",
+   "for_ai": "(Distrust + Disgust + Pride) × Calm\nFeels, at the same time: Distrust (Not believing in others' intentions); Disgust (Boundary enforcement, rejection); Pride (Fear's most successful mask; self-expansion).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "Deep Space Nine: When It Rains…",
+   "weight": 2
+  },
+  {
+   "id": "odo-hiding-that-he-loves-a-friend",
+   "character": "Odo",
+   "moment": "hiding that he loves a friend",
+   "situation": "Trapped with a colleague he believes is dying, he finally tells her what he has concealed for years. It is a deception; she never heard it, and he lets it stay that way.",
+   "inside": "He is certain she could not want someone like him, and the friendship is the one thing he has. Saying it once, even to no one, has changed nothing and everything.",
+   "outside": "He is gruff and exact as ever. He deflects her question about what happened with a remark about work.",
+   "formula": "(Love + Longing + Fear) × Calm",
+   "base": [
+    "love",
+    "longing",
+    "fear"
+   ],
+   "missing": [],
+   "modifier": "calm",
+   "intensity": 2,
+   "color": "#E91E8C",
+   "for_ai": "(Love + Longing + Fear) × Calm\nFeels, at the same time: Love (Attachment pull; focus on what you have); Longing (Desire for something absent; bridge between Love and Grief); Fear (Exposure to unknown × self-preservation; default state).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "Deep Space Nine: Heart of Stone",
+   "weight": 2
+  },
+  {
+   "id": "odo-finding-his-own-people-and-learning-what-they-are",
+   "character": "Odo",
+   "moment": "finding his own people and learning what they are",
+   "situation": "He has wondered all his life where he came from. He finds his kind at last, is welcomed home, and learns they are the rulers of the tyranny his friends are fighting.",
+   "inside": "It is everything he wanted, offered by people who do what he has spent his life opposing. He belongs with them and cannot stay.",
+   "outside": "He stands apart from the others and tells them their order is not justice. He leaves with the outsiders.",
+   "formula": "(Longing + Disgust + Grief)",
+   "base": [
+    "longing",
+    "disgust",
+    "grief"
+   ],
+   "missing": [],
+   "intensity": 3,
+   "color": "#7B1FA2",
+   "for_ai": "(Longing + Disgust + Grief)\nFeels, at the same time: Longing (Desire for something absent; bridge between Love and Grief); Disgust (Boundary enforcement, rejection); Grief (Love trapped in loss; backward-facing).\nIntensity: overwhelming: it runs the character.",
+   "where": "Deep Space Nine: The Search",
+   "weight": 3
+  },
+  {
+   "id": "odo-stripped-of-what-he-is-as-a-punishment",
+   "character": "Odo",
+   "moment": "stripped of what he is as a punishment",
+   "situation": "He killed one of his own kind to save others. His people judge him and take away his nature, leaving him fixed in an ordinary body.",
+   "inside": "He accepts the verdict as just and is bereft. Hunger, tiredness and a heartbeat all tell him, every minute, what he no longer is.",
+   "outside": "He goes back to work immediately and waves off sympathy. He handles a glass of water as if it were strange.",
+   "formula": "(Shame + Grief + Fear) × Pride",
+   "base": [
+    "shame",
+    "grief",
+    "fear"
+   ],
+   "missing": [],
+   "modifier": "pride",
+   "intensity": 3,
+   "color": "#4A148C",
+   "for_ai": "(Shame + Grief + Fear) × Pride\nFeels, at the same time: Shame (I AM wrong; self-collapse); Grief (Love trapped in loss; backward-facing); Fear (Exposure to unknown × self-preservation; default state).\nIt comes out as Pride (Fear's most successful mask; self-expansion): this is what others see the character do.\nIntensity: overwhelming: it runs the character.",
+   "where": "Deep Space Nine: Broken Link",
+   "weight": 2
+  },
+  {
+   "id": "odo-lost-in-belonging-while-his-friends-are-counting-on-him",
+   "character": "Odo",
+   "moment": "lost in belonging while his friends are counting on him",
+   "situation": "During an occupation one of his own people offers him the communion he has always been denied. He is supposed to be helping a sabotage plan at that hour.",
+   "inside": "For once nothing is missing. His friends, their plan and the war all seem small and far away, and he cannot make himself mind.",
+   "outside": "He misses the appointed moment and a comrade is arrested. Confronted, he is serene, and says it simply does not matter.",
+   "formula": "(Joy + Longing − Guilt − Love) × Calm",
+   "base": [
+    "joy",
+    "longing"
+   ],
+   "missing": [
+    "guilt",
+    "love"
+   ],
+   "modifier": "calm",
+   "intensity": 3,
+   "color": "#FFD600",
+   "for_ai": "(Joy + Longing − Guilt − Love) × Calm\nFeels, at the same time: Joy (Present-tense positive state); Longing (Desire for something absent; bridge between Love and Grief).\nMissing or held down, though the situation calls for it: Guilt (I DID wrong; Love trapped in violation awareness); Love (Attachment pull; focus on what you have).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: overwhelming: it runs the character.",
+   "where": "Deep Space Nine: Behind the Lines",
+   "weight": 3
+  },
+  {
+   "id": "elim-garak-an-exile-making-conversation-as-though-he-had-nothing-to-hide",
+   "character": "Elim Garak",
+   "moment": "an exile making conversation as though he had nothing to hide",
+   "situation": "A former intelligence officer lives as the only one of his people on a foreign station, keeping a tailor's shop. He introduces himself to a young doctor at lunch.",
+   "inside": "He is lonely, bored and watching everything. Every pleasantry is also a test of what the other person will believe.",
+   "outside": "He is delighted by everything, compliments the food, lays a hand on the doctor's shoulder, and denies being a spy in a way meant to be disbelieved.",
+   "formula": "(Curiosity + Distrust + Longing) × Joy",
+   "base": [
+    "curiosity",
+    "distrust",
+    "longing"
+   ],
+   "missing": [],
+   "modifier": "joy",
+   "intensity": 2,
+   "color": "#26C6DA",
+   "for_ai": "(Curiosity + Distrust + Longing) × Joy\nFeels, at the same time: Curiosity (Active pursuit of the unknown (not Wonder)); Distrust (Not believing in others' intentions); Longing (Desire for something absent; bridge between Love and Grief).\nIt comes out as Joy (Present-tense positive state): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "Deep Space Nine: Past Prologue",
+   "weight": 2
+  },
+  {
+   "id": "elim-garak-when-the-device-that-made-exile-bearable-fails",
+   "character": "Elim Garak",
+   "moment": "when the device that made exile bearable fails",
+   "situation": "An implant built to help him resist torture has been running for years to dull his banishment. It is breaking down and taking him with it.",
+   "inside": "He despises the place, the cold, the smiling, and most of all his need. He wants to confess and cannot tell even one true story about himself.",
+   "outside": "He rages at the doctor trying to help, smashes his quarters, and gives three contradictory accounts of his own disgrace.",
+   "formula": "(Longing + Shame + Rage)",
+   "base": [
+    "longing",
+    "shame",
+    "rage"
+   ],
+   "missing": [],
+   "intensity": 3,
+   "color": "#7B1FA2",
+   "for_ai": "(Longing + Shame + Rage)\nFeels, at the same time: Longing (Desire for something absent; bridge between Love and Grief); Shame (I AM wrong; self-collapse); Rage (Reactive force; present-tense).\nIntensity: overwhelming: it runs the character.",
+   "where": "Deep Space Nine: The Wire",
+   "weight": 3
+  },
+  {
+   "id": "elim-garak-at-the-deathbed-of-a-father-who-never-acknowledged-him",
+   "character": "Elim Garak",
+   "moment": "at the deathbed of a father who never acknowledged him",
+   "situation": "He finds his old master dying in a prison camp, blind and wandering in his mind. All he wants is to hear, once, that he is the man's son.",
+   "inside": "He has been useful, feared and discarded by this man. He will take a scrap, and has to ask for it.",
+   "outside": "He sits close, answers the dying man's delusions gently, and asks his question quietly. Afterwards he remarks that there is nothing to keep him now.",
+   "formula": "(Longing + Grief) × Calm",
+   "base": [
+    "longing",
+    "grief"
+   ],
+   "missing": [],
+   "modifier": "calm",
+   "intensity": 2,
+   "color": "#7B1FA2",
+   "for_ai": "(Longing + Grief) × Calm\nFeels, at the same time: Longing (Desire for something absent; bridge between Love and Grief); Grief (Love trapped in loss; backward-facing).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "Deep Space Nine: In Purgatory's Shadow",
+   "weight": 3
+  },
+  {
+   "id": "elim-garak-forcing-himself-through-the-thing-he-fears-most",
+   "character": "Elim Garak",
+   "moment": "forcing himself through the thing he fears most",
+   "situation": "The prisoners' only way out depends on him working for hours inside a wall cavity. He has severe claustrophobia, and nobody else knows the equipment.",
+   "inside": "The panic is physical and he is mortified by it. A man who made others afraid is being beaten by a small dark space.",
+   "outside": "He jokes going in, comes out grey and shaking, talks to himself to keep working. He apologises for the display and climbs back inside.",
+   "formula": "(Fear + Shame) × Pride",
+   "base": [
+    "fear",
+    "shame"
+   ],
+   "missing": [],
+   "modifier": "pride",
+   "intensity": 3,
+   "color": "#1565C0",
+   "for_ai": "(Fear + Shame) × Pride\nFeels, at the same time: Fear (Exposure to unknown × self-preservation; default state); Shame (I AM wrong; self-collapse).\nIt comes out as Pride (Fear's most successful mask; self-expansion): this is what others see the character do.\nIntensity: overwhelming: it runs the character.",
+   "where": "Deep Space Nine: By Inferno's Light",
+   "weight": 2
+  },
+  {
+   "id": "elim-garak-coming-home-at-last-to-find-it-in-ruins",
+   "character": "Elim Garak",
+   "moment": "coming home at last to find it in ruins",
+   "situation": "His exile ends because his world has been devastated. He is finally allowed back, to cities levelled and hundreds of millions dead.",
+   "inside": "He wanted this more than anything and got it in the one form that is worthless. He loved the place, knows what it did, and thinks perhaps it earned this.",
+   "outside": "He says it flatly, with the old irony gone thin. He tells his friend they are unlikely to meet again, and thanks him.",
+   "formula": "(Grief + Despair + Love − Joy)",
+   "base": [
+    "grief",
+    "despair",
+    "love"
+   ],
+   "missing": [
+    "joy"
+   ],
+   "intensity": 3,
+   "color": "#37474F",
+   "for_ai": "(Grief + Despair + Love − Joy)\nFeels, at the same time: Grief (Love trapped in loss; backward-facing); Despair (Fear that outruns the evidence; certainty of a bad outcome); Love (Attachment pull; focus on what you have).\nMissing or held down, though the situation calls for it: Joy (Present-tense positive state).\nIntensity: overwhelming: it runs the character.",
+   "where": "Deep Space Nine: What You Leave Behind",
+   "weight": 3
+  },
+  {
+   "id": "kathryn-janeway-after-stranding-her-crew-far-from-home-by-her-own-decision",
+   "character": "Kathryn Janeway",
+   "moment": "after stranding her crew far from home by her own decision",
+   "situation": "She could have used a device to send her ship home. She destroyed it to protect a defenceless people, and the journey back will now take a lifetime.",
+   "inside": "She believes it was right and that everyone aboard is paying for her belief. She cannot afford to let them see her wonder.",
+   "outside": "She addresses the combined crew in a steady voice, sets a course for home, and gives the order as if it were routine.",
+   "formula": "(Guilt + Fear) × Calm",
+   "base": [
+    "guilt",
+    "fear"
+   ],
+   "missing": [],
+   "modifier": "calm",
+   "intensity": 2,
+   "color": "#6A1B9A",
+   "for_ai": "(Guilt + Fear) × Calm\nFeels, at the same time: Guilt (I DID wrong; Love trapped in violation awareness); Fear (Exposure to unknown × self-preservation; default state).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "Voyager: Caretaker",
+   "weight": 3
+  },
+  {
+   "id": "kathryn-janeway-proposing-an-alliance-with-a-monstrous-enemy-against-a-worse-one",
+   "character": "Kathryn Janeway",
+   "moment": "proposing an alliance with a monstrous enemy against a worse one",
+   "situation": "Her route home crosses the territory of an enemy that absorbs whole peoples, now itself losing a war. She decides to offer them a weapon in exchange for passage.",
+   "inside": "She is frightened and will not turn back. Her first officer thinks it is a mistake, and she needs him to agree more than she will admit.",
+   "outside": "She argues hard, overrules him, and tells him she is alone in this. She walks onto the enemy vessel to negotiate in person.",
+   "formula": "(Fear + Distrust + Ambition) × Pride",
+   "base": [
+    "fear",
+    "distrust",
+    "ambition"
+   ],
+   "missing": [],
+   "modifier": "pride",
+   "intensity": 2,
+   "color": "#1565C0",
+   "for_ai": "(Fear + Distrust + Ambition) × Pride\nFeels, at the same time: Fear (Exposure to unknown × self-preservation; default state); Distrust (Not believing in others' intentions); Ambition (Active pursuit of gain: money, rank, advantage; focus on what you could get).\nIt comes out as Pride (Fear's most successful mask; self-expansion): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "Voyager: Scorpion",
+   "weight": 2
+  },
+  {
+   "id": "kathryn-janeway-withdrawn-from-her-crew-in-a-long-empty-stretch",
+   "character": "Kathryn Janeway",
+   "moment": "withdrawn from her crew in a long empty stretch",
+   "situation": "The ship is crossing a region with no stars for two years. With nothing to do, she has shut herself in her quarters for weeks.",
+   "inside": "There is at last time to think, and all she thinks about is the decision that put them here. She has concluded that she should pay for it alone.",
+   "outside": "She sits in the dark, sends back meals, answers the door without turning round. Given a way to atone by staying behind, she takes it too quickly.",
+   "formula": "(Guilt + Despair − Hope)",
+   "base": [
+    "guilt",
+    "despair"
+   ],
+   "missing": [
+    "hope"
+   ],
+   "intensity": 3,
+   "color": "#6A1B9A",
+   "for_ai": "(Guilt + Despair − Hope)\nFeels, at the same time: Guilt (I DID wrong; Love trapped in violation awareness); Despair (Fear that outruns the evidence; certainty of a bad outcome).\nMissing or held down, though the situation calls for it: Hope (Love that outruns the evidence; belief in a good outcome).\nIntensity: overwhelming: it runs the character.",
+   "where": "Voyager: Night",
+   "weight": 3
+  },
+  {
+   "id": "kathryn-janeway-hunting-a-fellow-captain-who-betrayed-what-they-both-swore-to",
+   "character": "Kathryn Janeway",
+   "moment": "hunting a fellow captain who betrayed what they both swore to",
+   "situation": "Another stranded ship from her own service has been killing living creatures for fuel to get home faster. Its captain escapes, and she goes after him.",
+   "inside": "He did what she has refused to do every day for five years. If he is not stopped and judged, her own restraint was for nothing.",
+   "outside": "She relieves her first officer for objecting, threatens a prisoner with death to make him talk, and does not sleep.",
+   "formula": "(Rage + Disgust + Guilt) × Pride",
+   "base": [
+    "rage",
+    "disgust",
+    "guilt"
+   ],
+   "missing": [],
+   "modifier": "pride",
+   "intensity": 3,
+   "color": "#B71C1C",
+   "for_ai": "(Rage + Disgust + Guilt) × Pride\nFeels, at the same time: Rage (Reactive force; present-tense); Disgust (Boundary enforcement, rejection); Guilt (I DID wrong; Love trapped in violation awareness).\nIt comes out as Pride (Fear's most successful mask; self-expansion): this is what others see the character do.\nIntensity: overwhelming: it runs the character.",
+   "where": "Voyager: Equinox",
+   "weight": 3
+  },
+  {
+   "id": "seven-of-nine-cut-off-from-the-collective-mind-she-has-always-lived-in",
+   "character": "Seven of Nine",
+   "moment": "cut off from the collective mind she has always lived in",
+   "situation": "Taken as a small child into a shared consciousness, she has been severed from it against her will. Her body is rejecting its implants and she is confined.",
+   "inside": "The silence in her head is unbearable. She has never been one person, does not want to be, and the people who did this call it a rescue.",
+   "outside": "She demands to be returned, throws herself at a force field, and tells the captain she is no better than those she condemns. Then she sits in a corner, shaking.",
+   "formula": "(Fear + Rage + Longing)",
+   "base": [
+    "fear",
+    "rage",
+    "longing"
+   ],
+   "missing": [],
+   "intensity": 3,
+   "color": "#1565C0",
+   "for_ai": "(Fear + Rage + Longing)\nFeels, at the same time: Fear (Exposure to unknown × self-preservation; default state); Rage (Reactive force; present-tense); Longing (Desire for something absent; bridge between Love and Grief).\nIntensity: overwhelming: it runs the character.",
+   "where": "Voyager: The Gift",
+   "weight": 3
+  },
+  {
+   "id": "seven-of-nine-when-a-buried-childhood-memory-comes-back",
+   "character": "Seven of Nine",
+   "moment": "when a buried childhood memory comes back",
+   "situation": "A signal draws her across space to the wreck of the ship where she was taken as a six-year-old. She begins to remember hiding while her parents were seized.",
+   "inside": "She has had no past and no fear for twenty years, and both return at once in a child's size. She does not know what to call the feeling.",
+   "outside": "She flees the ship, speaks in the voice of her old self, then stands in the wreck and says quietly whose ship it was.",
+   "formula": "(Fear + Grief + Confusion)",
+   "base": [
+    "fear",
+    "grief",
+    "confusion"
+   ],
+   "missing": [],
+   "intensity": 3,
+   "color": "#1565C0",
+   "for_ai": "(Fear + Grief + Confusion)\nFeels, at the same time: Fear (Exposure to unknown × self-preservation; default state); Grief (Love trapped in loss; backward-facing); Confusion (Epistemic zero-vector; Soul-Mind disconnection).\nIntensity: overwhelming: it runs the character.",
+   "where": "Voyager: The Raven",
+   "weight": 2
+  },
+  {
+   "id": "seven-of-nine-left-entirely-alone-for-the-first-time",
+   "character": "Seven of Nine",
+   "moment": "left entirely alone for the first time",
+   "situation": "The crew must sleep through a month-long crossing that would kill them awake. She alone can stay up to run the ship, with only a hologram for company.",
+   "inside": "She insisted she did not need them. As the weeks go on she hears voices and sees things, and the one fact she cannot argue with is that she is afraid of being alone.",
+   "outside": "She keeps exact routines and corrects the hologram sharply. Near the end she is talking to people who are not there; afterwards she chooses to sit with the crew at a meal.",
+   "formula": "(Fear + Longing) × Pride",
+   "base": [
+    "fear",
+    "longing"
+   ],
+   "missing": [],
+   "modifier": "pride",
+   "intensity": 3,
+   "color": "#1565C0",
+   "for_ai": "(Fear + Longing) × Pride\nFeels, at the same time: Fear (Exposure to unknown × self-preservation; default state); Longing (Desire for something absent; bridge between Love and Grief).\nIt comes out as Pride (Fear's most successful mask; self-expansion): this is what others see the character do.\nIntensity: overwhelming: it runs the character.",
+   "where": "Voyager: One",
+   "weight": 2
+  },
+  {
+   "id": "seven-of-nine-when-someone-offers-to-risk-his-life-for-hers",
+   "character": "Seven of Nine",
+   "moment": "when someone offers to risk his life for hers",
+   "situation": "A vital implant is failing and she is dying. A boy she has mentored proposes to give her his own, at real danger to himself.",
+   "inside": "She has always been the one who is self-sufficient and who looks after others. Being cared for at that price feels like a debt she has no right to accept.",
+   "outside": "She refuses, lists rational objections, tries to leave the ship. When it is over and she is well, she finds her eyes are wet and reports it as a malfunction.",
+   "formula": "(Fear + Love + Shame) × Calm",
+   "base": [
+    "fear",
+    "love",
+    "shame"
+   ],
+   "missing": [],
+   "modifier": "calm",
+   "intensity": 2,
+   "color": "#1565C0",
+   "for_ai": "(Fear + Love + Shame) × Calm\nFeels, at the same time: Fear (Exposure to unknown × self-preservation; default state); Love (Attachment pull; focus on what you have); Shame (I AM wrong; self-collapse).\nIt comes out as Calm (Settled; nothing pulling. The baseline the other states disturb): this is what others see the character do.\nIntensity: plain to see.",
+   "where": "Voyager: Imperfection",
+   "weight": 2
+  }
+ ]
+}

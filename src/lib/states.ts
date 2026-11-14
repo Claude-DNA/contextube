@@ -1,10 +1,11 @@
 /**
- * The state library: characters from literature caught at one moment, each as a formula of feelings
+ * The state library: characters from literature and screen caught at one moment, each as a formula of feelings
  * with what it is like from inside and what others see. Writers borrow a state for a character of
  * their own; Context Cloud Studio offers them in its formula panel.
  * Data lives in src/data/states/<work>.json, one file per work.
  */
 import karamazov from "@/data/states/the-brothers-karamazov.json";
+import starTrek from "@/data/states/star-trek.json";
 
 export type CharacterState = {
   id: string;
@@ -32,7 +33,7 @@ export type CharacterState = {
 
 export type StateWork = { slug: string; title: string; author: string; source: string; source_url: string; states: CharacterState[] };
 
-export const STATE_WORKS: StateWork[] = [karamazov as StateWork];
+export const STATE_WORKS: StateWork[] = [karamazov as StateWork, starTrek as StateWork];
 
 export type StateEntry = CharacterState & { work: string; work_slug: string; author: string };
 
